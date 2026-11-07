@@ -1,7 +1,8 @@
 # Eddie (Edward)
 
-- TrainHeroic athlete id: 2615164
+- TrainHeroic athlete id: 2615164, program id: 4414542 (program "Edward Yourkevych", team "Coach Soboleva")
   Calendar: https://coachapp.trainheroic.com/athlete/2615164/YYYY/MM
+- Weeks on file: 2026-10-25 (first Claude-built week), 2026-11-08. Earlier sessions (Aug–Oct 15) were Nataly's own, often two sessions per day.
 - Platform: TrainHeroic (individual programming, Nataly publishes manually)
 - Trains 4–5x/week, sessions 1:30–1:45 including metcon.
   Log in Oct 2026 showed 2–3 sessions/week actually completed.
@@ -18,7 +19,7 @@
 
 | Movement | Known |
 |---|---|
-| Back squat | banded 75 kg × 4, then 77.5 × 3 (Oct 18). Max single at RPE 9 planned Nov 8, jumps 100/105/110/115 suggested |
+| Back squat | banded 75 kg × 4, then 77.5 × 3 (Oct 25). Max single at RPE 9 planned Nov 8, jumps 100/105/110/115 suggested |
 | Front squat | 90 × 2; working sets 82.5 × 3 (Oct), 85 × 3 (Nov) |
 | Clean & jerk | 75 × 3; 65–80 × 2 (Oct); 2 squat cleans + 1 split jerk @ 65–70 (Nov) |
 | Clean pull | 90 |
@@ -45,7 +46,7 @@
   Practice format she chose (Nov): 1 toes-to-rings + 1 RMU × 2, 5 sets. If he
   chicken-wings or legs fly, next minute drops to 1 clean rep.
 - **HSW: cannot walk on hands.** Give drills and attempts towards the wall, not free
-  HSW. Her HSW drill circuit (Nov 9), keep reusing:
+  HSW. Her HSW drill circuit (Mon Nov 9, 2026), keep reusing:
   1. Kick Up to Leg Touch, 4×4, rest 1:00–1:30. Hebrew cue: compression, push hard
      from the hands, lower to the floor under control.
   2. Jumping Toe Taps, 4×4, rest 1:00–1:30. Video: https://youtu.be/JhkxeI2-Ecc?t=558
@@ -76,10 +77,13 @@
 - Kick Up to Leg Touch (created Nov 7)
 - Jumping Toe Taps (created Nov 7, video attached at 9:08)
 
+## Language
+
+Notes to Eddie default to Hebrew. Short technical notes (rest times, tempo, "@ RPE 7",
+"EMOM 5") can stay in English, that is how Nataly writes them. (Nataly, 2026-11-07)
+
 ## Open questions
 
-- Language of athlete-facing notes: Nataly writes cues in Hebrew, Claude's notes were
-  in English. Ask which she wants as default.
 - Level for free HSW progression: when does he move from towards-the-wall to free attempts?
 
 ## Recent results

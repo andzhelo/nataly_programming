@@ -1,35 +1,34 @@
-# Tools (planned)
+# Tools
 
-## Why no API key is needed
+All scripts run with the repo's venv: `.venv/bin/python tools/<script>`. First time on a
+machine: `./setup.sh`, then `tools/th_login.py` (Nataly logs in once; the session is kept
+in `~/.nataly_programming/th-profile`, no password is ever stored by us).
 
-TrainHeroic has no public API, but the coach web app is itself a client of
-TrainHeroic's backend. When Nataly is logged in, her browser holds a session
-(cookies / bearer token) and every click in the coach app becomes an HTTP request
-authenticated by that session. That session is the "key". Claude's current chat
-already works this way: it drives her logged-in browser.
+| Script | What it does |
+|---|---|
+| `th_login.py` | One-time login in the uploader's own browser profile. |
+| `upload_week.py <week-file> [--dry-run] [--replace] [--only DATE]` | Creates the week's sessions in TrainHeroic, UNPUBLISHED, then reads them back and verifies. Refuses unknown exercise names. Never touches published sessions. |
+| `download_week.py <athlete> <sunday> [-o file]` | Writes a week file from what is in TrainHeroic. |
+| `delete_week.py <athlete> <sunday>` | Deletes UNPUBLISHED sessions of that week (asks for confirmation). |
+| `weekfile.py <week-file> [--json]` | Parses and summarises a week file (format check). |
+| `th_record.py [name]` | Opens the profile browser and records traffic to `recordings/*.har` for reverse-engineering. HARs contain session tokens: gitignored, never share. |
+| `th_api.py` | The API client. `aliases.json`: Nataly's shorthand -> library exercise names. |
 
-The uploader will do the same thing, two possible ways:
+Timing: TrainHeroic answers in ~3 s per call; a 4-day week uploads in about 3 minutes
+(days run in parallel).
 
-1. **Playwright UI replay** (default, robust): a script opens a persistent Chrome
-   profile where Nataly logged in once, and fills the coach app's forms from a
-   week file. Same actions Claude does by hand today, but in seconds and
-   deterministic.
-2. **Direct internal API** (faster, if simple): record the requests the coach app
-   sends while adding one exercise, then have the script send the same requests
-   with the session token. Unsupported by TrainHeroic and may break on their
-   updates, so (1) stays as fallback.
+## How auth works
 
-Both leave sessions UNPUBLISHED. Nataly publishes.
+The coach web app sends `session-token: <app-Session cookie>` and `api-token: DISABLED`
+on every call. `th_api.get_token()` reads that cookie from the browser profile and caches
+it in `~/.nataly_programming/session-token`. If calls start failing with 401, run
+`th_login.py` again.
 
-## Planned scripts
+## API notes (unofficial, observed 2026-11-07)
 
-- `upload_week.py <week-file>` — parses `athletes/<name>/weeks/<date>.md`, creates
-  the sessions in TrainHeroic unpublished, reads them back and diffs against the
-  file.
-- `read_logs.py <athlete> <from-date>` — pulls logged loads/notes into
-  `profile.md` "Recent results".
-
-## Status
-
-Not built yet. Next step: one recording session with Nataly's TrainHeroic login
-in Chrome on this Mac (see the main conversation).
+- Set types: 4 = exercise list, 5 = plain text (warm-up, metcon).
+- Param types: 3 reps, 4 time mm:ss, 1 weight lb, 19 weight kg, 2 weight %, 24 rep range, 14 RPE, 18 seconds.
+- Creating an exercise with a kg load in one request converts it to lb. Create with reps
+  only, then update the same record with kg (two calls). `th_api.add_exercises` does this.
+- `calendar/edit/{athlete}/{y}/{m}/{d}` returns roughly the surrounding 6 weeks.
+- Not yet reverse-engineered: reading Eddie's logged results (loads/notes he enters).

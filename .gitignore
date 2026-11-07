@@ -1,0 +1,4 @@
+.venv/
+*.har
+recordings/
+__pycache__/

@@ -1,41 +1,45 @@
 # Week file format
 
-File: `athletes/<name>/weeks/YYYY-MM-DD.md` (Sunday the week starts).
+One file per athlete-week: `athletes/<name>/weeks/YYYY-MM-DD.md` (the Sunday the
+week starts). `tools/upload_week.py` turns it into TrainHeroic sessions and
+`tools/download_week.py` writes one from TrainHeroic, so the format round-trips.
 
 ```
 ---
 athlete: eddie
+athlete_id: 2615164
+program_id: 4414542
 week_start: 2026-11-08
-status: draft | approved | uploaded | published
-days: [Sun, Mon, Wed, Thu]
+status: draft            # draft | approved | uploaded | published
 ---
 
-## Sun 08 Nov — <focus>
+## Sun 08 Nov — Squat + RMU          <- "## <Dow> <day> <Mon> — <session title>"
 
-### A. Warm-up (~10 min)
-2 rounds: ...
+### A. Warm up                        <- a block = one TrainHeroic set, letters in order
+2 rounds:                             <- no "- " lines => plain-text block (type 5)
+250 m Row
+10 Scap Pull-ups
 
-### B. <Block name>
-<prescription line, Nataly's notation>
-Notes: <cues; Hebrew kept verbatim>
-Load: <kg or RPE/RIR>
-
-### C. Metcon — <format>
-...
-TC: <minutes>
-
-### D. Accessories
-...
+### B. Strength                       <- has "- " lines => exercise block (type 4)
+Both in 2.5 kg steps.                 <- lines before the first "- " = block instruction
+- Back Squat: 5 x 3 @ 77.5 kg         <- "- <Library name>: <sets> x <reps> [@ <loads> kg|%]"
+  rest 2:00                           <- indented lines = exercise notes (Hebrew welcome)
+  שים לב לעומק
+- High Hang Squat Snatch: 5 x 3 @ 40, 40, 42.5, 45, 45 kg
+- Copenhagen Plank: 3 x 0:20          <- m:ss reps = time
+- Toes to Bar: 5 x 10
+  EMOM 5: 10 T2B unbroken
+- Strict Press: 3 x 8
+  @ 2RIR, rest 2:00                   <- RPE / RIR go in notes, not in the load field
 ```
 
-Notation (as Nataly writes it; keep it):
-- `Every 1:30 x 5: 3 reps` — interval sets
-- `EMOM 6: 8 butterfly pull-ups`
-- `3 sets of 8 reps @2RIR`, `@RPE7`, `@75%`
-- `AMRAP 12`, `5 RFT`, `21-15-9`, `For time`, `TC: 24`
-- `rest 1:00-1:30`
-- Abbrev: RMU, BMU, HSW, HSPU, T2B, C2B, OHS, DU, PU, C&J, DL, RDL, RFT.
-
-One block = one TrainHeroic exercise/circuit. The uploader maps `###` blocks to
-TrainHeroic blocks in order; the prescription line goes to sets/reps/load fields
-where it parses, and the rest goes into the exercise notes verbatim.
+Rules
+- Exercise names must exist in Nataly's TrainHeroic library (case-insensitive) or in
+  `tools/aliases.json` (her shorthand -> library name). The uploader refuses to run
+  with an unknown name and prints the closest library matches.
+- Reps may be one number (`5 x 3`) or a list per set (`4 x 5, 5, 3, 3`). Loads likewise.
+  Loads are kg or %, nothing else goes in the load field.
+- Barbell loads in 2.5 kg steps (see `gym.md`).
+- Notes to the athlete default to Hebrew. Short technical notes (rest times, tempo,
+  "@ RPE 7") may stay in English; that is how Nataly writes them.
+- Everything uploads UNPUBLISHED. Nataly publishes in the coach app.
