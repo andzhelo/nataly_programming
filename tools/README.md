@@ -12,6 +12,7 @@ in `~/.nataly_programming/th-profile`, no password is ever stored by us).
 | `delete_week.py <athlete> <sunday>` | Deletes UNPUBLISHED sessions of that week (asks for confirmation). |
 | `weekfile.py <week-file> [--json]` | Parses and summarises a week file (format check). |
 | `th_record.py [name]` | Opens the profile browser and records traffic to `recordings/*.har` for reverse-engineering. HARs contain session tokens: gitignored, never share. |
+| `publish_sinergy.py <week-file> [--dry-run] [--publish] [--only DATE] [--track NAME]` | Posts a week (athlete or track file) to Sinergy's `week-publish` function. Login from `SINERGY_LOGIN`/`SINERGY_PASSWORD` or a prompt; target from `SINERGY_URL`/`SINERGY_ANON_KEY` (default: the hosted project). |
 | `th_api.py` | The API client. `aliases.json`: Nataly's shorthand -> library exercise names. |
 
 Timing: TrainHeroic answers in ~3 s per call; a 4-day week uploads in about 3 minutes

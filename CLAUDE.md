@@ -4,7 +4,19 @@ Nataly writes weekly programming for individual athletes and groups. Programs ar
 delivered through TrainHeroic (coach app) or SugarWOD. This repo is the source of
 truth: athlete profiles, gym constraints, and every week ever written.
 
-Scope right now: Eddie only.
+Scope right now: Eddie (TrainHeroic) and the Rx Club group track (Sinergy).
+
+## Tracks (group programming → Sinergy)
+
+- `tracks/<track>/weeks/YYYY-MM-DD.md` — one file per week, same format as athlete weeks with
+  `track:` instead of `athlete:` in the frontmatter. `tracks/rx-club/weeks/` holds every Rx Club
+  week since 2019, written from the SugarWOD export (plain-text blocks, exactly as Nataly wrote
+  them; status `published`). New weeks are drafted here the same way as athlete weeks.
+- Publish a week into Sinergy with `.venv/bin/python tools/publish_sinergy.py <week-file>`
+  (UNPUBLISHED in Sinergy until Nataly presses Publish in the console; `--publish` to do it at
+  once, `--dry-run` to only parse). Repeating a week updates the same days in place.
+- Loads for a group are written `@ 42.5/30 kg` (men/women) inside the text; Sinergy's reader
+  understands that. Exercise blocks (`- Name: S x R @ load`) become structured rows.
 
 ## Layout
 

@@ -43,3 +43,19 @@ Rules
 - Notes to the athlete default to Hebrew. Short technical notes (rest times, tempo,
   "@ RPE 7") may stay in English; that is how Nataly writes them.
 - Everything uploads UNPUBLISHED. Nataly publishes in the coach app.
+
+## Track weeks (Sinergy)
+
+`tracks/<track>/weeks/YYYY-MM-DD.md` uses the same body. Frontmatter:
+
+```
+---
+track: rx-club
+week_start: 2026-11-15
+status: draft            # draft | approved | published (in Sinergy)
+---
+```
+
+Group loads go in the text as `42.5/30 kg` (men/women). Plain-text blocks are fine for metcons
+and warm-ups; Sinergy reads them and keeps the text as written. `tools/publish_sinergy.py`
+sends the file.
