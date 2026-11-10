@@ -1,0 +1,297 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-12-15",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "Fg4fHwAe7y",
+   "date": "2024-12-15",
+   "display_order": 1734073649827,
+   "title": "Snatch",
+   "description": "Snatch\n3x3 @ 60-70% // RPE 6\nRest 2-3 Minutes Between Sets.\nNOTES:\n- Focus on your technique even though the weight is light this week!",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "0v7qmGu3pt",
+   "date": "2024-12-15",
+   "display_order": 1734073652393.5,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n3x3 @95-100%  RPE 8\nRest 1:30 Between Sets.\nNOTES:\n- Aim to have a :03 lowering on each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "4HVRaJ1obO",
+   "date": "2024-12-15",
+   "display_order": 1734073653676.75,
+   "title": "Back Squat",
+   "description": "Back Squat\n3x3 @ 60-70% // RPE 6\nRest 2-3 Minutes Between Sets.\n\nNOTES:\n- If you have been on the program for the last few weeks, today should be a welcome deload! Focus on making each rep technically perfect and stick to the percentages/RPE.\n- If you have not been on the program, today will be light, and we will get into some heavier reps next week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "8J10fGjsOO",
+   "date": "2024-12-15",
+   "display_order": 1734073654960,
+   "title": "METCON",
+   "description": "6 x 3 minutes on, 1 min off\nAmrap 1:\n- 50' Burpee Broad Jump\n- 20 Kettlebell Swings @ 53/35 lbs\n- Max Cal Machine in remaining time\n\nAmrap 2\n- 20/17 Cal Machine\n- 20 Alt Hang DB Snatches\n- Max distance burpee broad jumps",
+   "score_type": "Reps",
+   "movement_ids": [
+    "wtGIcPY6Aw",
+    "c94XVoGakB",
+    "vXkMU7wdwO",
+    "QCUOoOtogo",
+    "Hcl7kgiTPB",
+    "V5Jo3Ik2Jm"
+   ]
+  },
+  {
+   "id": "prL3mWTEjJ",
+   "date": "2024-12-15",
+   "display_order": 1734073654961,
+   "title": "EXTRA / ACCESSORY",
+   "description": "2 Sets:\n15/15 Single Leg Glute Bridge *\n20 Goblet Lunge @ 35/25lbs\nRest 1:00 Between Sets.\n\nNOTES:\n* Do these glut bridges unweighted with a one-second pause at the top of each rep. Focus on squeezing your glutes as hard as possible during the one-second pause.\n- This piece should not be very difficult; it is intended to keep the lower body firing during deload week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "fQG7uhGbq8",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "I1GNALjn6P",
+   "date": "2024-12-16",
+   "display_order": 1734073669382.5,
+   "title": "Push Press",
+   "description": "Push Press\n3x3 @ 60-70 %  RPE 6\nRest 1-2 Minutes Between Sets.\n\nNOTES:\n- These should feel easy!\n- Always reset in the front rack; do not go with touch-and-go reps at the shoulder",
+   "score_type": "Load",
+   "movement_ids": [
+    "FrQGIrNfi8"
+   ]
+  },
+  {
+   "id": "W4ITQWCnNL",
+   "date": "2024-12-16",
+   "display_order": 1734073671949.75,
+   "title": "Strict Press",
+   "description": "Strict Press\n3x10 @ 40-50 %\nRest 1 Minute Between Sets.\n\nNOTES:\n- Like the push press, these should feel easy, but you will get a pump.\n- Perform each rep with control, no bouncing off the chest.",
+   "score_type": "Load",
+   "movement_ids": [
+    "FrQGIrNfi8",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "NkvDPCC6Lp",
+   "date": "2024-12-16",
+   "display_order": 1734073674517,
+   "title": "METCON",
+   "description": "Amrap 12 minutes\n12 Box Jumps @ 24/20\",  Step down\n12 T2B\n12 Forward Lunges @ 95/65 lbs",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "Gl19kiplpb",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "2hUpkTus7K",
+   "date": "2024-12-16",
+   "display_order": 1734073674518,
+   "title": "CARDIO INTERVALS.",
+   "description": "CARDIO INTERVALS.\nEvery 2:00 x 20:00... (10 Sets)\n1: 1:15 Max Cal Fan Bike\n2: 1:15 Max Cal Row\n\nNOTES:\n- With only :45 of rest on each set, choose your pace carefully. This whole piece should feel like an RPE 8.\n- The first 4-5 sets should feel well under your threshold pace.",
+   "score_type": "Load",
+   "movement_ids": [
+    "i4LHh82X5R",
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "G1NpM8vmgh",
+   "date": "2024-12-16",
+   "display_order": 1734073674519,
+   "title": "EXTRA / ACCESSORY",
+   "description": "Single Arm Dumbbell Upright Row\n3x15/15\nRest 1:00\n\nNOTES\n- Use a light weight that allows you to focus on moving the weight with your lats.\n\nBarbell Curl\n2x25\nRest 1:00 Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "lSoSVrKJhT",
+   "date": "2024-12-17",
+   "display_order": 1734073689868.5,
+   "title": "Clean & Jerk",
+   "description": "Clean & Jerk\n3x(3+1) @ 65-75 %\nRest 2 Minutes Between Sets.\n\nNOTES:\n- Aim to make each rep technically perfect.\n- Take your time between reps and reset for each clean.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "eAh5gmWetb",
+   "date": "2024-12-17",
+   "display_order": 1734073692376.25,
+   "title": "Clean Pull",
+   "description": "Clean Pull\n3x3 @ 90-100% RPE 8\nRest 1:30 Between Sets.\n\nNOTES:\n- Aim to have a :03 lowering on each rep.\nNo glute ham raise or sumo deadlift this week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "r3CNRMSi8j",
+    "wFWr2DCiIH"
+   ]
+  },
+  {
+   "id": "WAeBsQ7YW0",
+   "date": "2024-12-17",
+   "display_order": 1734073694884,
+   "title": "METCON",
+   "description": "21.1 Open Workout\n\nFor Time:\n21 DB Snatches R\n21 Lateral Burpees Over DB\n21 DB Snatches L\n21 Lateral Burpees Over DB\n15 DB Snatches R\n15 Lateral Burpees Over DB\n15 DB Snatches L\n15 Lateral Burpees Over DB\n9 DB Snatches R\n9 Lateral Burpees Over DB\n9 DB Snatches L\n9 Lateral Burpees Over DB\n\n@22,5/15\n\nTC: 15",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "vXkMU7wdwO",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "mIY4EdUYoQ",
+   "date": "2024-12-17",
+   "display_order": 1734073694885,
+   "title": "Accessory",
+   "description": "2 Sets:\n1:00 Sorenson Hold (Bodyweight)\n:20/:20 Copenhagen Plank\nRest 2:00 Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "6d8m64oQh2",
+   "date": "2024-12-17",
+   "display_order": 1734073694886,
+   "title": "Erg Bike:",
+   "description": "Erg Bike Intervals:\n\nWARM-UP.\n3:00 @ Easy Spin\n+\n2 Sets:\n200m @ Easy\n200m @ Faster\n400m @ Hard Effort\nMAIN SET.\n4000 m\nRest 1:30\n600 m\nRest :45\n600 m\nRest :45\n1500 m\nRest 1:30\n400 m\nRest :45\n400m\nNOTES:\n- The 4000m and 1500m efforts should be moderate/ RPE 7 efforts and the 600m and 400m efforts should be done at the fastest pace you can handle!\n- If you are using a PM5 monitor, use this link to set your monitor and track on\n ErgData: https:// workout.ergdata.com/shared/ahtujama",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "itzBtNZV5N",
+   "date": "2024-12-19",
+   "display_order": 1734073709576.5,
+   "title": "Dumbbell Incline Bench",
+   "description": "Dumbbell Incline Bench\n3 Sets:\n:45 Max Reps Bench ** // RPE 7-8\nRest 1:30 Between Sets.\nNOTES:\n- We are adding :05 this week for the last time.\n- Perform these with a @ 2020 tempo (i.e. :02 down, no pause at the bottom, :02 up, no pause at the top).\n- Don't game the :45, perform controlled reps for the forty-five seconds.\n- Use a load that feels like an RPE 7 at the start of\nthese sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "sOvd7nXhLC"
+   ]
+  },
+  {
+   "id": "VJtXfUXGxo",
+   "date": "2024-12-19",
+   "display_order": 1734073711642.25,
+   "title": "Strict Pull-Up",
+   "description": "Strict Pull-Up\n\nOPTION A:\n\nBanded Strict Pull-Up\n3x20, Unbroken\nNOTES:\n- This option is for those who either have strict pull-ups but are not ready to load them, or for people who do not have strict pull-ups and will need to use a band.\n- Use as little band tension as possible. If 20 reps is too easy, you may take each set to failure.\n----\n\nOPTION B:\n\nWeighted Strict Pull-Up\n6x4 @ 5RM Weight.\nRest 1:00 Between Sets.\nNOTES:\n- Max sure that you perform each rep as explosively as possible.\n- If you did not do the 5RM, aim for a load that feels like an RPE 8-9.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "qOaNxegCkn",
+   "date": "2024-12-19",
+   "display_order": 1734073713708,
+   "title": "METCON",
+   "description": "10-9-8-7-6-5-4-3-2-1\nDeadlifts @ 225/155 lbs\n30 Double Unders\nRing Dips",
+   "score_type": "",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "h9vPo5JYw6",
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "BW0TQh1iPI",
+   "date": "2024-12-19",
+   "display_order": 1734073713709,
+   "title": "Banded Tricep Pushdown",
+   "description": "Banded Tricep Pushdown\n- Accumulate 100 reps in as few sets as possible.\n\nNOTES:\n- Perform every rep with intention and control.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "Ky01pSUfd0",
+   "date": "2024-12-19",
+   "display_order": 1734073713710,
+   "title": "Fan Bike Intervals",
+   "description": "Fan Bike Intervals.\n\n4 Sets:\n2:00 On...\n16/12 Cal @ Hard Pace\nHold 80% of HARD Pace For Remaining Time.\nRest 1:00 Between Sets.\n\nNOTES:\n- The \"hard pace\" should be 85% of what would be a true sprint.\nFAN BIKE",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "SNmlhVJQFI",
+   "date": "2024-12-21",
+   "display_order": 1,
+   "title": "Power Snatch",
+   "description": "Power Snatch\n5x3 @ 65-70%\nRest 1:30 Between Sets.\nNOTES:\n- These are not meant to be touch-and-go sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "zljA4yf1LX",
+   "date": "2024-12-21",
+   "display_order": 2,
+   "title": "Front Squat",
+   "description": "Front Squat\n3x3 @75%\nRest 1-2 Minutes Between Sets.\nNOTES:\n- Focus on perfect positions today, specifically keeping your torso upright with your hips under you.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "WXS9EgJMP9",
+   "date": "2024-12-21",
+   "display_order": 3,
+   "title": "Conditioning",
+   "description": "EMOM 28\n1: 15/12 Cal Row\n2: 14/11 Cal Ski\n3: 14/11 Cal Fan Bike\n4: 15 Wall Ball @ 20/14lbs\nNOTES:\n- The row, ski, and fan bike should be completed in :45 or less, scale accordingly.\n- Aim to go unbroken on the wall balls.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "9ikRXPXECL",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "OZbFH6mAJL",
+   "date": "2024-12-21",
+   "display_order": 4,
+   "title": "EXTRA / ACCESSORY",
+   "description": "A) D-Ball / Sandbag Bear Hug Hold or Carry 3x100ft or :30\nRest 1:00 Between Sets.\n\nNOTES:\n- Use the heaviest d-ball / sandbag that you can maintain for unbroken sets.\n\nB) Dumbbell Hammer Curl\n2x25\nRest :30 Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  }
+ ]
+}

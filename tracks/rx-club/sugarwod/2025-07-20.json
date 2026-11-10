@@ -1,0 +1,262 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-07-20",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "fBjivzU8s1",
+   "date": "2025-07-20",
+   "display_order": 0,
+   "title": "Clean Complex",
+   "description": "A) Squat Clean + Split Jerk + Squat Clean + Front Squat + Split Jerk\n2x(1+2+1+2+1) @ 75% // RPE 8\n2x(1+1+1+1+1) @80% // RPE 9\n+\n\nB) **OPTIONAL**\nSquat Clean + Split Jerk\n1-3x(1+1) @ Weight of Choice\n\nNOTES:\n- Rest at least 1:30 between sets.\n- Reset the bar at the ground for each clean and collect yourself for the set-up at the shoulders before each jerk.\n- Only perform the optional singles if you feel GREAT and are moving well. These can be at any weight, so long as you are performing quality reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "xNWOvMIzPY"
+   ]
+  },
+  {
+   "id": "w7DFA3lVpu",
+   "date": "2025-07-20",
+   "display_order": 0.5,
+   "title": "Back Squat",
+   "description": "EMOM 6\n3 Back Squat @ 66 -71% // RPE 8\n\nNOTES:\n- Use a weight that will allow you to keep each set unbroken and consistent in your movement.\n- If you have been following the program, the goal is to add weight from what was used two weeks ago.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "tKRcVHXBTh",
+   "date": "2025-07-20",
+   "display_order": 1,
+   "title": "Metcon:",
+   "description": "For Time:\n21-15-9-6-3\nHandstand Push-Up\nFront Squat @70/47.5kg\nBar Facing Burpee\n\nNOTES:\n- Starting the week off with a bang with a metcon paying homage to a CrossFit Regionals event from\n2014. This piece is all about managing the first two rounds in order to go unbroken and fast on the burpees for the last few rounds.\n- If you don't have kipping handstand push-ups down, move to dumbbell push press or normal push-ups for today.\n- The front squat should feel moderate in loading. If you would struggle for ten reps unbroken when fresh, scale back the weight.\n- Use the burpees to govern your pace. If you feel great, cycle the reps quickly, but if you are hitting your redline, start slowing the rep cadence down.",
+   "score_type": "Load",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "aFBc9gedzu",
+    "umWlFaYtSo",
+    "h9vPo5JYw6",
+    "FrQGIrNfi8",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "YFIfAUlfNn",
+   "date": "2025-07-20",
+   "display_order": 1.5,
+   "title": "Extra/ Accessory:",
+   "description": "A) Single Arm Overhead Dumbbell Tricep Extension\n4x10/10 @ RPE 6\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Be conservative with your weight selection and aim to stay very controlled in your movement.\n \nB) Single Arm Dumbbell Bent Over Row\n4x8/8 @ RPE 8\nNOTES:\n- Rest at least 1:00 between sets.\n- Avoid kipping these reps with your torso. Try to keep the movement concentrated in your shoulders, delts, and lats.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "wBpo5Em2nG",
+   "date": "2025-07-20",
+   "display_order": 2,
+   "title": "Zone 2",
+   "description": "Working @ Zone 2 Pace..\n10:00 Row\n10:00 Run (or Ski)\n10:00 Fan Bike\n8:00 Row\n8:00 Run (or Ski)\n8:00 Fan Bike\n\n\nNOTES:\n- This should come out to 54:00 in total.\n- Despite the changing machines, aim to maintain a Zone 2 Heart Rate the entire time, regardless of what your output looks like.\n- If you don't have a heart rate monitor, aim to feel like you can hold a conversation throughout with a consistent pace.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "Q3Il49MPft",
+   "date": "2025-07-21",
+   "display_order": 1,
+   "title": "Strict Press",
+   "description": "A) Strict Press:\n- Build to a 1RM\nNOTES:\n\n- Rest at least 2:00 between all attempts heavier than 36kg.\n- If you fail an attempt more than once, move on from this session.\n- Feel free to build up in any way that suits you. Use the following sample build-up if you would like to:\n\n1x(10-15) @ Empty Barbell\n1x10 @ RPE 4-5\n1x5 @ RPE 5\n1x4 @ RPE 6\n1x3 @ RPE 7\n1x2 @ RPE 8\n4-5 x 1 @ RPE 9+",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "wyVzCpcEOX",
+   "date": "2025-07-21",
+   "display_order": 2,
+   "title": "Split Jerk",
+   "description": "B) EMOM 6:\n2 Split Jerk @55-60% // RPE 6*\n\nNOTES:\n* On the first rep, pause in the dip and the receiving position for :02 each.\n- Use this session to work technique. The weight should feel very manageable.\n- Use jerk blocks or be sure to reset the bar at the shoulders between reps. Avoid doing \"touch-and-go\"\nreps at the shoulders.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "VkmcRrRQFN",
+    "xNWOvMIzPY"
+   ]
+  },
+  {
+   "id": "KtH7Hm9vff",
+   "date": "2025-07-21",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "For Time:\n30 Clean & Jerk @  52/35kg\n10 Ring Muscle-Up\n10 Bar Muscle-Up\n10 Burpee Pull-Up\n30 Snatch @  52/35kg\n\nNOTES:\n- This workout is a spin-off of \"The Standard\" from the\n2019 CrossFit Games. Though the weights and gymnastics work are modified here, the idea is the same: you have to pace yourself if you're going to get through this as quickly as you can! Aim to move at a threshold effort, i.e. the hardest sustainable pace for each section.\n- The weight should be on the line of something you might cycle for touch-and-go sets or go with singles from the start. Decide which path you want to take before starting, including how you want to finish, and try to hold yourself to this!",
+   "score_type": "Load",
+   "movement_ids": [
+    "c94XVoGakB",
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X",
+    "V8IKIUyIbF",
+    "iSu93oACwo",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "TcXl21oqXH",
+   "date": "2025-07-21",
+   "display_order": 4,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Z-Press\n3x8 @ RPE 8\n\nNOTES:\n- Rest at least 1:00 between sets.\n- This load should challenge you, but it should not be maximal. Use the same weight for all three sets.\n\nB) Tabata Z-Press\n@ 50% of Above Weight\n\nNOTES:\n- \"Tabata\" = 8 Sets of :20 Work / :10 Rest (4:00 total)\n- Expect fatigue to hit quickly as you work through these sets. It is okay if the amount of reps you can complete in :20 decreases.\nーーー\n\nC) Dumbbell Fly\n4x12 @ RPE 6\nNOTES:\n- Rest at least 1:00 between sets.\n- Aim to be very controlled in the descent of each rep.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "QNTivDex4j",
+   "date": "2025-07-21",
+   "display_order": 5,
+   "title": "Fan Bike",
+   "description": "Every 2:00 x 12:00... (6 Sets):\n20/16 Cal Fan Bike\n\nNOTES:\n- Each set should give you at least 1:00 to rest, so scale back the calories if needed.\n- Go hard at each set for a sprint effort. It is okay if drop-off happens with your split times.",
+   "score_type": "",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "5IUmuhcccU",
+   "date": "2025-07-22",
+   "display_order": 1,
+   "title": "Deadlift",
+   "description": "4 Sets:\n6 Deadlift @ 80 %// RPE8\n6 Straight Leg Box Jump\n\nNOTES:\n- Rest at least 2:00 between sets.\n- Keep control if you choose to hang on to the bar for touch-and-go reps. Avoid bouncing the bar to gain\nmomentum.\n- Move straight from the deadlifts into the box jumps.\nUse any box height that will allow you to complete each rep with a straight-legged landing.\n- Step down from the box on each rep.\n- This is purposely the same session as two weeks ago.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "2BjylBRo8w",
+   "date": "2025-07-22",
+   "display_order": 2,
+   "title": "Jumping Lunge ( MUST DO !!! )",
+   "description": "EMOM 5:\n:30 Jumping Lunge\n\nNOTES:\n- The goal is to work the entire time on the jumping lunges. Scale this by shortening the range of motion if needed and keeping your knee off the ground.\n- Aim to keep each rep explosive.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "sZOLntZRGl",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "fzn4qvkCCT",
+   "date": "2025-07-22",
+   "display_order": 2.5,
+   "title": "Skill",
+   "description": "Skill Practice.\n\nEMOM 16:\n1: 60 Double Under\n2: :30 Core Movement *\n\n* For the core movement, choose any of the following you would like to work on:\n- Toes to Bar\n- GHD Sit-Up\n- V-Up\n- Knees to Elbow\n- AbMat Sit-Up\n\nNOTES:\n- If you don't have double-unders, move to :30 of practice each time.\n- Pick ONE of the movements from the above list to work on for either a set amount of unbroken reps each time OR for :30 each time.",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "W0sgwCp72D",
+   "date": "2025-07-22",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "\"Acid Bath\"\nPRIMER.\nWorking @ RPE 5-6...\n2:00 Ski\n2:00 Row\n2:00 C2 Bike\n+\nWorking @ Target Pace\n100m Ski\n100m Row\n200m C2 Bike\n+\nRest 3-5:00\n----\nMAIN SET.\nFor Time:\n500m Ski\n500m Row\n1000m C2 Bike\nCOOL DOWN\n5:00 Walk or Erg of Choice @ Recovery Pace.\n\nNOTES:\n- This workout has become a staple test for many since it first appeared in the Dubai Fitness Championship in 2018. Whether you are a beginner or an expert when it comes to the ergs, this workout can sting!\n- Expect this workout to be slightly faster than a 2K\nrow time trial would be. Pace accordingly, aiming for faster than your 2K pace if possible on the middle row. Once you get to the final bike, try to empty the tank!\n- Once you get to the cool down, use it to get your breath and heart rate under control.",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "1m5Z5wmyA0",
+    "h9vPo5JYw6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "HG4nW9pcin",
+   "date": "2025-07-22",
+   "display_order": 4,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Seated Hamstring Curl\n4x15 @ RPE 7\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Use a band that challenges you but still allows for unbroken sets each time.\n\nB) Reverse Hyper On GHD\n4x12 \n\nNOTES:\n- Rest at least 1:00 between sets.\n- If you don't have access to a reverse hyper, go with 4x12 GHD Back Extension instead.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "MUVkyVyDo8",
+   "date": "2025-07-24",
+   "display_order": 1.5,
+   "title": "Snatch Complex",
+   "description": "High Hang Squat Snatch + Squat Snatch + Overhead\nSquat:\n\n3x(1+1+2) @ 80-85 % // RPE 8\n3x(1+1+1) @ 85 - 90% // RPE 8.5\n\nNOTES:\n- Rest at least 1:30 between sets.\n- Drop the bar and reset after the hang snatch. This should not be a \"touch-and-go\" complex.\n- Go off the RPE numbers if your hang snatch capacity is significantly lower than your snatch from the floor.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "UhG64DabxX",
+   "date": "2025-07-24",
+   "display_order": 2,
+   "title": "Front Squat",
+   "description": "Front Squat\n5x3 @ 77 % // RPE 8\n\nNOTES:\n- Rest at least 1:30 between sets.\n- The goal is that these sets feel challenging, but that each rep is still consistent. Go off the RPE guide and adjust the weight to be lower if your technique starts breaking down by the third rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "R1lPyv0Okz",
+   "date": "2025-07-24",
+   "display_order": 2.5,
+   "title": "Metcon",
+   "description": "2-2-2-3 Minutes On / 1:00 Off*:\n2 Rope Climb @ 15ft\n10/7 Cal Ski\nIn Remaining Time, Max Rep Overhead Squat@  60/42.5kg\n* Go until the end of the 3:00 working period or until\n\n75 Overhead Squat reps are complete.\n\n\nאם אתם עושים את זה עם הקבוצה - תעשו בדיוק כמו שהם עושים עם מנחה של 2 דקות!!!\n\nNOTES:\n- This piece will be 2:00 of working time for the first three sets, then 3:00 of working time for the fourth set (if needed). Always rest for 1:00 between sets. If you complete 75 Overhead Squats, the time on the clock, including the rest, should be your score.\n- Check out the Substitutions & Scaling Guide in\nCircle if you do not have rope climbs or if your space doesn't allow for Rope Climbs: https://hwpo-\ntraining.circle.so/c/resources-842857/substitutions-\nscaling\n- The ski should be a controlled, aggressive effort each time. Try to be just under a complete sprint, especially on the first set.\n- For the overhead squats, scale back the weight if you would not be able to cycle for at least fifteen unbroken reps when fresh.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "50I5upgDJb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "QC9aKoEjp8",
+   "date": "2025-07-24",
+   "display_order": 3,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) EZ Bar Curl\n4x10 @ RPE 8\nNOTES:\n- Rest at least 1:00 between sets.\n- Use a weight that challenges these reps but still allows for all movement to be concentrated at the elbows.\n----\n\n\nB) EMOM 12\n1: :30 Hollow Hold\n2: 6-10 Ab Wheel Roll Out\n3: :30 Banded Deadbug\n4:15 V-Up\n\nNOTES:\n- The goal is that each movement is completed unbroken, so adjust the work if needed.\n- Use a thin band for the deadbug and focus on keeping the lower back pressed into the ground.\n- Bend the knees on the hollow holds and v-ups if you need to modify the work to make it easier.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "1cZx24hUB0",
+    "h9vPo5JYw6",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "TKiJ5pMzBP",
+   "date": "2025-07-24",
+   "display_order": 1753159497127,
+   "title": "Conditioning",
+   "description": "Every 6:00 × 30:00... (5 Sets)\nEMOM 3\n200/180m Row @2 k pace/500m or faster\n+\n400m Run @ Recovery Pace\n---\nNOTES:\n- Each set is an EMOM 3 + 400m Run. As soon as the 3:00 is up for the EMOM, begin on your 400m recovery run. After your run, rest until the 6:00\ninterval is up.\n- Try to start with 2 k pace/500m for the first EMOM. If this feels comfortable, try to increase the pace each set after that.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  }
+ ]
+}

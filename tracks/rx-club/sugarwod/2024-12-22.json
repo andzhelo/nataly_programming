@@ -1,0 +1,282 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-12-22",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "sUi8ZFNNUQ",
+   "date": "2024-12-22",
+   "display_order": 1734709093748,
+   "title": "Squat Snatch",
+   "description": "Squat Snatch:\nEMOM 9\n3x1 @ 70% -75% // RPE 7\n3x1 @ 75-80% // RPE 7\n3x1 @ 80-85%  // RPE 8\n\nNOTES:\n- There is a total of 9 reps in today's snatch work.\nOne rep on each minute. You will complete three singles at each weight before moving on.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "B65kVIcrY3",
+   "date": "2024-12-22",
+   "display_order": 1734709096590.5,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n3x3 @100% // RPE 8\nRest 1:30 Between Sets.\nNOTES:\n- Aim to have a :03 lowering on each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "18ozyd2Tlk",
+   "date": "2024-12-22",
+   "display_order": 1734709098011.75,
+   "title": "Back Squat",
+   "description": "Back Squat\n5x1 @ 90% + // RPE 9\nRest 2-3 Minutes Between Sets.\nNOTES:\n- Today is not a max-out day, but do feel free to go beyond the prescribed percentage if you're feeling good.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "QojoGGE9Ka",
+   "date": "2024-12-22",
+   "display_order": 1734709099433,
+   "title": "METCON",
+   "description": "Amrap 20\n2, 4, 6, 8, etc \nPower Snatch 95/65 lbs\nBurpee Pull ups\n150 m Run",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "iJ12u1ewPw",
+   "date": "2024-12-22",
+   "display_order": 1734709099434,
+   "title": "Extra/ Accessory:",
+   "description": "3 Sets:\n20 Goblet Squat // RPE 8\n20 Kettlebell Swing\nRest 1:00 Between Sets.\nNOTES:\n- You can use separate kettlebells for each movement. You should be able to go heavier on the\ngoblet squat.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "ohoGWyu4Ex",
+   "date": "2024-12-23",
+   "display_order": 1734709110795,
+   "title": "METCON",
+   "description": "\"Fran\"\n\nFor Time:\n21-15-9\nThrusters @42,5/30 kg\nPull ups\n\nTC: 10",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "EZJqTVj90Z",
+   "date": "2024-12-23",
+   "display_order": 1734709110796,
+   "title": "Push Press",
+   "description": "Push Press\n5x1 @ 87-92% // RPE 9\n\nNOTES:\n- These should feel very challenging, but do not push to a max effort.\n- Always reset in the front rack; do not go with touch-and-go reps at the shoulder.",
+   "score_type": "Load",
+   "movement_ids": [
+    "FrQGIrNfi8"
+   ]
+  },
+  {
+   "id": "Um29HIeZse",
+   "date": "2024-12-23",
+   "display_order": 1734709110797,
+   "title": "Strict Press",
+   "description": "Strict Press\nTake 10 minutes to build to a 2RM. // RPE 9 בבקשה אל תגיעו לכשל\n+\n1 x Max Reps @ 90% of 2RM\nNOTES:\n- Do not bounce the bar off your collarbones.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "7qHfClB2dw",
+   "date": "2024-12-23",
+   "display_order": 1734709110798,
+   "title": "Extra/ Accessory:",
+   "description": "A) Single Arm Dumbbell Bent Over Row\n3x(15/15)\nRest 1:00\n\nNOTES\n- Use the heaviest weight you can while maintaining your technique.\n\nB) Dumbbell Bicep Curl\n3x8/8\nRest 1:00 Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "VHuve3cJp4",
+   "date": "2024-12-23",
+   "display_order": 1734709110799,
+   "title": "Extra/ Accessory:",
+   "description": "ROWING INTERVALS.\n7 Sets:\n1:15 @ Fast\n2:00 @ Slow and Steady!\nNo Rest Between Sets.\n\nNOTES:\n- This progression began with :45 of rest between sets and 1:00 on the fast progressions. Now, this week you have :15 more on the fast intervals.\n- Start on the conservative end of the fast minute and build only if you feel good. The slow intervals should be consistent but the pace is less important than maintaining good technique and staying consistent from round to round.\n- If you are using a PM5 monitor, use this link to set your monitor and track on \nErgData: https:// workout.ergdata.com/shared/nqcjzqa7",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "ggQ8RGQz8X",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "8zhKTFyJD2",
+   "date": "2024-12-25",
+   "display_order": 1734709138146,
+   "title": "Clean & Jerk",
+   "description": "Clean & Jerk\n3x(3+1) @ 75-85% \nRest 2:00 Between Sets\n\nNOTES:\n- Aim to make each rep technically perfect.\n- Take your time between reps and reset for each clean.\nNo clean pulls this week. We are transitioning into a new block within this phase.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "SChtXBbBOP",
+   "date": "2024-12-25",
+   "display_order": 1734709138146.5,
+   "title": "Gymnastics",
+   "description": "Every 2:30 x 5:\n15/12 Cal Erg Bike\n30 DU\nMax reps C2B PU till the end of 2:00",
+   "score_type": "Reps",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "1m5Z5wmyA0"
+   ]
+  },
+  {
+   "id": "BTWXxUWjmr",
+   "date": "2024-12-25",
+   "display_order": 1734709138147,
+   "title": "METCON",
+   "description": "“12 Days of Christmas”\n\n1 Wall Walk \n2 BMU / C2B/ Pull ups\n3 Dumbbell Thrusters @22,5/15 kg (alternate arms each set )\n4 Alt Dumbbell Power Snatches @22,5/15\n5 Push ups\n6 Dumbbell OH Lunges @22,5/15\n7 Box Jumps @ 24/20” \n8 Dumbbell Push Press @22,5/15\n9 Burpees\n10 Wall Balls\n11 Toes to Bar / V-Ups\n12 Single Arm DB Devil's Presses @22,5/15\n\n@ 50/35 lbs x 1",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "icVC8QCKdy",
+   "date": "2024-12-25",
+   "display_order": 1734709138148,
+   "title": "GHD Back Extension",
+   "description": "GHD Back Extension:\n- Accumulate 50 reps in as few sets as possible.\n\nNOTES:\n- Do not try to do a huge set at the expense of form.\nEach rep should be deliberate and controlled.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "rDZsaUjEN3",
+   "date": "2024-12-26",
+   "display_order": 1734709156541.5,
+   "title": "Strict Pull-Up",
+   "description": "Strict Pull-Up\n\nOPTION A.\n\nAccumulate 60 reps in as few sets as possible\nNOTES:\n- This option is for those who either have strict pull-ups but are not ready to load them, or for people who do not have strict pull-ups and will need to use a band.\n- If you are using a band, use as little band tension as possible.\n\nOPTION B.\n\nWeighted Strict Pull-Up\n\n6x5 @ 5RM Weight.\nRest 1:00 Between Sets.\nNOTES:\n- Max sure that you perform each rep as explosively as possible.\n- If you did not do the 5RM, aim for a load that feels like an RPE 8+.",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "bv5U1rjyWO",
+   "date": "2024-12-26",
+   "display_order": 1734709156541.75,
+   "title": "METCON",
+   "description": "7 rounds for time\n5 Lateral Burpee over Bar\n10 Hang Power Clean @ 95/65 lbs\n30 Double Unders",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "sVEWrvK8o2",
+   "date": "2024-12-26",
+   "display_order": 1734709156542,
+   "title": "Close Grip Bench Press",
+   "description": "Close Grip Bench Press\n3 Sets:\n:30 Max Reps Bench // RPE 7-8\nRest 1:30 Between Sets.",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "Alx92kxWxK",
+   "date": "2024-12-26",
+   "display_order": 1734709156543,
+   "title": "Dumbbell Rolling Tricep Extension",
+   "description": "Dumbbell Rolling Tricep Extension\n4x25 // RPE 6\nRest 1-2 Minutes Between Sets.\n\nNOTES:\n- Use a weight that feels like RPE 6 on the first set.\nYour reps should fall off over the four sets.\n\nhttps://youtube.com/shorts/Mq9eoGIiCSU?si=oNZbH3FTbpj_jiHM",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "ZqObC6Kwgh",
+   "date": "2024-12-26",
+   "display_order": 1734709156544,
+   "title": "\"Death By Fan Bike Calories\"",
+   "description": "\"Death By Fan Bike Calories\"\nEMOM, Until Failure\n8/6 Cal Fan Bike (+1) *\n* Add 1 calorie each minute until failure to reach the prescribed calories in the minute.\n\n\nבהצלחה!",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "E6zHqFJ9UY",
+   "date": "2024-12-27",
+   "display_order": 1,
+   "title": "Running Intervals.",
+   "description": "Running Intervals.\nWARM-UP.\n5:00 Run @ Easy, Warm-Up Pace\n+\nRest as needed.\n\nMAIN SET.\n1000m @ 90% effort\n+\nRest 2:00\n+\n3 Sets:\n----\n600m @ 90% effort\nRest 1:00\n300m @90% effort\n----\nRest :30 Between Sets.\n\nCOOL DOWN.\n400m Easy Jog\nNOTES:\n- The focus of this workout is to run at your mile pace.\nIf you need extra rest to hold your mile pace, take it.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "U30IxNrYEO",
+   "date": "2024-12-28",
+   "display_order": 1,
+   "title": "WARM UP",
+   "description": "3:00 Spin Bike\n+\n3x\n10/10 Single Leg Kettlebell Deadlift\n10 Overhead Squat (w/ Empty Barbell)\n:30 Hollow Hold",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "1cZx24hUB0",
+    "QCUOoOtogo",
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "8geyUctVjD",
+   "date": "2024-12-28",
+   "display_order": 2,
+   "title": "Power Clean + Power Jerk",
+   "description": "Power Clean + Power Jerk\n5x(3+1) @65-75%\nRest 1:30 Between Sets.\nNOTES:\n- These are not meant to be touch-and-go sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX"
+   ]
+  },
+  {
+   "id": "J3kb5hecYf",
+   "date": "2024-12-28",
+   "display_order": 3,
+   "title": "Front Squat",
+   "description": "Front Squat\n5x1 @ 90%+\nRest 1-2 Minutes Between Sets.\nNOTES:\n- Today is not intended as max-out day, but feel free to go beyond the prescribed percentage if you're feeling good.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "aGMPT5WocC",
+   "date": "2024-12-28",
+   "display_order": 4,
+   "title": "Conditioning",
+   "description": "EMOM 40\n1: 15/12 Cal Row\n2: 5-10 Strict Handstand Push-Up\n3: 14/11 Cal Fan Bike\n4: 10 Overhead Squat @50/35 kg\nNOTES:\n- The row and fan bike should be completed in :45 or less, scale accordingly.\n- Aim to go unbroken on the handstand push-ups and overhead squats.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "XavuhsO1R0",
+    "9iu4RgWSgi",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "fv2k75dCNf",
+   "date": "2024-12-28",
+   "display_order": 5,
+   "title": "Accesory",
+   "description": "A) D-Ball / Sandbag Bear Hug Hold\n- Accumulate 5:00 in as few sets as possible @\n150/100lbs\n\nB) Dumbbell Hammer Curl\n3x25\nRest :30-1:00 Between Sets.",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  }
+ ]
+}

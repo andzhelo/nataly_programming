@@ -1,0 +1,335 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-06-30",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "pt7xIisilk",
+   "date": "2024-06-30",
+   "display_order": 1719675270460.5,
+   "title": "Crossover Single Unders",
+   "description": "3 Sets:\n50-100 Crossover Single Unders\nRest 1:30 Between Sets.",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "bJj17J4soG",
+   "date": "2024-06-30",
+   "display_order": 1719675270460.75,
+   "title": "Back Squat",
+   "description": "Back Squat\n1x5 @ Add your Personal Record below // RPE 6\n1x5 @ Add your Personal Record below // RPE 7.5\n1x3 @ Add your Personal Record below // RPE 8\n1x2 @ Add your Personal Record below // RPE 8.5\n1x1 @\nAdd your Personal Record below // RPE 9\n1x1 @ Add your Personal Record below // RPE 10\nRest as needed between sets.\nNOTES:\n- Rest at least 2:00 between sets today.\n- If you are moving well and feel strong you may go beyond Add your Personal Record below. Today is the day to strike if the iron is hot!",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "P32pHjaAuT",
+   "date": "2024-06-30",
+   "display_order": 1719675270460.875,
+   "title": "Front Squat",
+   "description": "Front Squat\n1x4 @ Add your Personal Record below // RPE 6\n1x3 @ Add your Personal Record below // RPE 6.5\n1x2 @ Add your Personal Record below // RPE 7.5\n1x1 @ Add your Personal Record below // RPE 8\nRest 2:00 Between Sets.\nNOTES:\n- If you went for it on the back squats and they took a lot out of you, skip the front squats today.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "D5TsXeUpXv",
+   "date": "2024-06-30",
+   "display_order": 1719675270462,
+   "title": "METCON",
+   "description": "4 rounds for Time\n15 Front Squats @ 75/55 lbs\n15 TTB\n15/12 Cal Machine",
+   "score_type": "",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "1idg2NvU41",
+   "date": "2024-06-30",
+   "display_order": 1719675270462.5,
+   "title": "Rowing Intervals:",
+   "description": "Rowing Intervals:\n1000m\n800m\n600m\n400m\n200m\n*Rest 1/2 of Work Time\nNOTES:\n- Start around Add your Personal Record below/ 500m and try to speed up on each set.\n- If you are using a PM5 monitor, use this link to set your monitor and track on ErgData: \nhttps:// workout.ergdata.com/shared/ptzkcryv",
+   "score_type": "Load",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "kBla23qlSJ",
+   "date": "2024-06-30",
+   "display_order": 1719675270463.5,
+   "title": "Core",
+   "description": "EMOM 16\n1: :30 Hollow Hold\n2: 15 V-Ups\n3: 15 Side Plank Hip Touch (Left Side)\n4: 15 Side Plank Hip Touch (Right Side)",
+   "score_type": "Load",
+   "movement_ids": [
+    "1cZx24hUB0",
+    "8AUAYBnHEW",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "sd5CCmsluI",
+   "date": "2024-07-01",
+   "display_order": 1719675277957,
+   "title": "Strict Press",
+   "description": "Strict Press\n6x3 @ Add your Personal Record below - Add your Personal Record below / RPE 7\nRest 2:00 Between Sets.\nNOTES:\n- One more rep this week.\n- Use the same weight as last week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "Z81CvROCUo",
+   "date": "2024-07-01",
+   "display_order": 1719675277957.5,
+   "title": "Seated Arnold Press",
+   "description": "Seated Arnold Press\n3x15 / RPE 8\nRest 1:00 Between Sets.\nNOTES:\n- Push the weight while maintaining good technique.\n\nhttps://youtu.be/R-RTgOxrj88?si=JvvC68W338ugUWyR",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "cGZIjYBeXB",
+   "date": "2024-07-01",
+   "display_order": 1719675277957.75,
+   "title": "Band Assisted Strict Pull-Up",
+   "description": "Band Assisted Strict Pull-Up\n6x12\nRest 1:30 - 2:00 Between Sets.\nNOTES:\n- Use a band (or bands) that allows you to do all twelve reps unbroken.\n- Try to take away some band tension. You may also decrease rest.",
+   "score_type": "Load",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "aGjDerHMmc",
+   "date": "2024-07-01",
+   "display_order": 1719675277958,
+   "title": "METCON",
+   "description": "E5MOM x 3\n800m Run\n10 Reverse lunge Wallballs 20/14lbs, As high as possible",
+   "score_type": "",
+   "movement_ids": [
+    "yJIlK7TN6q",
+    "dmbpU1OMjd",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "QKnouwcCO9",
+   "date": "2024-07-01",
+   "display_order": 1719675277958.5,
+   "title": "Accessory",
+   "description": "A) Barbell Curl\n3x10\nRest 1:00 Between Sets.\n\nB) Diamond Push-Up\n3х(15-20)\nRest 1:00 Between Sets.\n\nhttps://youtu.be/XtU2VQVuLYs?si=kxG1Cf8yRvrFialV",
+   "score_type": "Load",
+   "movement_ids": [
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "b9R2XaKq3q",
+   "date": "2024-07-01",
+   "display_order": 1719675277959.5,
+   "title": "Fan Bike",
+   "description": "3 Sets:\nTabata Fan Bike *\nRest 4:00 Between Sets.\nNOTES:\n* \"Tabata\" = 8 Sets of :20 Work, :10 Rest\n- For many people on 2.0, this is the third time you will have done this workout. If you have done this piece before, try to hold the same paces or go faster than the last time you did this.\n- Ideally, the average wattage for each Tabata increases with every set.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "kpQrK1EyHi",
+   "date": "2024-07-02",
+   "display_order": 1719675284458.5,
+   "title": "Handstand Walk Skill Work.",
+   "description": "Handstand Walk Skill Work.\nOPTION A.\nFor Time:\n15ft - 30ft- 45ft- 30ft- 15ft\nHandstand Walk\n*Rest :30 Between Each Distance.\nNOTES:\n- \"Option A\" is for those who are proficient in handstand walking and can add in some speed work.\n- Complete each set as fast as possible.\n----\nOPTION B.\n8:00 Handstand Walk Practice\nNOTES:\n- Set up a 3-5ft section on the floor, or however far you can confidently walk everytime you kick up, and get as many reps of this distance as you can in eight minutes.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "r5pboqWEba"
+   ]
+  },
+  {
+   "id": "zDHOhJQKem",
+   "date": "2024-07-02",
+   "display_order": 1719675284459.75,
+   "title": "Squat Snatch",
+   "description": "Squat Snatch *\n1x3 @ Add your Personal Record below\n1x2 @ Add your Personal Record below\n1x1 @ Add your Personal Record below\n1x3 @ Add your Personal Record below\n1x2@ Add your Personal Record below\n1x1 @ Add your Personal Record below\nRest 2:00 Between Sets.\nNOTES:\n* These should NOT be touch-and-go sets. Reset at the ground between every rep.\n- Work to have a very consistent set-up position from rep to rep.\n- Work up to RPE 8 no PRs",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "F1OS1Cb9Ya",
+   "date": "2024-07-02",
+   "display_order": 1719675284461,
+   "title": "METCON",
+   "description": "4 x 4 Minute Amrap, Rest 2\n\nAmrap 1 & 2\n- 3 Power Snatch @ 70%\n- 15 Pull ups\n\nAmrap 3 & 4\n- 6 Box Jumps @ 30/24\" \n- 15 KBS @ 70/53 lbs",
+   "score_type": "Load",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "YAFQbda0hU",
+    "QCUOoOtogo",
+    "xPOJNy56VQ",
+    "iSu93oACwo",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "4Drzre9NTT",
+   "date": "2024-07-02",
+   "display_order": 1719675284462,
+   "title": "Score for Amrap 3 & 4",
+   "description": "4 x 4 Minute Amrap, Rest 2\n\nAmrap 3 & 4\n- 6 Box Jumps @ 30/24\" \n- 15 KBS @ 70/53 lbs",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "4QVX9vCNxl",
+   "date": "2024-07-02",
+   "display_order": 1719675284463,
+   "title": "Accessory",
+   "description": "4 Sets:\n8 D-Ball / Sandbag Good Mornings @ 100/70lbs\n50ft Dumbbell Walking Lunge @ 70/50lbs\n*Rest 2:00 Between Sets.\nNOTES:\n- Use a weight that feels heavy on the lunges.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "8OZDlHAExp",
+    "Zsg2tpPwwB",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "uupVcS1MVY",
+   "date": "2024-07-03",
+   "display_order": 1,
+   "title": "Run",
+   "description": "Running Intervals:\nPRIMER.\n3:00 @ Add your Personal Record below/1000m\nRest 2:00\nMAIN SET.\n1000m @ Add your Personal Record below/100m\n400m @ Easy Pace\n600m @ Add your Personal Record below/100m\n400m @ Easy Pace\n200m @ Sprint\n400m @ Easy Pace\n400m @ Add your Personal Record below/100m\nRest 1:00\n400m @ Add your Personal Record below/100m or faster\nNOTES:\n- This is a bear of a workout, because there is no rest.\n- Run the 400m easy intervals at a pace that allows you to hold on to your faster paces, even if that means walking on the easy intervals. The focus of this workout is to be moving the whole time and still hit your fast pace intervals.",
+   "score_type": "",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "a6oyRqHIN3",
+   "date": "2024-07-04",
+   "display_order": 1719676382284,
+   "title": "Tempo Pause Squat",
+   "description": "Tempo Pause Squat\nBuild To A Heavy Set of 5 (RPE 8), 12x1 Tempo\n-then-\n3x5 @ 12x1 @ 90% of Above\n*Rest 2-3 Minutes Between Sets.\nNOTES:\n- \"12x1\" means that you will take :01 to descend, :02 at the bottom, stand fast, and :01 at the top to reset between reps.\n- Hit a weight that leaves about two reps in the tank.\nGo by feel, taking at least three sets to build to weight once you are warm.\n- Keep the pause at full depth. Stand straight up from the bottom of each rep with no bounce.\nBench Press\nBuild to a Heavy 3 @ RPE 8\n+\n2x3 @ 85% of Heavy 3\nRest 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "P5x4c6pHEi",
+   "date": "2024-07-04",
+   "display_order": 1719676382284.5,
+   "title": "Handstand Push-Up Skill Work.",
+   "description": "Handstand Push-Up Skill Work.\nWall-Supported Handstand Hold\n3 x :30\nRest 1:30 Between Sets.\n----\nStrict Handstand Push-Up Negative\n3x3 @ Slow as Possible *\nRest 1:00 Between Sets.\nNOTES:\n- Aim for :05-:10 on the negative.\n- Start at the top of the rep, perform the negative, and then kick down and back up to the top of a\nhandstand push-up to begin the next rep.\n--——\nAMRAP 5\nStrict Handstand Push-Ups @ Add your Personal\nRecord below\nNOTES:\n- Start with small sets that you know you can do. The goal is to get as many quality reps in as possible.\nEnter your score into the benchmark that is linked above.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "joL8p609bA",
+   "date": "2024-07-04",
+   "display_order": 1719676382285,
+   "title": "METCON",
+   "description": "For time\n75 Double unders\n50 DB Floor press, Glute bridge 50/35lbs x 2\n100 Double unders\n50 DB Snatch 50/35lbs x 1\n75 Double unders",
+   "score_type": "",
+   "movement_ids": [
+    "fQG7uhGbq8",
+    "h9vPo5JYw6",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "z8MUAWj6ka",
+   "date": "2024-07-04",
+   "display_order": 1719676382286,
+   "title": "Spin Bike Intervals",
+   "description": "Spin Bike Intervals\nPRIMER.\n3 Sets:\n1:00 @ Add your Personal Record below\n1:00 @ Add your Personal Record below :30 @ 90-100 RPM\n*No Rest Between Sets.\nRest as needed, then...\nMAIN SET.\n10 Sets:\n1000m @ Fast Pace / RPE 9\n*Rest 1:00 Between Sets.\nNOTES:\n- RPE 9 means that you are pushing each set as hard as you can while still being able to recover for the next. There should be no more than a :10 spread between your fastest and slowest sets.\n- Try to keep all efforts between 85-90 RPM.\n- If you are using a Bike Erg, use this link to set your monitor and track your results via ErgData: https:// workout.ergdata.com/shared/raq2izz2",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "0Dr9rm7xEE",
+   "date": "2024-07-06",
+   "display_order": 1,
+   "title": "Warm up",
+   "description": "5-10-15-10-5\nCal Row\nCal Fan Bike\nEMOM 5\n5 Romanian Deadlifts @ Empty Barbell\n3 Straight Leg Box Jumps\nThis warmup is exactly the same as last week, intentionally.",
+   "score_type": "",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "r3CNRMSi8j",
+    "9ikRXPXECL",
+    "oX0rshIcNC"
+   ]
+  },
+  {
+   "id": "LPxEYhr4uX",
+   "date": "2024-07-06",
+   "display_order": 2,
+   "title": "Power Clean + Split Jerk",
+   "description": "Power Clean + Split Jerk\n2 Waves:\n1x3+1) @ Add your Personal Record below\n1x2+1) @ Add your Personal Record below\n1x1+1) @ Add your Personal Record below\nRest 2:00 Between Sets.\nNOTES:\n- These are not meant to be touch-and-go sets.\n- Rest as needed between sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "xNWOvMIzPY"
+   ]
+  },
+  {
+   "id": "4dEgX742qu",
+   "date": "2024-07-06",
+   "display_order": 3,
+   "title": "Deadlift",
+   "description": "Deadlift\n1x10\n@ Add your Personal Record below\n1x8 @ Add your Personal Record below\n1x6 @ Add your Personal Record below\n1x5 @ Add your Personal Record below\n1x4 @ Add your Personal Record below\n4x3\nAdd your Personal Record below\nRest 2:00 Between Sets.\nNOTES:\n- These can be done touch-and-go but don't bounce the bar off the floor.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "96etLbDGC2",
+   "date": "2024-07-06",
+   "display_order": 4,
+   "title": "Metcon",
+   "description": "EMOM 40\n1: 15/12 Cal Row\n2: 10 Burpee Box Jump Over @ 24/20\"\n3: 15/12 Cal Fan Bike\n4: 5 Sandbag / D-Ball Clean @ 150/100lbs\nNOTES:\n- The row and fan bike should be completed in :45 or less on each round. Scale the prescribed calories up or down accordingly.\n- Be sure the burpee box jumps can be done sub-:40.\n- Be sure the sandbag/d-ball cleans can be done sub-:30.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "Znbyw5L9At",
+    "a7yfpJnTww",
+    "AV3ZJImwt6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "978fa2qHPH",
+   "date": "2024-07-06",
+   "display_order": 5,
+   "title": "Accessory",
+   "description": "A) Banded Hamstring Curls (Prone)\n4x20\nRest :30 Between Sets.\n----\nB) AMRAP 5, For Quality:\n30 Flutter Kicks (Total)\n:30/:30 Side Plank\nNOTES:\n- This is an AMRAP, but try to still complete each round unbroken. If you need to rest, try to only do so at the end of a round.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "8AUAYBnHEW"
+   ]
+  }
+ ]
+}

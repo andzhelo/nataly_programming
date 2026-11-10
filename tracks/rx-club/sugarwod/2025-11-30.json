@@ -1,0 +1,243 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-11-30",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "LQnAAt2eHK",
+   "date": "2025-11-30",
+   "display_order": 1764422347901,
+   "title": "Squat Clean + Split Jerk",
+   "description": "Squat Clean + Split Jerk\n3x(1+1) @75 % // RPE 7.5\n\nNOTES:\n- Rest 1:30-2:00 between sets.\n- Pulling the percentages back for the deload this week. These sets should feel very crisp and consistent!",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "M6DEogofj7",
+    "xNWOvMIzPY",
+    "vyy5Tr0N49"
+   ]
+  },
+  {
+   "id": "5Z2gyQ6GCk",
+   "date": "2025-11-30",
+   "display_order": 1764422347902,
+   "title": "Clean Pull",
+   "description": "Clean Pull:\n\nEMOM 8\nMin 1-4: 2 Reps @ 85%  // RPE 7.5\nMin 5-8: 1 Rep @88% // RPE8\n\nNOTES:\n- The doubles can be done as touch-and-go reps or reset singles. If you decided to touch-and-go, then be sure not to bounce the bar off the floor.\n- Focus on perfect body positioning off the ground, only adding in speed once you pass the knees with the barbell.\n- If you have weightlifting steps, use them!",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "NMRoVr3pHX",
+   "date": "2025-11-30",
+   "display_order": 1764422347902.5,
+   "title": "METCON",
+   "description": "30-20-10\nToes to Bar\n10-20-30 \nWall Balls @ 20/14 lbs\n\nTime Cap 13\nHard Cap 11",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "bfmjxP4nsL",
+   "date": "2025-11-30",
+   "display_order": 1764422347903,
+   "title": "ACCESSORY / EXTRA",
+   "description": "EMOM 15\n1::30-:40 Jumping Box Step-Up\n2: :30-:40 Chinese Plank (Facing Up)\n3::30-:40 Chinese Plank (Facing Down)\n\nNOTES:\n- This should be five sets through on each station.\n- For the jumping box step-ups, be sure you are using a box height that allows for constant motion. As soon as one foot hits the box, try to jump off that foot and switch legs as quickly as possible.\n- Keep as tight a body position as possible on the Chinese Planks.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "HG9zGeH997",
+   "date": "2025-11-30",
+   "display_order": 1764422347904,
+   "title": "Row Intervals",
+   "description": "Row Intervals.\n5 Sets:\n2:15 @ Easy / Recovery Pace; 22 s/m or lower\n:45 sec @ 1km Pace\n*No Rest Between Sets.\n\nErgData Link: https://workout.ergdata.com/shared/zfdmiogh\n\nNOTES:\n- Start at a very easy pace to ensure you can hold 02:00/500m each time.\n- Similar to last week, the goal for this piece is to gain more awareness of what your 1K PR pace feels like to apply it in the future. Be sure your stroke technique does not significantly change between the easy/ recovery paces and the hard :45 efforts.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "ZxYcUgJQYp",
+   "date": "2025-12-01",
+   "display_order": 1764503792911,
+   "title": "Skill",
+   "description": "6 Sets of AMRAP 1:15....\n200/180m Ski @  RPE 7-8\nMax Rep Burpee Ring Muscle-Up\n*Rest 1:15 Between Sets.\n\nNOTES:\n- Keep the skis consistent across each set.\n- If you don't have ring muscle-ups, scale to burpee bar muscle-ups or burpee pull-ups for today. Try to make each set as identical as possible. If you do this correctly, this will mean that your first few sets should feel like you have some room to push for more reps, but by the end, you are giving a total effort to match your output from set one.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "oKNW8L1ja0",
+   "date": "2025-12-01",
+   "display_order": 1764503792912,
+   "title": "Bamboo Bar Strict Press",
+   "description": "Bamboo Bar Strict Press (or Banded Kettlebell Strict Press)\n5x6 @ RPE 7-8\n\nNOTES:\n- Rest for at least 1:00 between sets.\n- Keep as much control as possible through these sets, trying to feel for your muscles stabilizing the bar on the way up and down.\n- If you don't have access to a bamboo bar, using kettlebells banded to the collars on each end of the\nbar is a great substitution for today.\n\n\nhttps://youtube.com/shorts/omFIuUFNEpw?si=DZm17HFqADyfO9S2\n\nאני מבקשת לצפות בסרטון עם מוזיקה!",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "A6tHjBe7qt",
+   "date": "2025-12-01",
+   "display_order": 1764503792913,
+   "title": "METCON",
+   "description": "EMOM 20:\n\n1: 10/8 Cal Fan Bike @ SPRINT\n2: 10/8 Cal Fan Bike @ SPRINT\n3: 10/8 Cal Fan Bike @ SPRINT\n4: 1 Round of \"Strict Cindy\" *\n5: Rest\n*1 Round of \"Strict Cindy\" = 5 Strict Pull-Up + 10 Push-Up + 15 Air Squat\n\nNOTES:\n- The goal is that each 10/8 fan bike is a sprint, with all athletes done by :30 each time, and the best athletes finishing under :20 each time. If you are easily going sub-:15, feel free to add 1-2 calories per minute. The calorie prescription here is only a recommendation, so adjust the amount of calories you are completeing as needed to hit this time frame.\n- It is okay if the round of \"Strict Cindy\" starts to bleed into the rest minute by the end, but if you are unable to complete the round under 1:00 from the start, scale back the reps to something like 3 Strict Pull-Up + 6\nPush-Up + 12 Air Squat",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "obGL00IJVE",
+   "date": "2025-12-01",
+   "display_order": 1764503792914,
+   "title": "Extra/ Accessory:",
+   "description": "A)Farmer's Carry\n2x200m @ 2x53/2x35lb | 2x24/2x16kg\nNOTES:\n- Rest at least 1:00 between sets.\n- If you know you will easily go unbroken for 200m, feel free to scale up to heavier kettlebells for a bit\nmore challenge today.\n\nB) Banded Face Pull\n5x20 @ Light Band\nNOTES:\n- Rest 1:00 between sets.\n- Be sure to move with intention here, aiming to feel the scapular muscles working on each rep. Don't just rush through these sets.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "6XN5t3tsrc",
+   "date": "2025-12-01",
+   "display_order": 1764503792915,
+   "title": "Zone 2",
+   "description": "Working @ Zone 2 Heart Rate...\n5:00 - 4:00 - 3:00 - 2:00\n- Ski\n- Row\n- Bike Erg\nYour Zone 2 Heart Rate Range:\nAdd your Personal Record below to Add your Personal Record below\n\nNOTES:\n- This should come out to 42:00 in total.\n- Despite the change of machines, aim to maintain a Zone 2 Heart Rate the entire time, regardless of what your output/paces look like.\n- If you don't have a heart rate monitor, aim to feel like you can hold a conversation throughout with a consistent pace. Your effort shouldn't exceed an RPE 7",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "NgFMAnTFbl",
+   "date": "2025-12-02",
+   "display_order": 1764503802972,
+   "title": "Back Squat",
+   "description": "Back Squat:\n\n1x1 @ 80 %// RPE 8\n\nNOTES:\n- Just one single today at 80% of your 1RM. Take at least five lifts to build to your weight, and make this the highest quality single you can perform.\n- Rest for 2:00 after this single before moving on to the front squat.\n\n 80% נכון שזאת רק חזרה אחת אבל אתם חיבים לבצע לפחות 5 סטים במשקלים עולים לפני שאתם מגיעים ל",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "811NPb14GE",
+   "date": "2025-12-02",
+   "display_order": 1764503802973,
+   "title": "Front Squat",
+   "description": "Front Squat\n\n3x10 @ 40% - 50%// RPE 7\n\nNOTES:\n- Rest at least 2:00 between sets.\n- High volume for each set. Focus on bracing well and keeping consistent positions from start to finish on each set.\n- Use a weight that will allow you to keep quality for all three sets. Try to use the same weight each time.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "50yUtAHQ3j",
+   "date": "2025-12-02",
+   "display_order": 1764503802974,
+   "title": "METCON",
+   "description": "AMRAP 4\n600/500m Row\n25 Burpee Box Jump Over @ 24/20\"\n20 Power Clean @ 60/42,5kg\n15 Overhead Squat @60/42,5kg\n10 Shuttle Run\n\nRest 2:00\n\nAMRAP 5\n600/500m Row\n25 Burpee Box Jump Over @ 24/20\"\n20 Power Clean @ 60/42,5kg\n15 Overhead Squat @ 60/42,5kg\n10 Shuttle Run\n\nRest 2:00\n\nFor Time:\n600/500m Row\n25 Burpee Box Jump Over @ 24/20\"\n20 Power Clean @ 60/42,5kg\n15 Overhead Squat @ 60/42,5kg\n10 Shuttle Run\n\n\nNOTES:\n- Aim to push hard with each AMRAP, trying to get as far as possible despite the tight time frame. Most athletes will be capped before completing one full round on the first two AMRAPs, and that is okay.\n- The weight of the bar should allow for cycled reps, or very quickly cycled singles. \n- On the shuttle runs, count 7,5 m down + 7,5 m  back as one rep.\n- Enter the time of the last round as your score today, with the work completed in the first two AMRAPs in the notes section.",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "1ojxD0rLq4",
+   "date": "2025-12-02",
+   "display_order": 1764503802975,
+   "title": "Plank On Rings",
+   "description": "Plank On Rings\n\n3x(:40-1:00)\n\nNOTES:\n- Rest 1:00 between sets.\n- Keep each set unbroken, holding as tight of a body position as possible. Try to keep the elbows locked out with the insides of each ring turned in toward the other.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "zC6uc9zW6u",
+   "date": "2025-12-04",
+   "display_order": 1764503811404,
+   "title": "Squat Snatch",
+   "description": "EMOM 3:\n\n1 Squat Snatch @ 75% // RPE 7-8\n\nNOTES:\n- Take a few minutes to build up weight (or a weight that feels about an RPE 7) and then start the EMOM.\nJust three reps total for today!\n- Make these reps as consistent as possible from start to finish. Feel free to consciously add in a bit more control today in starting the lift than normal.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "MnGmLS2mAv",
+   "date": "2025-12-04",
+   "display_order": 1764503811405,
+   "title": "3-Position Snatch Deadlift",
+   "description": "3-Position Snatch Deadlift:\n\n3x1 w/ :05 sec Pauses @ 80% // RPE 7\n\nNOTES:\n- Rest for at least 1:00 between sets.\n- Pause for :05 with the bar below the knees, above the knees, and just before full extension. Control the bar back to the ground to set it down each time.\n- Drive through the entire foot the entire way, and focus on keeping an upright torso.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "sZxqVeEs7x",
+   "date": "2025-12-04",
+   "display_order": 1764503811406,
+   "title": "Metcon",
+   "description": "AMRAP 12:\n10 Plate Overhead Straight Leg Sit-Up @ 45/35lb I\n20/15kg\n25ft Handstand Walk\n250/200m Row\n\nRest 2:00\n\nAMRAP 12:\n:20 ssec L-Sit Hold\n5/5 Nonalternating Pistol (10 Total)\n200m Run (or 500/400m Bike Erg)\n\nNOTES:\n- Expect the fatigue through your midline and from the cardio portions of these AMRAPs to make your skills more challenging than normal. That said, you should have the capacity to complete each movement unbroken at the listed volume per round when fresh, even if you might be breaking during the AMRAP.\n\n- If you don't have handstand walks down, feel free to scale to 2-3 Wall Walk instead.\n- Use the parallettes for the L-Sit holds. If you couldn't complete :20 unbroken for at least one round, move to a :20 Hollow Hold for today. As you get deep into this AMRAP, it is okay if you have to break once or twice while accumulating :20 of volume each round\n- Consider moving to 10 Jumping Lunges instead of pistols if that is a movement you normally avoid.\n- For scoring purposes, count each Row or Run a \"1\nRep\"",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "SBkT2Ez3Yb",
+   "date": "2025-12-04",
+   "display_order": 1764503811407,
+   "title": "Wall Facing Strict Handstand Push-Up",
+   "description": "Every 1:30 × 9:00... (6 Sets)\n3-8 Unbroken Wall Facing Strict Handstand Push-Up\n\nNOTES:\n- If you don't have wall-facing strict handstand pushups for at least three unbroken reps, move to box pike handstand push-ups for today.\n- Try to keep as tight a body position as possible on the wall-facing strict handstand push-ups, not allowing yourself to overly arch the spine through the press and focusing on keeping the feet/knees pressed together if possible.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "0rXpRL7vql",
+   "date": "2025-12-04",
+   "display_order": 1764503811408,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Banded Z-Press\n3x15 @ Light Band\n+\nBanded Face Pull\n3x20 @ Light Band\n+\nBanded Tricep Pushdown\n3x25 @ Light Band\n\nNOTES:\n- Rest at least 1:00 between all sets today. You do not have to use the same band for all three movements\ntoday.\n- The band you use should allow for each set to be unbroken.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "g3ncOgbjdm",
+   "date": "2025-12-06",
+   "display_order": 1764503830229,
+   "title": "Tempo Back Squat",
+   "description": "Tempo Back Squat*\n\n7x1 @ 50-55% // RPE 7.5\n* Take :05 to get to the bottom, then pause for :05 before standing.\n\nNOTES:\n- Rest for at least 1:00 between sets.\n- Use these reps as an opportunity to feel your legs engaging through every position in the movement.\nWhen it is time to stand, stand explosively, fighting to keep the chest tall and elbows at the same place as on the descent.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "dOUwUcvFq5"
+   ]
+  },
+  {
+   "id": "XqbpMKMrIa",
+   "date": "2025-12-06",
+   "display_order": 1764503830230,
+   "title": "EMOM 28:",
+   "description": "EMOM 28\n1: 75 Double Under\n2: 4-6 D-Ball / Sandbag Clean @ 150/100lb | 70/45kg\n3: 1 Legless Rope Climb + Max Cal Fan Bike\n4: Rest\n\nNOTES:\n- If you don't have double-unders, move to up to :45 of practice or to any cardio machine (even the fan bike) for :40-:45 each round for today.\n- The d-ball / sandbag cleans should be able to be completed under :30 each time. Scale back the reps or weight if needed.\n- For those that need to scale the legless rope climbs: sub in either 1-2 normal rope climbs or 3-6 strict (or band-assisted strict) chin-ups. Whatever you pick here should be unbroken and allow you to quickly transition to the fan bike for the remainder of the\nminute.\n- Finally, on the fan bikes, aim for negative splits for today. Let the first round be around RPE 5-6 on the bike, but then try to complete 1-2 extra calories with each subsequent round. By the end of the EMOM, you should be giving a very hard effort (RPE 9 or higher) to beat your previous calorie score.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "Xlw4hEpkiC",
+   "date": "2025-12-06",
+   "display_order": 1764503830231,
+   "title": "Core",
+   "description": "Accumulate 2:00, For Quality...\n- GHD Ab Hold\n- Side Plank (Per Side)\nNOTES:\n- Feel free to move between positions as needed, so long as you accumulate 2:00 in all three.\n- Rest as needed to maintain quality. Ideally, this work should take you no longer than 12:00, including rests.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  }
+ ]
+}

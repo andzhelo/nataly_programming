@@ -1,0 +1,662 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2023-03-19",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "4fgBXFBj3h",
+   "date": "2023-03-19",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n60sec Row/Bike/Run/Ski @ easy\n30sec Banded good mornings\n45sec Row/Bike/Run/Ski @ Moderate\n30sec Banded Y pulls\n30sec Row/Bike/Run/Ski @ Hard\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n-Glutes/Hamstrings\nB2. Lateral banded hip mobilization + knee drive\n2 sets of 10-15 knee drive/leg\nhttps://www.youtube.com/watch?v=99pb0NnE4Kw\n\nC. Specific\n2 sets\n6 hip extensions, hold last rep for 20 seconds\n6 Snatch RDL @ empty bar\n6 Tall muscle Snatch @ empty bar\n6 OHS @ empty bar",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "8OZDlHAExp",
+    "V8IKIUyIbF",
+    "XavuhsO1R0",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "Hcl7kgiTPB",
+    "Zsg2tpPwwB"
+   ]
+  },
+  {
+   "id": "lff8qCXiBw",
+   "date": "2023-03-19",
+   "display_order": 2,
+   "title": "Weightlifting",
+   "description": "Heaving Snatch\n5 x 3 @30%\nRest as needed between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "Ojev8SNzOA",
+   "date": "2023-03-19",
+   "display_order": 3,
+   "title": "Heaving Snatch Balance",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "7Y8SI0K2kC",
+   "date": "2023-03-19",
+   "display_order": 4,
+   "title": "Weightlifting",
+   "description": "5 sets @60-65%\n1 Power Snatch\n1 OH Squat\n2 Squat Snatch",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "XavuhsO1R0",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "e9UwWurL4E",
+   "date": "2023-03-19",
+   "display_order": 4.5,
+   "title": "Metcon",
+   "description": "AMRAP 15minutes\n15 KB swings 24/16 Kg\n10 Box jumps 24/20\"\n15 Wall Ball 14/10 lbs",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "QCUOoOtogo",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "OdHO1SAb4r",
+   "date": "2023-03-19",
+   "display_order": 5,
+   "title": "Weightlifting",
+   "description": "Snatch Grip RDL\n3 x 8reps\nRest as needed between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "gEo79WDHnj",
+   "date": "2023-03-19",
+   "display_order": 6,
+   "title": "Back Squat 12x2",
+   "description": "Back Squat\n12 x 2reps @60%\nRest 30 seconds b/w sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "hh6OFymTrP",
+   "date": "2023-03-19",
+   "display_order": 7,
+   "title": "Accessory",
+   "description": "Explosive floating pull with KB\n3 x 10 @As heavy as possible\nRest 60-90 seconds between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "kfG7NmsqLm",
+   "date": "2023-03-19",
+   "display_order": 8,
+   "title": "Explosive Floating Pull With KB",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "emTlXortxf",
+   "date": "2023-03-19",
+   "display_order": 10,
+   "title": "Core",
+   "description": "3 rounds not for time\n10 Body saw\n50'/arm Single arm farmer Carry @Heavy",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "bnL0lZR9hT"
+   ]
+  },
+  {
+   "id": "jpPGcqjqoc",
+   "date": "2023-03-19",
+   "display_order": 11,
+   "title": "Body Saw",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "7uxHwkd5BI",
+   "date": "2023-03-20",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n3min Bike, row, ski, or run\n*At the top of every min complete 3-5 burpees\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\nTrap Smash\nB2. Prone PVC press\n10-15 repetitions\nhttps://www.youtube.com/watch?v=vEcXOdAYOHE\n \nC. Specific\n2 sets\n8 Band pull overs, bent arm\n4 Shoulders Oscillating @ 90 degree arm bend: https://youtu.be/P9QVvhyBTdM (up & down = 1)\n8 Band strict press",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB",
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "tRzXG95eIg",
+   "date": "2023-03-20",
+   "display_order": 2,
+   "title": "Gymnastics",
+   "description": "Practice for 10 mins\n\nHS walk + obstacle practice\n\nOR\n\nFree standing HS hold practice\n\nOR\n\nFree standing HSPU practice",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "uKTubmYQ4Z",
+   "date": "2023-03-20",
+   "display_order": 3,
+   "title": "Weightlifting",
+   "description": "5 rounds\n10 Bench Press @55-60%\n20/15 Cal Row @damper 10, moderate",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "c018aKJbAt",
+   "date": "2023-03-20",
+   "display_order": 4,
+   "title": "Gymnastics",
+   "description": "Strict Chin-ups\n5 x 5 every 30 sec @ bodyweight\nRest 1-2 minutes\n\n5 x 5 every 60 sec @ weighted \nRest 1-2 minutes\n\n5 x 5 every 30 sec  @ bodyweight",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "xSFqeGgEsK",
+   "date": "2023-03-20",
+   "display_order": 5,
+   "title": "Metcon",
+   "description": "4 rounds for time\n80 Double-unders\n50' Rope sled drag @mod\n50' Front rack DB walking lunges 2x50/35 lbs\nRest 60 seconds",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "lce0SIJOG9",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "xrQxvXwppz",
+   "date": "2023-03-20",
+   "display_order": 6,
+   "title": "Accessory",
+   "description": "10-9-8-7-6-5-4-3-2-1\nMeadows row\nStanding Landmine Press",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "fUzPSytk7N",
+   "date": "2023-03-20",
+   "display_order": 7,
+   "title": "Meadows Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "4l4fEC8YV0",
+   "date": "2023-03-21",
+   "display_order": 1,
+   "title": "Rest Day",
+   "description": "Rest Day",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "BzdWtjzQtU",
+   "date": "2023-03-21",
+   "display_order": 1679732069336,
+   "title": "Warm-up",
+   "description": "A. General\n4 rounds\neasy 400m jog\n12 Band Ys\n12 Band hollow body lat pull down\n12 Rotational pull apart\n\nhttps://youtu.be/Q0s1X6SISkY",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "gYys5PN9qH",
+   "date": "2023-03-21",
+   "display_order": 1679732069337,
+   "title": "Accessory",
+   "description": "5 sets\n8/8 Single leg KB RDL @ light\n60 second wall sit @ Just Below Parallel\nRest 2 minutes between sets",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "nQkFIHoc4z"
+   ]
+  },
+  {
+   "id": "4cRiVbhOu5",
+   "date": "2023-03-21",
+   "display_order": 1679732069338,
+   "title": "Weightlifting",
+   "description": "Box squat: Low bar\n10 x 2 @ moderate\n30 sec rest",
+   "score_type": "Load",
+   "movement_ids": [
+    "LkhfefQlCT"
+   ]
+  },
+  {
+   "id": "IBTa4vj0v7",
+   "date": "2023-03-21",
+   "display_order": 1679732069339,
+   "title": "Accessory",
+   "description": "4 sets\n8/8 Lateral Box Step-down\n12 Calf raises @light",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "69mL7DWjvm",
+   "date": "2023-03-21",
+   "display_order": 1679732069340,
+   "title": "lateral box step downs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "TLsJJA2Hbc",
+   "date": "2023-03-21",
+   "display_order": 1679732069341,
+   "title": "Calf raises",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "3AMYGBSWCw",
+   "date": "2023-03-21",
+   "display_order": 1679732069342,
+   "title": "Metcon",
+   "description": "Every 3 mins x 5\n1000m Bike erg\n10 Burpees to 12\" target",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB"
+   ]
+  },
+  {
+   "id": "bfxzQlVcCC",
+   "date": "2023-03-21",
+   "display_order": 1679732069343,
+   "title": "Accessory",
+   "description": "Reverse Hypers\n3 x 20",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "2DXwbb8oy6",
+   "date": "2023-03-21",
+   "display_order": 1679732069344,
+   "title": "Reverse Hypers On GHD",
+   "description": "If you don’t have a reverse hyper machine:",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "HBPuUBWu1o",
+   "date": "2023-03-22",
+   "display_order": 900000,
+   "title": "Warm-up",
+   "description": "A. General\n2 rounds \nJog 400m\n25’ Superman lunges\n25’ Samson stretch\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\nQuadriceps\n\nC. Specific\n2 sets\n8/8 Bulgarian split squats @ 2 second tempo\n4/4 BAnded lateral kicks, hold end range for a second or two: https://youtu.be/tyDv2DSvCqE\n\nThen, 2 sets:\n-3 Tall muscle cleans\n-3 Tall power cleans\n-3 Front squat\n-3 Tall squat cleans",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "sNAc71FfRN",
+    "AV3ZJImwt6",
+    "umWlFaYtSo",
+    "V8IKIUyIbF",
+    "yJIlK7TN6q",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "Enn6KO2pfA",
+   "date": "2023-03-22",
+   "display_order": 900000.5,
+   "title": "Weightlifting",
+   "description": "Rack Delivery Drill\n5 x 3 @empty barbell or light\nRest as needed between sets\n\n2. Slow clean pull\n5 x 3 @empty barbell or light\nRest as needed between sets",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "tf3vH9iUEi",
+   "date": "2023-03-22",
+   "display_order": 900000.75,
+   "title": "Clean Rack Delivery",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "paBRytt0bD",
+   "date": "2023-03-22",
+   "display_order": 900000.875,
+   "title": "Clean Pull + Slow Eccentric",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "mLx65bkeqb",
+   "date": "2023-03-22",
+   "display_order": 900000.9375,
+   "title": "Clean 5x3",
+   "description": "5 sets @65%\n1 Power Clean\n2 Squat Clean",
+   "score_type": "Load",
+   "movement_ids": [
+    "vyy5Tr0N49"
+   ]
+  },
+  {
+   "id": "wWnxC834dC",
+   "date": "2023-03-22",
+   "display_order": 900000.96875,
+   "title": "Weightlifting Accessory",
+   "description": "High hang Clean Shrugs\n4 x 4 @100-105% of 1RM Clean\nRest as needed between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "XNGSE3DnXd",
+   "date": "2023-03-22",
+   "display_order": 900000.984375,
+   "title": "Clean Shrug",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "Sv2PAZWnca",
+   "date": "2023-03-22",
+   "display_order": 900000.9921875,
+   "title": "Front Squat 5x10",
+   "description": "Tempo Front Squat\nEvery 2 mins x 5 sets\n10 @ 40%\nTempo 3 sec down",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "oZ1yFQ7mMB",
+   "date": "2023-03-22",
+   "display_order": 900000.99609375,
+   "title": "Metcon",
+   "description": "EMOM 20minutes\nOdd: 15/12 Cal Echo Bike\nEven: 10-14 DB Hang Clean & Jerk 2x50/35lbs",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X",
+    "k7wui7m8TE"
+   ]
+  },
+  {
+   "id": "u3GCYHuRBt",
+   "date": "2023-03-22",
+   "display_order": 900000.998046875,
+   "title": "Post Chain",
+   "description": "Banded march\n10 minutes @hard bands",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "LovVjKYbAW",
+   "date": "2023-03-22",
+   "display_order": 900000.9990234375,
+   "title": "The Banded March",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "e3T94sMZqm",
+   "date": "2023-03-22",
+   "display_order": 900000.9995117188,
+   "title": "Core",
+   "description": "For time\n10-9-8-7-6-5-4-3-2-1 Strict TTB\n50' Bear hug Carry between sets",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "av1Pu50KHU",
+   "date": "2023-03-23",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n3 rounds \nRow 250m\n10 Hanging strict knee raises\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\nBiceps\nB2. Foam roller + Mini band wall slide \n10 repetition slow and controlled\nhttps://www.youtube.com/watch?v=VUOVGr8cao0 \n\nC. Specific\n2 sets\n12 neutral grip band hamstring curls\n6/6 Band Birddogs row: https://youtu.be/tyDv2DSvCqE\n3/3 Rope Rows (3 right hand on top, 3 left hand on top",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "vLRra0lmfc",
+   "date": "2023-03-23",
+   "display_order": 2,
+   "title": "Gymnastics",
+   "description": "Jump to glide kip + hip to bar Practice\n5mins\n\nThen,\n\nNo dip ring muscle-ups\n5 x 3-5 reps",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "3a9C2ou4vk",
+   "date": "2023-03-23",
+   "display_order": 3,
+   "title": "Gymnastics",
+   "description": "3 rounds\n3/3* Rope Pull-ups with feet on bench\n1-3 Rope Climb\n\n*3/3 = 3 with Left hand on top, 3 with right hand on top",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "aIJitQcA1d",
+   "date": "2023-03-23",
+   "display_order": 4,
+   "title": "Gymnastics",
+   "description": "21-18-15-9\nStrict Press 95/65lbs\nKipping HSPU\nRest 1min between sets\n\nDo not reach failure at any point",
+   "score_type": "",
+   "movement_ids": [
+    "aPz3tX2Uwh",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "pCuEANkSHE",
+   "date": "2023-03-23",
+   "display_order": 5,
+   "title": "Accessory",
+   "description": "Elbow plank + Lateral raise\n2 x 15/side\nNo rest between sides\nRest 30-60 seconds between sets",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "lDODUkM3Fl",
+   "date": "2023-03-23",
+   "display_order": 6,
+   "title": "Elbow plank + Lateral raise",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "1CK37QgXJY",
+   "date": "2023-03-23",
+   "display_order": 7,
+   "title": "Metcon",
+   "description": "5 sets of\n\nAMRAP 3 minutes\n3 Bar Muscle-ups\n6 Push-Ups\n9 Air Squats\n\nRest 1 minute between AMRAP’s",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "V8IKIUyIbF",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "r3GrOguImo",
+   "date": "2023-03-23",
+   "display_order": 8,
+   "title": "Accessory",
+   "description": "Standing Banded W\n3 x 15\nHold 5 seconds every 5 reps",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "24XxbHGIW6",
+   "date": "2023-03-23",
+   "display_order": 9,
+   "title": "Tall Kneeling Banded W Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "aCwQgfSSOJ",
+   "date": "2023-03-23",
+   "display_order": 10,
+   "title": "Stability",
+   "description": "4 rounds not for time\n50' Bear crawl sled drag\n30-45 sec Wall facing HS hold",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "lce0SIJOG9"
+   ]
+  },
+  {
+   "id": "HYvrHErESC",
+   "date": "2023-03-23",
+   "display_order": 11,
+   "title": "Bear Crawl Sled Drag",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "thrFIQzEvw",
+   "date": "2023-03-23",
+   "display_order": 12,
+   "title": "Wall facing HS hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "UVsNgnZB2A",
+   "date": "2023-03-24",
+   "display_order": 1,
+   "title": "Active Rest Day",
+   "description": "30-40min Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q",
+    "2KrQ3LVk5P"
+   ]
+  },
+  {
+   "id": "DCdKwklOHv",
+   "date": "2023-03-25",
+   "display_order": 900000,
+   "title": "Warm-up",
+   "description": "A. General\n5 minutes Row or Bike\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\nPlantar Fascia (feet arches)\nB2. PNF banded lat stretch\n2 sets of 10 reps/arm\n\nC. Specific\n2 sets\n-7 Banded W-Y\n-5 RDL’s\n-7 Ring rows + pause\n-60 seconds elbow plank",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "91LKjTpPx1",
+    "7D2s52zLPX",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "si4mOmSTMq",
+   "date": "2023-03-25",
+   "display_order": 900000.5,
+   "title": "Weightlifting",
+   "description": "Every 4 minutes for 16 minutes\n1k Bike erg\n6 Deadlift @70%\n\nNO BOUNCING",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "hoGuKuhmCp",
+   "date": "2023-03-25",
+   "display_order": 900000.75,
+   "title": "Metcon",
+   "description": "5 rounds for time\n10 OH Squats 135/95 lbs\n20 GHD Sit-ups\n30 Bar facing burpees",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "rk5ieibGyP",
+    "XavuhsO1R0",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "PBw2Gnfrz1",
+   "date": "2023-03-25",
+   "display_order": 900000.875,
+   "title": "Post Chain",
+   "description": "Belt Squat\n3 x 20reps\nRest 60 seconds between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "gGwgIgnCDB",
+   "date": "2023-03-25",
+   "display_order": 900000.9375,
+   "title": "HOW TO: BELT SQUAT",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "9nexDjCCut",
+   "date": "2023-03-25",
+   "display_order": 900000.96875,
+   "title": "Core",
+   "description": "3 sets\n10 Psoas march release**\n20 Hip extension on GHD @bodyweight*\nRest 60 seconds between sets\n\n*Hold 5 seconds after 10th and 20th reps",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "hxBTjT5xIP",
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "yt5n06t01R",
+   "date": "2023-03-25",
+   "display_order": 900000.984375,
+   "title": "Psoas March w  Band",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

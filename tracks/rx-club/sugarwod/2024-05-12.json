@@ -1,0 +1,332 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-05-12",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "RGRTYj7chL",
+   "date": "2024-05-12",
+   "display_order": 1715224756678,
+   "title": "Warm up",
+   "description": "A. GENERAL (5min)\nAmrap 5\n30sec Bike/Row\n8 Band squat pull through\n4 Air squats with wide stance\n4 Air squats with narrow stance\n4 Air squats with normal stance\n\nB. MOBILITY / ACTIVATION (2 min)\nHip 90/90 + Raise\n10 total raises\nhttps://youtu.be/7lrE5jxQiLU\n\nC1. SPECIFIC (10 min)\n5 Tempo back squats, 4 sec descent\n3 Jumping back squats / air squats\n---\nRamp up back squat\nSets of 4, ascending to RPE 6/10\n\nC2. SPECIFIC (6 min)\n5 RDL\n5 RDL muscle clean\n5 Tall power clean\n5 Pause Power clean (pause in hang, bar above the knees)\n---\nRamp up for workout in 3 sets",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "QVZ7nxVjcQ",
+    "dOUwUcvFq5",
+    "3DHp1XSoMb",
+    "AV3ZJImwt6",
+    "V8IKIUyIbF",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "kLEdIB9xvl",
+   "date": "2024-05-12",
+   "display_order": 1715224756678.5,
+   "title": "Skill",
+   "description": "AMRAP 5\n10/8 Cal Fan Bike\n50 Double Unders (or 0:30 of attempts)\nNOTES:\n- The goal of this amrap is to practice double unders while under fatigue.",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "pkm2GvJLAE",
+   "date": "2024-05-12",
+   "display_order": 1715224756679.5,
+   "title": "Back Squat",
+   "description": "Back Squat\n1x10 @ RPE 5.5\n1x8 @ RPE 6\n1x6 @ RPE 6\n1x6 @ RPE 6.5\n1x6 @RPE 7\nRest 2:00 - 3:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "JcwNFw9Bv5",
+   "date": "2024-05-12",
+   "display_order": 1715224756679.75,
+   "title": "Front Squat",
+   "description": "Front Squat\n1x5 @ RPE 5\n3x5 @ RPE 7\nRest 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "z6U9mJ84IA",
+   "date": "2024-05-12",
+   "display_order": 1715224756680,
+   "title": "METCON",
+   "description": "Every 2 minutes for 5 sets\n10 Hang power cleans @70/55 kg\n15/12 Calorie Row",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "KdFRLTux6h",
+   "date": "2024-05-12",
+   "display_order": 1715224756681,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Poliquin Step-ups\n3 x 8/8\nLower Body / Knee health",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "akjCYsHTIX",
+   "date": "2024-05-12",
+   "display_order": 1715224756682,
+   "title": "Rowing",
+   "description": "Rowing\n500m Easy\n200m Moderate\n200m Fast\nRest as Needed\n5000m For Time",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "z8Zs19p9H0",
+   "date": "2024-05-13",
+   "display_order": 1,
+   "title": "OREN",
+   "description": "HERO WOD",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "UUyT4U41ra",
+   "date": "2024-05-14",
+   "display_order": 1,
+   "title": "Rest Day",
+   "description": "REST DAY",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "cqh8gERpzn",
+   "date": "2024-05-15",
+   "display_order": 1715224764805,
+   "title": "Warm up",
+   "description": "A. GENERAL (6 min)\nEMOM 6\nOdd- 40 sec Shuttle runs\nEven- 40 sec Inchworm + push up / knee push ups\nhttps://youtu.be/VXy4UlByUPQ\n\nC. SPECIFIC (4 min)\n2 sets\n10-20 sec support hold on rings\n20 sec hollow body hold\n2-5 Jumping ring dips / Feet supported ring dips / Box or bar dips\n\nC2. SPECIFIC (8 min)\n5 Pike Push ups / Banded Pike Push ups\n5 Burpees\n5 Beat swings\n5 Pull ups / Jumping pull ups\n---\n5 HSPU / Scale \n3 Burpee pull up / modification",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "c94XVoGakB",
+    "aPz3tX2Uwh",
+    "QCUOoOtogo",
+    "VkmcRrRQFN",
+    "yJIlK7TN6q",
+    "FvelGsOivV"
+   ]
+  },
+  {
+   "id": "mw8apkMR2I",
+   "date": "2024-05-15",
+   "display_order": 1715224764806,
+   "title": "GYMNASTICS",
+   "description": "Ring Dips\nGet to 50 strict ring dips in as little sets as possible",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "1zIUlyAo1d",
+   "date": "2024-05-15",
+   "display_order": 1715224764807,
+   "title": "METCON",
+   "description": "30-20-10\nHandstand push ups\n21-15-9\nBurpee pull ups",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "aPz3tX2Uwh",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "IdEJLh7L8b",
+   "date": "2024-05-15",
+   "display_order": 1715224764807.5,
+   "title": "Band-Assisted Strict Pull-Up",
+   "description": "Band-Assisted Strict Pull-Up\n4x20\nRest 1:30 - 2:00 Between Sets.\n\nNOTES:\n- Use a band (or bands) that allows you to do all twenty reps unbroken.",
+   "score_type": "",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "HFi2RdREwA",
+   "date": "2024-05-15",
+   "display_order": 1715224764807.75,
+   "title": "Accessorys",
+   "description": "4 Sets:\n15 Dumbbell Bicep Curl\n15 Dumbbell Overhead Tricep Extension\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "RuMR10gwE7",
+   "date": "2024-05-15",
+   "display_order": 1715224764808.75,
+   "title": "Fan Bike",
+   "description": "Fan Bike\n3 Sets:\nTabata (8x :20 On / :10 Off)\n\n4:00 Rest b/t Sets\n\nNOTES:\n- Ideally, the average wattage for each Tabata increases with each set.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "31vaTfoz9U",
+   "date": "2024-05-16",
+   "display_order": 1715224770920,
+   "title": "Warm up",
+   "description": "A. GENERAL (3 min)\n2 rounds\n8 Burpee / Down & up\n8/8 Banded Monster Walk\nhttps://youtu.be/Z_HlZ1a1yJ0\n8 Plate ground to overhead\nhttps://youtu.be/uLfqoSTiaFI\n\nB. MOBILITY/ACTIVATION (3 min)\nLat stretch against rig\n30-45s / side\nhttps://youtu.be/VRuAZIkRPMY\n\nC. SPECIFIC (8 min)\n- 5 Overhead squats\n- 5-10  High hang snatch high pull (pockets)\n- 5-10 Low hang snatch high pull (below knee)\n- 5 Squat Snatch\n- 3 x 1 Snatch high pull + 1 Squat snatch\n---\nRamp up to 75% (5-8 min)\n\nC2. SPECIFIC (4 min)\nWith 1 DB\n4/4 DB deadlift\n4 Forward lunges (holding in goblet style)\n---\nWith 2 DBs\n4 Dumbbell deadlifts\n4 Forward lunges",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "c94XVoGakB",
+    "r3CNRMSi8j",
+    "k1Y8nokrha",
+    "91LKjTpPx1",
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "zwvRX7bl7h",
+   "date": "2024-05-16",
+   "display_order": 1715224770920.5,
+   "title": "Overhead Squat",
+   "description": "Overhead Squat\n3x5 @ @32X1\nRest 2:00 Between Sets.\n\nNOTES:\n- \"32x1\" means that you will take :03 to descend, :02 at the bottom, stand fast, and :01 at the top to reset between reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "HRpZiErVBt",
+   "date": "2024-05-16",
+   "display_order": 1715224770921,
+   "title": "Snatch Complex 5x1",
+   "description": "5x1.1 @\nRest :10 between reps.\nRest 2:00 Between Sets.\nNOTES:\n- The \"1.1\" snatch prescription means that you should perform one snatch, rest :10, then perform another snatch.\n- These should be full snatch reps (i.e. squat snatch) for every rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "nVNWXGA24F",
+   "date": "2024-05-16",
+   "display_order": 1715224770922,
+   "title": "METCON",
+   "description": "Amrap 8\n2,4,6,8, etc\nDeadlifts @ 225/155 lbs\nDumbbell Front Rack forward lunges 50/35 lbs x 2\n\nDB forward lunges 2 = 1 right & 1 left",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "jZUUnhSits"
+   ]
+  },
+  {
+   "id": "c63ZYpremy",
+   "date": "2024-05-16",
+   "display_order": 1715224770922.5,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n3x5 @ \nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "3MdNtruaay",
+   "date": "2024-05-16",
+   "display_order": 1715224770922.75,
+   "title": "Accessory",
+   "description": "4 Sets:\n10 Sandbag / D-Ball Good Mornings 100/70lbs\n15 Back Extensions\n1:00 Front Plank\nRest 1:30 Between Sets.\n\nhttps://youtu.be/z9XzHznovQU?si=hz5Zwp4gvwHF36r6",
+   "score_type": "Load",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "8OZDlHAExp",
+    "Zsg2tpPwwB"
+   ]
+  },
+  {
+   "id": "HjauvhtmBH",
+   "date": "2024-05-16",
+   "display_order": 1715224770923,
+   "title": "ACCESSORY / EXTRA",
+   "description": "3 sets\n\n12/12 unilateral Hip thrust\n12/12 Raising clamshell",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "xEJmCDbLxL"
+   ]
+  },
+  {
+   "id": "FoG9gMHSow",
+   "date": "2024-05-16",
+   "display_order": 1715224770924,
+   "title": "Run",
+   "description": "Running Intervals\nPRIMER.\n400m @ Easy Pace\nRest as needed\nーーーー\nMAIN SET.\n5000m Time Trial",
+   "score_type": "",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "C7KMtsaauQ",
+   "date": "2024-05-18",
+   "display_order": 900005,
+   "title": "WARM UP",
+   "description": "A. GENERAL (3 min)\n3:00 Jump rope practice\nCall out\n- Normal single unders\n- Slow single Unders\n- Fast single unders\n- Reverse single unders\n- Double under practice\n\nB. MOBILITY / ACTIVATION (2 min)\n\nBand Chest press\n20 Reps, broken up as desired\nhttps://youtu.be/RRU4tcPBvzM\n\n\nC. SPECIFIC (6 min)\n\n3 sets, increasing load\n3 Tempo bench press, 4 sec descent\n\n\nC2. SPECIFIC (6 min)\n6 Beat Swings\n6 Swinging leg / Knee raises\nhttps://youtu.be/QBjpm_R0YnY\n6 TTB / Trials\n----\nHandstand hold against wall\n1-3 Wall walks/ 25' HS walk / OH carry",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "Pfe6N82u2K",
+    "h9vPo5JYw6",
+    "gDzBvkfmnw",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "U7aNmKJErK",
+   "date": "2024-05-18",
+   "display_order": 900006,
+   "title": "Bench Press 5-4-3-2-2",
+   "description": "Bench Press for load:\n #1: 5 reps @ 70%\n #2: 4 reps @ 75%\n #3: 3 reps @ 80%\n #4: 2 reps @ 85%\n #5: 2 reps @ 85%",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "gpZDAqEWDE",
+   "date": "2024-05-18",
+   "display_order": 900007,
+   "title": "METCON",
+   "description": "For time\n\n25 Burpees\n150 Double unders\n50 TTB\n50 m HS walk\n50 TTB\n150 Double unders\n25 Burpees",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "dvasvZthNE",
+   "date": "2024-05-18",
+   "display_order": 900008,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Bent over straight arm lat pulldown\n\n3 x 12/12",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  }
+ ]
+}

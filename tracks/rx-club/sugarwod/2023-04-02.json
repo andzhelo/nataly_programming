@@ -1,0 +1,509 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2023-04-02",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "wKrbVtuBQ4",
+   "date": "2023-04-02",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\nEMOM 10\nRow\nFirst 5 minutes @ normal cadence then\n1min @ 22\n1min @ 24\n1min @ 26\n1min @ 28\n1min @ 30",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "HIFOh3QN55",
+   "date": "2023-04-02",
+   "display_order": 2,
+   "title": "Accessory",
+   "description": "5 sets\n5 Prone angels\n8 Incline DB rows @ heavy\n10 wall slides with foam roller",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "1IwfUtrkBd",
+   "date": "2023-04-02",
+   "display_order": 3,
+   "title": "Foam Roller Wall Slide",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "TE4SVGOHgH",
+   "date": "2023-04-02",
+   "display_order": 4,
+   "title": "Upper Strength",
+   "description": "5 sets\n8 Inclined DB bench press (neutral grip) @ heavy\n16 HSPU lock outs",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "3ymRHnCxSW",
+   "date": "2023-04-02",
+   "display_order": 5,
+   "title": "HSPU lockouts",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "TfZA5gyBEh",
+   "date": "2023-04-02",
+   "display_order": 6,
+   "title": "Accessory",
+   "description": "3 sets\n12 hammer curls\n24 straight arm banded pull down @ light",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "H3byfBSFzc",
+   "date": "2023-04-02",
+   "display_order": 7,
+   "title": "Metcon",
+   "description": "AMRAP 12 minutes\n16 TTB\n16 DB Clean 2x50/35lbs\n16 Cal Row",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "PzXb7O8EGB",
+   "date": "2023-04-02",
+   "display_order": 8,
+   "title": "Core",
+   "description": "Pike pulls, Feet on Rower\n3 x 15\n\nslow and controlled",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "FLxSjTrLsT",
+   "date": "2023-04-02",
+   "display_order": 9,
+   "title": "Pike Pulls on Rower",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "nzyxYb87xu",
+   "date": "2023-04-03",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n\n4 rounds\neasy 400m jog\n12 Band Ys\n12 Band hollow body lat pulldown\n12 Rotational pull apart\nhttps://youtu.be/Q0s1X6SISkY",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "pPEQsScUAd",
+   "date": "2023-04-03",
+   "display_order": 2,
+   "title": "Accessory",
+   "description": "5 sets\n8 Seated good mornings @ light to medium\n60 seconds banded glute walk outs\n\nRest 2 minutes between sets",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "8OZDlHAExp",
+    "Zsg2tpPwwB"
+   ]
+  },
+  {
+   "id": "l8sQDPprw8",
+   "date": "2023-04-03",
+   "display_order": 3,
+   "title": "Seated Good morning",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "VmsGuAj9lG",
+   "date": "2023-04-03",
+   "display_order": 4,
+   "title": "Banded Glute Bridge Walkouts",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "pkV2peRyWw",
+   "date": "2023-04-03",
+   "display_order": 5,
+   "title": "Weightlifting",
+   "description": "Box squat: Low bar\n\n10 x 2 @ heavier than last week\n30 sec rest",
+   "score_type": "Load",
+   "movement_ids": [
+    "LkhfefQlCT"
+   ]
+  },
+  {
+   "id": "u8oL2CWDpx",
+   "date": "2023-04-03",
+   "display_order": 6,
+   "title": "Accessory",
+   "description": "4 sets\n8/8 Single leg KB RDLs @ moderate\n20 squat pull throughs",
+   "score_type": "Load",
+   "movement_ids": [
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "noy3t2FcDc",
+   "date": "2023-04-03",
+   "display_order": 7,
+   "title": "Banded pull through",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "kVGtPD7ntV",
+   "date": "2023-04-03",
+   "display_order": 8,
+   "title": "Metcon",
+   "description": "8 rounds\n300m Ski erg\n35 DU",
+   "score_type": "",
+   "movement_ids": [
+    "k6qV2U3ffc"
+   ]
+  },
+  {
+   "id": "ocezIcQOte",
+   "date": "2023-04-03",
+   "display_order": 9,
+   "title": "Accessory",
+   "description": "Reverse Chinese Plank\n3 x 60 seconds",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "aNzpaLJFqP",
+   "date": "2023-04-03",
+   "display_order": 10,
+   "title": "Chinese plank + iso banded press",
+   "description": "*Just the plank hold, no presses",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "HB9rNQp6ne",
+   "date": "2023-04-04",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\nEMOM 9\n1- 45 sec Row\n2- 45 sec Bike\n3- 45 sec Ski",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "Y7EEGTSFnD",
+   "date": "2023-04-04",
+   "display_order": 2,
+   "title": "Accessory",
+   "description": "5 sets\n10/10 Banded unilateral hip thrusts\n50' sled push @ walking & moderate\n\nRest 60-90 seconds",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "bxoFHTtvld"
+   ]
+  },
+  {
+   "id": "j3UKBq4uoY",
+   "date": "2023-04-04",
+   "display_order": 3,
+   "title": "Banded Single Leg Hip Thrust",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "idpWSTEnDg",
+   "date": "2023-04-04",
+   "display_order": 4,
+   "title": "Weightlifting",
+   "description": "Barbell  Front rack Bulgarian Split squat\n5 sets\n6/6 @ heavy\n\nNo rest between legs, 2 minutes rest between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "sNAc71FfRN",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "uHCPIhGvAe",
+   "date": "2023-04-04",
+   "display_order": 5,
+   "title": "Accessory",
+   "description": "5 sets\n20 Wide stance bear hug good mornings @ moderate D-ball\n20 Banded leg extension",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "8OZDlHAExp",
+    "Zsg2tpPwwB"
+   ]
+  },
+  {
+   "id": "6Uu01S046U",
+   "date": "2023-04-04",
+   "display_order": 6,
+   "title": "Banded Leg Extension",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "MsAbWcZLtN",
+   "date": "2023-04-04",
+   "display_order": 7,
+   "title": "Metcon",
+   "description": "3 rounds not for time\n3000m Bike erg\n30 burpees",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB"
+   ]
+  },
+  {
+   "id": "cauC1Fczaz",
+   "date": "2023-04-04",
+   "display_order": 8,
+   "title": "Accessory",
+   "description": "Clam shell\n3 x 12/12",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "xEJmCDbLxL"
+   ]
+  },
+  {
+   "id": "2nDWqewGAy",
+   "date": "2023-04-04",
+   "display_order": 9,
+   "title": "Clamshell With Foot On Wall",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "iRnChrC1Mg",
+   "date": "2023-04-05",
+   "display_order": 1,
+   "title": "Active Rest Day",
+   "description": "30-40min Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q",
+    "2KrQ3LVk5P"
+   ]
+  },
+  {
+   "id": "KY3EkOiTLV",
+   "date": "2023-04-06",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\nEMOM 12\nodd- Ski erg 45 seconds\neven- 10 burpees + 10 air squats",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "c94XVoGakB",
+    "k6qV2U3ffc"
+   ]
+  },
+  {
+   "id": "UciiCOwOFc",
+   "date": "2023-04-06",
+   "display_order": 2,
+   "title": "Accessory",
+   "description": "5 sets\n8 Band pullovers\n8 Banded chest rows\n\n@ heavy (ish) band",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "wB2qu90ZCA",
+   "date": "2023-04-06",
+   "display_order": 3,
+   "title": "Banded DB pull over",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "yVCtns9o1z",
+   "date": "2023-04-06",
+   "display_order": 4,
+   "title": "Horizontal Cable/Banded Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "QYRs3LG7G6",
+   "date": "2023-04-06",
+   "display_order": 5,
+   "title": "Gymnastics",
+   "description": "5 sets\n3/3 Strict rope pull ups*\n12 Ring rows\n\n*Right hand on top / left hand on top",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "iSu93oACwo",
+    "7D2s52zLPX",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "U02WZDo8EO",
+   "date": "2023-04-06",
+   "display_order": 5.5,
+   "title": "Back Squat 5x10",
+   "description": "Back squat\n5 x 10 @ 5-10% heavier than last week\n\nRest as needed",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "xRpXa6QtW8",
+   "date": "2023-04-06",
+   "display_order": 6.25,
+   "title": "Metcon",
+   "description": "AMRAP 30 mins\n10 Squat cleans 135/95 lbs\n10 Ring dips\n10 Box step ups 24/20\"\n10 Burpees",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "c94XVoGakB",
+    "AV3ZJImwt6",
+    "M6DEogofj7",
+    "VkmcRrRQFN",
+    "vyy5Tr0N49"
+   ]
+  },
+  {
+   "id": "wIrjKyVDih",
+   "date": "2023-04-06",
+   "display_order": 7.25,
+   "title": "Accessory",
+   "description": "4 sets\n20 Alternating Forward lunges @ double KB front rack @  light\n20 light band squat pull through\n\nRest as needed",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "TnRX8SabWY",
+   "date": "2023-04-07",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\nEMOM 10\nodd- Assault bike 45 seconds\neven- 7 wall balls + 5 broad jumps + 3 Jump squats",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "wtGIcPY6Aw",
+    "V5Jo3Ik2Jm",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "xSIhXUxj9t",
+   "date": "2023-04-07",
+   "display_order": 2,
+   "title": "Lower Body Activation",
+   "description": "5 sets\n8/8 Poliquin Step-ups @ 12\" @ tempo descent 4 seconds\n8/8 heavy banded lateral toe taps",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "PXsE6IUfd4",
+   "date": "2023-04-07",
+   "display_order": 3,
+   "title": "Poliquin Step Up",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "2NH8v2uVA0",
+   "date": "2023-04-07",
+   "display_order": 4,
+   "title": "heavy banded lateral toe taps",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "CrsSUQoJhd",
+   "date": "2023-04-07",
+   "display_order": 6.5,
+   "title": "Metcon",
+   "description": "AMRAP 20 minutes\n21 KBS @ 32/24 kg\n21 Push ups @ hand release\nRun 800m",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "9iu4RgWSgi",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "08643Dezuj",
+   "date": "2023-04-07",
+   "display_order": 7,
+   "title": "Banded pull through",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "xQkK75kxtP",
+   "date": "2023-04-07",
+   "display_order": 8,
+   "title": "Core",
+   "description": "Hollow rock\nAccumulate 100 reps",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "lDpU5192WQ"
+   ]
+  },
+  {
+   "id": "isnBOKsEA9",
+   "date": "2023-04-07",
+   "display_order": 9,
+   "title": "Accessory",
+   "description": "GHD hip extension\n3 x 20 reps",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "hxBTjT5xIP",
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "UnBxPZPyqg",
+   "date": "2023-04-07",
+   "display_order": 10,
+   "title": "GHD Hip extensions",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "pUDubpNhBB",
+   "date": "2023-04-08",
+   "display_order": 1,
+   "title": "Rest Day",
+   "description": "Rest Day",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

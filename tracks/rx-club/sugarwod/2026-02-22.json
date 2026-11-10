@@ -1,0 +1,348 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-02-22",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "Z1Sv7pz2WP",
+   "date": "2026-02-22",
+   "display_order": 1771514480951,
+   "title": "BACK SQUAT",
+   "description": "EMOM 10 :\n2 Back Squats @ 50%, Tempo 3.1.X.1",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "hwEBAGJVpv",
+   "date": "2026-02-22",
+   "display_order": 1771514480952,
+   "title": "METCON",
+   "description": "For Time\n60-30-15\nWall Balls @ 20/14 lbs\n30-20-10\nT2B\n15-15-15\nBox Jumps @ 30/24\"\"\n\nTC: 16",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "IMhh00zmRU",
+   "date": "2026-02-22",
+   "display_order": 1771514480953,
+   "title": "Row",
+   "description": "EMOM 10:\n18-15/15-12 Cal Row",
+   "score_type": "Calories",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "9TIoAjFjxr",
+   "date": "2026-02-22",
+   "display_order": 1771514480954,
+   "title": "Accessories:",
+   "description": "3 Rounds:\n15 m Single Arm Heavy  DB OH Carry each Arm \n30 sec Hollow Hold\n10 Single Arm Ring Rows each Arm\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "DfXsA92CDF",
+   "date": "2026-02-22",
+   "display_order": 1771514480955,
+   "title": "Single Arm DB OH Carry",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "9HHILlccIC",
+   "date": "2026-02-22",
+   "display_order": 1771514480956,
+   "title": "Single Arm Ring Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "HY3VZm3jJw",
+   "date": "2026-02-23",
+   "display_order": 1771514507804,
+   "title": "Nataly Notes",
+   "description": "אם יש סקיל שחסר לכם עדיין ובא לכם להשקיע \nתחליפו את החלק של SKILL CAPACITY \nב 10-12 דקות תרגול סקיל שחסר לכם\nתהנו!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LYEuRFIcJL",
+   "date": "2026-02-23",
+   "display_order": 1771514507805,
+   "title": "Snatch Prep / Warm Up  MUST DO",
+   "description": "Perform 2-3 sets of 3 reps of each Exercise in prescribed order\n\n\n5-7 reps Snatch Grip Behind the Neck Press ( only with an empty Bar! )\n\nSnatch Lift Off   - https://youtu.be/8fmCc9nqZLc?si=C0Wgxquf09oMHi87\nSnatch High Pull - https://youtu.be/9WRp0a5hcb0?si=AIMDLaMjAbBttgnt\nMuscle Snatch - https://youtu.be/bJYzOo1cNqY?si=p2p4L761-SU56Vol\nSnatch Balance with 1 sec stop at the bottom - https://youtu.be/GTj9pliPP8E?si=_SJLMq_SQ-c4x6VQ\nHang Squat Snatch - https://youtu.be/IucshEToDyM?si=Da60Khsa_zyWWhSe\n\n\nstart with an empty bar and add alittle weight each set",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "rrhYNAYZXK",
+   "date": "2026-02-23",
+   "display_order": 1771514507806,
+   "title": "SNATCH",
+   "description": "2 x 2 @ 70%\n2 x 2 @ 75%\n2 x 2 @ 80%\n2 x 1 @ 75%\n\nRest 1:00-1:30 Between Sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "VPpPIrj5LF",
+   "date": "2026-02-23",
+   "display_order": 1771514774667,
+   "title": "METCON",
+   "description": "\"ScaleUp\" Online Qualifier\nFor Time:\n21-18-15-12-9-6-3\nHang DB Snatches @22,5/15 kg\nLateral Burpees Over DB \n\nTC: 12",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "0JyFD0SwON",
+   "date": "2026-02-23",
+   "display_order": 1771514774668,
+   "title": "Skill Capacity:",
+   "description": "EMOM 10:\n1: 45 sec Erg Bike @RPE7\n2: Skill of Choice\n\nSkill:\n - 10-15 Unbroken C2B\n - 3-6 RMU\n - 3-8 BMU\n - 3-6 Wall Facing SHSPU\n - 5-10 SHSPU\n - 5-10 Kipping HSPU / Defficite HSPU",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "iOzOTAkLEc",
+   "date": "2026-02-23",
+   "display_order": 1771514774669,
+   "title": "ZONE 2",
+   "description": "40-50 min easy ERG Bike",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "og9mFEG3f2",
+   "date": "2026-02-24",
+   "display_order": 1771514519456,
+   "title": "Clean and Jerk Prep / Warm up MUST DO",
+   "description": "Perform 2- 3 sets ascending weights:\n3-5 reps of each exercise:\n\n\n[Hang Clean Pull](https://youtu.be/FZaEqAAzH4Y?si=2QWNg1JvdKuojWnz)  \n[Hang Muscle Clean](https://youtu.be/IwzBi9KL6Y0?si=PlpvVVFHJ6daCX9K)  \n[Tall Squat Clean ]( https://youtu.be/X9ckJS9LSug?si=0CysKKGXsjuh2VRe) \nPress\nPush Jerk\n[Split Jerk BTN ](https://youtu.be/uvfyz6Rg0fg?si=8wB_z6rBZnAewaW0)- \n\nstart with an empty bar and add a little weight each set\nno heavy weights here! \nthis is technical warm up",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "RnVAJxwdHt",
+   "date": "2026-02-24",
+   "display_order": 1771514519457,
+   "title": "Clean and Jerk:",
+   "description": "2 x 2 @70%\n2 x 2 @75%\n2 x 1 @80%\n\n\nRest 1:00 - 1:30 Btween sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "VJar0nI3FX",
+   "date": "2026-02-24",
+   "display_order": 1771514519458,
+   "title": "METCON",
+   "description": "AMRAP 2 x 8, Alternate Between: \n\nAMRAP 1: \n1 Round of \"DT\"\nMax Burpee Over Bar in Remaining Time\n\nAMRAP 2: \n1 Round of \"Cindy\" \nMax Ab Mat Sit-ups\n\nRest 1:00 Between Sets",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "6UyceuE8tJ",
+   "date": "2026-02-24",
+   "display_order": 1771514519459,
+   "title": "Handstand Walk",
+   "description": "EMOM 10:\n1: 60 DU - UNBROKEN\n2: 10-15 m HSW",
+   "score_type": "Meters",
+   "movement_ids": [
+    "r5pboqWEba"
+   ]
+  },
+  {
+   "id": "sGhEOatwHU",
+   "date": "2026-02-24",
+   "display_order": 1771514519460,
+   "title": "Accessories:",
+   "description": "3 sets :\n15 Seated Shoulder External Rotations Each Arm\n12 -15 Band or Cable Machine Pullovers\n15 GHD Hip Extensions\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "02b2JZCPaD",
+   "date": "2026-02-24",
+   "display_order": 1771514519461,
+   "title": "Seated Shoulder External Rotations",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "8DtWwmasRe",
+   "date": "2026-02-24",
+   "display_order": 1771514519462,
+   "title": "Band Lat Pullover",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "6RJ9Qwivow",
+   "date": "2026-02-24",
+   "display_order": 1771514519463,
+   "title": "The GHD Hip Extension",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "EJGD9PuvZ9",
+   "date": "2026-02-25",
+   "display_order": 1771515821981,
+   "title": "ACTIVE RECOVERY OR REST DAY",
+   "description": "אתם מוזמנים לבצע פעילות אירובית ZONE 2\nריצה קלה ~30 - 35 דקות\nהליכה ~45-60 דקות\nאופנים ~ 45-60 דקות\n\nללכת לסאונה \n\nלבצע שיעור יוגה או פילאטיס או פשוט רצף מוביליטי ארוך ומפנק",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LRwkFSe7St",
+   "date": "2026-02-26",
+   "display_order": 1,
+   "title": "Front Squat 2x2",
+   "description": "#1: 2 reps @ 65%\n#2: 2 reps @ 65%",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "uY6aTpyhHg",
+   "date": "2026-02-26",
+   "display_order": 2,
+   "title": "Shoulder Press 2x2",
+   "description": "Shoulder Press for load:\n #1: 2 reps @ 65%\n #2: 2 reps @ 65%",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "29ZyKTQeFa",
+   "date": "2026-02-26",
+   "display_order": 2.5,
+   "title": "Handstand Hold",
+   "description": "**Choose one of the options:**\n\n**Option 1**:  8-10  mins Practice:\nThe Goal is to stand without moving for at least 10-15 sec\n\nrest 30-40 sec between attempts\n\n**Otion 2**:  Band Assisted Handstand Hold: \n3-5 sets of 20 sec \n\nrest 1:00\n\n**Option 3:**  Elbow Supported Handstand Hold:\n3-5 sets of 10-20 sec\n\nrest 1:00",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "xCDzdzjmDo",
+   "date": "2026-02-26",
+   "display_order": 2.75,
+   "title": "Elbow Supported Handstand Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "kGorVJ76OY",
+   "date": "2026-02-26",
+   "display_order": 2.8125,
+   "title": "Band-Assisted Handstand Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "UrPSLQp2a2",
+   "date": "2026-02-26",
+   "display_order": 2.875,
+   "title": "3 Drills to Improve Your Freestanding Handstand Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "DB0K3RhLLB",
+   "date": "2026-02-26",
+   "display_order": 3,
+   "title": "Conditioning",
+   "description": "Every 3:00 x 6:\n200 m Run\n12-10/10-8 Cal Fan Bike\n\nyou must have at least 50 sec rest each round\n\nif no - reduse to 150 m run and 8-6 Cal Bike",
+   "score_type": "Calories",
+   "movement_ids": []
+  },
+  {
+   "id": "DA8Qc4vwmM",
+   "date": "2026-02-26",
+   "display_order": 4,
+   "title": "Accessories",
+   "description": "3 sets:\n20 Band Face Pulls\n30 sec Pallof Press Hold Each Side\n15 Back Extensions\n\nrest 1:00",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "XPamxV7z1K",
+   "date": "2026-02-26",
+   "display_order": 5,
+   "title": "Pallof Press Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "bTvPm5POTG",
+   "date": "2026-02-26",
+   "display_order": 6,
+   "title": "Floor Back Extension",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "gSep4An4qn",
+   "date": "2026-02-26",
+   "display_order": 7,
+   "title": "Band Face Pulls",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "5VOZM2DrJo",
+   "date": "2026-02-27",
+   "display_order": 1,
+   "title": "OPEN WORKOUT 26.1",
+   "description": "???",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "guuyahS6wh",
+   "date": "2026-02-27",
+   "display_order": 1771941095860,
+   "title": "Accessories",
+   "description": "3 Sets:\n10 Lunge to Step up (each leg )\n12 Cable or Band Biceps Curls\n30 sec Side Plank ( each side )\n\nrest 1:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "8AUAYBnHEW",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "1EfdP9lG8M",
+   "date": "2026-02-27",
+   "display_order": 1771941095861,
+   "title": "Reverse Lunge to Step Up",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "XU7ZWGwwJQ",
+   "date": "2026-02-28",
+   "display_order": 1,
+   "title": "ACTIVE RECOVERY OR REST DAY",
+   "description": "אתם מוזמנים לבצע פעילות אירובית ZONE 2\nריצה קלה ~30 - 35 דקות\nהליכה ~45-60 דקות\nאופנים ~ 45-60 דקות\n\nללכת לסאונה \n\nלבצע שיעור יוגה או פילאטיס או פשוט רצף מוביליטי ארוך ומפנק",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-11-17",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "vkBDelfTlf",
+   "date": "2024-11-19",
+   "display_order": 1731906866632,
+   "title": "Clean + Front Squat + Jerk + Clean + Jerk",
+   "description": "Clean + Front Squat + Jerk + Clean + Jerk\n5x (1+1+1+1+1) @/ RPE 7\nRest 2-3 Minutes Between Sets.\nNOTES:\n- New complex this week! We are going to build this one up just like the last one.\n- Do not rush through this complex. Execute every single rep with as much focus and intention as possible.",
+   "score_type": "Load",
+   "movement_ids": [
+    "i4LHh82X5R",
+    "AV3ZJImwt6",
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "LpiylCoAkx",
+   "date": "2024-11-19",
+   "display_order": 1731906869379,
+   "title": "Clean Pull",
+   "description": "Clean Pull\n5x3 @ RPE 7\nRest 1:30 Between Sets.\nNOTES:\n- Aim to have a :03 lowering on each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "kpAHcCC2nN",
+   "date": "2024-11-19",
+   "display_order": 1731906872126,
+   "title": "METCON",
+   "description": "5 sets \n3:00 on, 1:00 Off\n10 Deadlifts @ 275/205 lbs\n100 Double unders\nMax Reps Handstand push ups in remaining time\n\nRX+ Strict Handstand Push ups",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "NzbFxvdPVF",
+   "date": "2024-11-19",
+   "display_order": 1731906872127,
+   "title": "Clean Pull",
+   "description": "Glute Ham Raise\n4x5-8\nRest 1-2 Minutes Between Sets.\nNOTES:\n- You may use a band to assist these. You should be able to get at least 5 reps.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "22X75cCYM8",
+   "date": "2024-11-19",
+   "display_order": 1731906872128,
+   "title": "ACCESSORY / EXTRA",
+   "description": "2 Sets:\n10/10 Bodyweight Cossack Squat\n:30/:30 Side Plank\n:40 Front Plank\nRest 1-2 Minutes Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "AR2RwGZWgp",
+   "date": "2024-11-19",
+   "display_order": 1731906872129,
+   "title": "SPIN BIKE INTERVALS",
+   "description": "SPIN BIKE INTERVALS.\n----\nWARM-UP.\n3:00 @ Easy Spin\n+\n3x :30 @ Fast Pace, :30 Rests\n+\nRest as needed.\n----\nMAIN SET.\n2500m @ RPE 8\n:30 Rest\n500m @ RPE 9\n1:00 Rest\n+\n2000m @ RPE 8\n:30 Rest\n500m @ RPE 9\n1:00 Rest\n+\n1500m @ RPE 8\n:30 Rest\n500m @ RPE 9\nNOTES:\n- Aim to hold a hard but sustainable pace on the longer efforts. Sprint the 500m intervals!\n- If you are using a PM5 monitor, use this link to set your monitor and track your results on \nErgData:\nhttps://workout.ergdata.com/shared/dy3|wc3f",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "FTJtjsEsLx",
+   "date": "2024-11-21",
+   "display_order": 1731906881335,
+   "title": "Dumbbell Incline Bench",
+   "description": "Dumbbell Incline Bench\n3x15\nRest 1:00 Between Sets.\n\nNOTES:\n- Find a weight that feels like an RPE 7-8 for 15 reps.\nUse this week to get comfortable with the incline dumbbell bench press.\n- Set your bench at a moderate angle, around a 30-degree angle.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "sOvd7nXhLC"
+   ]
+  },
+  {
+   "id": "DrV69H2hv2",
+   "date": "2024-11-21",
+   "display_order": 1731906881336,
+   "title": "Strict Pull-Up",
+   "description": "OPTION A.\nBand Assisted Strict Pull-Ups\n3(15-20), Unbroken\nRest 1:00 Between Sets.\nNOTES:\n- Use as little band tension as possible.\n----\nOPTION B.\nWeighted Strict Pull-Up\n6 Sets:\n6 Reps @ RPE 8-9\nRest 1:30 Between Sets.\nNOTES:\n- Adding one rep this week! Use the same weight as last week. This is the last week of adding one rep.\n- Use a challenging load that allows you to perform six explosive reps",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "MswT8rZUGB",
+   "date": "2024-11-21",
+   "display_order": 1731906881337,
+   "title": "Metcon",
+   "description": "AMRAP 13\n1-2-3-4-5-6...etc.\nRope Climb\n300m Bike Erg\n30 m D-Ball / Sandbag Bear Hug Carry @ 70/50\n\nNOTES:\n- For this AMRAP, only the rope climbs increase in reps. Start on round one with one rope climb, then two rope climbs on round two, then three on round three...etc. The bike erg and the d-ball / sandbag bear hug carry will stay the same on each round.\n- This workout should feel like a slow grind. Pick a pace on the bike erg and sandbag carry that will allow you to move consistently through rope climbs.\n- If you do not have access to a bike erg, sub in a 600m Row or Ski.\n- The d-ball / sandbag bear hug carry does not need to be unbroken, but it should not feel heavier than an RPE 8.",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "50I5upgDJb",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "JMvIjG996D",
+   "date": "2024-11-21",
+   "display_order": 1731906881338,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Seated Single Arm Dumbbell Strict Press\n3x12 // RPE 7-8\nRest :30 Between Arms and 1:00 Between Sets.\n\nNOTES:\n- Aim for the heaviest load you can handle with good technique.\n\nB) Dumbbell Rolling Tricep Extension\n3x20 // RPE 7\nRest :30 Between Sets.\n\nNOTES:\n- Use a light weight and aim to get a pump!",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "yIpWQDb9KY",
+   "date": "2024-11-21",
+   "display_order": 1731906881339,
+   "title": "Fan Bike Intervals.",
+   "description": "Fan Bike Intervals.\n3 Sets:\nTabata Fan Bike (8 x :20 Work / :10 Rest)\nRest 4:00 Between Sets.\nNOTES:\n- Increase your pace on each of the three sets.\n- Keep track of your pace and total calories",
+   "score_type": "Load",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "SqnC9uiPqs",
+   "date": "2024-11-23",
+   "display_order": 1,
+   "title": "Warm up:",
+   "description": "3:00 Spin Bike\n+\n3x\n10/10 Single Leg Kettlebell Deadlift\n10 Overhead Squat (w/ Empty Barbell)\n:30 Hollow Hold",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "1cZx24hUB0",
+    "QCUOoOtogo",
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "KAFJS2BNiH",
+   "date": "2024-11-23",
+   "display_order": 2,
+   "title": "Power Snatch",
+   "description": "Power Snatch\n5x3 @  RPE 7 @660-70%\nRest 1:30 Between Sets.\n\nNOTES:\n- These are not meant to be touch-and-go sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "kktEzwFtdg",
+   "date": "2024-11-23",
+   "display_order": 3,
+   "title": "Front Squat",
+   "description": "Front Squat\n3x3 @ RPE 6\nRest 1:30 Minutes Between Sets.\n\nNOTES:\n- Focus on your positions today and maintaining control through all phases of the squat.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "vNv56t6vXw",
+   "date": "2024-11-23",
+   "display_order": 4,
+   "title": "Conditioning",
+   "description": "EMOM 28\n1: 15/12 Cal Row\n2: 8-10 Thruster @ 95/65lbs\n3: 14/11 Cal Fan Bike\n4: 8 Kettlebell Swing + 4 Box Jump Over @ 24/20\"\n\nNOTES:\n- The row and ski erg minutes should take no longer than :45 to complete, scale accordingly.\n- Each round of thrusters should be unbroken.\n- On the kettlebell swings, use the heaviest weight that still allows you to start each set right away for unbroken reps.\n- The kettlebell swings and box jump-overs should be done in under :40.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "QCUOoOtogo",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "k6qV2U3ffc",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "cxMP49Djhp",
+   "date": "2024-11-23",
+   "display_order": 5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) D-Ball / Sandbag Bear Hug Hold\n5x1:00\nRest 1:00 Between Sets.\n\nNOTES:\n- Use the heaviest d-ball / sandbag that you can maintain for unbroken sets.\n\nB) Dumbbell Hammer Curl\n2x30 @ RPE 6-7\nRest 1:00 Between Sets.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  }
+ ]
+}

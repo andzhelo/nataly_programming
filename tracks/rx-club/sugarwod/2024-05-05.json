@@ -1,0 +1,415 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-05-05",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "u3SxCW4MA0",
+   "date": "2024-05-05",
+   "display_order": 1714852136758,
+   "title": "Warmup",
+   "description": "A. General\nEMOM x 9\n1. 60sec Bike or Row\n2. 10-15 Wall Balls\n3. 7 Muscle snatch @ 45/35 lbs\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\nSpinal Erectors / Lats\n\nB2.  PVC shoulder dislocates\n(https://youtu.be/j32NGzthtN4)\n10-12 Repetitions\n-As close as you can while maintaining lock out and retraction in the scap\n\nC. Specific\n2 sets\n10/10 single leg banded abduction*\n(https://youtu.be/PKK0Ar8gvK8)\n10 single leg glute bridge\n5 jumping squat",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "fQG7uhGbq8",
+    "dupvA5i5XK",
+    "V8IKIUyIbF",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "9Hz8An7tSf",
+   "date": "2024-05-05",
+   "display_order": 1714852136759,
+   "title": "Front Squat",
+   "description": "Front Squat\n2 RM + 20% bands",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "QU2lDkN6C7",
+   "date": "2024-05-05",
+   "display_order": 1714852136760,
+   "title": "Metcon",
+   "description": "EMOM 10\nMin 1- 5 Snatch @ 70-75%\nMin 2- 10 GHD sit-ups",
+   "score_type": "Load",
+   "movement_ids": [
+    "rk5ieibGyP",
+    "Y8GAfTQjlS",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "52X8kzwrec",
+   "date": "2024-05-05",
+   "display_order": 1714852136760.5,
+   "title": "Metcon",
+   "description": "5 rounds for time\n\nRun 400m\n20 Dumbbell snatch @ 1 x 50/35lbs\n100' Dumbbell front rack walking lunges @ 1  x 50/35 lbs",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "74pLKvmDde",
+   "date": "2024-05-05",
+   "display_order": 1714852136761,
+   "title": "Core Accessory",
+   "description": "3 sets\n10 Weighted hollow up \n30 seconds Weighted hollow body rocks\n30 seconds Weighted Hollow body hold\nRest 30-60 seconds",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "BZts5PhctD",
+   "date": "2024-05-05",
+   "display_order": 1714852136762,
+   "title": "Accessory",
+   "description": "Barbell Step up on box (back rack) @hip above 90°\n3 x 10/leg\nRest 60 seconds after the second leg\n\nAs heavy as possible",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "BSrai9dqTn",
+   "date": "2024-05-05",
+   "display_order": 1714852136763,
+   "title": "Hollow Ups",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "3kexMIVUc7",
+   "date": "2024-05-05",
+   "display_order": 1714852136764,
+   "title": "Double DB/KB Hollow Rocks",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "PEYt2lPLyd",
+   "date": "2024-05-05",
+   "display_order": 1714852136765,
+   "title": "Weighted Hollow Body Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "KzLsoLltxP",
+   "date": "2024-05-06",
+   "display_order": 1714852205453,
+   "title": "Warmup",
+   "description": "A. General\nAMRAP 10 @ very easy\n200m Ski\n10 inchworm push ups\n3 Ring dips + 3 sec ring support hold after each rep\n10 wall balls 20/14 lbs\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\nLats or pecs\n\nB2. Banded wrist rocks\n2 sets of 10 -15reps/wrist, hold every stretch for 2-3 seconds\n(https://www.facebook.com/SquatUniversity/videos/1240319159401488/?v=1240319159401488)\n\nC. Speciic\nBench press ramp up\n3 sets\n5 bench press\n5 Pause ring rows",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "0iEN0POtE5",
+   "date": "2024-05-06",
+   "display_order": 1714852205454,
+   "title": "Overhead Squat 5x5",
+   "description": "Overhead Squat for load:\n #1: 5 reps\n #2: 5 reps\n #3: 5 reps\n #4: 5 reps\n #5: 5 reps",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "GVwV94GSRA",
+   "date": "2024-05-06",
+   "display_order": 1714852215526,
+   "title": "Metcon",
+   "description": "E3MOM x 4\n75 Double Unders\n15 Deadlifts @ 225/155 lbs\nMax rep air squats in remaining time",
+   "score_type": "Reps",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "r3CNRMSi8j",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "9WEt2mxwA8",
+   "date": "2024-05-06",
+   "display_order": 1714852269237,
+   "title": "Gymnastics",
+   "description": "Weighted Pull-up\n\n5 x 8 reps @heavier than last week",
+   "score_type": "Load",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "AXDDV9dRjs",
+   "date": "2024-05-06",
+   "display_order": 1714852277195,
+   "title": "Accessory",
+   "description": "3 sets\n10/10 Tall kneeling Iso-dynamic DB Press\nMax effort bottom of ring dip hold\n\nHold non-moving DB at forehead height\nRest 60-90 seconds between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "sx6VooHfKe",
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "4CfDnfpeNJ",
+   "date": "2024-05-06",
+   "display_order": 1714852285987,
+   "title": "Tall Kneeling Single Arm DB Press (with Hold At Forehead Level)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "mQ8vZWFHQ4",
+   "date": "2024-05-06",
+   "display_order": 1714852291535,
+   "title": "Accessory",
+   "description": "GHD W hold\n5 x 30 seconds\nRest as little as possible between sets",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "gw4u6WL4va",
+   "date": "2024-05-06",
+   "display_order": 1714852297384,
+   "title": "GHD Hip Extension + W Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "gmiRJpUdha",
+   "date": "2024-05-07",
+   "display_order": 900000,
+   "title": "Warm up",
+   "description": "50/40 Cal AB\n\ninto:\n3 Rounds:\n10/10 Side Lunge with DB Deadlift\n8 Inch Worms\n\ninto:\n1 min Empty Bar Overhead Squat Hold",
+   "score_type": "",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "k1Y8nokrha",
+    "XavuhsO1R0",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "HNPykrHQNB",
+   "date": "2024-05-07",
+   "display_order": 900000.5,
+   "title": "Skill",
+   "description": "Strict Hanging Knee to Elbows\n3x8-10\nRest 1:00\n\nKipping knee to elbow\n3x10\nRest 1:00\n\nAMRAP 5\nToes to Bar @ Add your Personal score",
+   "score_type": "Reps",
+   "movement_ids": [
+    "Pg1LdTYhM3"
+   ]
+  },
+  {
+   "id": "AJIw3zKwlU",
+   "date": "2024-05-07",
+   "display_order": 900001.5,
+   "title": "Snatch + Snatch Pull + OHS",
+   "description": "1) Snatch:\n5x1.1 @ Add your Personal Record below / RPE 6.5\nRest 10 sec between reps.\nRest 2:00 Between Sets.\n\n2) Snatch Pull:\n3x5 @ Add your Personal Record below / RPE 7\nRest 1:30 Between Sets.\n\n3) Overhead Squat:\n3x5 @ Add your Personal Record below @32X1 / RPE\n7\nRest 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "jnKBaLOwU5",
+   "date": "2024-05-07",
+   "display_order": 900002.5,
+   "title": "Metcon",
+   "description": "For Time:\n42/35 - 30/25 - 18/15\nCal Row\n21-15-9\nPush Press\nRound 1 = 52/35 kg\nRound 2 = 70/47.5 kg\nRound 3 = 82.5/60 kg\n\nRX+ = 135-185-225/ 95-135-155 lbs\nTime Cap: 14 Minutes",
+   "score_type": "",
+   "movement_ids": [
+    "FrQGIrNfi8",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "FP7dkkAMtn",
+   "date": "2024-05-07",
+   "display_order": 900003.5,
+   "title": "Accessories",
+   "description": "3-4 Sets:\n15 GHD Back Extensions @2020\n0:30/0:30 Single Arm KB or DB Farmers Carry\n72/50lbs\n100' Bodyweight Walking Lunge\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP",
+    "QCUOoOtogo",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "x6yJk1TfbM",
+   "date": "2024-05-07",
+   "display_order": 900004.5,
+   "title": "Run",
+   "description": "BONUS\nRunning Intervals\nPRIMER.\n400m @ Easy Pace\n300m @ Predicted Mile Pace\n200 @ Easy Pace\n200 @ Predicted Mile Pace\n---—\nRest as needed\n----\nMAIN SET.\n1600m Time Trial\nRest as needed\nーーーー\nCOOL DOWN.\n400m @ Easy Pace",
+   "score_type": "",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "uWOmqzHFuo",
+   "date": "2024-05-08",
+   "display_order": 1715081725194,
+   "title": "Active Rest Day",
+   "description": "30-40 mins Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "nqVOuvBZW5",
+   "date": "2024-05-09",
+   "display_order": 900000,
+   "title": "Warm up:",
+   "description": "3Х\nWarm up:\n15/12 Cal Row\n15 Med- Ball Jumping Air Squats\nhttps://youtu.be/UwehokMRJ6A?si=X5FB8RviDqsxDdkW\n10-15 Push-Ups\n:40 Front Plank",
+   "score_type": "",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "9iu4RgWSgi",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "HNjvEKj1PZ",
+   "date": "2024-05-09",
+   "display_order": 900000.5,
+   "title": "Ring Muscle up Skill",
+   "description": "3 Sets:\nRing Support Hold :15-:30\nBottom Of Ring Dip Hold :15-:30\n\n\nRing Kip Swing\n3x10\nRest 1:00 Between Sets.\n\n\nAMRAP 5\nMuscle Ups @@Add your Personal Record below\n\nNOTES:\n- Start with small sets that you know you can do. The goal is to get as many quality reps in as possible.\nOnce you get a score you can enter it into the benchmark linked here.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "QCUOoOtogo",
+    "V8IKIUyIbF",
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "Wor4lTBB3b",
+   "date": "2024-05-09",
+   "display_order": 900000.75,
+   "title": "Tempo Pause Squat",
+   "description": "3x5 @ 24x1 Tempo / RPE 8\n\n- Rest 2-3 minutes between sets.\n- \"24x1\" means that you will take :02 to descend, :04 at the bottom, stand fast, and :01 at the top to reset between reps.\n\nNOTES:\n- Hit a weight that leaves about two reps in the tank. If the prescribed weight range is too high, then lower the weights to something more appropriate for you.\n- Keep the pause at full depth. Stand straight up from the bottom of each rep with no bounce.",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "TFahKiTSKo",
+   "date": "2024-05-09",
+   "display_order": 900000.875,
+   "title": "Bench Press",
+   "description": "1x10 @ Add your Personal Record below / RPE 6\n3x8 @ Add your Personal Record below / RPE 7.5\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "qeGZaCu3mF",
+   "date": "2024-05-09",
+   "display_order": 900000.9375,
+   "title": "Metcon",
+   "description": "5 Rounds for Time:\n15 Lateral Burpee Over Bar\n9 Snatch @60/42.5 kg\n\nTime Cap: 12 Minutes\n\nNOTES:\n- You may do the snatch any style. Try to do a mix of touch-and-go and singles.\n- Each round of this workout should get faster.",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "ZveQpn6ikj",
+   "date": "2024-05-09",
+   "display_order": 900000.96875,
+   "title": "Accessory",
+   "description": "A) Dumbbell Bench Press\n3x15\nRest 1:30 Between Sets.\n\nB) Barbell Bicep Curl\n3x12\nRest 1:00 Between Sets.\n\nC) Banded Tricep Extension\n100 Reps in as few sets as possible.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "Y7mwB6Quls",
+   "date": "2024-05-10",
+   "display_order": 1,
+   "title": "Warm up",
+   "description": "WARMUP\n5-10-15-10-5\nCal Row\nCal Fan Bike\n----\nEMOM 5\n5 Romanian Deadlifts @ Empty Barbell\n3 Box Jumps\n- Focus on being as explosive as possible on the box jumps.",
+   "score_type": "",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "r3CNRMSi8j",
+    "9ikRXPXECL",
+    "oX0rshIcNC"
+   ]
+  },
+  {
+   "id": "tI83SxsUgO",
+   "date": "2024-05-10",
+   "display_order": 2,
+   "title": "Power Clean and Push Jerk",
+   "description": "Power Clean + Power Jerk\nEvery 2:00 x 10:00 (5 Sets)\n5(3+1) @70-75%\n\n- These should NOT be touch-and-go reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "UIXa0O9TJ1"
+   ]
+  },
+  {
+   "id": "DCUEkcfzoE",
+   "date": "2024-05-10",
+   "display_order": 3,
+   "title": "Deadlift",
+   "description": "@ RPE 7\n1x15 @ RPE 6.5-7.\n1x12 @ RPE 6.5-7.\n1x8 @ RPE 6.5-7.\n3x6 @ RPE 6.5-7.\nRest 1:30 - 2:00 Between Sets.\n\nNOTES:\n- Every set should feel around RPE 6.5-7.\n- These can be done touch-and-go but do not bounce the bar off of the floor.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "E2WMxZdLnu",
+   "date": "2024-05-10",
+   "display_order": 4,
+   "title": "Accessory",
+   "description": "A) Banded Hamstring Curls (Prone)\n3x20\nRest 1:30\n----\nB) AMRAP 5, For Quality:\n30 Flutter Kicks (Total)\n:30/:30 Side Plank\n\nNOTES:\n- This is an AMRAP, but try to still complete each round unbroken. If you need to rest, try to only do so at the end of a round.",
+   "score_type": "Load",
+   "movement_ids": [
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "ZMwLjelgym",
+   "date": "2024-05-10",
+   "display_order": 5,
+   "title": "Optional Work",
+   "description": "For Time:\n100 Alternating Pistols\nTime Cap: 7 Minutes\n\nNOTES:\n- Scale to air squats if you would struggle to do 50 pistols within the time cap.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "hJS94DdaBx"
+   ]
+  },
+  {
+   "id": "UGxlkWzg3j",
+   "date": "2024-05-11",
+   "display_order": 1,
+   "title": "Rest Day",
+   "description": "Rest Day",
+   "score_type": "",
+   "movement_ids": []
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-02-16",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "Lwe9QBCjS1",
+   "date": "2025-02-16",
+   "display_order": 1739597693778,
+   "title": "Skill",
+   "description": "A) 5-10:00 Practice:\nPirouettes OR Handstand Walk\n\nNOTES:\n- If you are proficient with a handstand walk, then set out a 25ft course with a mark at 12.5ft. Aim to add in a pirouette at this mark. Once you get comfortable here, add in 1-2 more pirouettes into the 25ft. Rest at least :30 between all attempts.\n- If you are not very proficient with a handstand walk, then try to first practice by accumulating 5-10ft unbroken sections. Be sure to rest at least :30 between attempts.\n- If handstand walking is very difficult for you, practice wall walks or handstand walks around a box with the toes set on top of a box.\n\nB) EMOM 12\n1: :30 Wall Facing Handstand Hold\n2: :30 Handstand Hold Against the Wall\n3::30 Front Plank",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "r5pboqWEba",
+    "2WuuNT5OfQ"
+   ]
+  },
+  {
+   "id": "1DQqSDqn4J",
+   "date": "2025-02-16",
+   "display_order": 1739597696316,
+   "title": "Snatch",
+   "description": "PRIMER. (Optional)\nSnatch Halting Deadlift + Floating Snatch + Squat\nSnatch w/ Pause in Receiving Position + Snatch\nBalance + Overhead Squat\n\n3x(1+1+1+1+1) @ 40-50% // RPE 5\n\nRest 1:00 Between Sets.\n\nNOTES:\n- Only include the primer if you are trying to dial in your weightlifting and have the time to do so.\n- Reset at the ground after the floating snatch.\n\nA) Squat Snatch + Floating Snatch:\n4 x(1+1) @ 70-80% // RPE 7-8\n\nNOTES:\n- You can hang on to the bar here, but be sure to be controlled as you lower into position before the floating snatch. If you would like to reset between reps, that is okay too.\n- On the floating snatch, try to get the plates on the bar as close to the ground as possible without actually touching the ground. Pause in the lowest position for a moment, then begin the floating snatch rep.\n\nB) Snatch:\n3x1 @ 80-85% // RPE 8\nNOTES:\n- Make this the most quality single you can manage.\nStart controlled off of the ground, keep proper positions, and accelerate the bar once you pass the knee.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "3t3FYKFHhy",
+   "date": "2025-02-16",
+   "display_order": 1739597697585,
+   "title": "Snatch Deadlift",
+   "description": "Snatch Deadlift\n2x5 @ 80-90% // RPE 8\nRest 1:00 Between Sets.\n\nNOTE:\n- Use straps if you have them here. The focus should be on proper positioning with the barbell and body.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "Px9D3pyMHs",
+   "date": "2025-02-16",
+   "display_order": 1739597698219.5,
+   "title": "Back Squat",
+   "description": "Back Squat\n3x3 @ 70-80% // RPE 7\n\nRest 2:00 Between Sets.\n\nNOTES:\n- Be sure to stay controlled in the descent of each rep, then explode to stand up.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "7PdFCq2obx",
+   "date": "2025-02-16",
+   "display_order": 1739597698854,
+   "title": "METCON",
+   "description": "Amrap 12\n12 Toes to Bar\n12 Wall Balls @ 20/14lbs\n12/9 Calorie Fan Bike\n\nNOTES:\n- Pick a pace you can maintain for unbroken sets on the wall balls and hard bikes.\n- If you need to break up the toes-to-bar, that is okay, but if you will be breaking more than twice per set, scale down the movement or the number of reps.\n- Focus on the transitions between movements. The faster you can make these, usually, the better your score will be!",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "q4GqqIe73d",
+   "date": "2025-02-16",
+   "display_order": 1739597698855,
+   "title": "ACCESSORY / EXTRA",
+   "description": "3 Sets:\n:40-1:00 Sorenson Hold\nRest 1:00 Between Sets.\nNOTES:\n- Try to be as flat with your body positioning as possible. Keep the glutes squeezed and hips open.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "D9HQ9nbqh9",
+   "date": "2025-02-17",
+   "display_order": 1,
+   "title": "Warm up",
+   "description": "3 Sets:\n15/12 Cal Fan Bike\n20 Bodyweight Lunge\n10/10 Single Arm Dumbbell Upright Row (Light)\n30 Flutter Kicks (Total)",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "h9vPo5JYw6",
+    "9ikRXPXECL",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "GBmMsGPAxB",
+   "date": "2025-02-17",
+   "display_order": 2,
+   "title": "Skill",
+   "description": "Chest to Bar.\nOPTION A:\n\nEMOM 12:\n8/6 Cal Fan Bike\n5-8 Unbroken Chest to Bar\n\nNOTES:\n- If you max unbroken set of chest-to-bar would be twenty or more reps unbroken, choose this option. If not, then move to Option B.\n- Hit the fan bike at a pace to consistently finish under :20.\n- Try to sustain the same amount of unbroken chest-to-bar each time.\n\nOPTION B:\n\nEMOM 16\n1: :10-:20 Chest to Bar Hold\n2: 10-15 Bar or Ring Kip Swings\n3: 10-15 Band Assisted Chest to Bar\n4: Rest\n\nNOTES:\n- If your max unbroken set of chest-to-bar would be less than twenty reps, choose this option.\n- If you don't have the strength for a chest to bar hold, add a box for support behind you to keep your toes on the box for a foot-assisted chest-to-bar hold.\n- Use a band or bands that would allow for unbroken\nreps.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "1m5Z5wmyA0",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "IHBbBMjesn",
+   "date": "2025-02-17",
+   "display_order": 3,
+   "title": "Bench Press",
+   "description": "A) Bench Press\n\n3x3 @  // RPE 7\nRest 1:00 Between Sets.\n-——-\n\nB) 2 Sets:\nMax Rep Push-Up w/ :01 Pause At Top\nNOTES:\n- If you have to pause for longer than :01 at the top or bottom of each rep, or if your body shape starts to deviate from normal, cut the set off. Take these sets to either technical failure, where your form breaks down, or physical failure, where you cannot physically perform another rep with only a :01 pause.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "xBy9MWFhYM",
+   "date": "2025-02-17",
+   "display_order": 4,
+   "title": "METCON",
+   "description": "EMOM 20:\n\n1: 15/12 Cal Row\n2: 50 Double Under\n\nNOTES:\n- Cap all minutes at :50. If needed, adjust the calorie or rep count down for each minute to ensure that you are always able to be done well under this cap.\n- Be sure to take notes on how this piece went: your average time to complete each minute, how many times you broke on the double unders, and how this felt in general on a 1-10 in terms of the effort you gave and the difficulty are all relevant. This piece will be revisited later in the program.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "exf8biDqyp",
+   "date": "2025-02-17",
+   "display_order": 5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Dumbbell Elbowing Row\n3x12/12 @ RPE 7\n\nRest 1:00 Between Sets.\n\nB) Barbell Curl\n- Accumulate 100 reps with the empty barbell in as few sets as possible",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "rBTJKoxSBo",
+   "date": "2025-02-18",
+   "display_order": 0,
+   "title": "Warm up:",
+   "description": "3 Sets:\n15/12 Cal Fan Bike\n10/10 Half Kneeling Single Arm Strict Press\n15 Banded Face Pull\n10 Toes Up Dumbbell RDL",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "h9vPo5JYw6",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "bwIXvIzc9A",
+   "date": "2025-02-18",
+   "display_order": 1,
+   "title": "Clean and Jerk",
+   "description": "PRIMER. (Optional)\nHalting Clean Deadlift + Floating Clean Pull + Floating Squat Clean + Squat Clean + Power Jerk + Split Jerk 3x(1+1+1+1+1+1) @40-50 % // RPE 5\nRest 1:00 Between Sets.\n\nNOTES:\n- Only include the primer if you are trying to dial in your weightlifting and have the time to do so.\n- Reset the bar on the ground after the floating squat clean.\n- Reset at the shoulders between jerks.\n\nA) Squat Clean + Floating Squat Clean + Split Jerk + Squat Clean\n3x(1+1+2+1) @60-70% // RPE 7\nRest 1:30-2:00 Between Sets.\n\nNOTES:\n- You can hang on to the bar after the squat clean for the floating squat clean if you would like to, but drop the bar to reset at the ground after the split jerk.\n\nB) Squat Clean + Split Jerk\n2x(2+1) @ 60-70% // RPE 7\nRest 1:30 Between Sets.\n\nNOTES:\n- Reset at the ground between squat cleans.\n- On the split jerk, be sure to drive extra hard from the hips and legs, as they will be more fatigued than normal from the extra clean rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X",
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "ofYI5mcrxc",
+   "date": "2025-02-18",
+   "display_order": 2,
+   "title": "Front Squat",
+   "description": "Front Squat\n3x3 @70-80%// RPE 7\nRest 2:00 Between Sets.\n\nNOTES:\n- Be sure to stay controlled in the descent of each rep, then explode to stand up.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "ArvaGt8QkF",
+   "date": "2025-02-18",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "For Time:\n21 Snatch @ 95/65lb | 42,5/30kg\n20 Box Jump Over w/ Step Down @ 24/20\"\n15 Snatch @ 115/75lb |52,5/35kg\n20 Box Jump Over w/ Step Down\n9 Snatch @ 135/95lb | 60/42,5kg\n20 Box Jump Over w/ Step Down\n\nTime Cap: 12 Minutes\n\nNOTES:\n- The snatches can either be done as power snatches or squat snatches\n- Be careful not to go too big on the first set when the bar is light. Most athletes will need to break these reps up from the start to manage the fatigue of this workout, even opting for singles if they can be cycled quickly. Take note of how far back you step away from the bar between reps/sets if you do move.\n- On the box jump overs, aim to find a steady cadence to move from the start. For the last 20 reps,\ntry to pick up the pace here!",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "0DO0oTxiCd",
+   "date": "2025-02-18",
+   "display_order": 4,
+   "title": "ACCESSORY / EXTRA",
+   "description": "3 Sets:\n20 Russian Kettlebell Swings @ 53/35lb; 24/16kg\n100ft Bodyweight Lunge\n\nRest 1:00 Between Sets.\n\nNOTES:\n- Keep the swings unbroken and take as little transition time as possible between movements.\nScale back if needed.\n- Keep the lunges very controlled, standing up all the way between reps and being sure to keep an upright torso.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "LKTuo1zvJ1",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "gd5r4Y9Twn",
+   "date": "2025-02-18",
+   "display_order": 5,
+   "title": "Fan Bike: 10:00 Test.",
+   "description": "Fan Bike: 10:00 Test.\n\nPRIMER.\n2:00 @ Easy Spin\n-immediately into-\n2 Sets:\n:30 @ Moderate Pace\n:30 @ Hard Pace\n1:00 @ Recovery Pace\nNo Rest Between Sets.\nRest as needed, then...\n--==\nMAIN SET.\n10:00 Max Cal Fan Bike\n\nNOTES:\n- Retesting this from a few weeks ago. If you did this before, try to start at or only slightly above your previous pace, and speed up after halfway if you are feeling good\n- Take notes of your average cadence/RPMs, average wattage, and calorie score. Record your results here:\n\n- If you have been following along with this progression, compare your score to January 15th,",
+   "score_type": "Calories",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "6keXqySKrL",
+   "date": "2025-02-19",
+   "display_order": 1,
+   "title": "Run Intervals.",
+   "description": "Run Intervals:\n\n1200m\nRest 1:30\n+\n400m\nRest 2:00\n+\n+\nRest 1:00\n+\n400m\n3 x 200m, :30 Rests\n\nNOTES:\n- Complete these sets at an increasingly faster pace.\nStart around Add your Personal Record below/100m for the 1200m, then try to get a little faster with each new run after that. On the 400m, try to hold the same pace that you finished with on your 200m.\n- Try to stay upright and walking during the rest between each set.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "AamvHI5nve",
+   "date": "2025-02-20",
+   "display_order": -1,
+   "title": "Warm up:",
+   "description": "3 Sets:\n15/12 Cal Row\n10 Toes Up RDL\n10/10 Half Kneeling Single Arm Strict Press\n5 Inchworm",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "Yoke2TjHUx",
+   "date": "2025-02-20",
+   "display_order": 0,
+   "title": "Skill",
+   "description": "Muscle Up Skill:\n\nPART A:\n\n3 Sets:\n15-:30 Ring Support Hold :15-:30 Ring Dip Bottom Hold\nRest 1:00 Between Sets.\n\nNOTES:\n- For the ring support hold, lock your arms out as straight as possible and turn your hand out to the side. Think about keeping your pinkies tight to your body.\n- Hold tension in the bottom of the ring dip hold.\nDon't just hit the bottom and rest in that position.\n\nPART B:\n\nRing Kip Swing\n3x10\nRest 1:00 Between Sets.\n\nNOTES:\n- Hold a t-shirt between your feet and focus on keeping your legs long in the backswing.\n- Hold tension in your core.\n\nPART C:\nOption 1:\n\n30 Ring Muscle-Up, For Time\n\nNOTES:\n- The goal is to finish in the fastest time possible, so be sure not to start with a set so big that you are forced to take long rests in the back half of these - reps. Short, manageable sets will be the way for most people here.\n- If you can't perform at least three muscle-ups consistently unbroken, then move to Option 2.\n- Cap this at 10:00. Note down your time if you finish or how far you got if you were capped.\n- If you have been following along with this progression, compare this to January 17th, 2025.\n\nOption 2:\n\n10:00 Practice:\nRing Muscle-Up\nNOTES:\n- Take time to either practice your turnover on the low rings, strict ring muscle-up negatives, or to attempt reps on the high rings. Work like this can be slow and frustrating, but it is vital for working towards this skill.",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "eZq1forjyh",
+   "date": "2025-02-20",
+   "display_order": 1,
+   "title": "HSPU",
+   "description": "A) EMOM 8\n1: 200/180m Row @ ~Add your Personal Record below/500m\n2: :30 Max Rep Kipping Handstand Push-Up *\n\n* OPTIONS:\n\nAdvanced: Deficit Handstand Push-Up @ 2-4\" Deficit\nNormal: Kipping Handstand Push-Up\nScaled: Kipping Handstand Push-Up w/ AbMat OR\nDumbbell Push Press\n\nNOTES:\n- Be sure the rows can be finished in :40-45 each set.\nIf not, then scale back the distance.\n- Every other minute of this EMOM, perform :30 of max reps at whichever handstand push-up option gives you the best chance of working for the entire :30.\n- Moving to an easier option is okay if your rep speed or rep quality decreases in this EMOM.",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "jwTsqmfy5A",
+   "date": "2025-02-20",
+   "display_order": 2,
+   "title": "HSPU DROPSETS:",
+   "description": "DROPSETS.\n3 Sets of 1:00 Work...\n- Strict Handstand Push-Up\n- Dumbbell Strict Press @ RPE 7\n- Overhead Ab Plate Hold @ 25/10lb\n- Alternating Superman\n\nPerform 2:00 Fan Bike @ Recovery Pace After Each Set.\n\nNOTES:\n- Each set should be 1:00 of total work. Start at the top of the list, and move to the next movement only if your rep speed or your rep quality decreases, or if you hit failure. It is okay if you do not go through every movement on the list before the minute is up.\n- After the 1:00 is done, perform 2:00 at an easy pace on the fan bike. Move straight from the fan bike into the next set.\n- If you don't have strict handstand push-ups, start with 3-5 strict handstand push-up negatives with a :02 descent.\n- if you get to the alternating supermans, keep performing this movement until the minute is up.",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "QyaYf42Q1x",
+   "date": "2025-02-20",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "AMRAP 10\n20 Shuttle Run\n30 Thruster @ 95/65lbs | 42ת5/30kg\n40 Bar Facing Burpee\n50 Toes to Bar\n\nNOTES:\n- This AMRAP reflects quite a few past workouts from the CrossFit Open, where many athletes will not make it through to begin a second round. Pace well from the start, knowing that fatigue will set in at some point.\n- Count each shuttle run \"rep\" as 25ft down + 25ft back. Touch the ground on either side as you turn.\n- The thruster weight should be light enough to take risks and push for big sets, potentially unbroken for some athletes. Scale back the weight to allow for this if needed.\n- Go with small sets with short rests on the toes-to-bar if you make it there with ~1:00 left or longer.",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "hIUGDadPjG",
+   "date": "2025-02-20",
+   "display_order": 4,
+   "title": "Extra/ Accessory:",
+   "description": "A) Dumbbell Lateral Raise:\n\n4x12 @ RPE 8\nRest 1:00 Between Sets.\n\nNOTE:\n- Choose a weight that would leave around two reps in the tank for a set of eight.\n----\nB) Band Assisted Strict Pull-Up\n5x15\nRest 1:30 Between Each Set.\n\nNOTES:\n- Use a band (or bands) that will allow you to stay unbroken for all 15 reps.\n- Try not to bounce out from the bottom of your reps.\nStay in control of the entire set.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "wiL2BKrI4q",
+   "date": "2025-02-20",
+   "display_order": 5,
+   "title": "ROWING INTERVALS:",
+   "description": "Rowing Intervals:\n\n4:00 @ 02:15 - 02:06/500m; 22 S/M\nRest 1:00\n+\n2 Sets:\n4:00 @ 02:10 - 02:04/500m; 22 S/M\nRest 1:00 Between Sets.\n+\n4:00 @ 02:08 - 02:00/500m; 22 S/M\nRest 1:00\n+\n4:00 @ Hard Pace (RPE 8+); 22 S/M\n\nNOTES:\n- Perform each set at a threshold pace that allows you to stay at or under the designated strokes per minute.\n- If you didn't do the 30:00 row test, try to hold the hardest sustainable pace while staying at or below the designated strokes per minute. Each set should ideally be at the same pace until the end, so it is okay if the sets start off feeling easy.\n- If you are using a PM5 monitor, use this link to set your monitor and track on ErgData: https:// workout.ergdata.com/shared/zghczgaq",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "d0M4xA7ys8",
+   "date": "2025-02-22",
+   "display_order": 1,
+   "title": "Warm up:",
+   "description": "3:00 Fan Bike\n3:00 Ski\n+\n3 Sets:\n10/10 Side Lunge w/ Dumbbell Deadlift @\n2x15/2x10lbs\n50 Single Under",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "k1Y8nokrha",
+    "h9vPo5JYw6",
+    "gDzBvkfmnw",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "oXSOdJjnmv",
+   "date": "2025-02-22",
+   "display_order": 2,
+   "title": "Intervals",
+   "description": "Every 1:30 x 12:00... (8 Sets)\n\n:40 Fan Bike @ RPE 8\n2 Touch & Go Power Snatch @60-70% // RPE 7\n\nNOTES:\n- Use a weight that would allow you to transition immediately off of the bike into a quick touch-and-go\nset.\n- On the power snatches, be sure to keep the back flat and focus on maintaining consistent mechanics off of the floor for BOTH reps.\n- Aim to bike somewhere just slower than your 10:00\npace (i.e. 55rpm) or at a hard effort, but a few levels below a true sprint.",
+   "score_type": "Load",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "yJIlK7TN6q",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "q30NVzIhdU",
+   "date": "2025-02-22",
+   "display_order": 3,
+   "title": "Deficit Deadlift",
+   "description": "Every :30 x 10:00... (20 Sets):\n\n1 Deficit Deadlift @70-80%// RPE 6-7*\n* For the deficit, stand on a riser or bumper plates \n\nNOTES:\n- With so many single reps here, take the time to ensure you are setting up consistently for each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "K35heks6xS",
+   "date": "2025-02-22",
+   "display_order": 4,
+   "title": "Conditioning",
+   "description": "EMOM 40\n1: 14/11 Cal Fan Bike\n2: 1-2 Rope Climb\n3: 14/11 Cal Ski Erg\n4: 7,5 m Dumbbell Overhead Walking Lunge @ 2x50lb/ 2x35lb | 22.5/15kg\n\nNOTES:\n- Be sure the fan bike and ski can be completed consistently under :45 each time.\n- The rope climbs should be able to be done under :30.\n- For the dumbbell overhead walking lunge, be sure to use a pair of dumbbells that you are confident you can go unbroken with each time.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "IFGcyIp36i",
+    "tweYc4S9x1",
+    "h9vPo5JYw6",
+    "50I5upgDJb",
+    "k6qV2U3ffc",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "Li4LCsEHAw",
+   "date": "2025-02-22",
+   "display_order": 5,
+   "title": "Extra/ Accessory:",
+   "description": "A) Reverse Hyper\n3x15 @ RPE 7\nRest 1:00 Between Each Set.\n\nNOTES:\n- If you don't have access to a reverse hyper, substitute in 3x(5-10) Rounded GHD Back Extension.\n\nB) D-Ball / Sandbag Good Morning 3x15 @ 100/70lb; 45/30kg\nRest 1:00 Between Each Set.\n\nNOTES:\n- The goal is to perform controlled, unbroken reps on these sets. Scale to a weight that allows for this if needed.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP",
+    "8OZDlHAExp",
+    "Zsg2tpPwwB"
+   ]
+  }
+ ]
+}

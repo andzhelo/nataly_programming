@@ -1,0 +1,358 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-05-19",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "OyGzG6vzuY",
+   "date": "2024-05-19",
+   "display_order": 1715773049576.25,
+   "title": "Double Unders",
+   "description": "3 Sets:\n15 Slow, Steady Single Unders\n15 Fast Single Unders\n15 Double Unders\n\nRest 2:00\n\nAMRAP 3\nMax Unbroken Sets of 10-25 Double Unders\n\nNOTES:\n- The goal today is to practice unbroken sets. Choose an amount of reps that you can do unbroken with confidence.",
+   "score_type": "Load",
+   "movement_ids": [
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "EsPtILF6uk",
+   "date": "2024-05-19",
+   "display_order": 1715773049576.5,
+   "title": "Back Squat",
+   "description": "Back Squat\n1x8 @RPE 6\n1x8 @  RPE 6\n1x6 @  RPE 7\n1x6 @  RPE 8\nRest 2:00-3:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "JRQcjkqzi4",
+   "date": "2024-05-19",
+   "display_order": 1715773049576.75,
+   "title": "Front Squat",
+   "description": "Front Squat\n1x5 @ Add your Personal Record below / RPE 5.5\n1x5 @ Add your Personal Record below / RPE 6.5\n1x5 @ Add your Personal Record below / RPE 7\n1x5 @ Add your Personal Record below / RPE 8\nRest 2:00 Between Sets.\n\nNOTES:\n- The written rest is a suggestion. Rest until you are recovered enough to hit the next set.\n- The front squats are exactly the same as last week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "d0QqnjkjnN",
+   "date": "2024-05-19",
+   "display_order": 1715773049577,
+   "title": "Push Press 5-4-3-2-2",
+   "description": "Push Press for load:\n #1: 5 reps @ 70%\n #2: 4 reps @ 75%\n #3: 3 reps @ 80%\n #4: 2 reps @ 85%\n #5: 2 reps @ 85%",
+   "score_type": "Load",
+   "movement_ids": [
+    "FrQGIrNfi8"
+   ]
+  },
+  {
+   "id": "gy8FOy1WUi",
+   "date": "2024-05-19",
+   "display_order": 1715773049578,
+   "title": "Metcon",
+   "description": "4 rounds for time\n25 Wall Balls @ 20/14 lbs\n15 Push ups\n10 Deadlifts @ 225/155 lbs",
+   "score_type": "",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "9iu4RgWSgi",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "s7dhQHTITU",
+   "date": "2024-05-19",
+   "display_order": 1715773049578.5,
+   "title": "Rowing Intervals",
+   "description": "Rowing Intervals\n\n1500m @ Add your Personal Record below/500m\nRest 1:00\n\n250m @ Sprint\n\nRest :30\n\n250m @ Sprint\n\nRest 2:00\n\n\n1000m @ Add your Personal Record below/500m\nRest :45\n\n250m @ Sprint\n\nRest :45\n\n250m @ Sprint\n\nNOTES:\n- On the 1500 and 1000m efforts, hold the prescribed pace. These sets are intended to build volume and fatigue, but they should not be very difficult.\n- Hold as fast of a pace as you can on the sprint efforts. A good starting point is around Add your Personal Record below/500m.",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "qr4leOvWfM",
+   "date": "2024-05-19",
+   "display_order": 1715773049579,
+   "title": "ACCESSORY / EXTRA",
+   "description": "EMOM 12\n1::40 Side Plank (Left)\n2: :40 Side Plank (Right)\n3: 15 V-Ups\n4: 30 Russian Twists",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "1csptAOX6e",
+    "8AUAYBnHEW",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "7IMwxTjAeH",
+   "date": "2024-05-20",
+   "display_order": 1715773055929.5,
+   "title": "Strict Press",
+   "description": "Strict Press\n6x4 @ Add your Personal Record below / RPE 7\nRest 2:00 Between Sets.\n\nNOTES:\n- This should be beginning to get difficult. If four reps are not challenging at the prescribed weight, add 5lbs to what is prescribed.",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "dd5DdAS1YU",
+   "date": "2024-05-20",
+   "display_order": 1715773055930.25,
+   "title": "Seated Dumbbell Strict Press",
+   "description": "Seated Dumbbell Strict Press\n4x15 / RPE 8\nRest 1:00 Between Sets.\n\nNOTES:\n- Treat this as bodybuilding, meaning, really try to connect with your muscles to move the weight.",
+   "score_type": "Load",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "IQ74EaoG2U",
+   "date": "2024-05-20",
+   "display_order": 1715773055931,
+   "title": "Metcon",
+   "description": "E3MOM x 6\n15/12 Cal Row\n10 DB step ups @ 2 x 50/35 lbs, 24/20\"\n5 Box jumps + step down",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "wQ48Hj0avM",
+   "date": "2024-05-20",
+   "display_order": 1715773055931.5,
+   "title": "Band-Assisted Strict Pull-Up",
+   "description": "Band-Assisted Strict Pull-Up\n4x20\nRest 1:30-2:00 Between Sets.\n\nNOTES:\n- Use a band (or bands) that allows you to do all twenty reps unbroken.",
+   "score_type": "Load",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "gv1WyvyJDz",
+   "date": "2024-05-20",
+   "display_order": 1715773055931.75,
+   "title": "Accessories",
+   "description": "4 Sets:\n10-12 Barbell Bicep Curl\n20 Banded Tricep Pushdown\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "ZB1A2IDm6T",
+   "date": "2024-05-20",
+   "display_order": 1715773055932,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Single leg glute bridge\n5 x 5/5\nhold extension at each rep for 10s",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "fQG7uhGbq8"
+   ]
+  },
+  {
+   "id": "uAuSf1cyhP",
+   "date": "2024-05-20",
+   "display_order": 1715773055933,
+   "title": "Fan Bike Intervals",
+   "description": "Fan Bike Intervals\n60 Cals @ RPE 7.5\n2:00 Rest\n60 Cals @ RPE 8\n3:00 Rest\n60 Cals @ RPE 8.5\n\nNOTES:\n- Go as fast as possible across these sets.\n- Increase your effort on each set. The last set should be near maximal!",
+   "score_type": "Load",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "FNkbUSi11R",
+   "date": "2024-05-21",
+   "display_order": 1715773064133.5,
+   "title": "Toes To BAr",
+   "description": "TOES TO BAR DROP SETS.\n4 Sets:\n1:15 On\n- 15 sec Toes to Bar @ Add your Personal Record below - Add your Personal Record below\n- 15 sec Kipping Knees to Elbows\n- 15 sec V-Ups\n- 15 sec Knee Tucks\n- 15 sec Hollow Hold\n\nRest 2:00 Actively On A Fan Bike",
+   "score_type": "Reps",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "1cZx24hUB0",
+    "Gl19kiplpb",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "EbBgZnEISy",
+   "date": "2024-05-21",
+   "display_order": 1715773064134.125,
+   "title": "Overhead Squat",
+   "description": "Overhead Squat\n3x5 @ Add your Personal Record below @32X1\nRest 2:00 Between Sets.\n\nNOTES:\n- \"32x1\" means that you will take :03 to descend, :02 at the bottom, stand fast, and :01 at the top to reset between reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "POqolHp5HF",
+   "date": "2024-05-21",
+   "display_order": 1715773064134.75,
+   "title": "Snatch",
+   "description": "Snatch\n\n5x1.1 @ heavier than last week\nRest :10 Between Reps.\nRest 2:00 Between Sets.\n\nNOTES:\n- This snatch progression is very simple. The format stays the same as we continue to increase load.\n- Focus on technique, film your lifts, analyze them, and try to improve on every single rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "qOe3X1OT2v",
+   "date": "2024-05-21",
+   "display_order": 1715773064135.375,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n3x4 @ RPE 8\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "bR0iQ1lmri",
+   "date": "2024-05-21",
+   "display_order": 1715773064136,
+   "title": "Metcon",
+   "description": "10 rounds\n3 Bar muscle ups\n30 Double unders",
+   "score_type": "",
+   "movement_ids": [
+    "DUDez0b2y1",
+    "h9vPo5JYw6",
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "BZPGu8H0wy",
+   "date": "2024-05-21",
+   "display_order": 1715773064136.5,
+   "title": "Accessory",
+   "description": "4 Sets:\n15 GHD Back Extension\n5 D-Ball / Sandbag Clean @70/50 kg\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "Lw1zCVKxxb",
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "4dDjwcc1eh",
+   "date": "2024-05-22",
+   "display_order": 1,
+   "title": "Run",
+   "description": "Time Trial: 400m Run\nPRIMER.\n600m @ Add your Personal Record below/100m\n200 @ Easy Pace\n100m @ Predicted 400m Pace\n:30 Rest\n100m @ Predicted 400m Pace\nーーー\nRest as needed.\nMAIN SET.\n400m Run, For Time.\n+\nRest as needed.\n+\n1000m @ Add your Personal Record below/1000m\n300m @ Add your Personal Record below/100m\n:30 Rest\n300m @ Add your Personal Record below/100m\nNOTES:\n- Use the primer to get the lungs and legs ready for a maximal effort. Of course, add in any extra stretching or prep in that you may need.\n- Like last week, this session is just to set a baseline number for future training.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "3pgpDMQEgm",
+   "date": "2024-05-23",
+   "display_order": 1715773076841.5,
+   "title": "Tempo Pause Squat",
+   "description": "3x5 @+10 lbs from last week\n@24x1\n\n24x1 means: 2 sec descent, 4 sec pause at the bottom , stand fast and 1 sec at the top to reset\n\nrest 2:00 - 3:00\n@RPE8",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "gcTqH0BGCp",
+   "date": "2024-05-23",
+   "display_order": 1715773076842,
+   "title": "Clean 8x2",
+   "description": "Clean for load:\n #1: 2 reps\n #2: 2 reps\n #3: 2 reps\n #4: 2 reps\n #5: 2 reps\n #6: 2 reps\n #7: 2 reps\n #8: 2 reps",
+   "score_type": "Load",
+   "movement_ids": [
+    "vyy5Tr0N49"
+   ]
+  },
+  {
+   "id": "6WtAJBYQV7",
+   "date": "2024-05-23",
+   "display_order": 1715773076843,
+   "title": "Metcon",
+   "description": "30-20-10\nAlternating Dumbbell Snatch\nDumbbell Goblet Squat\n@ 1 x 50/35 lbs\n\nRX+ 70/50lbs",
+   "score_type": "",
+   "movement_ids": [
+    "vXkMU7wdwO",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "tPlWw36slT",
+   "date": "2024-05-23",
+   "display_order": 1715773076843.75,
+   "title": "Bench Press",
+   "description": "1x10 @RPE 6\n3x8 @ building to a heavy set of 8 / up to RPE 8\n\nrest 1:30 between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "4FZvK8WfuE",
+   "date": "2024-05-23",
+   "display_order": 1715773076843.875,
+   "title": "Dumbbell Bench Press",
+   "description": "2 x Max reps\n\nrest 1:30 between sets \n\nuse the same weight as last week and go for max reps, Stop when form breaks down or you hit true failure",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "uVOcGjn8X4",
+   "date": "2024-05-23",
+   "display_order": 1715773076843.9375,
+   "title": "Arms Superset",
+   "description": "Dumbbell Hamme rCurls\n3x15\nDumbbell Skull Crushers \n3x10-20\n\nrest 1:00 between supersets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "vrgEC1XNYO",
+   "date": "2024-05-23",
+   "display_order": 1715773076844,
+   "title": "ACCESSORY / EXTRA",
+   "description": "5 x 25/25' Heavy Suitcase carry",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "o9PUHLCCGy",
+   "date": "2024-05-24",
+   "display_order": 1715773083257,
+   "title": "Metcon",
+   "description": "For time, partition the reps in any way\n\n150 Cal Bike/Ski/Row\n100 Burpees to plate 15/10 lbs\n100 Weight V-ups 15/10lbs",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB",
+    "9ikRXPXECL",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "IRgOmEs3L7",
+   "date": "2024-05-24",
+   "display_order": 1715773083259,
+   "title": "Team Wod",
+   "description": "In pairs or teams of 3.\nFor time, partition the reps in any way, one person working at a time:\n\n300 Cal Bike/Ski/Row\n200 Burpees over partner\n100 Partner knee tuck  hold med ball pass (passing laterally)",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "PCgg48uJLR",
+   "date": "2024-05-24",
+   "display_order": 1715773083260,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Reverse plank hold\n5 x 60 seconds, rest 60 seconds",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  }
+ ]
+}

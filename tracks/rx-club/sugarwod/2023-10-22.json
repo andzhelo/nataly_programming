@@ -1,0 +1,496 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2023-10-22",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "9cu7oEPg7i",
+   "date": "2023-10-22",
+   "display_order": 900014,
+   "title": "Week Overview",
+   "description": "Here is our well deserved deload week. This week you should feel good overall, think RPE 7 in general and prioritize the warm-ups this week. Your body will thank you for weeks to come if you do this.",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "a6m5QlgkM0",
+   "date": "2023-10-22",
+   "display_order": 900015,
+   "title": "Warmup",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Quads\nB2. PNF Quad stretch\n5 repetition/leg\n- 5 seconds contraction, pushing against the band with your foot\n- 5 seconds stretch, pulling your foot up with the band\n\nC. Specific\nSingle DB warm-up\n7/7 Single leg RDL\n7/7 bent over row\n50’ Broad Jumps\n7/7 Front Squat (2 seconds pause at the bottom)\n7/7 Hang Clean\n50’ Broad jumps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "oe54Z7G5LW",
+   "date": "2023-10-22",
+   "display_order": 900016,
+   "title": "Strength Endurance",
+   "description": "AMRAP 8 minutes\n3 Power Cleans @65% of max Clean\n1 Rope Climb",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "fXKpce6PHm",
+   "date": "2023-10-22",
+   "display_order": 900017,
+   "title": "Back Squat",
+   "description": "3 x 5 @75%\nRest 2-3 minutes between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "J2bTvJOHir",
+   "date": "2023-10-22",
+   "display_order": 900018,
+   "title": "Metcon",
+   "description": "4 rounds for time\n800m Run\n30 Pull-ups\n20 DB Cleans 2x50/35lbs",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "q1v1oOR8tk",
+   "date": "2023-10-22",
+   "display_order": 900019,
+   "title": "Accessory",
+   "description": "EMOM 8 minutes\nA) 10 Single leg Swiss ball leg curls + side plank (Both right)\nB) 10 Single leg Swiss ball leg curls + side plank (Both left)\nIn the minute, perform 10 repetitions of leg curls and side planks for the remaining time.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "wEVE5H144X",
+   "date": "2023-10-22",
+   "display_order": 900020,
+   "title": "Leg Curl On Swiss Ball",
+   "description": "If no swiss ball, it can be done with feet on a rower bench",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "zVf7QpVMSZ",
+   "date": "2023-10-23",
+   "display_order": 1697068462205,
+   "title": "Warmup",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Hamstrings\nB2. Banded PNF lat stretch\n5 repetitions\n- 5 seconds contraction pushing against the band with your elbow\n- 5 seconds stretch letting the band pull your elbow back\n(https://www.youtube.com/watch?v=yHRGQIN058w)\n\nC. Specific\n2 sets\n5/5 Hip thrusts hold + knee drive https://www.youtube.com/watch?v=SpSk8-Xkghg \n5/5 Bottom up KB Press https://www.youtube.com/watch?v=5MX3vk1BtUA \n5 Hollow to arch on floor",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "QCUOoOtogo",
+    "91LKjTpPx1",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "w87sAprQoA",
+   "date": "2023-10-23",
+   "display_order": 1697068462206,
+   "title": "Pausing Jerk",
+   "description": "5 x 2 @60-70% of max Jerk\n\nPause 2 seconds at the bottom of the dip",
+   "score_type": "Load",
+   "movement_ids": [
+    "xNWOvMIzPY"
+   ]
+  },
+  {
+   "id": "9qCWg3Dtqc",
+   "date": "2023-10-23",
+   "display_order": 1697068462207,
+   "title": "Metcon",
+   "description": "AMRAP 12 minutes\n4 HSPU\n6 TTB\n8 Box Jumps 24”/20”",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "FYGYfQgQbm",
+   "date": "2023-10-23",
+   "display_order": 1697068462208,
+   "title": "Conditioning",
+   "description": "EMOM 12 minutes\nAlternate between:\n- 15/12 Cal Row\n- 150' Sled Push @light, running\n- 20-30 Push-ups",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9iu4RgWSgi",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "bxoFHTtvld"
+   ]
+  },
+  {
+   "id": "Sd1c2wJyHB",
+   "date": "2023-10-23",
+   "display_order": 1697068462209,
+   "title": "Upper Accessory",
+   "description": "3 sets\n10 Supinated Ring Dip hold (top)\n30 Banded Skull Crushers fast",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "H5e44TcXBj",
+   "date": "2023-10-23",
+   "display_order": 1697068462210,
+   "title": "Banded Skull Crushers",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "S7gVfkywmH",
+   "date": "2023-10-23",
+   "display_order": 1697068462211,
+   "title": "Supinated Ring Support Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "v2fqd0LV17",
+   "date": "2023-10-23",
+   "display_order": 1697068462212,
+   "title": "Core Accessory",
+   "description": "4 sets\n20 Weighted Hollow body rocks\nNo rest\n30 sec Reverse plank\nNo rest",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "o18GGkqWfN",
+   "date": "2023-10-23",
+   "display_order": 1697068462213,
+   "title": "Double DB/KB Hollow Rocks",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "cNTDjiAGuf",
+   "date": "2023-10-23",
+   "display_order": 1697068462214,
+   "title": "Reverse Plank Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "UAIVWnVwo0",
+   "date": "2023-10-24",
+   "display_order": 1697155875147,
+   "title": "Warmup",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Glutes\nB2. Foam roller prayer stretch\n5 long breaths ( inhale for 4 seconds, hold for 4 seconds and exhale for 6-8 seconds). Aim to relax a little more every time you exhale.\n(https://www.youtube.com/watch?v=umCOjch2kG0)\n\nC. Specific\n5 Deep Squat Muscle Snatch \n(https://www.youtube.com/watch?v=wzB4lKbzEZU)\n5 Kneeling jump (No box Jump) \n(https://www.youtube.com/watch?v=KGBf_kDtn3I) \n5 Behind the neck Push Jerk\n5 Tall Snatch \n(https://www.youtube.com/watch?v=7puahfv2V6w)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "r3CNRMSi8j",
+    "QCUOoOtogo",
+    "dupvA5i5XK",
+    "V8IKIUyIbF",
+    "9iI9OsXVAX",
+    "UIXa0O9TJ1",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "G4RpJ0KuHH",
+   "date": "2023-10-24",
+   "display_order": 1697155875148,
+   "title": "Strength Endurance",
+   "description": "4 sets of \n\nAMRAP 1 min\n70 Double-unders\nMax Power Snatch @x% in remaining time\n\nRest 1 minute between each AMRAP\n\nWeights: 55-60-65-70% of 1RM Snatch",
+   "score_type": "Reps",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "h9vPo5JYw6",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "vcfrLdFoj6",
+   "date": "2023-10-24",
+   "display_order": 1697155875149,
+   "title": "Sumo Deadlift",
+   "description": "Every 2 minutes for 10 minutes\n3 reps @RPE 7/10",
+   "score_type": "Load",
+   "movement_ids": [
+    "wFWr2DCiIH"
+   ]
+  },
+  {
+   "id": "OtiiAeBi27",
+   "date": "2023-10-24",
+   "display_order": 1697155875150,
+   "title": "Metcon",
+   "description": "5 sets of\n\nAMRAP 4minutes\n10/8 Cal Bike\n8 Wall Ball 30/20lbs\n6 D-ball over wall 150/100lbs, 48'' Wall\n\nRest 1 minute between each AMRAP",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "zqCIKJntSm",
+   "date": "2023-10-24",
+   "display_order": 1697155875151,
+   "title": "Lower Accessory",
+   "description": "3 sets\n20 Banded leg extension\n30sec Bear hug Wall sit\nrest as needed",
+   "score_type": "Load",
+   "movement_ids": [
+    "nQkFIHoc4z"
+   ]
+  },
+  {
+   "id": "MPzzNOEsWc",
+   "date": "2023-10-24",
+   "display_order": 1697155875152,
+   "title": "Banded Leg Extension",
+   "description": "Like this but both legs.",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "BXZNs8jXQS",
+   "date": "2023-10-24",
+   "display_order": 1697155875153,
+   "title": "Core Accessory",
+   "description": "Hip extension hold on GHD\n3 x 60 seconds @light\nRest 60 secondes between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "hxBTjT5xIP",
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "0JXYCDch3a",
+   "date": "2023-10-24",
+   "display_order": 1697155875154,
+   "title": "Hip Extension Hold on GHD",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LDeiNXPX0h",
+   "date": "2023-10-25",
+   "display_order": 899999,
+   "title": "Active Rest Day",
+   "description": "30-40 min Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "yuKH8aysyC",
+   "date": "2023-10-26",
+   "display_order": 1697152608107,
+   "title": "Warmup",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Calves\nB2. Dynamic leg swings\nSide to side x 15/15\nFront to back x 15/15\n\nC. Specific\nBefore the run\n25’ walk on heels\n25’ walk on toes\n25’ Samson stretch\n25’ Carioca\n25’ Stiff leg shuffle\n25’ Skip A\n25’ Dynamic high knees\n\nBefore the Gymnastics\n5 W band pull apart (Hold 5 sec after last rep)\n5/arm Y band pull apart (Hold 5 sec after last rep)\n5 Wall facing scap push \n(https://www.youtube.com/watch?v=Rr_fQfhK--o)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "QCUOoOtogo",
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "8t4MO5PGKn",
+   "date": "2023-10-26",
+   "display_order": 1697152608108,
+   "title": "Gymnastics",
+   "description": "4 rounds not for time\n10 Strict Pull-ups\n15 m HS walk (over obstacle)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "cYMniWpr0D",
+   "date": "2023-10-26",
+   "display_order": 1697152608108.5,
+   "title": "Metcon",
+   "description": "For time\n30 Hang Power Clean 115/75lbs\n25 Burpee box jump over 30”/24”\n10 Ring Muscle-ups / 15 BMU/ 20 C2B\n25 Burpee box jump over 30”/24”\n30 Hang Power Clean 115/75lbs",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "hEE2meA1xW",
+   "date": "2023-10-26",
+   "display_order": 1697152608108.75,
+   "title": "Shoulder Accessory",
+   "description": "3 sets\n20 Banded T with hold\nNo rest\n10/10 Split stance banded fly\nNo rest",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "qsMJqpzYZf",
+   "date": "2023-10-26",
+   "display_order": 1697152608110.5,
+   "title": "Core Accessory",
+   "description": "2-3 sets\n12/arm Bird dog + band row\n12/arm side plank + band row\n5/side Banded dead bug (Hold every rep for 3 seconds)",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "joLpjYVVUv",
+   "date": "2023-10-26",
+   "display_order": 1697152608111.25,
+   "title": "Conditioning",
+   "description": "Running\nLong trail run with vest or backpack\n45 minutes",
+   "score_type": "Meters",
+   "movement_ids": []
+  },
+  {
+   "id": "RUXRcSfANR",
+   "date": "2023-10-26",
+   "display_order": 1697152608112,
+   "title": "Banded T (With Hold)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "269uDXLiQR",
+   "date": "2023-10-26",
+   "display_order": 1697152608113,
+   "title": "Split stance banded fly (Low to high variation)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "AzEylm9eAU",
+   "date": "2023-10-26",
+   "display_order": 1697152608115,
+   "title": "Bird Dog + Band Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "yRNh5mzWTq",
+   "date": "2023-10-26",
+   "display_order": 1697152608116,
+   "title": "Side Plank + Banded Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "12FgyzpVUJ",
+   "date": "2023-10-26",
+   "display_order": 1697152608117,
+   "title": "Banded Dead Bug",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "BWLwByINtm",
+   "date": "2023-10-27",
+   "display_order": 1697068462214,
+   "title": "Warmup",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Mid-traps\nB2. Mini-band wall slide\n10 repetitions\n\nC. Specific\n5/ankle Goblet Squat + ankle shift\n5 Snatch press under \n(https://www.youtube.com/watch?v=TMzpQ6Elis4)\n5 Sots press\n5 Bent over row (snatch grip)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "9bJSQQFPA6",
+   "date": "2023-10-27",
+   "display_order": 1697068462215,
+   "title": "OHS Complex",
+   "description": "Work up to RPE 8/10\n1 Snatch balance\n2 OH Squats",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "XTcQCWXhdo",
+   "date": "2023-10-27",
+   "display_order": 1697068462216,
+   "title": "Snatch Pull",
+   "description": "From Blocks\n5 x 3 @90-95%",
+   "score_type": "Load",
+   "movement_ids": [
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "kVdVeSbCiL",
+   "date": "2023-10-27",
+   "display_order": 1697068462217,
+   "title": "Block Snatch Pull",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "3fTKbEiLcY",
+   "date": "2023-10-27",
+   "display_order": 1697068462218,
+   "title": "Metcon",
+   "description": "4 rounds for time\n15 TTB\n12 Deadlifts \n9 Thrusters\n\nWeights:\nMen: 95-115-135-155 lbs\nWomen: 65-75-95-105 lbs",
+   "score_type": "",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "mX97iEYi0U",
+   "date": "2023-10-27",
+   "display_order": 1697068462219,
+   "title": "Accessory",
+   "description": "4 sets\n20/20 Banded Clam shell foot on wall\n20 Unweighted Glute bridge\n3/side turkish get up",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "fQG7uhGbq8",
+    "xEJmCDbLxL",
+    "NgUb0mVUoH"
+   ]
+  },
+  {
+   "id": "wKTEeVIBcU",
+   "date": "2023-10-27",
+   "display_order": 1697068462220,
+   "title": "Turkish get up",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "jJiFhwRxZ3",
+   "date": "2023-10-27",
+   "display_order": 1697068462221,
+   "title": "Clamshell With Foot On Wall",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "UqbLurv7CG",
+   "date": "2023-10-28",
+   "display_order": 900000,
+   "title": "Rest Day",
+   "description": "Rest Day",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  }
+ ]
+}

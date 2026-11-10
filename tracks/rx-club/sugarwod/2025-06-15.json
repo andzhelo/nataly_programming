@@ -1,0 +1,335 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-06-15",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "8cQJo423zC",
+   "date": "2025-06-15",
+   "display_order": 1,
+   "title": "Warm up:",
+   "description": "3x\n15/12 Cal Row\n15 Banded Front Squat\n8/8 Rotating Lunge\n20 Russian Twist (Bodyweight)",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "umWlFaYtSo",
+    "9ikRXPXECL",
+    "1csptAOX6e",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "bjjs8hR5yx",
+   "date": "2025-06-15",
+   "display_order": 2,
+   "title": "Back Squat",
+   "description": "Back Squat\n\n3x8 @ 58 % // RPE 6.5\n\nNOTES:\n- Rest at least 2:00 between sets.\n- Pulling the weight back to deload this week. Take this week as an opportunity to work on perfect positioning for each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "jY6EiqXebT",
+   "date": "2025-06-15",
+   "display_order": 3,
+   "title": "Front Squat",
+   "description": "Front Squat\n3x3 @ 70 % // RPE 6.5\n\nNOTES:\n- Rest at least 1:30 between sets.\n- Same as on the back squats, this week we are pulling the weights/volume back for a deload this week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "EwBEAz9qBf",
+   "date": "2025-06-15",
+   "display_order": 4,
+   "title": "Metcon:",
+   "description": "AMRAP 12:\n50 Box Jump Over w/ Step Down @ 24/20\"\n40 Thruster @  35/25kg\n30 Bar Facing Burpee\nMax Cal Row In Remaining Time\n\nNOTES:\n- This workout will end on a long stint on the rower, but after the 5K block you have just been on, you should be very prepared for this.\n- Be sure the thruster is LIGHT for you. Sets of 15+ reps at a time should be possible here, so scale back, even to an empty barbell, if needed.\n- Your score should be the total number of reps of all movements completed + any calories on the rower completed.",
+   "score_type": "Calories",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "QCUOoOtogo",
+    "9ikRXPXECL",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "U41DC7Dekw",
+   "date": "2025-06-15",
+   "display_order": 5,
+   "title": "Bench Press",
+   "description": "Bench Press\n3x10 @ 50%  // RPE 6\n\nNOTES:\n- Rest at least 1:00 between sets.\n- These sets should feel light. Try to keep a lot of control on the way down, and feel free to add in a pause at the chest for all or some of the reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "UP4ahMb4HT",
+   "date": "2025-06-15",
+   "display_order": 6,
+   "title": "Strict Ring Dips",
+   "description": "Strict Ring Dips w/ :01 Pause At Top:\n5x8\n\nNOTES:\n- Rest at least 1:00 between reps.\n- If needed, add a band for assistance, or move to straight bar dips.\n- Add weight if you are easily able to complete these sets unbroken.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "oI7G2WYQcH",
+   "date": "2025-06-15",
+   "display_order": 7,
+   "title": "Plank On Rings",
+   "description": "EMOM 6\n:20-30 Plank On Rings\nNOTES:\n- Try to hold as tight of a body position as possible, staying braced with the abs in toward the spine.\n- Move to a plank on the floor if you are unable to perform a plank on the rings.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "fooRaHET18",
+   "date": "2025-06-15",
+   "display_order": 8,
+   "title": "Skill",
+   "description": "\"Flight Simulator\"\n5-10-15-20...45-50-45...15-10-5\nUnbroken Double Unders *\n* Rest as needed between sets.\n\nTime Cap: 10 Minutes\n\nNOTES:\n- Be sure to respect the 10:00 time cap. The idea is that this will help manage volume and save the calves/ankles, especially if you are not yet very proficient with this movement.\n- Each set must be unbroken. Once you complete a set, rest as much as you need to, then add five reps for another unbroken set. Do this until you get to 50 reps, then continue on in the same way, decreasing by five reps each time.",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "X4yOi9CXKH",
+   "date": "2025-06-16",
+   "display_order": 1,
+   "title": "Warm up:",
+   "description": "3 Sets:\n15/12 Cal Fan Bike\n5 Straight Leg Box Jump\n10/10 Seated Single Arm Dumbbell Strict Press @ RPE\n5-6\n:30 Hollow Hold",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "1cZx24hUB0",
+    "h9vPo5JYw6",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "9y2Ze4OtZk",
+   "date": "2025-06-16",
+   "display_order": 2,
+   "title": "Power Jerk",
+   "description": "EMOM 6:\n2 Power Jerk @ 65% // RPE 7\n\nNOTES:\n- Use this opportunity to practice your technique on the power jerk.\n- Be sure your footwork is consistent for each rep.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "jDtQ1i7CLK",
+   "date": "2025-06-16",
+   "display_order": 3,
+   "title": "Strict Press",
+   "description": "Strict Press\n4x3 @ 72 % // RPE 7\nNOTES:\n- Rest at least 1:00 between sets.\n- These sets should give some challenge for three reps, but still allow for consistent movement each time. Scale back the weight if needed.\n- Reset in the front rack with each rep. (i.e. don't bounce the bar off of the shoulders)",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "bExYDRjltj",
+   "date": "2025-06-16",
+   "display_order": 4,
+   "title": "2-2-2-3",
+   "description": "2-2-2-3 Minutes Work / 1:00 Rest\n12 Deadlift @  100/70kg\n15/12 Cal Fan Bike\nIn Remaining Time, Max Rep Ring Muscle-Up/ BMU\n\nNOTES:\n- This piece will be 2:00 of working time for the first three sets, then 3:00 of working time for the fourth set. Always rest for 1:00 between sets.\n- The deadlifts should be in two quick sets or unbroken each time. If needed, scale to 49.5kg.\n- Be sure to hit each fan bike hard and get to the rings with at least :30 to work. If not, then scale back the number of reps.\n- If you don't have ring muscle-ups, scale to bar muscle-ups, chest-to-bar, any other gymnastics pulling movement you CAN do.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "V8IKIUyIbF",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "Y4XrqYLkVL",
+   "date": "2025-06-16",
+   "display_order": 5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Single Arm Overhead Dumbbell Tricep Extension:\n\n5x10/10 @ RPE 6\n\nNOTES:\n- Rest at least :30 between arms and 1:00 between\nsets.\n- Choose a weight that gives minimal challenge to complete ten unbroken reps each time.\n----\n\nB) Accumulate 3:00 in a Sorenson Hold, For Quality:\n\nNOTES:\n- Keep the glutes squeezed and hold as tight a body position as possible.\n- Cut this piece off at 6:00, if needed.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "YfHp41lM8g",
+   "date": "2025-06-16",
+   "display_order": 6,
+   "title": "Zone 2",
+   "description": "40:00 Zone 2 Spin Bike, Run, or Stairmaster\n\nNOTES:\n- If possible, wear a heart rate monitor so you can accurately gauge your zone 2 heart rate.\n- If you are using a PM5 monitor and staying on one machine the entire time, use this link to set up your monitor: https://workout.ergdata.com/shared/\nuj5s9ayv",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "frGOe4epEQ",
+   "date": "2025-06-17",
+   "display_order": 1,
+   "title": "Warm up:",
+   "description": "3 Sets:\n15/12 Cal Ski\n10/10 Side Lunge\n20 Banded Face Pull\n20 Starfish",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "hHPX0Lhn6d",
+   "date": "2025-06-17",
+   "display_order": 2,
+   "title": "Snatch + Overhead Squat",
+   "description": "Snatch + Overhead Squat\nEMOM 12\n1: 2+2 @ 60%// RPE 6\n2: 1+2 @  65% // RPE 6.5\n3: 1+1 @ 70% // RPE 7\n4: Rest\n\nNOTES:\n- This week, we are combining the snatch and the overhead squat for the deload\n- Be sure to reset the bar at the ground for all snatches. There should be no touch-and-go reps in this EMOM.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "f7NYLRoEr2",
+   "date": "2025-06-17",
+   "display_order": 3,
+   "title": "Snatch Pull From Knee Height",
+   "description": "Snatch Pull From Knee Height:\n\n3x3 @100 % // RPE 8\nNOTES:\n- Rest for at least 1:30 between sets.\n- Set up your plates on jerk blocks or a stack of plates so that your bar is set to knee height for each rep.\n- Reset the bar between reps. These should not be touch-and-go reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "aNO8nMjtro",
+   "date": "2025-06-17",
+   "display_order": 4,
+   "title": "METCON",
+   "description": "4 Rounds For Time:\n800m Run\n18 Toes to Bar\n24/18 Cal Ski\n\nTime Cap: 30 Minutes\n\nNOTES:\n- Expect to spend significantly more time on the run and the ski erg than on toes-to-bar. If you don't have at least 10 unbroken toes-to-bar when fresh, scale\nback the reps or the movement. With that said, it is okay to break up these toes to bar reps strategically if this helps keep your heart rate regulated.\n- With such a long round each time, be sure you are starting at a pace that will be very sustainable to you.\nStarting the run at or slightly slower than your 5K\npace would be wise for most athletes.",
+   "score_type": "",
+   "movement_ids": [
+    "yJIlK7TN6q",
+    "Gl19kiplpb"
+   ]
+  },
+  {
+   "id": "lSGot8cISE",
+   "date": "2025-06-17",
+   "display_order": 5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Bodyweight Lunge to Step-Up:\n4x10/10 @ 24/20\"\nNOTES:\n- Rest at least :30 between legs and 1:00 between sets.\n- Drive the knee of the nonworking leg up at the top of each rep.\n- Scale back the height of the box if needed to maintain control of each rep.\n\n\nB) EMOM 9:\n1: :20-30 Banded Deadbug\n2: :20-30 Pallof Press (Left Side)\n3::20-30 Pallof Press (Right Side)\nNOTES:\n- Use bands that allow for unbroken, controlled movement each minute.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "yJIlK7TN6q",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "7F31mSuiOM",
+   "date": "2025-06-17",
+   "display_order": 6,
+   "title": "Skill",
+   "description": "EMOM 8:\n\n7,5-15 m Handstand Walk\n\nNOTES:\n- No metcon in this section today to allow for more recovery in this deload week.\n- Pick a distance that you can consistently perform unbroken each minute. If you want to scale this up and add an obstacle, feel free to do so.\n- If you don't have handstand walks, take 5-10:00 to practice this movement or handstands against the wall instead.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "r5pboqWEba"
+   ]
+  },
+  {
+   "id": "xg9U7BNv0L",
+   "date": "2025-06-18",
+   "display_order": 1,
+   "title": "Swim Intervals",
+   "description": "Swim Intervals.\nWARM-UP.\n100m Free\n50m Kick\nMAIN SET.\n500m Free\n+\n4 Sets:\n25m Kick\n:20 Rest\n100m Free\n----\nRest 1:30 Between Sets.\nCOOL DOWN.\n100m Swim (Easy)",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "2KrQ3LVk5P"
+   ]
+  },
+  {
+   "id": "em6kN91l15",
+   "date": "2025-06-19",
+   "display_order": 1,
+   "title": "Warm up:",
+   "description": "3 Sets:\n15/12 Cal Row\n20 Bodyweight Lunge\n10/10 Single Arm Ring Row\n:30 Hanging Knee Tuck Hold",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "fjAXQg5FGq",
+   "date": "2025-06-19",
+   "display_order": 2,
+   "title": "Back Squat",
+   "description": "Back Squat:\n\n3x3 @ 68% // RPE 6\n\nNOTES:\n- Rest at least 2:00 between sets.\n- If you feel good with the listed weight, feel free to add in a small pause at the bottom of each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "op2J5bNRy6",
+   "date": "2025-06-19",
+   "display_order": 3,
+   "title": "Front Squat",
+   "description": "Front Squat:\n\n3x5 @ 65%// RPE 6\nNOTES:\n- Rest at least 1:30 between sets.\n- Focus on having a controlled descent, then as much speed as possible on the way up from each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "KjXXr9i1PN",
+   "date": "2025-06-19",
+   "display_order": 4,
+   "title": "Metcon:",
+   "description": "4 Rounds For Time:\n9 Chest to Bar\n15/12 Calorie Row\n21 AbMat Sit-Up\n\nTime Cap: 14 Minutes\n\nNOTES:\n- This piece should allow for unbroken or close to unbroken reps on the chest-to-bar. If you won't be able to consistently complete nine chest-to-bar in under 1:00, scale to normal pull-ups or band-assisted pull-ups.\n- The row should be aggressive each round. Use the sit-ups to gather control of your breath and move right back to the pull-up bar for the next round.\n- Similar to last week's metcon, if you feel very confident with these movements and want to\nchallenge yourself even more, feel free to scale up to GHD Sit-Ups instead of AbMat Sit-Ups..",
+   "score_type": "",
+   "movement_ids": [
+    "1m5Z5wmyA0",
+    "rk5ieibGyP",
+    "iSu93oACwo",
+    "9ikRXPXECL",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "1x7CplAqpq",
+   "date": "2025-06-19",
+   "display_order": 5,
+   "title": "Extra/ Accessory:",
+   "description": "A) Band Assisted Strict Chest to Bar\n4x(10-15)\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Use band(s) to allow for at least 10 unbroken reps each time.\n\nB) Dumbbell Bicep Curl\n2x20 @ RPE 7\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Focus on keeping your movement entirely at the elbows.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "1m5Z5wmyA0",
+    "h9vPo5JYw6",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "7ZsCanHrUE",
+   "date": "2025-06-19",
+   "display_order": 6,
+   "title": "Conditioning",
+   "description": "3 Sets of AMRAP 2...\n20/15 Cal Row\nMax Cal Ski In Remaining Time\n*Rest 1:00 Between Sets.\n+\nRest 1:00\n+\n3 Sets of AMRAP 2...\n20/15 Cal Ski\nMax Cal Row In Remaining Time\n*Rest 1:00 Between Sets.\n\nNOTES:\n- This piece is short and will compound on what was done in the metcon today for those who opt in. With that said, only hit this session if you feel confident your recovery will allow you to be no worse for it.\n- Aim to be consistent at the start of each set, and shoot for negative splits across each cluster of three sets.\n- Your score should be the total number of calories completed in each two-minute working interval across BOTH machines, not including any rollover calories.",
+   "score_type": "Calories",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  }
+ ]
+}

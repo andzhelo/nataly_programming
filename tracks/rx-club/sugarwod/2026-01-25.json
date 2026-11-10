@@ -1,0 +1,350 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-01-25",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "7leHmiU73p",
+   "date": "2026-01-25",
+   "display_order": 1769149635479,
+   "title": "DELOAD WEEK",
+   "description": "שבוע התאוששות  – ממש רגע לפני הבלוק האחרון!\nהשבוע אנחנו מורידים עומס וזה סופר קריטי לתוכנית שלנו. שבוע דילואוד הוא לא שבוע חופש, אלא הזמן של הגוף והראש שלכם לספוג את כל העבודה הקשה שעשינו ולבנות את עצמם מחדש.\n\n**למה זה חשוב עכשיו?**\nהבלוק הבא הולך להיות אגרסיבי ממש – הישורת האחרונה לפני האופן. כדי שתגיעו אליו רעבים ובשיא הכוח, אתם חייבים לנצל את השבוע הזה כדי להטעין מצברים. המטרה היא התאוששות פיזית, אבל לא פחות חשוב – התאוששות מנטלית.\n\n**איך מנצלים את השבוע הזה נכון?**\n• תשקיעו בעצמכם: זה בדיוק הזמן לקבוע טיפול, פיזיותרפיה, עיסוי או ללכת לסאונה. תנו לגוף את הפינוק והתחזוקה שמגיעים לו אחרי כל מה שהעברתם אותו.\n• שינה, תזונה ומים: אלו כלי העבודה שלכם השבוע. תשנו טוב (8 שעות!), תאכלו אוכל בריא ומזין ותשתו המון מים. בלי זה, האימונים לא שווים הרבה.\n• התאוששות לפני הכל: אם יש ימים שאתם מרגישים לא בשיא, לא מספיקים או פשוט אין לכם חשק להתאמן – הכל טוב! בשבוע הזה זה לגמרי בסדר לתת עדיפות לשינה ולמנוחה על פני האימון.\n\nתנצלו את השבוע הזה כדי להגיע הכי חדים שיש לבלוק הבא. כי אנחנו יוצאים לדרך בכל הכוח!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "Cbm8AGL02A",
+   "date": "2026-01-25",
+   "display_order": 1769149635480,
+   "title": "Back Squat",
+   "description": "3x3 @77%\n\nrest 1:30-2:30 between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "mtBBgvGc0o",
+   "date": "2026-01-25",
+   "display_order": 1769149635481,
+   "title": "Lunges + DB Bench Press",
+   "description": "2 Supersets:\n8/8 [Back Rack Backward Stepping Lunges](https://youtube.com/shorts/jtVB3dWC63E?si=tPHV1M6SioV2oG8b) @30 - 35% of 1RM Back Squat\n10 Dual DB Bench Presses @RPE7-8 moderate weight\n\nrest 2:00\n\nPost weights:\nset 1 - Lunges\nset 2 - DBs",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "q2ocQAeKJT",
+   "date": "2026-01-25",
+   "display_order": 1769149635482,
+   "title": "Skill Strength",
+   "description": "**A) Strict HSPU**\n\nPerform 4 sets of 70-60% of Max reps\nrest 1:30\n\n\n**A.A) If your Max set is big ( 15+ reps ) **\nPerform 4 sets of 3-5 reps DEFICITE ( 10-20 kg plates under arms )\nrest 1:30\nor\n4 sets of 3-5 reps WALL FACING HSPU\n\nA.B) If you dont't have SHSPU perform 4 sets of 3-5 reps of [Box Pike Push ups](https://youtu.be/ytczHUp_33c?si=gfloGU96AEkD04To)\n\n**B) Eccentric SHSPU:**\nPerform 3 sets of 3 reps @5 sec on the way down\n\nrest 1:30 between sets",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "qM4kmjDCuN",
+   "date": "2026-01-25",
+   "display_order": 1769149635483,
+   "title": "Metcon",
+   "description": "\"GOAT DAY\"\nEMOM 20:\n1: 2-3 Rope Climbs\n2: 50-70 DU\n3: 7,5 -  15 m HSW\n4: 12/10 Cal Machine of Choice (RPE7-8)",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "hHOYrd54aB",
+   "date": "2026-01-25",
+   "display_order": 1769149635484,
+   "title": "ROW ( NO RUN TODAY )",
+   "description": "3 Rounds:\n\n1000 m Row @5k Pace or 3-5 sec Slower\n50 m Dual KB Front Rack Carry @2x24/16 kg\n50 m Dual KB Farmer Carry @2x32/24 kg\n\n1:00 rest",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "QCUOoOtogo",
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "UBCcGKtd6k",
+   "date": "2026-01-26",
+   "display_order": 1769243714039,
+   "title": "DELOAD WEEK",
+   "description": "שבוע התאוששות  – ממש רגע לפני הבלוק האחרון!\nהשבוע אנחנו מורידים עומס וזה סופר קריטי לתוכנית שלנו. שבוע דילואוד הוא לא שבוע חופש, אלא הזמן של הגוף והראש שלכם לספוג את כל העבודה הקשה שעשינו ולבנות את עצמם מחדש.\n\n**למה זה חשוב עכשיו?**\nהבלוק הבא הולך להיות אגרסיבי ממש – הישורת האחרונה לפני האופן. כדי שתגיעו אליו רעבים ובשיא הכוח, אתם חייבים לנצל את השבוע הזה כדי להטעין מצברים. המטרה היא התאוששות פיזית, אבל לא פחות חשוב – התאוששות מנטלית.\n\n**איך מנצלים את השבוע הזה נכון?**\n• תשקיעו בעצמכם: זה בדיוק הזמן לקבוע טיפול, פיזיותרפיה, עיסוי או ללכת לסאונה. תנו לגוף את הפינוק והתחזוקה שמגיעים לו אחרי כל מה שהעברתם אותו.\n• שינה, תזונה ומים: אלו כלי העבודה שלכם השבוע. תשנו טוב (8 שעות!), תאכלו אוכל בריא ומזין ותשתו המון מים. בלי זה, האימונים לא שווים הרבה.\n• התאוששות לפני הכל: אם יש ימים שאתם מרגישים לא בשיא, לא מספיקים או פשוט אין לכם חשק להתאמן – הכל טוב! בשבוע הזה זה לגמרי בסדר לתת עדיפות לשינה ולמנוחה על פני האימון.\n\nתנצלו את השבוע הזה כדי להגיע הכי חדים שיש לבלוק הבא. כי אנחנו יוצאים לדרך בכל הכוח!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "simFD4F2gs",
+   "date": "2026-01-26",
+   "display_order": 1769243714040,
+   "title": "Clean Prep / Warm up MUST DO",
+   "description": "Perform 2- 3 sets ascending weights:\n3-5 reps of each exercise:\n\n\n[Hang Clean Pull](https://youtu.be/FZaEqAAzH4Y?si=2QWNg1JvdKuojWnz)  \n[Hang Muscle Clean](https://youtu.be/IwzBi9KL6Y0?si=PlpvVVFHJ6daCX9K)  \n[Tall Squat Clean ]( https://youtu.be/X9ckJS9LSug?si=0CysKKGXsjuh2VRe) \nPress\nPush Jerk\n[Split Jerk BTN ](https://youtu.be/uvfyz6Rg0fg?si=8wB_z6rBZnAewaW0)- \n\nstart with an empty bar and add a little weight each set\nno heavy weights here! \nthis is technical warm up",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "KVJnIXBGhh",
+   "date": "2026-01-26",
+   "display_order": 1769243714041,
+   "title": "Low Hang Squat Clean ( Below The Knees )",
+   "description": "2x2 @70%\n1x2 @75%\n2x1 @77-80%\n\nrest 1:30 - 2:00\n\nDELOAD!!!!!",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "Is8mxdmn4q",
+   "date": "2026-01-26",
+   "display_order": 1769243714042,
+   "title": "Clean Pull",
+   "description": "3 sets of 3 reps @80 %\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "l4VKUkJgce",
+   "date": "2026-01-26",
+   "display_order": 1769243714043,
+   "title": "Pause Split Jerk",
+   "description": "[Pause Split Jerk](https://youtu.be/xxFqQ-d_P4M?si=YjBfLTUMSCOXBVy6)\n\nEvery 2:00 x 3:\n2 reps @65-70%\n\n\npause for 2 sec in the dip",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "bHLkkLhnN0",
+   "date": "2026-01-26",
+   "display_order": 1769243714044,
+   "title": "Metcon:",
+   "description": "4 RFT:\n400 m Run\n20 Alt DB Snatches @22,5/15 ( must be performed UNBROKEN )\n12 Lateral Burpees Over DB\n\nTC: 16",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "vXkMU7wdwO",
+    "h9vPo5JYw6",
+    "V8IKIUyIbF",
+    "yJIlK7TN6q",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "JLrqT76EiH",
+   "date": "2026-01-26",
+   "display_order": 1769243714045,
+   "title": "Strict Pull ups",
+   "description": "A) 2 sets of:\n80% of Max reps \n\nrest 2:00\n\nB) 2 sets of 15 Banded Pull ups\n\nrest 2:00",
+   "score_type": "Reps",
+   "movement_ids": [
+    "iSu93oACwo",
+    "VYN8AHOd8K"
+   ]
+  },
+  {
+   "id": "VORg4XnErF",
+   "date": "2026-01-26",
+   "display_order": 1769243714046,
+   "title": "V-ups",
+   "description": "EMOM 8:\n10 reps",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "bzOdCsh9It",
+   "date": "2026-01-27",
+   "display_order": 0,
+   "title": "DELOAD WEEK",
+   "description": "שבוע התאוששות  – ממש רגע לפני הבלוק האחרון!\nהשבוע אנחנו מורידים עומס וזה סופר קריטי לתוכנית שלנו. שבוע דילואוד הוא לא שבוע חופש, אלא הזמן של הגוף והראש שלכם לספוג את כל העבודה הקשה שעשינו ולבנות את עצמם מחדש.\n\n**למה זה חשוב עכשיו?**\nהבלוק הבא הולך להיות אגרסיבי ממש – הישורת האחרונה לפני האופן. כדי שתגיעו אליו רעבים ובשיא הכוח, אתם חייבים לנצל את השבוע הזה כדי להטעין מצברים. המטרה היא התאוששות פיזית, אבל לא פחות חשוב – התאוששות מנטלית.\n\n**איך מנצלים את השבוע הזה נכון?**\n• תשקיעו בעצמכם: זה בדיוק הזמן לקבוע טיפול, פיזיותרפיה, עיסוי או ללכת לסאונה. תנו לגוף את הפינוק והתחזוקה שמגיעים לו אחרי כל מה שהעברתם אותו.\n• שינה, תזונה ומים: אלו כלי העבודה שלכם השבוע. תשנו טוב (8 שעות!), תאכלו אוכל בריא ומזין ותשתו המון מים. בלי זה, האימונים לא שווים הרבה.\n• התאוששות לפני הכל: אם יש ימים שאתם מרגישים לא בשיא, לא מספיקים או פשוט אין לכם חשק להתאמן – הכל טוב! בשבוע הזה זה לגמרי בסדר לתת עדיפות לשינה ולמנוחה על פני האימון.\n\nתנצלו את השבוע הזה כדי להגיע הכי חדים שיש לבלוק הבא. כי אנחנו יוצאים לדרך בכל הכוח!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "WcoNnPR6Ke",
+   "date": "2026-01-27",
+   "display_order": 1,
+   "title": "Snatch Prep / Warm Up  MUST DO",
+   "description": "Perform 2-3 sets of 3 reps of each Exercise in prescribed order\n\n\n5-7 reps Snatch Grip Behind the Neck Press ( only with an empty Bar! )\n\nSnatch Lift Off   - https://youtu.be/8fmCc9nqZLc?si=C0Wgxquf09oMHi87\nSnatch High Pull - https://youtu.be/9WRp0a5hcb0?si=AIMDLaMjAbBttgnt\nMuscle Snatch - https://youtu.be/bJYzOo1cNqY?si=p2p4L761-SU56Vol\nSnatch Balance with 1 sec stop at the bottom - https://youtu.be/GTj9pliPP8E?si=_SJLMq_SQ-c4x6VQ\nHang Squat Snatch - https://youtu.be/IucshEToDyM?si=Da60Khsa_zyWWhSe\n\n\nstart with an empty bar and add alittle weight each set",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "Nc8fpsP7Hw",
+   "date": "2026-01-27",
+   "display_order": 2,
+   "title": "Snatch and Fun",
+   "description": "EMOM 8:\n5 Jump Squats\n1 Power Snatch\n1 OHS \n\n@70-75% of Max Snatch",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "ob2CxWfxNN",
+   "date": "2026-01-27",
+   "display_order": 3,
+   "title": "Snatch Pull",
+   "description": "3 sets of 3 reps @80%\n\nrest 1:30\n\nuse straps",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "wJTtEGwCZm",
+   "date": "2026-01-27",
+   "display_order": 4,
+   "title": "METCON",
+   "description": "AMRAP 3:00 x 4, Rest 1:00 Between Sets:\n\n2 Bar Muscle ups\n8 Power Snatch @ 35/25 kg\n10 Ab-Mat Sit-ups",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "9S7n0cDkQ3",
+   "date": "2026-01-27",
+   "display_order": 5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "EMOM 12:\n1: 30 sec [Tall Kneeling Band Snow Angels](https://youtu.be/6xiC34iIP9Y?si=iQCeHBoB6KNjj68z)\n2: 30 sec Hollow Rocks\n3: 30 sec Dual KB Mix Hold  ( 1 OH + 1 Front Rack )@2x20-16/12-14 kg  alternate Right and Left each Round",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "1BLv0tS19s",
+   "date": "2026-01-28",
+   "display_order": 1769334459575,
+   "title": "ACTIVE RECOVERY OR REST DAY",
+   "description": "אתם מוזמנים לבצע פעילות אירובית ZONE 2\nריצה קלה ~30 - 35 דקות\nהליכה ~45-60 דקות\nאופנים ~ 45-60 דקות\n\nללכת לסאונה \n\nלבצע שיעור יוגה או פילאטיס או פשוט רצף מוביליטי ארוך ומפנק",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "tuu4eAryby",
+   "date": "2026-01-29",
+   "display_order": 1,
+   "title": "DELOAD WEEK",
+   "description": "שבוע התאוששות  – ממש רגע לפני הבלוק האחרון!\nהשבוע אנחנו מורידים עומס וזה סופר קריטי לתוכנית שלנו. שבוע דילואוד הוא לא שבוע חופש, אלא הזמן של הגוף והראש שלכם לספוג את כל העבודה הקשה שעשינו ולבנות את עצמם מחדש.\n\n**למה זה חשוב עכשיו?**\nהבלוק הבא הולך להיות אגרסיבי ממש – הישורת האחרונה לפני האופן. כדי שתגיעו אליו רעבים ובשיא הכוח, אתם חייבים לנצל את השבוע הזה כדי להטעין מצברים. המטרה היא התאוששות פיזית, אבל לא פחות חשוב – התאוששות מנטלית.\n\n**איך מנצלים את השבוע הזה נכון?**\n• תשקיעו בעצמכם: זה בדיוק הזמן לקבוע טיפול, פיזיותרפיה, עיסוי או ללכת לסאונה. תנו לגוף את הפינוק והתחזוקה שמגיעים לו אחרי כל מה שהעברתם אותו.\n• שינה, תזונה ומים: אלו כלי העבודה שלכם השבוע. תשנו טוב (8 שעות!), תאכלו אוכל בריא ומזין ותשתו המון מים. בלי זה, האימונים לא שווים הרבה.\n• התאוששות לפני הכל: אם יש ימים שאתם מרגישים לא בשיא, לא מספיקים או פשוט אין לכם חשק להתאמן – הכל טוב! בשבוע הזה זה לגמרי בסדר לתת עדיפות לשינה ולמנוחה על פני האימון.\n\nתנצלו את השבוע הזה כדי להגיע הכי חדים שיש לבלוק הבא. כי אנחנו יוצאים לדרך בכל הכוח!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "KYuedRnVCs",
+   "date": "2026-01-29",
+   "display_order": 1769334476561,
+   "title": "Front Squat",
+   "description": "3 sets of 3 reps @70-75%\nrest 2:00-2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "6cREP736SQ",
+   "date": "2026-01-29",
+   "display_order": 1769334476562,
+   "title": "Strict Press",
+   "description": "3 sets of 4 reps @65%\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "2clnFDTyC4",
+    "PWksBIhkdV",
+    "h9vPo5JYw6",
+    "V8IKIUyIbF",
+    "O8xUgMBLOp",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "YsysTwYK2h",
+   "date": "2026-01-29",
+   "display_order": 1769334476563,
+   "title": "Skill - Technical",
+   "description": "RMU:\nאם אין לכם RMU אני ממש ממליצה לבצע את התרגול הזה היום\nאם יש לכם RMU - אתם יכולים לבצע את זה בתור חימום . תורידו כמות סטים וחזרות כדי לא להתעייף\n\n\nA) [Beat Swings On Rings](https://youtu.be/nEIg81AeAyQ?si=hrLhiBrZDnFIsTz4)\n3 sets of 5-10 reps\nrest 1:00 between sets\n\nB) [Band Assisted RMU Transition ](https://youtu.be/sgEW-z7DBik?si=yeg9ejUp6FrFMpiN)\n4 sets of 2-4 reps\nבבקשה שימו לב איך הגוציה תלויה מהמתח ולא מהטבעות!! \nותראו בסרטון איך המתאמנת הזאת מיישמת כל הדגשים:\n- אגן\n- סנאפ פול\n- טראנזישן מהיר\nתשתדלו ליישם גם! תצלמו את עצמכם ותראו בין הסטים כי להבין האם אתם עובדים נכון\n\nC) [Bottom Of Ring Dip Swings](https://youtube.com/shorts/I6NaVaMM8Z8?si=yATs1TaOsV-BwLHF)\n3 sets of 5-7 Swings\nrest 1:30 between sets",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "BewE4bgYSM",
+   "date": "2026-01-29",
+   "display_order": 1769334476564,
+   "title": "Skill Capacity:",
+   "description": "Ring Muscle up:\nהיום יש לכם בחירה! תלוי בהרגשה במצב פיזי ומנטלי שלכם תבחרו אחד מהאופציות:\n\nA) Accumulate 15-20 reps\nSplit it as you like\nDo not rest more than 1:00 between sets\n\nB) 4 Rounds For Quality:\n200 m Jogg\n3-6 unbroken RMU\n\nC) EMOM 6:\nX RMU ( תחליטו על כמות חזרות כל דקה שמתאימה לכם אבל אל תעשו יותר מ 5 )\n\n\n**אם אין לכם RMU תבצעו את התרגול הטכני**",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "5z0OLfcSST",
+   "date": "2026-01-29",
+   "display_order": 1769334476565,
+   "title": "Metcon",
+   "description": "AMRAP 14:\n21 WB Shots\n15 C2B\n 9 Power Clean and Jerks @60/42,5\n \n 2:30 - 3:00 לסיבוב זה הקצב",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "m3kqlauMRD",
+   "date": "2026-01-29",
+   "display_order": 1769334476566,
+   "title": "Fan Bike Intervals",
+   "description": "EMOM 15:\n1: 18/15 Cal Fan Bike\n2: 12/10 Cal Erg Bike\n3: REST",
+   "score_type": "Calories",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "Qk4BDuNWLb",
+   "date": "2026-01-29",
+   "display_order": 1769334476567,
+   "title": "ACCESSORY / EXTRA",
+   "description": "3 sets:\n10/10 [Side Plank Banded Clamshells](https://youtube.com/shorts/FAG0lgn_tx4?si=1e8zFo0FrLwGB153)\n10/10 m [Banded Lateral Walk](https://youtu.be/RW4ZvH22l48?si=b3fMcu5LliDkJjra)\n10/10 m KB Suitcase Carry @32/24 kg\n\nrest 1:30",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "if6cDNkjl9",
+   "date": "2026-01-30",
+   "display_order": 1,
+   "title": "DELOAD WEEK",
+   "description": "שבוע התאוששות  – ממש רגע לפני הבלוק האחרון!\nהשבוע אנחנו מורידים עומס וזה סופר קריטי לתוכנית שלנו. שבוע דילואוד הוא לא שבוע חופש, אלא הזמן של הגוף והראש שלכם לספוג את כל העבודה הקשה שעשינו ולבנות את עצמם מחדש.\n\n**למה זה חשוב עכשיו?**\nהבלוק הבא הולך להיות אגרסיבי ממש – הישורת האחרונה לפני האופן. כדי שתגיעו אליו רעבים ובשיא הכוח, אתם חייבים לנצל את השבוע הזה כדי להטעין מצברים. המטרה היא התאוששות פיזית, אבל לא פחות חשוב – התאוששות מנטלית.\n\n**איך מנצלים את השבוע הזה נכון?**\n• תשקיעו בעצמכם: זה בדיוק הזמן לקבוע טיפול, פיזיותרפיה, עיסוי או ללכת לסאונה. תנו לגוף את הפינוק והתחזוקה שמגיעים לו אחרי כל מה שהעברתם אותו.\n• שינה, תזונה ומים: אלו כלי העבודה שלכם השבוע. תשנו טוב (8 שעות!), תאכלו אוכל בריא ומזין ותשתו המון מים. בלי זה, האימונים לא שווים הרבה.\n• התאוששות לפני הכל: אם יש ימים שאתם מרגישים לא בשיא, לא מספיקים או פשוט אין לכם חשק להתאמן – הכל טוב! בשבוע הזה זה לגמרי בסדר לתת עדיפות לשינה ולמנוחה על פני האימון.\n\nתנצלו את השבוע הזה כדי להגיע הכי חדים שיש לבלוק הבא. כי אנחנו יוצאים לדרך בכל הכוח!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "lzqaCCGAKH",
+   "date": "2026-01-30",
+   "display_order": 1.5,
+   "title": "Snatch",
+   "description": "3 sets:\n1 Pause Squat Snatch ( 2 sec at the bottom ) \n1 Squat Snatch\n@70-75%\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "NwCnju31gG",
+   "date": "2026-01-30",
+   "display_order": 1.75,
+   "title": "Clean And Jerk",
+   "description": "2 sets:\n3 Squat Cleans + 1 Split Jerk @75-80%\n\nrest 2:00 - 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "YI0nqHfBLR",
+   "date": "2026-01-30",
+   "display_order": 2,
+   "title": "Partner Metcon",
+   "description": "חברימוס זה אימון זוגות האחרון שלנו עד לאחרי האופן אז תהנו לכם מלא!\n\n\" Crazy Eyes \"\nFor Time **with the partner**\n\n10 Rounds ( 5 Each ):\n8 Lateral Burpees Over Bar\n 5 DL @110/80\n3 Wall Walks\n\n- rest 1:00 -\n\n100 Cal Row\n80 Box Jump Overs step Down\n40 BMU\n\n- rest 1:00 -\n\n21-15-9\nSynch S2O @60/42,5 kg\nFront Squats @60/42,5 kg\n\n\nTC: 38",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "4yhlXBa8Kz",
+   "date": "2026-01-31",
+   "display_order": 1769334467831,
+   "title": "REST DAY",
+   "description": "לא זזים היום",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

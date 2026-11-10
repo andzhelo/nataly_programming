@@ -1,0 +1,431 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-08-09",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "5a5nA6llEF",
+   "date": "2026-08-09",
+   "display_order": 1786171450963,
+   "title": "CNS Warm up",
+   "description": "3  Rounds:\n5 Banded Broad Jumps \n8 Lateral Med Ball Slams\n6 Band Assisted Plyo Push ups\n\nrest 1:30\n\n3 Sets:\n5 Empty Bar Jumping Back Squats\n\nRest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "0TrBBt8rTp",
+   "date": "2026-08-09",
+   "display_order": 1786171450964,
+   "title": "Lateral Med Ball Slam",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "hh8ErQWAJM",
+   "date": "2026-08-09",
+   "display_order": 1786171450965,
+   "title": "Banded Broad Jump",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "HZhZSDAkmE",
+   "date": "2026-08-09",
+   "display_order": 1786171450965.25,
+   "title": "Band Assisted Plyometric Push Ups",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "0ZAJCSxCLi",
+   "date": "2026-08-09",
+   "display_order": 1786171450965.5,
+   "title": "Wall Facing Strict HSPU",
+   "description": "**Level 1**\n5 sets of 2-5 reps Elevated ( Use ABMAT  )\n+ 2-3 sets of 5-8 Box Pike Push ups\n\nrest 1:20\n\n**Level 2:**\n5 sets of 2-5 reps \n+ 2-3 sets of 5-8 Box Pike Push ups\n\nrest 1:20\n\n**Level 3:**\nWall Facing Strict HSPU:\n3 Cluster Sets:\n5 reps\n10 sec rest\n3 reps\n10 sec rest\n2 reps\n\nrest 2:00 between Clusters",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "rwem3BetX5",
+   "date": "2026-08-09",
+   "display_order": 1786171450966,
+   "title": "Jumping Back Squat",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "hA7o7Q5Gbb",
+   "date": "2026-08-09",
+   "display_order": 1786171450967,
+   "title": "Banded Back Squat",
+   "description": "8 sets of 3 reps @65-70% of 1RM + Bands ( black or purple )\n\nspeed focus\n\nrest 2:00\n\n\nREAD PREPARE!!! תקראו !!!!",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "0gZh7s439w",
+   "date": "2026-08-09",
+   "display_order": 1786171450968,
+   "title": "The Lord of The Rings",
+   "description": "3 sets:\n15 sec Top Ring Suppport with External Rotations\nrest 1:00\n10 sec  Bottom of Ring dip swings\nrest 1:00",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "YixtQMCTkm",
+   "date": "2026-08-09",
+   "display_order": 1786171450969,
+   "title": "Top Of Ring Dip Hold w/ External Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "kojYGANQ3Y",
+   "date": "2026-08-09",
+   "display_order": 1786171450970,
+   "title": "Ring Dip Swings",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "FqAJLCyB6s",
+   "date": "2026-08-09",
+   "display_order": 1786171450973,
+   "title": "Metcon",
+   "description": "Open Workout 20.5\n\nFor Time:\n40 RMU\n80 Cal Row\n120 WB Shots @20/14 lbs\n\nTC: 20 \n\nPartition as you want!\n\nRead prepare for strategy and scaling options",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "Cqs6AUSw2i",
+   "date": "2026-08-09",
+   "display_order": 1786171450974,
+   "title": "Accessories:",
+   "description": "4 Sets:\n12 Goblet Cyclist Squats @moderate\n12-15 Cable Reverse Flyes or DB Bent Over Reverse Flyes\n8-10 Strict T2B\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "mQ1B59ipYI",
+   "date": "2026-08-09",
+   "display_order": 1786171450975,
+   "title": "Goblet Cyclist Squats",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "YlktJDCEDO",
+   "date": "2026-08-09",
+   "display_order": 1786171450976,
+   "title": "Cable Reverse Fly",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "CuJJuQBsth",
+   "date": "2026-08-09",
+   "display_order": 1786171450977,
+   "title": "Strict Toes To Bar",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "gAp1717OgV",
+   "date": "2026-08-10",
+   "display_order": 2,
+   "title": "Shoulder  Prep",
+   "description": "3 sets:\n5/5 KB Windmills @light moderate\n5/5 KB Bottoms Up Press\n20 Band Pull Aparts\n45 Sec Wrist Warm up  \n45 Sec  Deep Squat Sky Reach",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "GY9s603r3Z",
+   "date": "2026-08-10",
+   "display_order": 3,
+   "title": "Muscle Squat Snatch",
+   "description": "Muscle Squat Snatch ( no contact )\n3 sets of 3 reps @50% \n\nrest 1:30",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "H5CZqq4LS7",
+   "date": "2026-08-10",
+   "display_order": 3.5,
+   "title": "Muscle Squat Snatch (No Contact+No Feet)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "wqBf7FurJ6",
+   "date": "2026-08-10",
+   "display_order": 4,
+   "title": "Block Squat Snatch",
+   "description": "Set the blocks so that the bar will be at mid thigh\n\n1 set of 3 reps @65%\n2 sets of 2 reps @70%\n2 sets of 2 reps @75%\n2 sets of 2 reps @77%\n3 sets of 1 rep @80-82%\n\nrest 2:00 between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "jcsgygCd7d",
+   "date": "2026-08-10",
+   "display_order": 5,
+   "title": "Block Snatch from Mid-thigh",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "3LicKsy4A5",
+   "date": "2026-08-10",
+   "display_order": 6,
+   "title": "Metcon",
+   "description": "AMRAP 8:\n5 Hang Power Cleans @70/47.5 kg\n8 Lateral Burpees Over Bar",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "lE5CcT8gho",
+   "date": "2026-08-10",
+   "display_order": 7,
+   "title": "Push Pull",
+   "description": "3-4 sets:\n12 Barbell Bent Over Rows @moderate weight\n12 Dual DB Chest Presses @moderate weight\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "YXQwiQ02V6",
+   "date": "2026-08-10",
+   "display_order": 8,
+   "title": "Accessory",
+   "description": "3 Sets:\n30-45 sec Rower Hamstring Curls\n10 Seated DB Z-Presses @moderate weight\n15/15 KB/DB Side Bands @moderate weight\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "ZDpzjCxbt9",
+   "date": "2026-08-10",
+   "display_order": 9,
+   "title": "Dual DB Z Press",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "EEfx8fwSM1",
+   "date": "2026-08-10",
+   "display_order": 10,
+   "title": "Rower Hamstring Curl",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "TVexiiiwks",
+   "date": "2026-08-10",
+   "display_order": 11,
+   "title": "KB Side Bend",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "1APSEOV8Yr",
+   "date": "2026-08-11",
+   "display_order": 1,
+   "title": "CNS Warm up",
+   "description": "3 sets:\n10 Banded RKBS \n5 Band Assisted Plyo Push ups\n5/5 Banded  Lateral Skater Jumps ( accuracy focus )",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "aXyGRv8CIS",
+   "date": "2026-08-11",
+   "display_order": 2,
+   "title": "Banded Russian KBS",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "u73lSkdtZg",
+   "date": "2026-08-11",
+   "display_order": 3,
+   "title": "Banded Lateral Skater Jumps",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "U5MjfVfJEC",
+   "date": "2026-08-11",
+   "display_order": 4,
+   "title": "Squat Clean ( Week 2/3)",
+   "description": "Cluster Sets:\n3/2/2\nrest 20 sec between Clusters\nrest 3:00 between sets\n\n3 sets:\n@72% - 77%\n\n*perform 3 Touch and go Squat Cleans , rest 20 sec , perform 2 touch and go Squat Cleans, rest 20 sec and perform 2 more touch and go Squat Cleans",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "M6DEogofj7",
+    "vyy5Tr0N49"
+   ]
+  },
+  {
+   "id": "gFTAMgiR5l",
+   "date": "2026-08-11",
+   "display_order": 5,
+   "title": "Jerk",
+   "description": "A) Push Jerk:\n3 sets of 2 reps @70% \n\nrest 2:00\n\nB) Split Jerk:\n2 sets of 2 reps @70-75%",
+   "score_type": "Load",
+   "movement_ids": [
+    "9iI9OsXVAX",
+    "UIXa0O9TJ1"
+   ]
+  },
+  {
+   "id": "kXS8Kdlth4",
+   "date": "2026-08-11",
+   "display_order": 5.5,
+   "title": "Metcon",
+   "description": "10 RFT:\n10 Alt DB Snatches @22,5/15 kg\n10 T2B\n\nTC: 10",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "J4WR3dIddL",
+   "date": "2026-08-11",
+   "display_order": 7,
+   "title": "STRENGTH Accessory",
+   "description": "4 sets \n10 Single Arm DB Rows each side @heavy\n12 Dual DB Romanian DL @heavy\n12-15 Any variation of Biceps Curls\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "RGw5iQwn5o",
+   "date": "2026-08-12",
+   "display_order": 1786171480280,
+   "title": "Run",
+   "description": "5 km Run for the soul\n\nתכתבו זמנים אבל אנחנו עושים את ריצה הזאת בתור התאוששות אקטיבית",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "XklLvMQHeK",
+   "date": "2026-08-12",
+   "display_order": 1786171480281,
+   "title": "Quad Release - 15 minute Yoga Practice",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "oPmXW1SykB",
+   "date": "2026-08-13",
+   "display_order": 1786171489338,
+   "title": "LegZ Prep:",
+   "description": "3:00 Bike\n\ninto a hip mobility routine",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "gaVQFhzybA",
+   "date": "2026-08-13",
+   "display_order": 1786171489339,
+   "title": "12 Minute Hip Mobility Routine (FOLLOW ALONG)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "GyWpJ46PLM",
+   "date": "2026-08-13",
+   "display_order": 1786171489340,
+   "title": "Seated Box Jumps",
+   "description": "4 sets of 3 reps \nrest 1:00",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Pfe6N82u2K"
+   ]
+  },
+  {
+   "id": "B8wQgklAMH",
+   "date": "2026-08-13",
+   "display_order": 1786171489341,
+   "title": "Seated Box Jump",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "BTqukALxS0",
+   "date": "2026-08-13",
+   "display_order": 1786171489342,
+   "title": "One and a Quarter Front Squat",
+   "description": "5 sets of 3 reps @70 - 75%\n2:00 - 2:30  rest\n\nNO BOUNCE!\n\nהמשקל ממש לא חשוב לי! \nחשוב לי שתחזיקו גב לאורך כל התרגיל!\nבבקשה שימו לב שכל חזרה המרפקים נשארים גבוהים ואתם לא מתכיפים קדימה!\nאין צורך לעלות גבוה - תעלו עד לנקודה שמרגישה לכם כמו נקודה שבה אתם נתקעים בדרך כלל רדו שוב עד למטה ואז תעלו עד הסוף",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "NIGFIzmXku",
+   "date": "2026-08-13",
+   "display_order": 1786171489343,
+   "title": "1 1/4 Front Squat",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "ovijAqVu1Q",
+   "date": "2026-08-13",
+   "display_order": 1786171489343.5,
+   "title": "Skill Practice",
+   "description": "HSW:\n\n**Level 1**\n4-5 sets:\n10 chaest to Wall Plate Step ups\n\nrest 1:30\n\n**Level 2**\n4-5 sets \nHandstand Walk Towards Wall\nadd distance each set if successful\n\n**Level 3**\nEMOM 5:\n5-10 m HSW\n\n**Level 4**\n10-12 mins\nHSW Obstacle Course\nbuild some plated or ever parallets\nadd piruette if you wand\njust play around",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "RSEwbJ9JlG",
+   "date": "2026-08-13",
+   "display_order": 1786171489344.25,
+   "title": "Metcon",
+   "description": "\" TTT Throwdown \"\n\n4 RFT:\n15 Thrusters @35/25 kg\n60 DU\n15 OHS @35/25 kg\n60 DU\n\nTC: 16",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "x6aUSUZxn1",
+   "date": "2026-08-13",
+   "display_order": 1786171489345,
+   "title": "Accessory:",
+   "description": "3 sets:\n10 Strict Dips ( not on rings! ) ( weighted or band assisted if needed )\n10 Strict Pull ups ( weighted or band assisted if needed )\n25 sec Weighted Hollow Rocks\n\nrest 2:00",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "ZKSvoeTLSl",
+   "date": "2026-08-14",
+   "display_order": 1,
+   "title": "Partner WOD",
+   "description": "For Time:\n\n30-20-10\nPararalet HSPU @20 kg plate + 15 kg plate + ABMAT\nDL @102.5/70 kg\n\n30 Sync C2B\n\n30-20-10\nDual DB Box Step up Overs @2x22,5/15 kg @50/60 cm\nDual DB S2O @2x22,5/15 kg\n\n30 Sync C2B\n\n30-20-10\nMetres Dual DB OH Lunges @2x22,5/15 kg ( 5 m segments )\nMeters HSW  ( 5 m segments )\n\nTC: 35",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "Ae8SFFGmXf",
+   "date": "2026-08-15",
+   "display_order": 1,
+   "title": "REST DAY",
+   "description": "לא זזים היום!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

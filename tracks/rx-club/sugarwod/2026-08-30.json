@@ -1,0 +1,497 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-08-30",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "M9uYvtKZPD",
+   "date": "2026-08-30",
+   "display_order": -1,
+   "title": "Strength Block",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "rIdDixVjDi",
+   "date": "2026-08-30",
+   "display_order": 0,
+   "title": "Snatch Prep MUST DO",
+   "description": "A) Snatch Grip OH Elbow Rotations\n20 reps\n\nB) Snatch Grip Sots Press\n3 sets of 5 reps @empty Bar\n\nC) Snatch Lift Off:\n2 Sets of 5 reps @30%\n\nD) No Feet Snatch Pull\n2 Sets of 5 reps @30%\n\nE) Muscle Snatch\n2 sets of 3 reps @30%\n\nF) PAuse Hang Power Snatch\n2 sets of 3 reps @30%",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "Hem8zbRTDd",
+   "date": "2026-08-30",
+   "display_order": 1,
+   "title": "Power Snatch + Hang Power Snatch",
+   "description": "3 sets:\n1+1 @60-62%\n\n3 sets:\n1+1 @65-67%\n\nrest 2:00 between sets\n\n* % from your heaviest Snatch ( Power or Squat )\n*perform 3 High Box Jumps after each set of Snatches\n*step down the box!",
+   "score_type": "Load",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "oe08lNoEFu",
+   "date": "2026-08-30",
+   "display_order": 2,
+   "title": "Snatch Pull",
+   "description": "4 sets of 3 reps @85%\n\nrest 2:00\n\n*use straps",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "Gzfb342icC",
+   "date": "2026-08-30",
+   "display_order": 2.5,
+   "title": "Back Squat Prep",
+   "description": "A) 90/90 Knee \n10 reps Side to side\n\nB) 90/90 Hip Internal and External Rotation\n10 reps each ex. each side\n\nC) Pigeon Stretch:\n1:00 Each Side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "gN28fDGV2Z",
+   "date": "2026-08-30",
+   "display_order": 2.625,
+   "title": "90/90 Active Hip Internal Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "dh55yNb46a",
+   "date": "2026-08-30",
+   "display_order": 2.75,
+   "title": "90/90 Hip External Rotation Lift-Offs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "QC4iiYHB7o",
+   "date": "2026-08-30",
+   "display_order": 3,
+   "title": "Back Squat",
+   "description": "3 sets of 5 reps @70%\n\nrest 2:00 - 2:30\n\nNO BELT",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "fm6hmtp5yq",
+   "date": "2026-08-30",
+   "display_order": 4,
+   "title": "Metcon",
+   "description": "AMRAP 8:\n2-4-6-8-10...\nStrict HSPU\nHigh Box Jumps @60/70 cm   ( step down )\n15 m Farmer Carry @2x32/24 kg after each round",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "bnL0lZR9hT",
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "m210GEfiAd",
+   "date": "2026-08-31",
+   "display_order": -1,
+   "title": "Strength Block",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "bpmrDyucH1",
+   "date": "2026-08-31",
+   "display_order": 0,
+   "title": "Deadlift Prep",
+   "description": "2 Rounds:\n10 Cat - Cow\n5 Straight Leg Inchworm Push ups\n10 Banded Good Mornings\n10 Alt Single Leg DL - Slow and Controlled\n10 Hip Banded KB RDL",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "BTGNSpyMLW",
+   "date": "2026-08-31",
+   "display_order": 0.5,
+   "title": "Hip Banded RDL with Kettlebell",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "VrV0fJlvqy",
+   "date": "2026-08-31",
+   "display_order": 1,
+   "title": "Deadlift",
+   "description": "5 sets of 5 reps @75% \n\nrest 2:30-3:00\n\nNO BELT",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "4bbV9t9pdD",
+   "date": "2026-08-31",
+   "display_order": 2,
+   "title": "Strict Press",
+   "description": "A) Build up to a Single @90%\n\nB) 3 sets of 5 reps @80%\n\nrest 2:00 - 2:30 \n\nread prepare\n\nבתוצאה תכתבו:\nסט ראשון - משקל של סינגל\nסט שני - משקל של BACK OFF SETS",
+   "score_type": "Load",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "3lfCESHGY4",
+   "date": "2026-08-31",
+   "display_order": 3,
+   "title": "DB Row",
+   "description": "4 Sets of 10-12 reps each Arm @moderate - heavy \n\nrest 2:00 - 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "kGBwm9UadF",
+   "date": "2026-08-31",
+   "display_order": 4,
+   "title": "Accessory",
+   "description": "3 Sets:\n20-30 sec Deadhang ( no grips or straps )\n20 and Pull Aparts\n20 sec Side Plank Rotations Each Side\n\nrest 1:00 - 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "VYN8AHOd8K",
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "nApCbVSJc6",
+   "date": "2026-09-01",
+   "display_order": -2,
+   "title": "Strength Block",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LsiIHpo9M0",
+   "date": "2026-09-01",
+   "display_order": -1,
+   "title": "Front Squat Prep",
+   "description": "A) Butcher Block Stretch \n2 sets of 1:00\n\nB) Banded Front Rack Opener \n1:00 each side\n\nC) Wrist Flexion + Extension with Small Plates\n2 sets of 15 reps each\n\nD) 90/90 Knee \n10 reps Side to side\n\nE) 90/90 Hip Internal and External Rotation\n10 reps each ex. each side\n\nF) Pigeon Stretch:\n1:00 Each Side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "3mdIBShE3S",
+   "date": "2026-09-01",
+   "display_order": -0.5,
+   "title": "Banded Front Rack Opener Stretch",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "bCzhUix3s5",
+   "date": "2026-09-01",
+   "display_order": -0.25,
+   "title": "90/90 Hip External Rotation Lift-Offs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "iF46CRi5MV",
+   "date": "2026-09-01",
+   "display_order": 0,
+   "title": "90/90 Active Hip Internal Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "CxtHNy2XGN",
+   "date": "2026-09-01",
+   "display_order": 1,
+   "title": "Front Squat",
+   "description": "5 sets 3 rep @ 70%\n\nrest 2:30 - 3:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "XtWaoRzWCx",
+   "date": "2026-09-01",
+   "display_order": 2,
+   "title": "Bulgarian Split Squat",
+   "description": "3 sets of 8 reps each side\n@moderate weight\n\nread prepare",
+   "score_type": "Load",
+   "movement_ids": [
+    "sNAc71FfRN"
+   ]
+  },
+  {
+   "id": "zgIziaFYP2",
+   "date": "2026-09-01",
+   "display_order": 3,
+   "title": "Front Rack Hold",
+   "description": "4 sets of 20 sec Hold \n@10 -15  kg + your Front Squat working weight for today\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "xDrRZDylKu",
+   "date": "2026-09-01",
+   "display_order": 4,
+   "title": "Metcon - OPTIONAL",
+   "description": "30 Cal Row\n30 Alt Hang DB Snatches @22,5/15 kg\n30 T2B\n\nrest 1:00\n\n20 Cal Row\n20 Alt Hang DB Snatches @22,5/15 kg\n20 T2B\n\nrest 1:00\n\n10 Cal Row\n10 Alt Hang DB Snatches @22,5/15 kg\n10 T2B\n\n*Eco Bike Cals: 20/18  15/12 8/6",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "vXkMU7wdwO",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB",
+    "Gl19kiplpb"
+   ]
+  },
+  {
+   "id": "GapfZuqXaD",
+   "date": "2026-09-01",
+   "display_order": 5,
+   "title": "Shouldr REHAB",
+   "description": "A) Band External Rotation:\n3 sets of 15-20 reps each Side\n\nB) Prone IYT\n3 sets of 4 reps* hold each rep for 2 sec at the top\n\n*1rep = Y + T + W\n\nC) Scapullar Push ups \n3 sets of 8 reps ( full protraction focus )",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "MwWcNxPhoa",
+   "date": "2026-09-01",
+   "display_order": 6,
+   "title": "Prone Y T W",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "wuFaHKUO1r",
+   "date": "2026-09-02",
+   "display_order": 0,
+   "title": "Strength Block",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "N1TQD0X3g4",
+   "date": "2026-09-02",
+   "display_order": 1,
+   "title": "RECOVERY DAY",
+   "description": "MANDATORY MOBILITY AND SAUNA\n\nIF YOU WANNA BE STRONG\nTREAT YOURSELF",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "16rx57S18y",
+   "date": "2026-09-03",
+   "display_order": -1,
+   "title": "Strength Block",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "0DeVe3YiZZ",
+   "date": "2026-09-03",
+   "display_order": 0,
+   "title": "Back Squat Prep",
+   "description": "A) 90/90 Knee \n10 reps Side to side\n\nB) 90/90 Hip Internal and External Rotation\n10 reps each ex. each side\n\nC) Pigeon Stretch:\n1:00 Each Side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "46Li56rH7w",
+   "date": "2026-09-03",
+   "display_order": 0.25,
+   "title": "90/90 Active Hip Internal Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "AokqWHhm8l",
+   "date": "2026-09-03",
+   "display_order": 0.5,
+   "title": "90/90 Hip External Rotation Lift-Offs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "Ll6cC0bCly",
+   "date": "2026-09-03",
+   "display_order": 1,
+   "title": "Back Squat - Intencity",
+   "description": "Build in 5–7 sets to a 5-rep set @ 80%\nAll sets must be done as sets of 5 reps.\nDo 1 set every 3 minutes.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "rTkDRrnMre",
+   "date": "2026-09-03",
+   "display_order": 2,
+   "title": "Gymnastics",
+   "description": "יש לכם היום 3 אופציות:\n1 - לעבוד נפח כמו שאני אכתוב כאן\n2 - לבחור סקיל חדש ולבצע פרוגרשיין אבל בבקשה תתחייבו לפחות ל 4-6 שבועות לסקיל אחד - אל תקפצו כל שבוע\n3 - לבצע עבודת איכות  - סקיל של יש לכם אבל לא יושב טוב - לבצע כמה סטים עם דגש טכני ספציפי\n\nEMOM 8:\n1: 45 sec Erg Bike @RPE7\n2: choose:\n- 3-6 RMU\n- 3-6 BMU\n- 6-12 C2B\n- 5-15 m HSW",
+   "score_type": "Reps",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "1m5Z5wmyA0"
+   ]
+  },
+  {
+   "id": "fk7mgAtF8Z",
+   "date": "2026-09-03",
+   "display_order": 3,
+   "title": "Bench Press",
+   "description": "3-4 sets of 8 reps @RPE7\nrest 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "BH6Cm9ALj5",
+   "date": "2026-09-03",
+   "display_order": 4,
+   "title": "Strict Pull ups TEST",
+   "description": "Test your Max rep set\nIf you have more than 12 reps in a row test your 1RM Weighted Strict PU\n\nלפי התוצאה של הטסט תשייכו את עצמכם לקטגוריה \n\nUnder 6 reps → Track C (Foundation)\n6–11 reps → Track B (Developing)\n12+ reps → Track A (Weighted) \n\nאם אתם עושים מתח עם משקל - תכתבו בתוצאה חזרה 1 ובתגובה תכתבו משקל",
+   "score_type": "Reps",
+   "movement_ids": [
+    "iSu93oACwo",
+    "VYN8AHOd8K",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "3TuM3HidCj",
+   "date": "2026-09-03",
+   "display_order": 4.5,
+   "title": "Strict Pull Ups:",
+   "description": "Track C: 4 sets of 3 reps \nrest 2:00\n\nTrack B: \n4 sets of 3 reps \nrest 2:00\n\nTrack A:\n4 sets of 5 reps @50%",
+   "score_type": "Reps",
+   "movement_ids": [
+    "iSu93oACwo",
+    "VYN8AHOd8K"
+   ]
+  },
+  {
+   "id": "DaRNwbsMGB",
+   "date": "2026-09-03",
+   "display_order": 5,
+   "title": "Accessory",
+   "description": "A) DB Biceps Curls:\n3 sets of 12-15 reps \n\nB) DB Skull Crushers \n3 sets of 12-15 reps \n\nC) Hollow Hold\n3 sets of 35 sec Hold",
+   "score_type": "Load",
+   "movement_ids": [
+    "1cZx24hUB0"
+   ]
+  },
+  {
+   "id": "QhfzERHaDj",
+   "date": "2026-09-04",
+   "display_order": -1,
+   "title": "Strength Block",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "RF5zejA72v",
+   "date": "2026-09-04",
+   "display_order": 0,
+   "title": "Clean Prep",
+   "description": "A) Butcher Block Stretch \n2 sets of 1:00\n\nB) Banded Front Rack Opener \n1:00 each side\n\nC) Wrist Flexion + Extension with Small Plates\n2 sets of 15 reps each",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "3ofGTpAcA7",
+   "date": "2026-09-04",
+   "display_order": 0.5,
+   "title": "Banded Front Rack Opener Stretch",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "vdhUw7oxji",
+   "date": "2026-09-04",
+   "display_order": 1,
+   "title": "Power Clean and Push Jerk",
+   "description": "3 sets:\n3 Power Cleans + 2 Push Jerks @70%\n\n3 sets:\n3 Power Cleans + 2 Push Jerks @75%\n\nGo Every 2:30\n\nNot Touch and Go!! Not Cleans and Not Jerks!",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "UIXa0O9TJ1"
+   ]
+  },
+  {
+   "id": "Cv1QKnsg7J",
+   "date": "2026-09-04",
+   "display_order": 2,
+   "title": "Clean Pull",
+   "description": "3 sets of 3 reps @85% of clean\n\nrest 2:00\nuse straps",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "BMBaeR7rHp",
+   "date": "2026-09-04",
+   "display_order": 3,
+   "title": "Conditioning:",
+   "description": "EMOM 30:\n1: 15 Burpees\n2: 10/8 Cal Echo Bike\n3: 50 DU / 6 Shuttle Runs* ( alternate each round )\n\n1 Shuttle Run = 7,5 + 7,5 m",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB",
+    "h9vPo5JYw6",
+    "yJIlK7TN6q",
+    "FvelGsOivV"
+   ]
+  },
+  {
+   "id": "bu8438dlCH",
+   "date": "2026-09-05",
+   "display_order": 1,
+   "title": "REST DAY",
+   "description": "FULL REST DAY",
+   "score_type": "Load",
+   "movement_ids": []
+  }
+ ]
+}

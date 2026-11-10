@@ -1,0 +1,446 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2023-12-31",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "Jt2elIbJU3",
+   "date": "2023-12-31",
+   "display_order": 900005,
+   "title": "Week overview",
+   "description": "Welcome to the new chapter of our Fitness Phase. We hope everyone had a great holiday and now you are ready to turn it up a notch. \nThis cycle of the phase will be even more focused on preparing for The Open and Quarter Finals! You will notice volume tapering down while intensity dials up in a 60/40 split.\nHave fun and good luck!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "jtE9yIPiK1",
+   "date": "2023-12-31",
+   "display_order": 900006,
+   "title": "Warm up",
+   "description": "3 rounds\n1 minute row @ nose breathing\n10 Banded OH Squats\n3 Halting snatch deadlift + 3 Muscle Snatch + 3 Snatch Balance\n30 seconds/side Couch stretch",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "V8IKIUyIbF",
+    "XavuhsO1R0",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "WJ9i5RKMhx",
+   "date": "2023-12-31",
+   "display_order": 900006.5,
+   "title": "Weightlifting Accessory",
+   "description": "Back squat\n20 RM",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "dbmzJf9ITS",
+   "date": "2023-12-31",
+   "display_order": 900007,
+   "title": "Weightlifting",
+   "description": "EMOM 20 minutes\n1 Snatch high pull + 1 Snatch\n\n0-4 mins: 65%\n5-9 mins: 70%\n10-14 mins: 75%\n15-19 mins: 80%+",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "1RTTNomGDl",
+   "date": "2023-12-31",
+   "display_order": 900009,
+   "title": "Metcon",
+   "description": "3 rounds\n100 Double-unders\n30 Snatch 75/55 lbs",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "XeAz4bEVMJ",
+   "date": "2023-12-31",
+   "display_order": 900010,
+   "title": "Conditioning",
+   "description": "Row\n12 rounds\n20 seconds @ RPE 10\n40 seconds @ RPE 3",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "kwIWrKcLvH",
+   "date": "2023-12-31",
+   "display_order": 900011,
+   "title": "Accessory",
+   "description": "Poliquin Step-ups\n3 x 10/10 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "oe94YukYU4",
+   "date": "2023-12-31",
+   "display_order": 900012,
+   "title": "Poliquin Step Up",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "mBn74BLTm2",
+   "date": "2024-01-01",
+   "display_order": 900012,
+   "title": "Warm up",
+   "description": "EMOM 12 minutes\nMin 1 - 40 seconds Skipping practice (double-unders, crossovers, ect..)\nMin 2 - 5 Scap pulls + 5 scap push\nMin 3 - 10 hollow rocks + 10 V-ups\nMin 4 - 60 seconds rotating scorpions",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "9gBXUjTIiW",
+   "date": "2024-01-01",
+   "display_order": 900013,
+   "title": "Gymnastic Pull",
+   "description": "Strict pull-ups @ RPE 8\n4 x 10",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "bCKPLgzZJt",
+   "date": "2024-01-01",
+   "display_order": 900014,
+   "title": "Accessory",
+   "description": "5 sets\nMax wall facing HSPU @ RPE 8\n12 Banded press @ fast\nRest as needed between sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "dqM9gghoJU",
+   "date": "2024-01-01",
+   "display_order": 900015,
+   "title": "Metcon",
+   "description": "Every 6 mins for 18 minutes\n2 rounds of\n50 ft Dumbbell Front Rack Walking Lunges (2x 50/35 lb)\n16 Toe-to-Bars\n8 Dumbbell Power Cleans (2x 50/35 lb)",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "SeSuEayXKQ",
+   "date": "2024-01-01",
+   "display_order": 900016,
+   "title": "Conditioning",
+   "description": "Echo Bike\n3 x 50/35 Cals\nRest 4 minutes between sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "W0Z7No8JPk",
+   "date": "2024-01-01",
+   "display_order": 900017,
+   "title": "Accessory",
+   "description": "Pinch grip DB curls\n5 x 10 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "YXK1jd7jop",
+   "date": "2024-01-01",
+   "display_order": 900018,
+   "title": "Pinch grip DB curls",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "o4oTBKIFcr",
+   "date": "2024-01-02",
+   "display_order": 900021,
+   "title": "Warm up",
+   "description": "3 rounds\n1 minute row @ nose breathing\n10 Goblet squat\n3 Halting clean deadlift + 3 Tall Cleans + 3 Font squat 1 1/4 \n30 second straddle sit and reach hamstring stretch",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "r3CNRMSi8j",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "nRGnwybrhd",
+   "date": "2024-01-02",
+   "display_order": 900022,
+   "title": "Weightlifting",
+   "description": "EMOM 20 minutes\n1 Clean + 1 Front squat\n\n0-4 mins: 65%\n5-9 mins: 70%\n10-14 mins: 75%\n15-19 mins: 80%+",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "81jWQKuI8B",
+   "date": "2024-01-02",
+   "display_order": 900023,
+   "title": "Weightlifting accessory",
+   "description": "Clean Pull\n4 x 4 @ 110%\n\nUse straps if you have them",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "aYPC3ieyTC",
+   "date": "2024-01-02",
+   "display_order": 900024,
+   "title": "Accessory",
+   "description": "Banded Russian Step-ups, 24/20”\n3 x 10/10 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "0qfrHX96Xo",
+   "date": "2024-01-02",
+   "display_order": 900025,
+   "title": "Forward banded Russian Step up",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LiQDhzoaAZ",
+   "date": "2024-01-02",
+   "display_order": 900026,
+   "title": "Metcon",
+   "description": "For time, alternating between\n42-30-18-12-6 Wall Balls 20/14 lbs\n21-15-9-6-3 Burpee Box jump overs @ 24/20\"",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "Znbyw5L9At",
+    "a7yfpJnTww",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "4R6Rp73zBw",
+   "date": "2024-01-02",
+   "display_order": 900027,
+   "title": "Conditioning",
+   "description": "3 rounds\n500m Ski\n1000m bike erg\n100' HS walk\nRest 5 minutes",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "gANkqNtQw4",
+   "date": "2024-01-03",
+   "display_order": 899999,
+   "title": "Active Rest day",
+   "description": "30-40 mins Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "BnOgbAd3tp",
+   "date": "2024-01-03",
+   "display_order": 1706021361844,
+   "title": "Warm up",
+   "description": "EMOM 15 minutes\n1- 45 sec Ski\n2- 45 sec Row\n3- 5 Snatch High Pull + 5 snatch balance",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "on7PuFmj7k",
+   "date": "2024-01-03",
+   "display_order": 1706021361845,
+   "title": "Weightlifting",
+   "description": "Power Snatch\nTabata @ 60%",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "bGBRn4YrS4",
+   "date": "2024-01-03",
+   "display_order": 1706021361846,
+   "title": "Weightlifting",
+   "description": "EMOM 6 minutes\n2 Back Squats @ 30% + 25% band tension",
+   "score_type": "",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "W4Oj0VEArK",
+   "date": "2024-01-03",
+   "display_order": 1706021361847,
+   "title": "Metcon",
+   "description": "AMRAP 20 minutes\n25 Burpee Box jump over 24/20\"\n20 TTB\n15 KB Swings 32/24 Kg",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "Znbyw5L9At",
+    "a7yfpJnTww",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "I9E9nOm9uS",
+   "date": "2024-01-03",
+   "display_order": 1706021361848,
+   "title": "Conditioning",
+   "description": "EMOM 15 minutes\n1- 100' Sandbag carry @ heavy\n2- 50’ Farmer carry @ heavy\n3- 100' Sled push @ heavy\n4 & 5- Ski @ moderate",
+   "score_type": "Load",
+   "movement_ids": [
+    "bxoFHTtvld"
+   ]
+  },
+  {
+   "id": "yWcr45FdqG",
+   "date": "2024-01-03",
+   "display_order": 1706021361849,
+   "title": "Accessory",
+   "description": "Reverse hypers\n3 x 15 reps @50% of 1RM back Squat\nRest 60-90 seconds between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "qPJKBPaPpQ",
+   "date": "2024-01-04",
+   "display_order": 900005,
+   "title": "Warm up",
+   "description": "2 rounds of the Barbell warm-up\nElbow rotations: 5 back rack + 5 front rack\n5 front squats\n5 push press\nthen,\n\n3 rounds\n1 min row @ increasing intensity\n15-12-9 \nwall balls\npause ring rows",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "umWlFaYtSo",
+    "FrQGIrNfi8",
+    "7D2s52zLPX",
+    "9ikRXPXECL",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "9fLusKtZZP",
+   "date": "2024-01-04",
+   "display_order": 900006,
+   "title": "Metcon",
+   "description": "“Open 19.5”\nFor Time\n33-27-21-15-9 reps of:\nThrusters (95/65 lb)\nChest-to-Bar Pull-Ups\n\nTime Cap: 20 minutes",
+   "score_type": "",
+   "movement_ids": [
+    "iSu93oACwo",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "1BlM0XzHdO",
+   "date": "2024-01-04",
+   "display_order": 900010,
+   "title": "DB Row with Parallette Support",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "mXaj6GUi1s",
+   "date": "2024-01-04",
+   "display_order": 900011,
+   "title": "Power endurance",
+   "description": "4 sets\n15/15 seconds Max rep jumping Bulgarian split squat\n@2x50/35 lbs DB*\n4 Box jump overs @24/20\" clearing the box\n\n*Farmers carry style",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "sNAc71FfRN"
+   ]
+  },
+  {
+   "id": "glDXPNU1He",
+   "date": "2024-01-04",
+   "display_order": 900012,
+   "title": "Jumping Bulgarian Split Squat",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "JRy1RLNbcC",
+   "date": "2024-01-05",
+   "display_order": 900009,
+   "title": "Warm up",
+   "description": "Following the initial Conditioning work\n\nAmrap 12\n5 Burpees (1 every 3-5 seconds)\n5 Push-ups to downward dog\n10 pause air squats",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "c94XVoGakB",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "y8tE2vI0qY",
+   "date": "2024-01-05",
+   "display_order": 900010,
+   "title": "Conditioning",
+   "description": "C2 Bike erg\n7 rounds\n1600m @RPE 7\nRest 2 mins between rounds",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "1m5Z5wmyA0"
+   ]
+  },
+  {
+   "id": "yTL2QaYPoK",
+   "date": "2024-01-05",
+   "display_order": 900011,
+   "title": "Accessory",
+   "description": "Standing Banded T\n3 x 20 reps\n\nHold 5 seconds at peak contraction every 5 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "1h13Cu23mw",
+   "date": "2024-01-05",
+   "display_order": 900012,
+   "title": "Banded T (With Hold)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "zZh3EUh3i3",
+   "date": "2024-01-05",
+   "display_order": 900013,
+   "title": "Metcon",
+   "description": "AMRAP 20 minutes\n30 Box step-ups 24/20\"\n20 OH Squats 95/65 lbs\n30/20 Cal Row",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "bi5mFzLOQJ",
+   "date": "2024-01-05",
+   "display_order": 900014,
+   "title": "Core accessory",
+   "description": "Banded Side Plank\n4 x 60 sec/side",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "BiFnBHkwsl",
+   "date": "2024-01-05",
+   "display_order": 900015,
+   "title": "Band Side Plank",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2023-11-19",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "FGJOADdt1U",
+   "date": "2023-11-19",
+   "display_order": 1,
+   "title": "Week Overview",
+   "description": "This week you will notice a priority on Metcons. This is the 50/50 week after 3 weeks of 80/20. This refers to the volume/intensity split. So this week will be more focused on intensity than the first 3 weeks. If you are tracking your benchmark numbers, and you should, this week will be a definite priority week as we are met with two significant testing meton’s.\nGood luck, and make sure you have fun. If you don’t PR, it’s not the end of the world, you are training right now. Try and find out why you didn’t PR and realize that if you are PRing metcons consistently you are still a beginner, it isn’t until you’ve met with the PR struggle bus that you can progress.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "lTNE8R4JdI",
+   "date": "2023-11-19",
+   "display_order": 2,
+   "title": "Warmup",
+   "description": "3 rounds @increasing intensity on each round\n1 minute Echo Bike\n10 Hollow rocks\n10 DB Curtsy lunges\n10 Burpees\n10 banded press\nPrayer stretch: 5 deep breaths\n(https://www.youtube.com/watch?v=umCOjch2kG0)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "c94XVoGakB",
+    "lDpU5192WQ",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "UwYJbwxU91",
+   "date": "2023-11-19",
+   "display_order": 3,
+   "title": "Metcon",
+   "description": "Chipper Test: 22' QF Event 1\n\n50 dumbbell walking lunges\n30 handstand push-ups\n40 front-rack walking lunges\n20 deficit handstand push-ups\n30 overhead walking lunges\n10 strict handstand push-ups\n\ntc: 15\n\n2 x 50/35-lb dumbbells for all lunges, 3.5/2” deficit",
+   "score_type": "",
+   "movement_ids": [
+    "9iu4RgWSgi",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "qtxBGR8Oqf",
+   "date": "2023-11-19",
+   "display_order": 4,
+   "title": "Gymnastics Strength",
+   "description": "4 sets\n6 DB Bench press @ heavy\n1-2 Legless rope climbs*\n\n*Start from a seated position on the floor, your legs cannot touch the floor.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "50I5upgDJb",
+    "Cki3yLrBKO"
+   ]
+  },
+  {
+   "id": "yFIGfViuKI",
+   "date": "2023-11-19",
+   "display_order": 5.5,
+   "title": "Conditioning",
+   "description": "30-24-18-12\nCal Echo Bike\nV-ups",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "NIeMW1qCW9",
+   "date": "2023-11-19",
+   "display_order": 5.75,
+   "title": "Shoulder Accessory",
+   "description": "Banded plank + shoulder touches\n5 x 10 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "ZmtkdkLhmb",
+   "date": "2023-11-19",
+   "display_order": 6,
+   "title": "Banded Plank + Shoulder Touches",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "2BavUp8Aza",
+   "date": "2023-11-19",
+   "display_order": 8,
+   "title": "Core Accessory",
+   "description": "Side plank + banded row\n3 x 12/12\n\nPause for 2 seconds at peak contraction",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "9XOcEGoHNv",
+   "date": "2023-11-19",
+   "display_order": 9,
+   "title": "Side Plank + Banded Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "E1g36DciNw",
+   "date": "2023-11-20",
+   "display_order": 1,
+   "title": "Warmup",
+   "description": "3min C2 Bike @ moderate\n7 No hook, No contact Muscle cleans\n5 Tall clean to push press\n5 tall push jerks\n5/5 PNF Pigeon stretch\n5 seconds contraction, pushing against the floor with your leg\n- 5 seconds stretch, moving your upper body toward the floor\n(https://www.youtube.com/watch?v=QQPiREsGaQY)",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "gDgxHFA2qz",
+   "date": "2023-11-20",
+   "display_order": 2,
+   "title": "Clean Complex",
+   "description": "Build to a heavy:\nPower Clean + Hang squat clean\n2+1",
+   "score_type": "Load",
+   "movement_ids": [
+    "vyy5Tr0N49"
+   ]
+  },
+  {
+   "id": "C2sQaBGQGK",
+   "date": "2023-11-20",
+   "display_order": 4,
+   "title": "Metcon",
+   "description": "4 x Amrap 3\n30 Double unders\n12 Wallball @20/14\n6 Hang Snatch @ 75/55 lbs\n\nRest 2 mins between amraps",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "GFqLOzCecR",
+   "date": "2023-11-20",
+   "display_order": 4.5,
+   "title": "Back Squat",
+   "description": "Back squat\n4 x 4 @87%",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "qDUpfMPWP5",
+   "date": "2023-11-20",
+   "display_order": 5,
+   "title": "Post Chain Accessory",
+   "description": "Reverse hypers\n3 x 15\nRest 60 seconds between sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "wMeMqBppSA",
+   "date": "2023-11-20",
+   "display_order": 6,
+   "title": "The Reverse Hyper",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "n5PIsIKIFo",
+   "date": "2023-11-21",
+   "display_order": 1,
+   "title": "Warmup",
+   "description": "2 sets \n100 single unders\n20 sec GHD sit-up hold at parallel\n3 Beat swings\n3 Ring swings\n3 pause ring dips\n3 Bar beat swings\n3 Glide swings\n3 Hip to bar",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "xKDiLdWQzK",
+   "date": "2023-11-21",
+   "display_order": 2,
+   "title": "Gymnastics Pull",
+   "description": "6 rounds\n12 GHD Sit-ups\n3 Ring mu\n5 Bar Muscle-ups",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "eBiFpZIcfm",
+   "date": "2023-11-21",
+   "display_order": 2.5,
+   "title": "Metcon",
+   "description": "4 rounds\n20 Squat cleans @95/65 lbs\n2Km Echo bike",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "SiBmLzbxDa",
+   "date": "2023-11-21",
+   "display_order": 3,
+   "title": "Gymnastics Pull Accessory",
+   "description": "5 sets\n15 ring rows\n8/8 DB row + parallette support",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "C0jOQMyHMr",
+   "date": "2023-11-21",
+   "display_order": 4,
+   "title": "DB Row with Parallette Support",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "T6BnDfX1ck",
+   "date": "2023-11-21",
+   "display_order": 6,
+   "title": "Core Accessory",
+   "description": "4 rounds for quality\n5 Seated strict TTB\n20 Sky touches\n30 sec/elbow Side plank",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "cgD2E7GF9S",
+   "date": "2023-11-21",
+   "display_order": 7,
+   "title": "Seated Strict TTB",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "sazMm6xdjZ",
+   "date": "2023-11-21",
+   "display_order": 8,
+   "title": "Sky Touches Feet on Bench",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "llLfajuCq8",
+   "date": "2023-11-22",
+   "display_order": 1,
+   "title": "Active Rest Day",
+   "description": "30-40 min Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "2KxCD477r7",
+   "date": "2023-11-22",
+   "display_order": 2,
+   "title": "Rest Day",
+   "description": "Rest Day",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "0UEUg4xEEL",
+   "date": "2023-11-23",
+   "display_order": 1,
+   "title": "Warmup",
+   "description": "3 rounds @ increasing intensity\n10 cal row\n10 wall ball\n10 Bar facing burpees",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "9ikRXPXECL",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "QmJZbjeVxH",
+   "date": "2023-11-23",
+   "display_order": 2,
+   "title": "\"Chaos\"",
+   "description": "AMRAP 7\n10 Thrusters 95/65lbs\n10 Bar facing Burpees",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "YLMWqZPlW6",
+   "date": "2023-11-23",
+   "display_order": 2.5,
+   "title": "Post Chain Accessory",
+   "description": "Deadlift\nEMOM 6:\n2 reps @ 75-80%",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "A0LdSnNgdE",
+   "date": "2023-11-23",
+   "display_order": 3,
+   "title": "Gymnastics Strength",
+   "description": "Deficit strict hspu\n3RM",
+   "score_type": "Inches",
+   "movement_ids": [
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "gxnOWehJv4",
+   "date": "2023-11-23",
+   "display_order": 4,
+   "title": "Gymnastics Accessory",
+   "description": "3 sets @ tempo 2.1.2.1\n\n12 light band bent over reverse fly's\n12 light band triceps extension\n\nTempo is two seconds up and down with 1 sec pauses at top and bottom.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "XFBXSuk4vP",
+   "date": "2023-11-23",
+   "display_order": 5,
+   "title": "Bent Over Reverse Fly",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "EevE6uBG6r",
+   "date": "2023-11-23",
+   "display_order": 6,
+   "title": "Shoulder Accessory",
+   "description": "Standing Banded T\n3 x 20 reps\n\nHold 5 seconds at peak contraction every 5 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "0tSbKy6Jal",
+   "date": "2023-11-23",
+   "display_order": 7,
+   "title": "Banded T (With Hold)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "NyQiDjUyKn",
+   "date": "2023-11-24",
+   "display_order": 1,
+   "title": "Warmup",
+   "description": "5 min Row @ increasing intensity\n-then-\n2 sets\n5 Barbell pullover lying on floor\n5/leg Split stance Good morning\n5 Behind the neck snatch grip Thrusters",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "8OZDlHAExp",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB",
+    "Zsg2tpPwwB",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "rTQ54sCCF9",
+   "date": "2023-11-24",
+   "display_order": 2,
+   "title": "Weightlifting + Gymnastics",
+   "description": "4 rounds\n3 Squat snatch @205/145 lbs\n8 Burpee CTB\n\nRest 1:1",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "ksOdW6y9Id",
+   "date": "2023-11-24",
+   "display_order": 3,
+   "title": "Antagonist Accessory",
+   "description": "Half kneeling landmine press\n4 x 8/8\n\n*pause at forehead in the eccentric for 2 seconds.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "OUTL1Btncc",
+   "date": "2023-11-24",
+   "display_order": 4,
+   "title": "Half kneeling Landmine press",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "bNl9f4AMuc",
+   "date": "2023-11-24",
+   "display_order": 5,
+   "title": "Metcon",
+   "description": "EMOM 14\nMin 1 - 10 Power Clean @135/95 lbs\nMin 2 - 15/12 Cal Row\nMin 3 - 10 Box Jump @30/24\"\nMin 4 - 50' Front rack walking lunges @135/95 lbs\nMin 5 - 15/12 Cal Assault bike\nMin 6 - 12 push jerk @135/95 lbs\nMin 7- 12 Bar facing burpees",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "UIXa0O9TJ1",
+    "9ikRXPXECL",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "ljM3hTQ8s6",
+   "date": "2023-11-24",
+   "display_order": 7,
+   "title": "Jumping Bulgarian Split Squat",
+   "description": "Like this but lightly weighted, farmers carry style",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

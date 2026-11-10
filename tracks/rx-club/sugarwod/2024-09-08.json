@@ -1,0 +1,339 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-09-08",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "pQI13bkHcm",
+   "date": "2024-09-08",
+   "display_order": 862852824898.5,
+   "title": "Mixed Machine Work",
+   "description": "Mixed Machine Work.\nーーーー\n7 Sets:\n1:00 Ski Erg @ Fast Pace\n2:00 Fan Bike @ Moderate Pace\nNo Rest Between Sets.\nNOTES:\n- Your ski erg should be fast. The ski should only be sustainable because your moderate pace on the bike allows you to recover a bit.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "k6qV2U3ffc"
+   ]
+  },
+  {
+   "id": "JMHG2dz7zd",
+   "date": "2024-09-08",
+   "display_order": 1725704744362.5,
+   "title": "Tempo Pause Front Squat",
+   "description": "Tempo Pause Front Squat\n1x3 @ 12x1 Tempo / RPE 9+\n-then-\n3x3 @ -15% of RPE 9 Set\nRest 2:00-3:00 Between Sets.\n\nNOTES:\n- This should be a very heavy triple at the prescribed tempo, but it's okay if you have 5-10lbs left in the tank.\n- \"12x1\" means that you will take :01 to descend, :02 at the bottom, stand fast, and :01 at the top to reset between reps.\n- Try to use Add your Personal Record below as a starting point, but it's okay if you need to go lighter than this to hit the stimulus.\n- Keep the pause at full depth. Stand straight up from the bottom of each rep with no bounce.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "ct4DtfJF9A",
+   "date": "2024-09-08",
+   "display_order": 1725704747079.25,
+   "title": "Close Grip Pause Bench Press",
+   "description": "Close Grip Pause Bench Press\n3x3 @ Add your Personal Record below\nRest 2:00 Between Sets.\n\nNOTES:\n- Pause for :02 on your chest.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "Yq0Rl0ZDFc",
+   "date": "2024-09-08",
+   "display_order": 1725704749796,
+   "title": "METCON",
+   "description": "Amrap 22 minutes\n2-4-6-8-10-12, etc\nHandstand push ups\nDB Front Rack lunges @ 50/35 lbsx 2\nRun 200m\n\nRX+ Deficit 4/2\"",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "69fyWx4yUg",
+    "aPz3tX2Uwh",
+    "9iu4RgWSgi",
+    "yJIlK7TN6q",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "pGZq6BWGx7",
+   "date": "2024-09-09",
+   "display_order": 431426868772.5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "ROWING INTERVALS.\n1500m \n1:30 Rest\n500m \n1:00 Rest\n500m\n1:00 Rest\n1000m \n1:30 Rest\n500m \n1:00 Rest\n500m\nNOTES:\nRPE 9 all sets\n- If you are using a PM5 monitor, use this link to set your monitor and track on ErgData: https:// workout.ergdata.com/shared/wqxzvh6s",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "Pnf5tTZBuv",
+   "date": "2024-09-09",
+   "display_order": 862852837534,
+   "title": "ACCESSORY / EXTRA",
+   "description": "4 Sets:\n15 m/ 15 m Single Arm Dumbbell Overhead Carry\n15 m/ 15 m Suitcase Carry\nRest 1:30 Between Sets.\nNOTES:\n- Aim for weights that challenge your positions. This whole piece should be RPE 8.",
+   "score_type": "Load",
+   "movement_ids": [
+    "IFGcyIp36i"
+   ]
+  },
+  {
+   "id": "edrHNgLqwI",
+   "date": "2024-09-09",
+   "display_order": 1725704759664,
+   "title": "Strict HSPU Development",
+   "description": "Strict HSPU Development\n\nOPTION A.\nBox Pike Handstand Push-Up\n5x5-10 // RPE 8-9\nRest 1:30-2:00 Between Sets.\nNOTES:\n- Try to add a rep or two from last week.\n- Choose a rep number that you can repeat for most of the sets. Some drop-off in the later sets is okay.\nーーーーー\n\nOPTION B:\nStrict Handstand Push-Up\n5х(3-10+) // RPE 8-10\nRest 2:00 Between Sets.\nNOTES:\n- Try to add a rep or two from last week.\n- Aim to make each set as hard as possible without causing signifigant drop-off over all five sets.",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "GOf0GJ1GzY",
+   "date": "2024-09-09",
+   "display_order": 1725704761863,
+   "title": "Power Snatch",
+   "description": "Power Snatch\n6x2 @75-80% of Power Snatch!!!\nRest 2:00 Between Sets.\nNOTES:\n- These should not be touch-and-go reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "2NJKEvO4xk",
+   "date": "2024-09-09",
+   "display_order": 1725704764062,
+   "title": "Snatch Balance + Overhead Squat",
+   "description": "Snatch Balance + Overhead Squat\n% from squat snatch!!!\n1x1+1 @60 %\n1x1+1) @65%\n1x1+1) @70 %\n1x1+1) @75%\n2x1+1) @80%\n1x1+1) @70%\n\nRest 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "Hcl7kgiTPB",
+    "o72lRIHW0b"
+   ]
+  },
+  {
+   "id": "bxw8cCDPSF",
+   "date": "2024-09-09",
+   "display_order": 1725704775057,
+   "title": "METCON",
+   "description": "5 rounds for time\n15 DB Hang Snatch @ 50/35 lbs x 2\n15 DB Squats @ 50/35 lbs x 2",
+   "score_type": "",
+   "movement_ids": [
+    "HI2lJYarVa",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "GBFQGFQ1fi",
+   "date": "2024-09-10",
+   "display_order": 1725704787140,
+   "title": "Strict Press",
+   "description": "Strict Press\n6x6 @ 75-80% RPE 9\nRest 1:30 - 2:00 Between Sets.\nNOTES:\n- If you did this last week, use the same weight.",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "IfgQPHuimY",
+   "date": "2024-09-10",
+   "display_order": 1725704789444.5,
+   "title": "Romanian Deadlift",
+   "description": "Romanian Deadlift\n4x8 @ RPE 7\nRest 2:00 Between Sets.\nNOTES:\n- Choose a load that allows you to focus on your technique. We will be increasing weight each week.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "oX0rshIcNC"
+   ]
+  },
+  {
+   "id": "X4SCt4h1Fu",
+   "date": "2024-09-10",
+   "display_order": 1725704791749,
+   "title": "METCON",
+   "description": "3 rounds for time\n45 Double unders\n15 Ring dips\n45 Double unders\n15 Shoulder to overhead @ 95/65 lbs\n\nRX+ = Strict ring dips",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "VkmcRrRQFN",
+    "BwVeLbMWyf"
+   ]
+  },
+  {
+   "id": "dnQE2XTlOW",
+   "date": "2024-09-10",
+   "display_order": 1725704791750,
+   "title": "Band Assisted Strict Chest to Bar",
+   "description": "Band Assisted Strict Chest to Bar\n7x10\nRest As Needed.\nNOTES:\n- Aim to decrease band tension OR rest. Either way, this week should be more challenging than the last.\n- If you are new to this progression then use a band that allows you to complete each set unbroken with and RPE of 8.",
+   "score_type": "Load",
+   "movement_ids": [
+    "1m5Z5wmyA0"
+   ]
+  },
+  {
+   "id": "yfBNjAGGDP",
+   "date": "2024-09-10",
+   "display_order": 1725704791751,
+   "title": "Banded Tricep Pushdown",
+   "description": "Banded Tricep Pushdown\n- Accumulate 100 Reps in as few sets as possible.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "vpibNLOhhD",
+   "date": "2024-09-11",
+   "display_order": 1,
+   "title": "Running Intervals.",
+   "description": "Running Intervals.\nWARM-UP:\n1000m @ Increasing Effort\nRest 2:00 before main set.\nNOTES:\n- After the first 400m increase your effort every 200m with the last set being RPE 8.\nーーーー\nMAIN SET:\n1200m @ RPE 8\nRest 1:30\n400m @ RPE 9\nRest 2:00\n3x200m @ Sprint, :30 Rests\n+\nRest 1:00\n+\n400m @ RPE 9\nNOTES:\n- The intention of today is to move at your threshold pace from start to finish. Run as fast as you can while still being able to complete the next interval.",
+   "score_type": "Load",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "5E8dGKzshJ",
+   "date": "2024-09-12",
+   "display_order": 1725704821648.5,
+   "title": "Muscle Up Skill",
+   "description": "Muscle Up Skill.\nOPTION A:\nEvery :30 × 10 Sets...\n1-3 Ring Muscle Ups\nNOTES:\n- This weeks interval is :05 shorter than last week.\nKeep the same reps you used last week. This is going to be a challenge, if you cannot do all ten sets that is\nokay.\n- Choose a number of reps that you can do unbroken for all ten sets. We will be taking away time each week, so this week needs to feel relatively manageable.\n\n\nOPTION B:\nRing Kip Swing\n3x(5-7)\nRest 1:00 Between Sets.\nBottom of Ring Dip Hold\n3х(:15-:30)\nRest 1:30 Between Sets.\nTop of Ring Dip Hold\n3х(:15-:30)\nRest 1:30 Between Sets.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "V8IKIUyIbF",
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "NhIzUsRNoq",
+   "date": "2024-09-12",
+   "display_order": 1725704825923.75,
+   "title": "Power Clean + Squat Clean",
+   "description": "Power Clean + Squat Clean\n5x1+1) @80-85 %// RPE 8\nRest 2:00 Between Sets.\nNOTES:\n- Reset between each rep. These are not meant to be touch-and-go reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX"
+   ]
+  },
+  {
+   "id": "vMCMC6oGcD",
+   "date": "2024-09-12",
+   "display_order": 1725704828061.375,
+   "title": "Back Squat",
+   "description": "Back Squat\n6x4 @ 80-85 % // RPE 8\nRest 2:00 Between Sets.\nNOTES:\n- Adding one rep this week!\n- If you did this last week, use the same weight.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "ayo4jQvUgM",
+   "date": "2024-09-12",
+   "display_order": 1725704830199,
+   "title": "METCON",
+   "description": "2 rounds\n21 Overhead Squat @ 95/65 lbs\n15 Push up\n- Rest 1:00 -\n2 rounds\n15 Overhead Squat @ 135/95 lbs\n21 Push ups",
+   "score_type": "",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "gDWNHgNs7T",
+   "date": "2024-09-12",
+   "display_order": 1725704830200,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Dumbbell Bench Press\n4x15 @ RPE 7\nRest 1:30 Between Sets.\n\nB) EZ Bar Biceps  Curl (you may use the cable machine! )\n2x8 @ RPE 8\n2x20\nRest 1:00 Between Sets.\n\nNOTES\n- Use a tough weight for the sets of 8. The weight doesn't matter for the sets of 20. Focus on squeezing the biceps and moving with control!",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "gYQXPRTBf4",
+   "date": "2024-09-12",
+   "display_order": 1725704830201,
+   "title": "Erg Bike Intervals",
+   "description": "Erg Bike Intervals\nWARM-UP.\n3:00 @ Easy Spin\n+\n3 Sets:\n:20 @ Max Effort\n:40 @ Easy Spin\n\nMAIN SET.\n4 Sets:\n6:00 @ RPE 8-9\nRest 3:30 Between Sets.\nNOTES:\n- Push to hold the same pace each round and make sure to walk during your rest!\n- If you are using a PM5 monitor, use this link to set your monitor and track your results on \nErgData:\nhttps://workout.ergdata.com/shared/kanvfbwn",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "kLNQ6VqUeE",
+   "date": "2024-09-14",
+   "display_order": 1,
+   "title": "Warm up",
+   "description": "50/40 Cal Fan Bike\n+\n3x\n10 Snatch Grip RDL\n8 Sots Press\n+\n1:00 Overhead Squat Hold w/ Empty Barbell",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "XavuhsO1R0",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "mCMNllfTZl",
+   "date": "2024-09-14",
+   "display_order": 2,
+   "title": "Jump Rope.",
+   "description": "Jump Rope.\nEMOM 8\n:30 Max Reps\nNOTES:\n- Choose between triple unders, double unders, crossover single unders, crossover double unders, or single unders.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "yJIlK7TN6q",
+    "T9teYV31Re"
+   ]
+  },
+  {
+   "id": "zZsO0POlK6",
+   "date": "2024-09-14",
+   "display_order": 3,
+   "title": "Squat Snatch",
+   "description": "Squat Snatch\n1x2 @ RPE 7\n1x2 @ RPE 7.5\n1x1 @ RPE 8\n1x1 @ RPE 8.5\n1x1 @ RPE 9\n2x1 @ RPE 9+\n1x2 @ RPE 8\nRest 2:00 Between Sets.\nNOTES:\n- Today is going to be heavy! Don't change your approach. Focus and bring intention to each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "N6YThEjiE2",
+   "date": "2024-09-14",
+   "display_order": 4,
+   "title": "Deadlift",
+   "description": "Deadlift\nEvery :20 x 20 Sets...\n1 @75 - 80% \nNOTES:\n- Focus on speed!",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "81645IsruK",
+   "date": "2024-09-14",
+   "display_order": 5,
+   "title": "Conditioning",
+   "description": "EMOM 40\n1: 14-12/11-9 Cal Ski Erg\n2: 12 Box Jump Over @ 24/20\"\n3: 15-12/12-10 Cal Fan Bike\n4: 10-15 Toes to Bar\nNOTES:\n- The ski and fan bike should be completed in :45 or less, scale accordingly.\n- Aim to go unbroken on the toes-to-bar.",
+   "score_type": "Load",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "k6qV2U3ffc",
+    "Gl19kiplpb"
+   ]
+  },
+  {
+   "id": "bz0HKDT7TV",
+   "date": "2024-09-14",
+   "display_order": 6,
+   "title": "Accessories",
+   "description": "A) Glute Ham Raise\n4×(5-10) @ RPE 8\nRest 1:30 Between Sets.\n----\nB) 3 Sets:\n1:00 Chinese Plank\n12-15 Strict Hanging Leg Raise\n15/15 Side Plank Hip Touch\nRest 1:30 Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-06-23",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "miTP8aAkZV",
+   "date": "2024-06-23",
+   "display_order": 1719058670915.5,
+   "title": "Back Squat",
+   "description": "Back Squat\n3x3 @ Add your Personal Record below / RPE 7-8\nRest 2:00 Between Sets.\nNOTES:\n- Rest at least two minutes between sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "Y3YKZZC4VT",
+   "date": "2024-06-23",
+   "display_order": 1719058670915.75,
+   "title": "Front Squat",
+   "description": "Front Squat\n3x2 @ Add your Personal Record below / RPE 7\nRest 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "bneDBt97qN",
+   "date": "2024-06-23",
+   "display_order": 1719058670915.8125,
+   "title": "METCON",
+   "description": "For total Reps\n\n3-2-1 minutes of\n- Thrusters @ 50/35lbs x 2\n- Hang DB Snatch @ 50/35lbs x 2",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "rcycUBT98X",
+   "date": "2024-06-23",
+   "display_order": 1719058670915.875,
+   "title": "Rowing Intervals",
+   "description": "Rowing Intervals\n3 Sets:\n500m @ Add your Personal Record below/500m\n2:00 @ Easy Pace\n*No Rest Between Sets.\nNOTES:\n- This workout will be hard, but the volume is lower because this week is a deload.\n- Take the first :20 on the easy intervals to settle in.\n- If you are using a PM5 monitor, use this link to set your monitor and track on ErgData: \n\nhttps:// workout.ergdata.com/shared/broqjmun",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "CY80KAdF1P",
+   "date": "2024-06-23",
+   "display_order": 1719058670915.9375,
+   "title": "Core",
+   "description": "EMOM 12\n1: :30 Hollow Hold\n2: 15 V-Ups\n3: 15 Side Plank Hip Touch (Left Side)\n4: 15 Side Plank Hip Touch (Right Side)",
+   "score_type": "",
+   "movement_ids": [
+    "1cZx24hUB0",
+    "8AUAYBnHEW",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "Q3pvU6GiVW",
+   "date": "2024-06-24",
+   "display_order": 1719150463255.5,
+   "title": "Strict Press",
+   "description": "Strict Press\n6x2\n@ Add your Personal Record below - Add your\nPersonal Record below / RPE 6-7\nRest 2:00 Between Sets.\nNOTES:\n- 6x2, again? Yes. We are going to do the same progression one more time.",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "sDFCDv5EPg",
+   "date": "2024-06-24",
+   "display_order": 1719150463256.25,
+   "title": "Seated Arnold Press",
+   "description": "Seated Arnold Press\n2x15 / RPE 6\nRest 1:00 Between Sets.\nNOTES:\n- These should be an easy deload.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "fr8QEvqI1p",
+   "date": "2024-06-24",
+   "display_order": 1719150463256.625,
+   "title": "Band Assisted Strict Pull-Up",
+   "description": "Band Assisted Strict Pull-Up\n6x12\nRest 1:30 - 2:00 Between Sets.\nNOTES:\n- Use a band (or bands) that allows you to do all twelve reps unbroken.\n- Try to take away some band tension. You may also decrease rest.",
+   "score_type": "Load",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "Yak7kHuEQp",
+   "date": "2024-06-24",
+   "display_order": 1719150463257,
+   "title": "METCON",
+   "description": "3 rounds for time\n30 Box jump over + step down @ 24/20\"\n30 Burpees\n30 V-ups",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "KHApJSSHSM",
+   "date": "2024-06-24",
+   "display_order": 1719150463257.5,
+   "title": "Accessories",
+   "description": "A) Dumbbell Hammer Curl\n2x20\nRest 1:00 Between Sets\n\nB) Banded Tricep Pushdown\n2x20\nRest 1:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "GhE0vAtpIC",
+   "date": "2024-06-24",
+   "display_order": 1719150463258.5,
+   "title": "Fan Bike Intervals.",
+   "description": "Fan Bike Intervals.\nPRIMER.\n2 Sets:\n:30 @ Moderate Pace\n:20 @ Fast Pace\n:10 @ Sprint\n:30 @ Easy Pace\nーーーー\nRest as needed, then...\nMAIN SET.\nEMOM 10\n10/8 Cal Sprint\nNOTES:\n- The volume is low, but the intensity is HIGH! Push the pace this week.",
+   "score_type": "Calories",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "EqfKv8R7Er",
+   "date": "2024-06-25",
+   "display_order": 1719289175677,
+   "title": "Snatch",
+   "description": "Snatch\n6x1.1 @ Add your Personal Record below / RPE 6-7\nRest :10 Between Reps.\nRest 2:00 Between Sets.\nNOTES:\n- This is the last week of 1.1.\n- Focus on technique, film your lifts, analyze them, and try to improve on every single rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "d6v2EEiluF",
+   "date": "2024-06-25",
+   "display_order": 1719289175677.5,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n5x3 @ Add your Personal Record below / RPE 6\nRest 1:30 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "dOkYhBe8kS",
+   "date": "2024-06-25",
+   "display_order": 1719289175678,
+   "title": "METCON",
+   "description": "5 x 2 minutes, Rest 1 min\n20 DB Step ups @ 24/20\", HEAVY\nMax rep double unders in remaining time",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "w3Fy3Ma5Hz",
+   "date": "2024-06-25",
+   "display_order": 1719289175679,
+   "title": "ACCESSORY / EXTRA",
+   "description": "40-30-20-10 Toe touches\n45 seconds Hollow body hold after each set",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "AoJSX9BkKM",
+   "date": "2024-06-25",
+   "display_order": 1719289175679.5,
+   "title": "Tempo GHD Back Extension",
+   "description": "Tempo GHD Back Extension\n3x10 @1010\nRest 1:00 Between Sets\nNOTES:\n- You can weight these if bodyweight is too easy.\n- \"1010\" means that you will pause for :01 in the bottom and top of each rep",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "QJbKHYE5lo",
+   "date": "2024-06-25",
+   "display_order": 1719289175680,
+   "title": "Candlestick Toe Touches",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "204GdfcsBB",
+   "date": "2024-06-26",
+   "display_order": 1,
+   "title": "Running Intervals",
+   "description": "Running Intervals:\nPRIMER.\n1000m @ Faster Than Add your Personal Record below/1000m\nRest 2:00\nMAIN SET.\n2 Sets:\n400m @ Add your Personal Record below/100m\n1:00 Rest\n200m @ Sprint\n*Rest 1:00 Between Sets.\n+\n2 Sets:\n300m @ Add your Personal Record below/100m\n1:00 Rest\n100m @ Sprint\n*Rest 1:00 Between Sets.\nNOTES:\n- The first 1000m is a warm-up. Start easy and build into a moderate pace.\n- The main set intervals should be very fast.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "DGaE23B3ps",
+   "date": "2024-06-27",
+   "display_order": 1719394755086.5,
+   "title": "Tempo Pause Squat",
+   "description": "Tempo Pause Squat\n3x3 @ Add your Personal Record below, 13x1 Tempo /\nRPE 6\n*Rest 2-3 Minutes Between Sets.\nNOTES:\n- \"13X1\" means that you will take :01 to descend, :03 at the bottom, stand fast, and :01 at the top to reset between reps.\n- Keep the pause at full depth. Stand straight up from the bottom of each rep with no bounce.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "O4CJxh7F0W",
+   "date": "2024-06-27",
+   "display_order": 1719394755087.25,
+   "title": "Bench Press",
+   "description": "Bench Press\n3x10 @ RPE 7-8",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "bJDSY6Tz8B",
+   "date": "2024-06-27",
+   "display_order": 1719394755087.625,
+   "title": "Dumbbell Bench Press",
+   "description": "Dumbbell Bench Press\n2x15\nRest 1:30 Between Sets.\nNOTES:\n- Use a controlled up-and-down tempo on each rep.\nFocus on \"connecting\" with your chest.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "RCS0kTClQ5",
+   "date": "2024-06-27",
+   "display_order": 1719394755088,
+   "title": "METCON",
+   "description": "Amrap 20 minutes\n9 Front Squats @ 185/135 lbs\n15 TTB\n200m Suitcase carry @ 70/50 lbs x 1",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "gYW6MUB7zm",
+   "date": "2024-06-27",
+   "display_order": 1719394755089,
+   "title": "Accessory",
+   "description": "A) Seated Dumbbell Curl\n2x15\nRest 1:00 Between Sets.\n\nB) Dumbbell Skull Crusher\n2x10-20)\nRest 1:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "PSNZbqG7XH",
+   "date": "2024-06-27",
+   "display_order": 1719394755090,
+   "title": "Spin Bike Intervals",
+   "description": "Spin Bike Intervals\nPRIMER.\n3 Sets:\n1:00 @ Add your Personal Record below\n1:00 @ Add your Personal Record below :30 @ 90-100 RPM\n*No Rest Between Sets.\nRest as needed, then...\nMAIN SET.\n3 Sets:\n4:00 Add your Personal Record below - Add your Personal Record below\n2:00 Rest\n3:00 Add your Personal Record below - Add your Personal Record below\n2:00 Rest\n2:00 Add your Personal Record below - Add your Personal Record below\n\n*Rest 3:00 Between Sets.\nNOTES:\n- Adjust these paces so that you can maintain your effort on each interval and all three sets.\n- Try to keep between 85-90 RPM for each effort, even if this means you have to adjust your damper for different paces.\n- If you are using a Bike Erg, use this link to set your monitor and track your results via ErgData: https:// workout.ergdata.com/shared/a4ulqeoe",
+   "score_type": "Calories",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "OS56V2mCmJ",
+   "date": "2024-06-29",
+   "display_order": 1,
+   "title": "Power Clean + Power Jerk",
+   "description": "Power Clean + Power Jerk\nEMOM 12\n1+1 @ / RPE 7\nNOTES:\n- Focus on perfect set-up for each rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX"
+   ]
+  },
+  {
+   "id": "z8oXa54xwD",
+   "date": "2024-06-29",
+   "display_order": 2,
+   "title": "Deficit Deadlift",
+   "description": "2\" Deficit Deadlift (5cm)\nEMOM 8\n2 Reps @ Add your Personal Record below / RPE 6-7\nNOTES:\n- Stand on a riser or plates that are 2\" tall. Focus on having a tight set-up and pulling with speed.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "4DzEDNnJUZ",
+   "date": "2024-06-29",
+   "display_order": 3,
+   "title": "Metcon",
+   "description": "EMOM 28\n1: 16 Wall Balls @ 20/14lbs; 10/9ft\n2: 4 Power Clean @102.5 / 70 kg\n3: Max Cal Row\n4: Rest\nNOTES:\n- Be sure the wall balls are unbroken each round. If not, then scale back the weight.\n- If you can't complete the power cleans under :45, then scale back the weight to something you can complete under :45 in quick singles.\n- On the row, the goal is consistency across ALL seven rounds of this EMOM. Start at a pace that is\nmoderate for round one, but that will be tough to sustain by round seven. If you don't know what this pace will be, start conservatively and try to maintain your effort or have slightly negative splits.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "9ikRXPXECL",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "XBX8hu2mr5",
+   "date": "2024-06-29",
+   "display_order": 4,
+   "title": "Metcon",
+   "description": "A) Accumulate 100 Seated Hamstring Curls, For Quality.\n\nhttps://youtu.be/0Jyb9AJIWGc?si=IvdFzlI3NAwj8zqV\n\nB) AMRAP 5, For Quality:\n8/8 Landmine Twist\n:40 Front Plank\nNOTES:\n- This is an AMRAP, but try to still complete each round unbroken. If you need to rest, try to only do so at the end of a round.\n\nhttps://youtu.be/M93HfnAVIl8?si=BGpCHC5WLHrtmHKz",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  }
+ ]
+}

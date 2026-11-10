@@ -1,0 +1,365 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-03-08",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "LkyVWYxdwy",
+   "date": "2026-03-08",
+   "display_order": 1772703708207,
+   "title": "Nataly Notes",
+   "description": "היי חברים\nהשבוע אני קצת משחקת עם הסדר באימונים\nשמתי לנו עבודת סקיל בתחילת שבוע\nאני יודעת שרובכם שיתם את ה 26.2 ביום שישי לכן אולי שווה לא לבחור RMU אם עשיתם את כל ה 20 חזרות\n\nהחשיבה מאחורי השינוי היא כזאת - אני רוצה שנגע לסקיל עם גוף לא עייף  וששום דבר לא ישפי על הביצוע שלכם. \nתשתדלו לצלם את עצמכם בסטים של חימום כדי להבין על מה אתם רוצים לשים דגש בתרגול היום\n\nהמטרה היא נפח וגם כמובן טכניקה!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "jQoloDyqCf",
+   "date": "2026-03-08",
+   "display_order": 1772703708208,
+   "title": "Back Squat 3x5",
+   "description": "Back Squat for load:\n #1: 5 reps @ 75%\n #2: 5 reps @ 75%\n #3: 5 reps @ 75%\n\n \n rest 2:00 - 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "270Rg7DMsg",
+   "date": "2026-03-08",
+   "display_order": 1772703711420.625,
+   "title": "Skill Capacity",
+   "description": "חשוב שתבחרו כאן סקיל שאתם יודעים לבצע וצריכים להגדיל נפח עבודה על הדופק בינוני גבוה!\n\n**Option 1:**\nEMOM 10:\n1: 12/10 Cal Erg Bike\n2: Skill of Choice*\n\n3-5 Unbroken RMU\n5-10 m HSW\n3-8 Strict HSPU\n1-2 Rope Climbs\n\nthe rep scheme must feel uncomfortable but managable\nno fails please\n\n**Option 2:**\nEMOM 6:\n1-3 reps of Skill of Choice",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "T7wvXyB741",
+   "date": "2026-03-08",
+   "display_order": 1772703713026.9375,
+   "title": "Skill Work:",
+   "description": "אם אתם מעדיפיםם להשקיע את הזמן הזה בללמוד סקיל חדש אתם יכולים להשתמש בפרוגרשנים האלו :\n\nC2B:\n1) [ Box Assisted Kipping C2B](https://www.youtube.com/shorts/Nj5vTZsLLxc)\n3 sets of 5 reps\nrest 1:00\n\n2) [One Leg On Box Chest To Bar](https://youtu.be/IRpbZ0DhD4Y?si=TqnTLUcEPmLQV4QA):\n3 sets of 3-5 reps each Side\nrest 1:00\n-------------------------------------------------------------------------------\nBMU:\n1) [BMU Mount Drill](https://youtu.be/dHs0GwbVIGw?si=LJ84LOz2uhFG10pu)\nAccumulate 12 reps total in SINGLES\nrest at least 20-30 sec between reps\n\n2) [Air Chair Swing](https://youtu.be/X6tykvBN834?si=qGP1geB-M1Y1VxrG)\n3 sets of 3-5 reps\nrest 1:00\n\n3) [Low Bar Transition](https://youtube.com/shorts/YfhGRX-PTg8?si=BOUevG5jl0gnwYIj)\n3-4 sets of 2-3 reps\nrest 1:00\nאם זה קשה מידי תתחילו עם הרגליים על הרצפה ותוסיפו פלטה או בוקס קטן כל שבוע\n-------------------------------------------------------------------------------\nRMU:\n\n1) [Ring Swing + Snap Pull](https://youtube.com/shorts/YfhGRX-PTg8?si=BOUevG5jl0gnwYIj)\n3-4 sets of 5 reps\nrest 1:00\n\n2) [Low Rings Transition](https://youtube.com/shorts/onYfbQUA7sI?si=av2z83_67ha3zfPz)\n3-4 sets of 2-3 reps\nrest 1:00\n\n3) [Bottom of Ring Dip Swings](https://youtube.com/shorts/I6NaVaMM8Z8?si=gEkyeCQNQNpf_-Ld)\n3 sets of 5-7 reps\nrest 1:00",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "K5aAaBghgM",
+   "date": "2026-03-08",
+   "display_order": 1772703714633.25,
+   "title": "Metcon",
+   "description": "AMRAP 20:\n8 T2B\n10 DB Hang Clean and Jerks @22,5/15 kg ) (Must be 5 right + 5 Left ! )\n14/12 Cal row\n\n1 cal = 1 rep",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "Gy5fbBXhqt",
+   "date": "2026-03-08",
+   "display_order": 1772703829998,
+   "title": "Banded Plyo Push Ups",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "pYFsW1HRfL",
+   "date": "2026-03-08",
+   "display_order": 1772703861044,
+   "title": "Banded Tricep Extensions",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LUaG6ihLXW",
+   "date": "2026-03-08",
+   "display_order": 1772703892090,
+   "title": "Jumping Lunges",
+   "description": "4 sets of :\n30 sec Work\n1:00 Rest",
+   "score_type": "",
+   "movement_ids": [
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "hJ1IOTubkg",
+   "date": "2026-03-08",
+   "display_order": 1772703899840,
+   "title": "Jump Lunges",
+   "description": "To learn more about how to use Functional Bodybuilding in your training visit https://revival-strength.com - free sample program available.",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "lCfIcITFDm",
+   "date": "2026-03-09",
+   "display_order": 1772703717069,
+   "title": "Snatch Prep / Warm Up  MUST DO",
+   "description": "Perform 2-3 sets of 3 reps of each Exercise in prescribed order\n\n\n5-7 reps Snatch Grip Behind the Neck Press ( only with an empty Bar! )\n\nSnatch Lift Off   - https://youtu.be/8fmCc9nqZLc?si=C0Wgxquf09oMHi87\nSnatch High Pull - https://youtu.be/9WRp0a5hcb0?si=AIMDLaMjAbBttgnt\nMuscle Snatch - https://youtu.be/bJYzOo1cNqY?si=p2p4L761-SU56Vol\nSnatch Balance with 1 sec stop at the bottom - https://youtu.be/GTj9pliPP8E?si=_SJLMq_SQ-c4x6VQ\nHang Squat Snatch - https://youtu.be/IucshEToDyM?si=Da60Khsa_zyWWhSe\n\n\nstart with an empty bar and add alittle weight each set",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "dmwGMF1T4Y",
+   "date": "2026-03-09",
+   "display_order": 1772703749985,
+   "title": "Snatch Balance 3x3",
+   "description": "Snatch Balance for load:\n #1: 3 reps @ 50-55%\n #2: 3 reps @ 55-60%\n #3: 2-3 reps @ 60-65%\n \n rest 1:30 - 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "o72lRIHW0b"
+   ]
+  },
+  {
+   "id": "XZOurt4Agx",
+   "date": "2026-03-09",
+   "display_order": 1772703843120.5,
+   "title": "Hang power Snatch",
+   "description": "Every 2:00 x 4:\n3 reps @60-70%\n\nYou may use Straps",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "JvrWiHzR7f",
+   "date": "2026-03-09",
+   "display_order": 1772703843121.5,
+   "title": "Snatch Grip Romanian Deadlift",
+   "description": "3 set of 12 reps @RPE 7 ( ~60-65% of Snatch )\n\nrest 1:30\n\nyou may use straps",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "Hcl7kgiTPB",
+    "oX0rshIcNC"
+   ]
+  },
+  {
+   "id": "FaVaNH5Yg5",
+   "date": "2026-03-09",
+   "display_order": 1772706880967.75,
+   "title": "Metcon",
+   "description": "6 RFT:\n40 DU\n6 BMU\n8 Thrusters @42,5/30 kg\n\nTC: 14",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "DXmxlFL0Fp",
+   "date": "2026-03-09",
+   "display_order": 1772709918814,
+   "title": "Zone 2",
+   "description": "30 דקות\n\nכדי לדייק את העבודה עדיף לעבוד עם מד דופק\n\nזה לא חייב להיות אופניים\nאפשרי גם הליכה מהירה בבוקר או בערב\nאו אינטרוולים של ריצה קלה והליכה כדי להוריד את הדופק",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "b67iT4x59L",
+   "date": "2026-03-10",
+   "display_order": 1772703729236,
+   "title": "Clean and Jerk Prep / Warm up MUST DO",
+   "description": "Perform 2- 3 sets ascending weights:\n3-5 reps of each exercise:\n\n\n[Hang Clean Pull](https://youtu.be/FZaEqAAzH4Y?si=2QWNg1JvdKuojWnz)  \n[Hang Muscle Clean](https://youtu.be/IwzBi9KL6Y0?si=PlpvVVFHJ6daCX9K)  \n[Tall Squat Clean ]( https://youtu.be/X9ckJS9LSug?si=0CysKKGXsjuh2VRe) \nPress\nPush Jerk\n[Split Jerk BTN ](https://youtu.be/uvfyz6Rg0fg?si=8wB_z6rBZnAewaW0)- \n\nstart with an empty bar and add a little weight each set\nno heavy weights here! \nthis is technical warm up",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "HZVDjLC9q7",
+   "date": "2026-03-10",
+   "display_order": 1772703734578.5,
+   "title": "Clean and Jerk Complex",
+   "description": "3-4 sets:\n1 Squat Clean \n1 Front Squat\n2 Split Jerks\n1 Squat Clean\n1 Split Jerk\n\nrest 2:00 - 2:30\n\n@68-73%",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "FjrDcaxZjM",
+   "date": "2026-03-10",
+   "display_order": 1772703741112.625,
+   "title": "Ring Support:",
+   "description": "EMOM 9:\n1: 20 sec Top Support\n2: 10-20 sec Bottom of Ring Dip Support\n3: Rest",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "VJUiHLwcDQ",
+   "date": "2026-03-10",
+   "display_order": 1772703747646.75,
+   "title": "Strict Ring Dips",
+   "description": "3 sets of:\n\n5-8 Strict Ring Dips (band assisted if needed)\nrest 20 sec\n12 Plyo Push ups with band\nrest 20 sec\n20 reps Band Triceps Extensions\n\n\n\nrest 3:00 or till full recovery",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "C9CafN9aaf",
+   "date": "2026-03-10",
+   "display_order": 1772703786851.5,
+   "title": "Weighted Strict Pull ups",
+   "description": "3 sets of 5 reps @RPE7\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "bhbzAoaFlR",
+   "date": "2026-03-10",
+   "display_order": 1772703786852,
+   "title": "Metcon",
+   "description": "4 sets:\n3:00 work / 1:30 Rest\n\n6 Devil Presses @2x22,5/15\n8 Dual DB Box Step up Overs @2x22,5/15  (50 cm box )\n5 Wall Walks\nMax Cal Row Till the end of 3:00",
+   "score_type": "Calories",
+   "movement_ids": []
+  },
+  {
+   "id": "8Yr3vwWdog",
+   "date": "2026-03-11",
+   "display_order": 1772703795559,
+   "title": "ACTIVE RECOVERY OR REST DAY",
+   "description": "אתם מוזמנים לבצע פעילות אירובית ZONE 2\nריצה קלה ~30 - 35 דקות\nהליכה ~45-60 דקות\nאופנים ~ 45-60 דקות\n\nללכת לסאונה \n\nלבצע שיעור יוגה או פילאטיס או פשוט רצף מוביליטי ארוך ומפנק",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "YEAkaqDL53",
+   "date": "2026-03-12",
+   "display_order": 1772703802986,
+   "title": "Front Squat",
+   "description": "3 reps @75%\n3 reps @75%\n3 reps @75%\n\nrest 2:00-2:30 between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo",
+    "h9vPo5JYw6",
+    "9ikRXPXECL",
+    "2WuuNT5OfQ"
+   ]
+  },
+  {
+   "id": "1tZU6PQOSf",
+   "date": "2026-03-12",
+   "display_order": 1772703806693.5,
+   "title": "Seated Barbell Press",
+   "description": "3 sets of 5 reps @65-70 %\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "M86M1zJENT",
+   "date": "2026-03-12",
+   "display_order": 1772703818100,
+   "title": "Handstand Hold",
+   "description": "**Choose one of the options:**\n\n**Option 1**:  8-10  mins Practice:\nThe Goal is to stand without moving for at least 10-15 sec\n\nrest 30-40 sec between attempts\n\n**Otion 2**:  Band Assisted Handstand Hold: \n3-5 sets of 20 sec \n\nrest 1:00\n\n**Option 3:**  Elbow Supported Handstand Hold:\n3-5 sets of 10-20 sec\n\nrest 1:00",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "Wz5MTPF4GM",
+   "date": "2026-03-12",
+   "display_order": 1772703826885,
+   "title": "Elbow Supported Handstand Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "GZvIwB8ZAE",
+   "date": "2026-03-12",
+   "display_order": 1772703834271,
+   "title": "3 Drills to Improve Your Freestanding Handstand Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "ClhM7K9VxF",
+   "date": "2026-03-12",
+   "display_order": 1772703843185,
+   "title": "Band-Assisted Handstand Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "j0X26ILdJ8",
+   "date": "2026-03-12",
+   "display_order": 1772706892573.5,
+   "title": "Conditioning:",
+   "description": "AMRAP 20:\n15/12 Cal Fan Bike@ RPE 7\n200 m Easy Run @RPE 7\n8 Inchworm Push ups\n15 Air Squats",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "9iu4RgWSgi",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "FUopuZIG3c",
+   "date": "2026-03-12",
+   "display_order": 1772709941962,
+   "title": "Accessories:",
+   "description": "3 sets :\n15 Seated Shoulder External Rotations Each Arm\n12 -15 Band or Cable Machine Pullovers\n15 GHD Hip Extensions\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "aSDdZ77AFW",
+   "date": "2026-03-12",
+   "display_order": 1772709949640,
+   "title": "Seated Shoulder External Rotations",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "77Z3gKlzp1",
+   "date": "2026-03-12",
+   "display_order": 1772709966647,
+   "title": "Band Lat Pullover",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "twVqHhPPjV",
+   "date": "2026-03-12",
+   "display_order": 1772709975673,
+   "title": "The GHD Hip Extension",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "tRAFGxRMO5",
+   "date": "2026-03-13",
+   "display_order": 1772703863134,
+   "title": "Open Workout 26.3",
+   "description": "???",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "SHHmI6T45O",
+   "date": "2026-03-13",
+   "display_order": 1772703863135,
+   "title": "Accessories",
+   "description": "3 Sets:\n1:00 Pigeon Pose each side\n???\n\nrest 1:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "5d8CGlTP9W"
+   ]
+  },
+  {
+   "id": "AtQ0B1OluU",
+   "date": "2026-03-14",
+   "display_order": 1,
+   "title": "REST DAY",
+   "description": "לא זזים היום!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

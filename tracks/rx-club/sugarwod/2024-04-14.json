@@ -1,0 +1,488 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-04-14",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "l8Cy5H3EgA",
+   "date": "2024-04-14",
+   "display_order": 1711916972026,
+   "title": "Warm-up",
+   "description": "2 Sets\n500m Row @ easy\n4/4 Single leg Hip Thrust\n4 Deep Squat Muscle Snatch\n4 Sots Press\n4 Box jumps + step down\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Mid straps\n- Glutes\n\nB2. Prayer stretch\n2-3 sets of 5 deep breaths\nRest as needed between sets\nhttps://www.youtube.com/watch?v=umCOjch2kG0",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "Do80SOu8qk",
+   "date": "2024-04-14",
+   "display_order": 1711916972028,
+   "title": "Power Conditioning",
+   "description": "6 rounds\n200m Row\n3 Power cleans @75%",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "E4hwrDuuvB",
+   "date": "2024-04-14",
+   "display_order": 1711916972029,
+   "title": "Gymnastics",
+   "description": "EMOM 8 minutes\nMin 1: 1-4 Ring Muscle-ups\nMin 2: 1-4 Bar Muscle-ups",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "PQiAGAM4cT",
+   "date": "2024-04-14",
+   "display_order": 1711916972030,
+   "title": "Conditioning",
+   "description": "3 rounds\n50' Farmer Carry @ mod-heavy\n27/21 Cal Echo Bike @ RPE 8\nRest 2 minutes between sets",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "bnL0lZR9hT"
+   ]
+  },
+  {
+   "id": "C7ibdw6CCQ",
+   "date": "2024-04-14",
+   "display_order": 1711916972031,
+   "title": "Accessory",
+   "description": "3 rounds for quality\n8 Ring rows\n8 Banded burpees",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "c94XVoGakB",
+    "7D2s52zLPX",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "j13us57vi3",
+   "date": "2024-04-15",
+   "display_order": 1712456444803,
+   "title": "Warm-up",
+   "description": "3 sets\n30 seconds Row @Low intensity\n5 hang muscle clean (no hook grip, no contact, no feet)\n5 inchworms\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Hamstring \nB2. PNF internal rotation stretch\n3 repetitions/side\n5 seconds contraction pushing against the rig with your hand\n5 seconds relaxing",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "qP62LofX1d",
+   "date": "2024-04-15",
+   "display_order": 1712456444804,
+   "title": "Notes",
+   "description": "**IF YOU’RE PLANNING TO DO THE FIRST WORKOUTS TOMORROW, PLEASE SKIP TODAY AND DO TOMORROW’s SESSION FOR QF ATHLETES TODAY**",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "0qXBA2ezMn",
+   "date": "2024-04-15",
+   "display_order": 1712456444805,
+   "title": "Weightlifting",
+   "description": "Front Squats, cluster sets\n\n3 sets @80% of\n3 reps\nRest 15-20\n1 reps\nRest 15-20\n1 rep\n2 minutes Bike erg@recovery pace",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "raPsFROKrc",
+   "date": "2024-04-15",
+   "display_order": 1712456444806,
+   "title": "Weightlifting",
+   "description": "Jerk from rack\n\nWork up to double @85%\n\nThen, reduce to 60% of this weight and perform:\n\n2 sets of 5 Push jerk",
+   "score_type": "Load",
+   "movement_ids": [
+    "UIXa0O9TJ1"
+   ]
+  },
+  {
+   "id": "KGqZQixydQ",
+   "date": "2024-04-15",
+   "display_order": 1712456444807,
+   "title": "Dmitry Klokov - Jerk from the rack - 245 kg (539 lbs)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "1QsPMyaF4z",
+   "date": "2024-04-15",
+   "display_order": 1712456444808,
+   "title": "Metcon",
+   "description": "2 rounds, each for time\n\n9-6-3\nThrusters 135/95 lbs\nBox jumps 32/26\"\n\nRest 1:1 b/w rounds",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "Xz5jLUJLEE",
+   "date": "2024-04-15",
+   "display_order": 1712456444809,
+   "title": "Rope Climb Technique (good and bad)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "fMEEOD9sQl",
+   "date": "2024-04-15",
+   "display_order": 1712456444810,
+   "title": "Accessory",
+   "description": "3 sets/side\n8 Explosive Landmine Press\n8 Explosive Unilateral row on bench",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "oOCxsKqeFb",
+   "date": "2024-04-15",
+   "display_order": 1712456444811,
+   "title": "Explosive Landmine Rotational Press",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "kDvBMS7lE7",
+   "date": "2024-04-15",
+   "display_order": 1712456444812,
+   "title": "One Arm DB/KB Row On Bench",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "ls5TxqjiqF",
+   "date": "2024-04-15",
+   "display_order": 1712456444813,
+   "title": "Conditioning",
+   "description": "5 rounds\n12 Burpees Box Jump over @RPE 9/10\n60 sec recovery Machine",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB"
+   ]
+  },
+  {
+   "id": "ksXRf4BNxC",
+   "date": "2024-04-15",
+   "display_order": 1712456444814,
+   "title": "Accessory",
+   "description": "3 sets\n8/side Banded Single leg RDL\n20 fast Banded leg curls\nRest 60 sec",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "nm5NsT78ZT",
+   "date": "2024-04-15",
+   "display_order": 1712456444816,
+   "title": "Banded Leg Curls",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "T9iwpcCZIz",
+   "date": "2024-04-16",
+   "display_order": 1712456444805,
+   "title": "Warm-up",
+   "description": "3 sets\nBike 600m\n30 sec Curtsy lunges\n30 sec Pause air squats\n10 Hollow body rocks https://www.youtube.com/watch?v=7kxpusQgyxI \n5 Snatch press under https://www.youtube.com/watch?v=TMzpQ6Elis4 \n5 sotts press https://www.youtube.com/watch?v=aYQm2XWJMNA \n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Glutes\nB2. PNF Pigeon stretch\n3 repetitions/side\n- 5 seconds contraction pushing against the floor with your leg\n- 5 seconds stretch moving your upper body toward the floor",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "3DHp1XSoMb",
+    "5d8CGlTP9W",
+    "Hcl7kgiTPB",
+    "Rs3Nf6s1qq",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "qbVrXcnisH",
+   "date": "2024-04-16",
+   "display_order": 1712456444806,
+   "title": "Quarterfinals athletes",
+   "description": "EMOM 30 minutes\nalternate between:\n1. 12/10 Cal Row\n2. 10/8 Cal Assault bike\n3. 1 Power Snatch + OH Squat @ 60%",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "YAFQbda0hU",
+    "XavuhsO1R0",
+    "xPOJNy56VQ",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "xL4ZrSsl7G",
+   "date": "2024-04-16",
+   "display_order": 1712456444807,
+   "title": "Optional session",
+   "description": "Optional (For those who don’t want to do QF)",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "ezE1HyK76I",
+   "date": "2024-04-16",
+   "display_order": 1712456444808,
+   "title": "Weightlifting",
+   "description": "EMOM 6 minutes\n1 Power Clean\n2 Hang Power Clean\n@60%",
+   "score_type": "Load",
+   "movement_ids": [
+    "32fORzP45M"
+   ]
+  },
+  {
+   "id": "cupA1H3dq1",
+   "date": "2024-04-16",
+   "display_order": 1712456444809,
+   "title": "Weightlifting",
+   "description": "Unstable Overhead Lunges\n4 x 6 Alternating @RPE 8, accross\nRest 60-90 seconds between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "XfyiG8kSVm",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "jK82JL5cug",
+   "date": "2024-04-16",
+   "display_order": 1712456444810,
+   "title": "Metcon",
+   "description": "AMRAP 14 minutes\n40/35 Cal Row\n40 Wall balls 30/20 lbs\n40 TTB",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "RmqXo91chM",
+   "date": "2024-04-16",
+   "display_order": 1712456444811,
+   "title": "Conditioning",
+   "description": "Run or Bike (double the distance)\n\nAMRAP 30 minutes\n800m easy\n400m Medium\n200m hard\n200m easy\n400m medium\n800m Hard",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "Tw85S1oihu",
+   "date": "2024-04-16",
+   "display_order": 1712456444812,
+   "title": "Accessory",
+   "description": "Bulgarian Split Squat\n3 x 10/leg\nRest 30 seconds between legs, 60 sec between sets\n\nTempo 3 sec eccentric + 1 sec at bottom of every rep",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "sNAc71FfRN"
+   ]
+  },
+  {
+   "id": "eT2rgMqQ3g",
+   "date": "2024-04-17",
+   "display_order": 899999,
+   "title": "Active Rest Day",
+   "description": "30-40 min Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "dvrozBVOtO",
+   "date": "2024-04-18",
+   "display_order": 1712456444810,
+   "title": "Warm-up",
+   "description": "3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Pecs\n- Front of shoulders\nB2. Psoas stretch on bench\n3-5 lon breaths/ side\nhttps://www.youtube.com/watch?v=qPoREhN7tKQ\n\nC. Specific\nBand warm-up\n3 Banded oscillation https://www.youtube.com/watch?v=P9QVvhyBTdM \n5 W band pull apart\n5 Single arm banded press\n5 Hand release Burpee \n5 Banded Hollow body pulldown https://www.youtube.com/watch?v=WQ-2zov97tI",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "PWksBIhkdV",
+    "3DHp1XSoMb",
+    "c94XVoGakB",
+    "r3CNRMSi8j",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "jOFPehD5nR",
+   "date": "2024-04-18",
+   "display_order": 1712456444811,
+   "title": "Quarter Finals",
+   "description": "ALL ATHLETES ASPIRING TO COMPETE IN THE SPORT OF CROSSFIT SHOULD DO THE QUARTERFINALS WORKOUTS THIS WEEKEND IF YOU QUALIFIED OR NOT. \n\nThis will tell you exactly where you are compared to the other athletes and will show you what you need to focus on this off season. This is a really really good opportunity to gain competition experience.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "cratY9Kue4",
+   "date": "2024-04-18",
+   "display_order": 1712456444812,
+   "title": "Optional session",
+   "description": "Optional (For those who don’t want to do QF)",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "HT5FdasvFA",
+   "date": "2024-04-18",
+   "display_order": 1712456444813,
+   "title": "Weightlifting",
+   "description": "Bench Press\n4 x 10 reps\nRest 60-90 sec between sets",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "eIB9fJtxM8",
+   "date": "2024-04-18",
+   "display_order": 1712456444814,
+   "title": "Metcon",
+   "description": "(optional for those who don't want to do the quarter finals)\n\n12 rounds for time\n3 Bar Muscle-ups\n4/side KB snatch 1x 70/53lbs\n25' HS walk\nRest 1 min after every 4 rounds",
+   "score_type": "",
+   "movement_ids": [
+    "Ap8CeOEvJj",
+    "QCUOoOtogo",
+    "V8IKIUyIbF",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "9a6hse8sWG",
+   "date": "2024-04-18",
+   "display_order": 1712456444815,
+   "title": "Conditioning",
+   "description": "5 rounds\n1 min max Cal Ski with damper at 10\n1 min rest",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "x733ItFUps",
+   "date": "2024-04-18",
+   "display_order": 1712456444817,
+   "title": "Accessory",
+   "description": "Skull Crushers\n3 x 60 seconds max effort @20/10lbs\nRest 60 seconds between sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "Tg72sRsFXQ",
+   "date": "2024-04-18",
+   "display_order": 1712456444818,
+   "title": "Banded triceps extension",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "L85wUpPALg",
+   "date": "2024-04-19",
+   "display_order": 1712456444811,
+   "title": "Warm-up",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)\n\nB. Mobility\nB1. Soft tissue mobilization\nWith a barbell, a foam roller or a LaCrosse ball\n45-60 seconds/side\n- Quads\nB2. RNT Bulgarian split Squat hold\n3 x 15 seconds/leg at the bottom\nhttps://www.youtube.com/watch?v=g4IZXsd9T7I \n\nC. Specific \n2 rounds\n10/leg Single leg Glute bridge https://www.youtube.com/watch?v=1Y6GYnCdyoY \n30 sec Wall sit\n3 Kneeling jump into Box Jumps",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "Pfe6N82u2K",
+    "fQG7uhGbq8",
+    "sNAc71FfRN",
+    "r3CNRMSi8j",
+    "nQkFIHoc4z",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "m79CKrKifz",
+   "date": "2024-04-19",
+   "display_order": 1712456444812,
+   "title": "Quarter Finals",
+   "description": "ALL ATHLETES ASPIRING TO COMPETE IN THE SPORT OF CROSSFIT SHOULD DO THE QUARTERFINALS WORKOUTS THIS WEEKEND IF YOU QUALIFIED OR NOT. \n\nThis will tell you exactly where you are compared to the other athletes and will show you what you need to focus on this off season. This is a really really good opportunity to gain competition experience.",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "gHMdfHetnf",
+   "date": "2024-04-19",
+   "display_order": 1712456444813,
+   "title": "Optional session",
+   "description": "Optional (For those who don’t want to do QF)",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "xVBVQrOz0C",
+   "date": "2024-04-19",
+   "display_order": 1712456444814,
+   "title": "Weightlifting",
+   "description": "Tempo Back Squat\n4 x 12 reps*\nRest 90 seconds between sets\n\n*3 sec down",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "AvGBGddtHb",
+   "date": "2024-04-19",
+   "display_order": 1712456444815,
+   "title": "Conditioning",
+   "description": "Every 90 seconds for 24 mins\n300m Run",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "e5aWpscR5n",
+   "date": "2024-04-19",
+   "display_order": 1712456444816,
+   "title": "Metcon",
+   "description": "(optional for those who don't want to do the quarter finals)\n\nAMRAP 25 minutes\n10 DB Step-ups over 2x 70/50 lbs + 24/20”\n15 Burpees box jump 24/20”\n20 GHD sit-ups",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "rk5ieibGyP",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "UQlq5L3WF9",
+   "date": "2024-04-19",
+   "display_order": 1712456444818,
+   "title": "Accessory",
+   "description": "Deficit Calf raises\n3 x 10/side\nRest 60 sec between sets\n\nHold for 2 seconds at the bottom of every rep",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "u8wvQHYZZc",
+   "date": "2024-04-19",
+   "display_order": 1712456444819,
+   "title": "Deficit Calve Raises",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "BtrQTmDuy9",
+   "date": "2024-04-20",
+   "display_order": 1,
+   "title": "Rest Day",
+   "description": "Rest day",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

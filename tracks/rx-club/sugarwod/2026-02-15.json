@@ -1,0 +1,272 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-02-15",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "g4EH8ULhgJ",
+   "date": "2026-02-15",
+   "display_order": 1770900312290,
+   "title": "Nataly Notes",
+   "description": "אנחנו מתחילים TAPPER לקראת האופן\nהשבוע האימונים יהיו עדיין עצימים \nאבל הורדתי לכם מהסטים של כוח\nתקראו בבקשה טוב טוב מה צריך לעשות\n\nשבוע הבא DELOAD",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "yGBKe4NkVS",
+   "date": "2026-02-15",
+   "display_order": 1770900312291,
+   "title": "Back Squat",
+   "description": "2 sets x 3 reps @75%\n\nrest 2:30 between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "kK84EFtL8j",
+   "date": "2026-02-15",
+   "display_order": 1770900312293,
+   "title": "Lunges + DB Bench Press",
+   "description": "2 Sets:\n1 Min Ski Erg @RPE 7-8 ( if you don't have ski yo may row)\n12 - 14 ALTERNATING [Back Rack Backward Stepping Lunges](https://youtu.be/6jHdNcViRh8?si=WH9uHkxtmNL8rZS5) @45-50% of 1RM Back Squat\n1 min Erg Bike @RPE 7-8\n10 Dual DB Bench Presses @RPE7-8 moderate weight\n\nrest 1:30 - 2:00\n\nPost weights:\nset 1 - Lunges\nset 2 - DBs",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "YUpzbStxNR",
+   "date": "2026-02-15",
+   "display_order": 1770900312293.5,
+   "title": "Metcon",
+   "description": "For Time:\n3 Rounds:\n30 WB\n21 C2B\n3 Rounds:\n15 High Box Jump Overs\n9 BMU\n\nTC: 15",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "dH98tgYARg",
+   "date": "2026-02-15",
+   "display_order": 1770900312294,
+   "title": "Ski Bike ( aerobic capacity )",
+   "description": "For Time:\n1000 m Erg Bike \n500 m Ski\n\n90 sec rest\n\n800 m Erg Bike \n400 m Ski\n\n90 sec rest\n\n600 m Erg Bike \n300 m Ski\n\n90 sec rest\n\n400 m Erg Bike \n200 m Ski\n\n90 sec rest\n\n200 m Erg Bike \n100 m Ski\n\nNEGATIVE SPLITS",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "2VzyFUY45Q",
+   "date": "2026-02-15",
+   "display_order": 1770900312295,
+   "title": "V-ups",
+   "description": "EMOM 5:\n15 reps",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "fQVDBvFaqd",
+   "date": "2026-02-16",
+   "display_order": 899999,
+   "title": "Snatch Prep / Warm Up  MUST DO",
+   "description": "Perform 2-3 sets of 3 reps of each Exercise in prescribed order\n\n\n5-7 reps Snatch Grip Behind the Neck Press ( only with an empty Bar! )\n\nSnatch Lift Off   - https://youtu.be/8fmCc9nqZLc?si=C0Wgxquf09oMHi87\nSnatch High Pull - https://youtu.be/9WRp0a5hcb0?si=AIMDLaMjAbBttgnt\nMuscle Snatch - https://youtu.be/bJYzOo1cNqY?si=p2p4L761-SU56Vol\nSnatch Balance with 1 sec stop at the bottom - https://youtu.be/GTj9pliPP8E?si=_SJLMq_SQ-c4x6VQ\nHang Squat Snatch - https://youtu.be/IucshEToDyM?si=Da60Khsa_zyWWhSe\n\n\nstart with an empty bar and add alittle weight each set",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "CPn4bIoJSP",
+   "date": "2026-02-16",
+   "display_order": 899999.5,
+   "title": "Snatch Complex",
+   "description": "Build up for a Heavy and** SOLID **Complex:\nEvery 1:30:\n1 Hang Power Snatch\n1 Hang Squat Snatch\n1 OHS\n\nHeavy DOES NOT MEAN PR!!!",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "W7FN7z1TBz",
+   "date": "2026-02-16",
+   "display_order": 900000,
+   "title": "METCON",
+   "description": "Open Workout  24.2\nAs many rounds and reps as possible in 20 minutes of:\n\n300m Row\n10 Deadlifts @85/56 kg\n50 Double Unders\n\nDuring the row, 10 meters = 1 rep, rounded down (e.g., 237 meters = 23 reps)",
+   "score_type": "Reps",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "h9vPo5JYw6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "vrlHHPXldb",
+   "date": "2026-02-16",
+   "display_order": 1770908288678,
+   "title": "HSPU",
+   "description": "For Time:\n9-12-15-18-21\nCal Echo Bike\nKIPPING HSPU\n\nB) If this Skill is your weakness (your maximal unbroken set is less than 6 ) this option is for you:\nEMOM 8:\n3-5 reps",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "GlI9NKLZI9",
+   "date": "2026-02-16",
+   "display_order": 1770908296960,
+   "title": "ACCESSORY / EXTRA",
+   "description": "EMOM 12:\n1: 30 sec [Tall Kneeling Band Snow Angels](https://youtu.be/6xiC34iIP9Y?si=iQCeHBoB6KNjj68z)\n2: 30 sec Hollow Rocks\n3: 30 sec Dual KB Mix Hold  ( 1 OH + 1 Front Rack )@2x20-16/12-14 kg  alternate Right and Left each Round",
+   "score_type": "Emoji Selection",
+   "movement_ids": []
+  },
+  {
+   "id": "vmh8hPjMY8",
+   "date": "2026-02-17",
+   "display_order": 0,
+   "title": "Clean Prep / Warm up MUST DO",
+   "description": "Perform 2- 3 sets ascending weights:\n3-5 reps of each exercise:\n\n\n[Hang Clean Pull](https://youtu.be/FZaEqAAzH4Y?si=2QWNg1JvdKuojWnz)  \n[Hang Muscle Clean](https://youtu.be/IwzBi9KL6Y0?si=PlpvVVFHJ6daCX9K)  \n[Tall Squat Clean ]( https://youtu.be/X9ckJS9LSug?si=0CysKKGXsjuh2VRe) \nPress\nPush Jerk\n[Split Jerk BTN ](https://youtu.be/uvfyz6Rg0fg?si=8wB_z6rBZnAewaW0)- \n\nstart with an empty bar and add a little weight each set\nno heavy weights here! \nthis is technical warm up",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "Wi1kbuym2U",
+   "date": "2026-02-17",
+   "display_order": 0.5,
+   "title": "Clean and Jerk:",
+   "description": "Power Clean + Squat Clean + Split Jerk\n\nEvery 2:30 x 3:\n1+1+2 @85%\n\nPerform Cleans** TOUCH AND GO**\n\nPerform at least 3-4 warm up sets to build up weight",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "EP1wMZzmWT",
+   "date": "2026-02-17",
+   "display_order": 0.625,
+   "title": "METCON",
+   "description": "AMRAP 3 x 4, Rest 1:00 Between AMRAPS\n8 Burpees\n4 Thrusters \n\nThruster Loads:\nAMRAP 1 @ 43/30 kg\nAMRAP 2 @ 52,5/35 kg\nAMRAP 3 @ 61/43 kg\nAMRAP 4 @70/47,5 kg",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "uxS8MwPJpi",
+   "date": "2026-02-17",
+   "display_order": 0.75,
+   "title": "Strict Pull ups",
+   "description": "A) 3 sets of 80% of Max\n\nrest 2:00\n\nB) 2 sets of 17 Banded Pull ups\n\nrest 2:00",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "RxbjmUhlEr",
+   "date": "2026-02-17",
+   "display_order": 1770911656804,
+   "title": "Copenhagen Plank + Biceps Curls",
+   "description": "[Copenhagen Plank](https://youtube.com/shorts/kXTHTV6--Bo?si=CxN4ZNu44i69MwN0)\n\n3 sets of:\n20-30 sec Hold Each Side\n10-12 DB Biceps Curls\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "DlhO0gvQsF",
+   "date": "2026-02-18",
+   "display_order": 1770911664620,
+   "title": "ACTIVE RECOVERY OR REST DAY",
+   "description": "אתם מוזמנים לבצע פעילות אירובית ZONE 2\nריצה קלה ~30 - 35 דקות\nהליכה ~45-60 דקות\nאופנים ~ 45-60 דקות\n\nללכת לסאונה \n\nלבצע שיעור יוגה או פילאטיס או פשוט רצף מוביליטי ארוך ומפנק",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "gNcr3kTjCz",
+   "date": "2026-02-19",
+   "display_order": 1771216608161,
+   "title": "Front Squat 2x3",
+   "description": "Front Squat for load:\n #1: 3 reps @ 85%\n #2: 3 reps @ 85%",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "oJ2CfkCzZF",
+   "date": "2026-02-19",
+   "display_order": 1771216608162.5,
+   "title": "Shoulder Press 3x3",
+   "description": "Shoulder Press for load:\n #1: 3 reps @ 80%\n #2: 3 reps @ 80%\n #3: 3 reps @ 80%",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "YOUyyFQeur",
+   "date": "2026-02-19",
+   "display_order": 1771216608165,
+   "title": "Metcon",
+   "description": "AMRAP 10:\n4 RMU\n8 Dual KB Hamg Clean and JErks @2x24/16 kg\n16 Alt Pistols",
+   "score_type": "Reps",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X",
+    "h9vPo5JYw6",
+    "QCUOoOtogo",
+    "hJS94DdaBx"
+   ]
+  },
+  {
+   "id": "wW1mEVGZOR",
+   "date": "2026-02-19",
+   "display_order": 1771216608166,
+   "title": "Echo Bike Intervals.",
+   "description": "8 sets: \n30 sec Sprint 85-90% Effort\n90 sec Easy Recovery\n\nwrite down the number of sets done and the av watts",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "EQ8nnSNSNB",
+   "date": "2026-02-19",
+   "display_order": 1771216608167,
+   "title": "ACCESSORY / EXTRA",
+   "description": "3 sets:\n10/10 [Side Plank Banded Clamshells](https://youtube.com/shorts/FAG0lgn_tx4?si=1e8zFo0FrLwGB153)\n10/10 m [Banded Lateral Walk](https://youtu.be/RW4ZvH22l48?si=b3fMcu5LliDkJjra)\n10/10 m KB Suitcase Carry @32/24 kg\n\nrest 1:30",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "QU2IyhLonl",
+   "date": "2026-02-20",
+   "display_order": 1,
+   "title": "Power Snatch",
+   "description": "Every 20 sec x 12:\n1 Power Snatch @75%\n\nסליחה",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "wAtz1o1VJb",
+   "date": "2026-02-20",
+   "display_order": 2,
+   "title": "Power Clean and Push Jerk",
+   "description": "Every 1:15 x 8:\n3 TnG Power Cleans and Push Jerks\n\nsets 1-2: @ 65%\nsets 3-4: @ 70%\nsets 5-6: @ 75%\nsets 7-8: @ 77-80%",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "gM2bHHoDoz",
+   "date": "2026-02-20",
+   "display_order": 3,
+   "title": "EMOM 28:",
+   "description": "1: 15 T2B\n2: 18/14 Cal Row\n3: 12 Box Jump Overs @60/50 cm\n4: 12/10 Cal Fan Bike (Echo or Assault Bike )",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "yR4v1omcvf",
+   "date": "2026-02-21",
+   "display_order": 1770911674189,
+   "title": "REST DAY",
+   "description": "לא זזים היום",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

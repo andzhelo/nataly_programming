@@ -1,0 +1,325 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-06-02",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "DS8QymTGlZ",
+   "date": "2024-06-02",
+   "display_order": 900011,
+   "title": "Back Squat 1x1",
+   "description": "Back Squat for load:\n #1: 1 rep",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "MDwhjhfdrN",
+   "date": "2024-06-02",
+   "display_order": 900012,
+   "title": "Metcon",
+   "description": "4 rounds for Reps\n1 minute max Double unders\n1 minute max Alternating Dumbell Snatch @ 50/35lbs\n1 minute max Burpees",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "DkTXRZHPl1",
+   "date": "2024-06-02",
+   "display_order": 900014,
+   "title": "Rowing Intervals",
+   "description": "Rowing Intervals\n1000m @ Add your Personal Record below/500m\n:30 Rest\nRest 1:00\n300m @ Add your Personal Record below/500m\n1000m @ Add your Personal Record below/500m\n:30 Rest\n:30 Rest\n1:00 Rest\n200m @ Add your Personal Record below/500m\n200m @ Add your Personal Record below/500m\n1000m @ Add your Personal Record below/500m\n:30 Rest\n500m\n:30 Rest\n150m @ Sprint\n150m @ Sprint@ Add your Personal Record below/\nNOTES:\n- If you can't hold the prescribed paces, then go as close as you can while still being consistent.\n- If you are using a PM5 monitor, use this link to set your monitor and track on ErgData: https:// workout.ergdata.com/shared/45/2bvOa",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "uArx75YOZl",
+   "date": "2024-06-02",
+   "display_order": 1717250984261,
+   "title": "ACCESSORY / EXTRA",
+   "description": "EMOM 12\n1: :30 Hollow Hold\n2: 30 Weighted Russian Twists\n3: 5/5 Deadbugs\n4: 30 Bicycle Kick Crunch",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "1cZx24hUB0",
+    "yJIlK7TN6q",
+    "1csptAOX6e",
+    "PpJVkVXmjb"
+   ]
+  },
+  {
+   "id": "3txBMK3BNa",
+   "date": "2024-06-03",
+   "display_order": 8,
+   "title": "GYMNASTICS",
+   "description": "Band-Assisted Strict Pull-Up\n5x15\nRest 1:30 - 2:00 Between Sets.\nNOTES:\n- Use a band (or bands) that allows you to do all fifteen reps unbroken.\n- Try to take away some band tension.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "Lsp2IATHO6",
+   "date": "2024-06-03",
+   "display_order": 9,
+   "title": "METCON",
+   "description": "Amrap 16 minutes\n4,8,12,16,20, etc\nPower Cleans @ 155/105 lbs\nRun 400m",
+   "score_type": "Reps",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "jPQIbYSHNc",
+   "date": "2024-06-03",
+   "display_order": 9.5,
+   "title": "Extra/ Accessories",
+   "description": "Barbell Curl\n4x15\nRest 1:00\nTate Press\n4x15\nRest 1:00 Between Sets.\n\nhttps://youtu.be/qcMoJGKVpcw?si=L45kOy9ENatIw0Bc",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "mUVaV8jA15",
+   "date": "2024-06-03",
+   "display_order": 9.75,
+   "title": "Fan Bike Intervals",
+   "description": "Fan Bike Intervals\n5:00-4:00-3:00-2:00 Minutes On\n*Rest 1/2 Working Time\n+\n5 x (1:00 Work / :30 Rest)\nNOTES:\n- Hold the highest possible wattage on each set. Try to get faster on each of the one-minute sets with the last set being \"all out.\"",
+   "score_type": "Calories",
+   "movement_ids": []
+  },
+  {
+   "id": "CV41i1fe09",
+   "date": "2024-06-03",
+   "display_order": 10,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Weighted sit ups\n3 x 20 @ 45/25lbs DB",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "HYXx4aimF3",
+   "date": "2024-06-04",
+   "display_order": 5.5,
+   "title": "TOES TO BAR DROP SETS.",
+   "description": "TOES TO BAR DROP SETS.\n4 Sets:\n1:30\n- 30 sec Toes to Bar @ Add your Personal Record below \n- 15 sec Kipping Knees to Elbows\n- 15 sec V-Ups\n- 15 sec Knee Tucks\n- 15 sec Hollow Hold\nRest 2:30 Actively On A Fan Bike\nNOTES:\n- Back to four sets this week with :15 more of work in each set.\n- Once you complete the prescribed sets of toes-to-bar, move on to the next movement and work until close to failure before moving to the next and so on.\nYou may not do every movement that is listed, that is okay.\n- If you don't have toes-to-bar, begin at knees-to-elbow.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "1cZx24hUB0",
+    "Pg1LdTYhM3",
+    "Gl19kiplpb",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "ANi0S4duAi",
+   "date": "2024-06-04",
+   "display_order": 5.625,
+   "title": "Overhead Squat",
+   "description": "Overhead Squat\n4x4 @ Add your Personal Record below @ 32X1/ RPE\n8\nRest 2:00 Between Sets.\nNOTES:\n- \"30X1\" means that you will take :03 to descend, no time at the bottom, stand fast, and :01 at the top to\nreset between reps.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0"
+   ]
+  },
+  {
+   "id": "3Fe6247Ho9",
+   "date": "2024-06-04",
+   "display_order": 5.75,
+   "title": "Snatch",
+   "description": "Snatch\n5x1.1 @ Add your Personal Record below / RPE 8\nRest :10 Between Reps.\nRest 2:00 Between Sets.\nNOTES:\n- Focus on technique, film your lifts, analyze them, and try to improve on every single rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "WjAJF5Gwpj",
+   "date": "2024-06-04",
+   "display_order": 5.875,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n3x4 @ Add your Personal Record below / RPE 8\nRest 1:30 Between Sets. your lifts, analyze them, and try to improve on every single rep.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "Em90h7394V",
+   "date": "2024-06-04",
+   "display_order": 6,
+   "title": "Shoulder Press 1x1",
+   "description": "Shoulder Press for load:\n #1: 1 rep",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "iDtB7T8AiT",
+   "date": "2024-06-04",
+   "display_order": 7,
+   "title": "METCON",
+   "description": "5 rounds for time\n10 Thrusters @ 95/65 lbs\n12 C2B",
+   "score_type": "",
+   "movement_ids": [
+    "1m5Z5wmyA0",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "IYy11F4kO4",
+   "date": "2024-06-04",
+   "display_order": 8,
+   "title": "ACCESSORY / EXTRA",
+   "description": "4 Sets:\n15 GHD Back Extensions @ 2020 Tempo\n:30/:30 Kettlebell or Dumbbell Suitcase Carry @\n70/53lbs\n100ft Bodyweight Walking Lunge\n*Rest 1:30 Between Sets.\nNOTES:\n- Choose a weight for the suitcase carries that you can do unbroken.\n- A \"2020\" tempo means that you will descend for :02 to get to the bottom of the rep, take no time to pause at the bottom, take :02 to ascend to the top of the rep, and take no time to pause at the top of the rep.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP",
+    "QCUOoOtogo",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "iQmOr09lFl",
+   "date": "2024-06-04",
+   "display_order": 9,
+   "title": "DB  pullover with band",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "oMhKtDN9ZD",
+   "date": "2024-06-05",
+   "display_order": 1,
+   "title": "Run",
+   "description": "Running Intervals:\nPRIMER.\n1200m, starting at a jog and increasing to faster than\n5K pace.\n----\nRest 2:00\nMAIN SET.\n3 Sets:\n:30 rest\n:30 Rest\n400m @ Add your Personal Record below/100m\n300m @ Add your Personal Record below/100m\n200m @ Add your Personal Record below/100m\n*Rest 2:00 Between Sets.\nNOTES:\n- The first 1200m is a warm-up. Start easy and build into a moderate pace.\n- The main set should be fast. You should be able to push a little faster on each of the three sets.",
+   "score_type": "",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "aN1RksHGeB",
+   "date": "2024-06-06",
+   "display_order": 4,
+   "title": "Deadlift 1x1",
+   "description": "Deadlift for load:\n #1: 1 rep",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "yTDqupxobH",
+   "date": "2024-06-06",
+   "display_order": 5,
+   "title": "METCON",
+   "description": "In Teams Of 3:\nEMOM 15:\n1: Row For Meters (rotate every min)\n2: AMRAP:\n3 BMU/ 5 C2B/ 5 PU/ 5 Jumping PU\n6 Burpee High Box Jumps\n*Rotate after whole Round\n\nStop when done 3500",
+   "score_type": "",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "9ikRXPXECL",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "7Qhiwth80H",
+   "date": "2024-06-06",
+   "display_order": 5.5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Deficit Push-Up\n3 x Max Reps\nRest 1:30 Between Sets.\nNOTES:\n- Use plates to create a 2\" deficit.\n- You will/should see some drop-off over the three sets.\n\nB) Single Arm Dumbbell Bent Over Row\n3x12/12\nRest 1:00 Between Sets.",
+   "score_type": "Reps",
+   "movement_ids": [
+    "9iu4RgWSgi",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "0PdHBcqQru",
+   "date": "2024-06-06",
+   "display_order": 6,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Core\n3 sets\n10/10 Side bends\n30 sec/side Star plank",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "ofw4f4lMw5"
+   ]
+  },
+  {
+   "id": "p7LzS0ZmGo",
+   "date": "2024-06-06",
+   "display_order": 7,
+   "title": "Bike Intervals",
+   "description": "Bike Intervals\nWARM-UP.\n3 Sets:\n1:00 @ 90-100 RPM\n1:00 Standing @ Damper 10/8\nRest as needed, then:\nMAIN SET.\n8:00 @ Add your Personal Record below, 85-90 RPM\n+\n8 Sets:\n1:00 Standing @ Damper 10/8\n1:00 @ Easy Pace\n+\n5:00 @ Add your Personal Record below, 85-90 RPM\n+\n5 Sets:\n1:00 Standing @ Damper 10/8\n1:00 @ Easy Pace\n+\n3:00 @ Easy Spin\n\nNOTES:\n- There is no rest in this workout. You will move from one section to the next until you are done.\n- The eight and five minute spins should feel sustainable, if they don't, slow down.\n- Push the pace on the standing efforts and keep the easy minutes at a pace that allows you to continue pushing the standing efforts.\n- If you are using a Bike Erg, use this link to set your monitor and track your results via ErgData: https:// workout.ergdata.com/shared/hxkIrxs9",
+   "score_type": "Reps",
+   "movement_ids": [
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "BQXDm3gAvi",
+   "date": "2024-06-08",
+   "display_order": 899999.9375,
+   "title": "METCON",
+   "description": "2 rounds for time\n75 Wall Balls @20/14 lbs\n50 Hang Power Cleans @ 115/75 lbs\n100 Sit-ups",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "Y8GAfTQjlS",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "3rI3r5Sa1F",
+   "date": "2024-06-08",
+   "display_order": 899999.984375,
+   "title": "TEAM WOD",
+   "description": "In Pairs, Splitting work as desired\n\nFor Time\n300 Wall Balls @ 20/14 lbs\n150 Hang Power Cleans @ 115/75 lbs\n200 Sit-ups",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "Y8GAfTQjlS",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "60xmx1sPsX",
+   "date": "2024-06-08",
+   "display_order": 899999.9921875,
+   "title": "ACCESSORY / EXTRA",
+   "description": "Side lying clam raise\n3 x 12\nRest 30 seconds between sides and sets\n\nHold 2 sec at peak contraction",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "5bLnQSzyoW",
+   "date": "2024-06-08",
+   "display_order": 899999.99609375,
+   "title": "Side Lying Clam Raise",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

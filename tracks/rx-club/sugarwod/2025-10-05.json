@@ -1,0 +1,128 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-10-05",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "pkqmFbA8FA",
+   "date": "2025-10-05",
+   "display_order": 1759239208966,
+   "title": "Nataly Notes",
+   "description": "שבוע DELOAD חברים\nבבקשה לא להגזים ולהקפיד על כמות הסטים ואחוזים! \nאם בא לכם השבוע אפשרי לבצע רק אימוני קבוצה בלי תוספות!\n\nאבל כולכם יודעים מה החולשות שלכם נכון? אז מה שבא לכם.....\n\nחחחחחח",
+   "score_type": "Emoji Selection",
+   "movement_ids": []
+  },
+  {
+   "id": "zoompYCtRs",
+   "date": "2025-10-05",
+   "display_order": 1759239208967,
+   "title": "Clean and Jerk:",
+   "description": "Squat Clean + Split Jerk + Squat Clean + Split Jerk\n1x(1+1+1+1) @ 65-70%  // RPE 7\n\nNOTES:\n- Just one set for today.\n- Perform this set as two clean & jerk singles. Be sure to reset at the ground between the first split jerk and the second squat clean: no touch-and-go reps!\n----\nSquat Clean + Split Jerk\n2x(1+1) @75k% // RPE 7.5\n\nNOTES:\n- Rest for 1:30-2:00 between sets.\n- Go lower than the listed weight for the second rep if the first rep goes poorly. With this being a deload week, we want these reps to be as technically sound as possible.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "GM1CvHIdWs",
+   "date": "2025-10-05",
+   "display_order": 1759239208967.5,
+   "title": "Deadlift",
+   "description": "Deadlift\nEvery :30 x 5:00... (10 Sets)\n\n1 Rep @ 65% // RPE 6.5\n\nNOTES:\n- Just one rep each time. Move with speed, and aim for perfect mechanics.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "IFmh2DV0O1",
+   "date": "2025-10-05",
+   "display_order": 1759239208968,
+   "title": "METCON",
+   "description": "AMRAP 12\n5 Wall Balls @ 20/14 lbs *\n200 m Run\n\nEvery round, add 5 Wall balls\n\n\n**Machine Alternatives:**\n-Row 20/15 cals\n- Bike Erg: 20/15 Cals\n- Ski Erg: 14-20 Cals\n- Assault Bike: 18/13\n- Echo Bike: 15/12",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "eSX9XIxb8i",
+   "date": "2025-10-05",
+   "display_order": 1759239208969,
+   "title": "ZUMBA",
+   "description": "EMOM 15\n1: :30-:40 Skater Jump\n2: :30-:40 Chinese Plank (Facing Up)\n3::30-:40 Chinese Plank (Facing Down)\n\nNOTES:\n- This should be five sets through on each station.\n- For the skater jumps, the goal is to work without stopping. Shortening the range of motion to stay moving for at least :30, if necessary.\n- Keep as tight of a body position as possible on the Chinese Planks.",
+   "score_type": "Emoji Selection",
+   "movement_ids": []
+  },
+  {
+   "id": "63AXABBTNQ",
+   "date": "2025-10-05",
+   "display_order": 1759239208970,
+   "title": "Row Intervals",
+   "description": "Row Intervals\n\n5:00 Row @ Easy Pace (RPE 6)\n+\nRest 1:00\n+\n6-8x 100m @ Sprint, :30 Rests\n\nErgData Link: https://workout.ergdata.com/shared/x4ug2ss2\n\nNOTES:\n- Use the first 5:00 to settle into a smooth and sustainable pace, with a focus on technique. Once you get into the 100's, be sure to hold nothing back from the start. Start at an all-out sprint with the damper set 1-2 spots higher than you would normally row for a 2K effort. Try to sustain a sprint for all six sets, but if you have some drop-off in your output, that is okay with this format. Cut this off after six sets or seven sets if you are struggling to maintain anything close to a sprint pace.\n- Even in the sprints, focus on maintaining proper row mechanics: legs first, then a lean of the torso to 11 o'clock, and finish through with the arms.\n- The goal of this session is to improve your overall power on the machine and build in good habits for powerful starts.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "OpiR6y7iLj",
+   "date": "2025-10-06",
+   "display_order": 0,
+   "title": "Nataly Notes",
+   "description": "היום אפשר לבחור זון 2 או קבוצה!\nאפשר גם לבחור לעשות רק אינטרוולים של אופניים!\n\nאי אפשר לבחור לא לעשות אינטרוואלים",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "tnwP2HY155",
+   "date": "2025-10-06",
+   "display_order": 1,
+   "title": "ACCESSORY / MUST DO",
+   "description": "A) Bamboo Bar Strict Press\nhttps://youtube.com/shorts/omFIuUFNEpw?si=4EKN2l3cPmW7l4ZY\n\nאין לנו מוט הבאמבוק ולא נורא! תעשו עם מוט 10 או 15\nאני ודעת שבסרטון יש גומיה בצבע ירוק חחחחח - בבקשה אל תשחו ירוקה שלנו היא חזקה מידי! קחו שחורה או סגולה \nבגלל שאנחנו לא עושים את התרגיל הזה הרבה וגם בגלל המשקל של המוט אין סיבה לקחת קטלבלים כבדים! 6--8-10 בעניי יהיה מספיק\nתהנו\n\n3x10 @ RPE 7  תכתבו משקל של קטלבל בתוצאה בסט ראשון\n\nNOTES:\n- Rest for at least 2:00 between sets.\n- Keep as much control as possible through these sets, trying to feel for your muscles stabilizing the bar on the way up and down.\n- If you don't have access to a bamboo bar, using kettlebells banded to the collars on each end of the bar is a great substitution for today.\n\nB) Top Down Gorilla Row\nhttps://youtu.be/b00C1e4ebTM?si=m6VhoJzkGT54jyo2\n3X(10/10) @ RPE 7  תכתבו משקל בתוצאה בסט שני\n\nNOTES:\n- Rest for at least 1:00 between sets.\n- Work to keep the top kettlebell (or dumbbell) as close to the body as possible.\n\n\nC) Diamond Push-Up\n2 x Max Unbroken Reps   תכתבו כמות בתוצאה בסט שלישי כאילו זה משקל חחח\n\nNOTES:\n- Rest for at least 2:00 between sets.\n- Take each set to just before true failure for an unbroken set each time. It is okay if you cannot\nperform as many reps on set two as you did on set one",
+   "score_type": "Load",
+   "movement_ids": [
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "KTDvAMgklM",
+   "date": "2025-10-06",
+   "display_order": 2,
+   "title": "Fan Bike Intervals.",
+   "description": "Fan Bike Intervals.\n\nPRIMER.\n2 Sets:\n1:30 @ Easy Pace (RPE 5-6)\n1:00\nModerate Pace (RPE 7)\n:30 @ Hard Pace (RPE 9+)\n*Rest 1:00 Between Sets.\n+\nRest as needed.\n\nMAIN SET.\n8 Sets:\n:30 @ 5-8 RPM Faster than your 10 min avg (+)\n\n*Rest 1:30 Between Sets.\n\nNOTES:\n- Try to hold the hardest sustainable pace for each :30 effort, looking for hard bursts, even if this means you are biking significantly faster than the prescribed paces. Try to make your average RPMs (or Cadence)\nconsistent across each set.\n- The focus of this piece is on repeated sprint efforts, with significant time to recovery between sets.",
+   "score_type": "Calories",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "MpuVnDoNVH",
+   "date": "2025-10-06",
+   "display_order": 3,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Dual Kettlebell Front Rack Carry\n\n3x100ft @ RPE 8\n\nNOTES:\n- Rest 1:00 between sets.\n- Choose a weight for the kettlebells that challenges you. Keep your carries slow and controlled in your movement, focusing on locked-out elbows and pressing up through the shoulders.\nーーーー\nB) \nBanded Face Pull\n2 x Max Rep (Cap @ 30)\nNOTES:\n- Rest for at least 1:00 between sets.\n- Move with control through these reps, including on the return. Take each set to either 30 reps or just before true failure.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "jbM6ZkX8sz",
+   "date": "2025-10-06",
+   "display_order": 4,
+   "title": "Zone 2",
+   "description": "Working @ Zone 2 Heart Rate...\n\n20:00 Run\n20:00 Bike Erg\n\nNOTES:\n- This should come out to 40:00 in total.\n- Despite the change from the run to the bike, aim to maintain a Zone 2 Heart Rate the entire time, regardless of what your output/paces look like.\n- If you don't have a heart rate monitor, aim to feel like you can hold a conversation throughout with a consistent pace. Your effort shouldn't exceed an RPE 7.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "5TFxlWWkOv",
+   "date": "2025-10-09",
+   "display_order": 1759239224566,
+   "title": "METCON",
+   "description": "9-7-5 Reps For Time\nRing Muscle-Ups\nSquat Snatches @60/42,5 kg",
+   "score_type": "",
+   "movement_ids": []
+  }
+ ]
+}

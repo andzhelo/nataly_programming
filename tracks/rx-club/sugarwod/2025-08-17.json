@@ -1,0 +1,326 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-08-17",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "ASy1Lv4GzC",
+   "date": "2025-08-17",
+   "display_order": 1,
+   "title": "Snatch Complex",
+   "description": "High Hang Squat Snatch + Low Hang Squat Snatch +\nSquat Snatch + Overhead Squat\n\n4x(1+1+1+1) @ 73  - 77 % // RPE 7-8\n\nNOTES:\n- Rest at least 2:00 between sets.\n- Drop the bar and reset the at the ground after the low hang squat snatch. Do not go with a touch-and-go rep for your last squat snatch.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "bH4l8x1ymB",
+   "date": "2025-08-17",
+   "display_order": 2,
+   "title": "Front Squat",
+   "description": "Front Squat\n- Build to a 3RM (RPE 9+)\n\nNOTES:\n- Take at minimum five sets to build to your 3RM for today.\n- Be sure to rest at least 2:00 after any lift heavier than 80%",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "bmRZg7DPUS",
+   "date": "2025-08-17",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "For Time:\n21-18-15-12 Bar Facing Burpee\n7-6-5-4 Thruster @ 85/60kg\n\nNOTES:\n- Stay conservative with your pacing on the first few sets of bar-facing burpees. Just because you feel fresh does not mean you should be moving as fast as possible from the start. Pull back on your rep speed and try to settle into a sustainable pace early.\n-",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "jOQ5Wxf4Mw",
+   "date": "2025-08-17",
+   "display_order": 4,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Crossbody Dumbbell Hammer Curl\n4x10/10 @ RPE 8\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Alternate arms each rep. Use a weight that challenges you but still allows each rep to be consistent.\n\n\nB) EMOM 12\n1::30 Hollow Hold\n2::45 Side Plank (Left Side)\n3::45 Side Plank (Right Side)\n4: 20 Knee Tuck\n\nNOTES:\n- Be sure that each minute allows for unbroken work.\nIf needed, modify the time of the holds or the reps on the knee tucks.\n- Move as slowly as possible on the knee tucks.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "1cZx24hUB0",
+    "h9vPo5JYw6",
+    "yJIlK7TN6q",
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "MRvnuaaIl7",
+   "date": "2025-08-17",
+   "display_order": 5,
+   "title": "Zone 2",
+   "description": "4-5 Sets @ Zone 2 Pace:\n3:00 Row\n3:00 Fan Bike\n3:00 Ski\n3:00 Spin Bike\nYour Zone 2 Heart Rate Range:\nAdd your Personal Record below to Add your Personal Record below\n\nNOTES:\n- This should come out to 48-60:00 in total.\n- Despite the changing machines, aim to maintain a Zone 2 Heart Rate the entire time, regardless of what your output looks like.\n- If you don't have a heart rate monitor, aim to feel like you can hold a conversation throughout with a consistent pace. Your effort shouldn't exceed an RPE 7.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "9ikRXPXECL",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "t6Hq2beL9g",
+   "date": "2025-08-18",
+   "display_order": 1,
+   "title": "Deadlift",
+   "description": "3 Sets:\n5 Deadlift @ 80 % // RPE 8\n5/5 Single Leg Box Jump\n\nNOTES:\n- Rest at least 2:00 between sets.\n- Keep control if you choose to hang on to the bar for touch-and-go reps. Avoid bouncing the bar to gain\nmomentum.\n- Move straight from the deadlifts into the box jumps.\nUse either leg to start, and perform all five reps on one leg, then all five reps on the other. If needed, move to a low jerk block or a stack of plates to complete the single leg jump.\n- Use any box height that will allow you to be challenged but still safely complete five reps per side.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "r3CNRMSi8j",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "a8dLHIsc2y",
+   "date": "2025-08-18",
+   "display_order": 2,
+   "title": "Deadlift",
+   "description": "3 Sets:\n5 Deadlift @ 80 % // RPE 8\n5/5 Single Leg Box Jump\n\nhttps://youtu.be/L0zdoG31yXg?si=CE5SNglJO5-y0B7f\n\nNOTES:\n- Rest at least 2:00 between sets.\n- Keep control if you choose to hang on to the bar for touch-and-go reps. Avoid bouncing the bar to gain\nmomentum.\n- Move straight from the deadlifts into the box jumps.\nUse either leg to start, and perform all five reps on one leg, then all five reps on the other. If needed, move to a low jerk block or a stack of plates to complete the single leg jump.\n- Use any box height that will allow you to be challenged but still safely complete five reps per side.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "r3CNRMSi8j",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "UOjplR8uAt",
+   "date": "2025-08-18",
+   "display_order": 3,
+   "title": "ZUMBA",
+   "description": "Every 2:00 x 8:00... (4 Sets)\n:40 Jumping Lunge\n\nNOTES:\n- The goal is to work the entire time on the jumping lunges. Scale this by shortening the range of motion if needed and keeping your knee off the ground.\n- Aim to keep each rep explosive.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "sZOLntZRGl",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "BmNXz0wE8t",
+   "date": "2025-08-18",
+   "display_order": 4,
+   "title": "Row Intervals",
+   "description": "Row Intervals.\n10 Sets:\n500m @ 2k pace/500m or faster\nRest 1:00 Between Sets.\n\nErgData Link: https://workout.ergdata.com/shared/ruqncqz8\n\nNOTES:\n- As long as you are holding your 01:57/500m pace, feel free to move into faster paces as you move\nthrough these sets.\n- The goal would be to never slow down on the overall time for each set as you are moving through.\nEach subsequent set should ideally be at the same pace or faster than the previous set. Focus on maintaining a consistent pace, technique, and stroke rate for each set.",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "PhkVx5UV2z",
+   "date": "2025-08-18",
+   "display_order": 5,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Hamstring Slides\n4x(6-10)\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Keep control coming in and out of this movement.\nTry to feel your hamstring working the entire way.\n\nB) Weighted GHD Back Extension\n4x10 @ RPE 7\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Load this any way: a barbell behind the back, a plate, or a dumbbell in front of the torso are all okay for today. Scale to just bodyweight as needed.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP",
+    "h9vPo5JYw6",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "SXnnjr0uka",
+   "date": "2025-08-18",
+   "display_order": 6,
+   "title": "Skill",
+   "description": "Skill Practice.\nEvery 1:30 x 12:00... (8 Sets)\n:40 Bike Erg @ RPE 7-8 :30 Core Movement *\n\n* For the core movement, choose any of the following you would like to work on:\n- Toes to Bar\n- GHD Sit-Up\n- V-Up\n- Knees to Elbow\n- AbMat Sit-Up\n\nNOTES:\n- Bike at a pace that allows your heart rate to be elevated, but also allows you to still be in control of your movement. If you don't have access to a bike erg, feel free to sub in any other cardio machine for :40.\n- Try to transition straight to the skill movement from the bike. Each set should give you roughly :20 of rest at a minimum.\n- Pick ONE of the movements from the above list to work on for either a set amount of unbroken reps each time OR for :30 each time",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "i4LHh82X5R",
+    "3DHp1XSoMb",
+    "rk5ieibGyP",
+    "Y8GAfTQjlS",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "NhwB46ssm7",
+   "date": "2025-08-19",
+   "display_order": 1,
+   "title": "Push Press",
+   "description": "Push Press\nBuild to a set of 5 @ RPE 8\n-then-\n4x5 @ 85-90% of Above Weight\n\nNOTES:\n- Rest at least 2:00 between sets.\n- Your top weight should allow for 15-20lbs (i.e. ~6-10kg) left in the tank. Each rep should be at a consistent speed across the entire set.",
+   "score_type": "Load",
+   "movement_ids": [
+    "FrQGIrNfi8",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "5VzA9aF481",
+   "date": "2025-08-19",
+   "display_order": 2,
+   "title": "Landmine Kneeling Press",
+   "description": "Landmine Kneeling Press\n4x(8/8) @ RPE 8\n\nNOTES:\n- Rest at least 1:00 between sets.\n- If you don't have access to a landmine, move to a Seated Single Arm Dumbbell Press.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "sx6VooHfKe",
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "Kl6BAQQ25E",
+   "date": "2025-08-19",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "\"Pyramid Helen\"\nFor Time:\n1200m Run\n63 Kettlebell Swing @ 53/35lb | 24/16kg\n36 Pull-Up\n800m Run\n42 Kettlebell Swing @ 53/35lb | 24/16kg\n24 Pull-Up\n400m Run\n21 Kettlebell Swing @ 53/35lb | 24/16kg\n12 Pull-Up\n\nNOTES:\n- This volume of kettlebell swings and pull-ups will add up, so break sets up early to manage your grip.\nAim to never rest for more than :10 between sets.\n- If the prescribed kettlebell weight would not allow for 20+ unbroken reps when fresh, scale back the weight of the kettlebell.\n- Scale to ring rows or band-assisted strict pull-ups if you would struggle to complete 12 unbroken reps when fresh. Similarly, if you can easily complete the pull-ups unbroken for the last two rounds, scale up to chest-to-bar pull-ups.",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "QCUOoOtogo",
+    "iSu93oACwo",
+    "7D2s52zLPX",
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "VdBGz1xNRv",
+   "date": "2025-08-19",
+   "display_order": 4,
+   "title": "Shoulder Love",
+   "description": "A) Z-Press\n3x8 @ RPE 8\n\nNOTES:\n- Rest at least 1:00 between sets.\n- This load should challenge you, but it should not be maximal. Use the same weight for all three sets.\n\n\nB) Tabata Z-Press\n@ 50% of Above Weight\n\n\nNOTES:\n- \"Tabata\" = 8 Sets of :20 Work / :10 Rest (4:00 total)\n- Expect fatigue to hit quickly as you work through these sets. It is okay if the amount of reps you can complete in :20 decreases.\n----\n\nC)Dumbbell Fly\n3X(12-15) @ RPE 7\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Aim to be very controlled in the descent of each rep.\nPick a number of reps in the range that will allow for this amount of control in each set.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6"
+   ]
+  },
+  {
+   "id": "cK6RbghTcq",
+   "date": "2025-08-19",
+   "display_order": 5,
+   "title": "Fan Bike",
+   "description": "\"Death By Fan Bike Calories\"\nEMOM, Until Failure...\n8/6 Cal Fan Bike (+1)\n\nNOTES:\n- Start with 8/6 calories on the fan bike, then add one calorie each minute, until failure to complete the prescribed number of calories within the minute.\n- Pace out your first few rounds. As you start to approach failure, expect to have very little rest from minute to minute.",
+   "score_type": "Calories",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "TmZRA15MpF",
+   "date": "2025-08-21",
+   "display_order": 1,
+   "title": "Clean Complex:",
+   "description": "Squat Clean + Hang Clean + Split Jerk :\n4x(1+1+2) @70-75% // RPE 7-8\n\nNOTES:\n- Rest at least 2:00 between sets.\n- For today, it is okay to hang on to the bar for all reps. Be sure to take your time with each part of the complex, making sure your grip and stance are where they need to be with the core braced before initiating each rep.\n- For the split jerks, reset the bar at the shoulders completely, avoiding any \"touch-and-go\" reps at the shoulders.\n- Remember, the weight ranges do not mean that you need to lift at the upper end of this range. Earn your weights and stay lower in the range if needed to execute quality reps. Focus on movement quality and developing confidence with the barbell in these sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "xNWOvMIzPY"
+   ]
+  },
+  {
+   "id": "lCEWxlM4iY",
+   "date": "2025-08-21",
+   "display_order": 2,
+   "title": "Back Squat",
+   "description": "EMOM 6:\n3 Back Squat @70-75% // RPE 8-9\n\nNOTES:\n- Use a weight that will allow you to keep each set unbroken and consistent in your movement.\n- If you have been following the program, the goal is to add weight from what was used two weeks ago.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "mTurNpk9Gs",
+   "date": "2025-08-21",
+   "display_order": 3,
+   "title": "Metcon:",
+   "description": "4 Rounds For Time:\n3 Rope Climb @ 15ft\n5 Clean & Jerk @  85/60kg\n+\nRest 3:00\n+\nFor Time:\n6 Rope Climb @ 15ft\n10 Clean & Jerk @  85/60kg\n\nNOTES:\n- Try to rest with a hand still on the rope at the ground between rope climb reps. If you don't have rope climbs, or if your space doesn't allow for rope climbs, check out the Substitutions & Scaling Guide in Circle:\nhttps://hwpo-training.circle.so/c/resources-842857/ substitutions-scaling\n- If the weight of the barbell is too heavy to cycle for quick singles, scale to 46.75kg. Ideally, you should be able to complete five reps well under 1:00 each round on the first four rounds.",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X",
+    "50I5upgDJb"
+   ]
+  },
+  {
+   "id": "46dhZhd5dt",
+   "date": "2025-08-21",
+   "display_order": 4,
+   "title": "Extra/ Accessory:",
+   "description": "A) Single Arm Dumbbell Tricep Kickback\n4x10/10 @ RPE 6\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Be conservative with your weight selection.\nPrioritizing moving with enough control to feel the triceps working on each rep.\n\n\nB) Prone IYT\n\nhttps://youtu.be/Npo6E6rAn8U?si=5gLme_-AenE7cQNh\n\n3x(5/5/5) @ RPE 6\n\nNOTES:\n- Rest at least 1:00 between sets.\n- Try to keep the traps relaxed as much as possible through each rep.",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "QCUOoOtogo"
+   ]
+  },
+  {
+   "id": "ReACs08igz",
+   "date": "2025-08-21",
+   "display_order": 5,
+   "title": "Conditioning",
+   "description": "Every 2:00 x 24:00... (4 Sets Per Station)\n1: 30/24 Cal Row\n2: 30/24 Cal Bike Erg\n3: 300m Run\n\nNOTES:\n- Scale the calories on the row and bike up or down to finish roughly around 1:30 each set.\n- If needed, move to 10-12 Shuttle Runs (1 Rep = 25ft\nDown + 25ft Back) instead of a 300m Run. This run should take you no longer than 1:40 each set.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "h9vPo5JYw6",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "FvelGsOivV"
+   ]
+  },
+  {
+   "id": "wVs4NuzuJw",
+   "date": "2025-08-23",
+   "display_order": 1,
+   "title": "Skill",
+   "description": "4 Sets:\nMax Rep Wall Facing Strict Handstand Push-Up (Cap 15)\n:30 Rest\n10 Touch-and-go Deadlift @45-50% @RPE 7-8\n\nNOTES:\n- Rest at least 2:00 between sets.\n- If you don't have wall facing strict handstand pushups for at least five reps unbroken consistently, scale to 10-15 box pike handstand push-ups.\n- Keep control on the deadlifts. Avoid generating momentum for the rep by bouncing the bar off the floor.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "r3CNRMSi8j",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "7wAAcyXCO7",
+   "date": "2025-08-23",
+   "display_order": 2,
+   "title": "Conditioning",
+   "description": "EMOM 40\n1: 15/12 Cal Row\n2: 5 D-Ball / Sandbag Clean @ 150/100lb | 70/45kg\n3: 14/11 Cal Fan Bike\n4: 5/4 Ring Muscle-Up\n\nNOTES\n- Be sure both the row and fan bike can be finished consistently between :40-:45 each time. Adjust the calories as needed to ensure you are always in this time frame.\n- For the d-ball / sandbag cleans, be sure the weight allows for quick repeat-singles for five reps in a row.\nIdeally, you should never allow yourself more than :06 between reps.\n- The ring muscle-ups should be completed unbroken each time. Check out the Substitutions & Scaling Guide in Circle if this will not be possible: https:// hwpo-training.circle.so/c/resources-842857/\nsubstitutions-scaling",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb",
+    "AV3ZJImwt6",
+    "h9vPo5JYw6",
+    "V8IKIUyIbF",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "GI1cMAKcSD",
+   "date": "2025-08-23",
+   "display_order": 3,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Barbell Hip Thrust\n4x15 @ RPE 7\nNOTES:\n- Rest at least 1:00 between sets.\n- Aim for a powerful squeeze of the glutes on each rep. If you feel comfortable doing so, add in a :01-:02 pause at the top of each rep.\n----\n\nB) 4 Sets:\n1:00 Front Plank\n20/20 Side Plank Rotation\nNOTES:\n- Try not to rest between movements, but rest at least 1:00 between sets.\n- Scale the time of the front plank and/or the reps of the side plank rotations if you will struggle to go unbroken from the first set.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "mXcq02E7lL",
+   "date": "2025-08-23",
+   "display_order": 4,
+   "title": "BONUS ( optional )",
+   "description": "For Time:\n100 Double Under\n40 Wall Ball @ 20/14lb; 9/6kg | 10/9ft\n100ft Handstand Walk\n40 Wall Ball @ 20/14lb; 9/6kg | 10/9ft\n100 Double Under\n\nNOTES:\n- The weight of the wall balls should allow for big sets and potentially even unbroken reps for the fittest of athletes. If you feel like you can do it, try to go big and shoot for an unbroken set on each movement of this piece.\n- This should be a quick burner of a metcon. If any of these skills will limit you, consider moving to 5-10:00 of practice on your most limiting skill of this piece instead of hitting this metcon.",
+   "score_type": "",
+   "movement_ids": [
+    "r5pboqWEba",
+    "h9vPo5JYw6",
+    "QCUOoOtogo",
+    "EZkHnWi9wf"
+   ]
+  }
+ ]
+}

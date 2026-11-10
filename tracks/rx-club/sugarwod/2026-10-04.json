@@ -1,0 +1,463 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-10-04",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "6OEZWVeghw",
+   "date": "2026-10-04",
+   "display_order": 1791019378420,
+   "title": "Snatch Prep MUST DO",
+   "description": "A) Snatch Grip OH Elbow Rotations\n20 reps\n\nB) Snatch Grip Sots Press\n3 sets of 5 reps @empty Bar\n\nC) Snatch Lift Off:\n2 Sets of 5 reps @30%\n\nD) No Feet Snatch Pull\n2 Sets of 5 reps @30%\n\nE) Muscle Snatch\n2 sets of 3 reps @30%\n\nF) PAuse Hang Power Snatch\n2 sets of 3 reps @30%",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "O5youInsRH",
+   "date": "2026-10-04",
+   "display_order": 1791019378421,
+   "title": "Power Snatch",
+   "description": "Power Snatch Cluster Sets\n\n4 Cluster Sets:\n\n1 Power Snatch \nrest 10 sec\n1 Power Snatch \nrest 10 sec\n1 Power Snatch \n\nrest 2:30 between sets\n\n@75%-75-80%-80%-80+%  of POWER SNATCH",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "4h81chEJaW",
+   "date": "2026-10-04",
+   "display_order": 1791019378422,
+   "title": "Snatch Pull",
+   "description": "4 sets of 2 reps @105 % \n\nrest 2:00\n\n*use straps",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "XZ4Upijk6M",
+   "date": "2026-10-04",
+   "display_order": 1791019378423,
+   "title": "Back Squat Prep",
+   "description": "A) 90/90 Knee \n10 reps Side to side\n\nB) 90/90 Hip Internal and External Rotation\n10 reps each ex. each side\n\nC) Pigeon Stretch:\n1:00 Each Side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "BYR1JCS6Wa",
+   "date": "2026-10-04",
+   "display_order": 1791019378424,
+   "title": "90/90 Active Hip Internal Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "34BfqVALX8",
+   "date": "2026-10-04",
+   "display_order": 1791019378425,
+   "title": "90/90 Hip External Rotation Lift-Offs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "EAqpz5uSDK",
+   "date": "2026-10-04",
+   "display_order": 1791019378426,
+   "title": "Back Squat",
+   "description": "Week 6:\n\n4 sets of 4 reps @82,5%\n\nrest 2:00 - 2:30\n\nNO BELT",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "U24RLlprmV",
+   "date": "2026-10-04",
+   "display_order": 1791019378427,
+   "title": "Metcon - OPTIONAL",
+   "description": "EMOM 15:\n1: HSW\n2: Cal Row\n3: T2B\n\nHSW m: 5- 7,5  - 10  - 12,5  - 15  ( 2,5  m segments 5 m each direction )\nRow Cals: 10/8 - 12/10 - 14/12 - 16/14 - 18/16\nT2B: 10 - 13 - 16 - 19 - 21\n\nScore: the last set numbers for each\n1 - HSW\n2 - ROW\n3 - T2B",
+   "score_type": "Reps",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "Gl19kiplpb"
+   ]
+  },
+  {
+   "id": "st23c8CyYf",
+   "date": "2026-10-04",
+   "display_order": 1791023345802,
+   "title": "Shoulder PRE-HAB",
+   "description": "A) Wall Facing Serratus Slides with Band\n3-4 sets of 6-8 reps\n\nB) Banded Shoulder Extension Pull Downs\n3-4 sets of 12-15 reps\n\nC) Quadruped Scap Clocks:\n3-4 sets of 20-30 sec each side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "txbiLBwoQ3",
+   "date": "2026-10-04",
+   "display_order": 1791023355618,
+   "title": "Banded Shoulder Extension Pull Downs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "QF3hd8kZnd",
+   "date": "2026-10-04",
+   "display_order": 1791023366622,
+   "title": "Wall Facing Serratus Slides with Band",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "HQVkNdUOHK",
+   "date": "2026-10-04",
+   "display_order": 1791023374506,
+   "title": "Quadruped Scap Clocks",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "6Of0VnnDAo",
+   "date": "2026-10-05",
+   "display_order": 1791019378429,
+   "title": "Deadlift Prep",
+   "description": "2 Rounds:\n10 Cat - Cow\n5 Straight Leg Inchworm Push ups\n10 Banded Good Mornings\n10 Alt Single Leg DL - Slow and Controlled\n10 Hip Banded KB RDL",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "06aaz983EH",
+   "date": "2026-10-05",
+   "display_order": 1791019378430,
+   "title": "Hip Banded RDL with Kettlebell",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "28Jc56Wu9Y",
+   "date": "2026-10-05",
+   "display_order": 1791019378431,
+   "title": "Deadlift",
+   "description": "Week 6:\n\n4 sets of 1 reps @90% \n\nrest 2:30 - 3:00\n\nNO BELT",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "91Zay5N6RZ",
+   "date": "2026-10-05",
+   "display_order": 1791019378432,
+   "title": "Strict Press",
+   "description": "Week 6:\n\n4 sets of 6 reps @75-78%\nsame as last week\n\nRest: 3:00 !!!",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "Z0sMqtHY0C",
+   "date": "2026-10-05",
+   "display_order": 1791019378433,
+   "title": "Chest Supported DB TRAP Row",
+   "description": "4 Sets of 8-10 reps @moderate - heavy \n\nrest 2:00 - 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "WqE54P8ck3",
+   "date": "2026-10-05",
+   "display_order": 1791019378434,
+   "title": "Chest Supported Dumbbell Trap Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "VxfpP6CjeZ",
+   "date": "2026-10-05",
+   "display_order": 1791019378435,
+   "title": "DB Lateral Raises",
+   "description": "3-4 sets of 10-12 reps @moderate weight @RPE 6\n\nrest 2:00 - 2:30\n\nאפשרי לבצע בסופרסט עם משיכות",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "9NET4fbfyV",
+   "date": "2026-10-05",
+   "display_order": 1791019378436,
+   "title": "Accessory",
+   "description": "3-4 Sets:\n20 m Heavy KB or DB Farmer Carry\n15 DB Reverse Flyes @light weight*\n12/12 Straight Arm Side Plank Hip Dips\n\nrest 1:30\n\n*אמור להיות קל כדי לשמור על הקצב וטווח . זאת השלמה של חתירות",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "bnL0lZR9hT",
+    "QCUOoOtogo",
+    "VkmcRrRQFN",
+    "8AUAYBnHEW"
+   ]
+  },
+  {
+   "id": "L3yx5zvJSE",
+   "date": "2026-10-05",
+   "display_order": 1791019378437,
+   "title": "Dumbbell Lateral Raise",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "WJYIm6QAMR",
+   "date": "2026-10-05",
+   "display_order": 1791019378438,
+   "title": "Straight arm side plank hip dips",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "mkoB6RDRMe",
+   "date": "2026-10-06",
+   "display_order": 1,
+   "title": "RECOVERY DAY",
+   "description": "MANDATORY MOBILITY AND SAUNA\n\nIF YOU WANNA BE STRONG\nTREAT YOURSELF",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "KEWz8feFbG",
+   "date": "2026-10-07",
+   "display_order": 1791023092986,
+   "title": "7.10 HERO WOD",
+   "description": "**In Teams Of 3:**\n1600 m Run All Together\n251 Thrusters @50/35 kg*\ninto\n**into 23 Rounds:**\n7 Synch  Burpees\n10 Alt DB Snatches @22,5/15 kg( Not Synch - Rotate each round )\n3*BMU\ninto\n1600 m Run Together\n\n\n**THE FLOW:**\n7 Burpees - performed Synchronized\nP1 - 10 DB Snatches\nP2 - 3 BMU / C2B/ PU\nP3 - REST\n7 Burpees - performed Synchronized\nP3 - 10 DB Snatches\nP1 - 3 BMU / C2B/ PU\nP2 - REST\n7 Burpees - performed Synchronized\nP2 - 10 DB Snatches\nP3 - 3 BMU / C2B/ PU\nP1 - REST\n\n\n*המשקל של המוט אמור להפשר לכם להחזיק סטים של 5- חזרות\nלא אמור להיות קל",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "MLDRhDy2EL",
+   "date": "2026-10-07",
+   "display_order": 1791023092987,
+   "title": "Cash Out",
+   "description": "3 Rounds:\n8/8 KB Goblet Box Step ups  @light weight\n20 Band Pull Aparts",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "l5QfBH4W8J",
+   "date": "2026-10-08",
+   "display_order": 1791019378446,
+   "title": "Back Squat Prep",
+   "description": "A) 90/90 Knee \n10 reps Side to side\n\nB) 90/90 Hip Internal and External Rotation\n10 reps each ex. each side\n\nC) Pigeon Stretch:\n1:00 Each Side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "lFK0ZdA7M9",
+   "date": "2026-10-08",
+   "display_order": 1791019378447,
+   "title": "90/90 Active Hip Internal Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "JuE2fpguOm",
+   "date": "2026-10-08",
+   "display_order": 1791019378448,
+   "title": "90/90 Hip External Rotation Lift-Offs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "1Z3OWfYPFz",
+   "date": "2026-10-08",
+   "display_order": 1791019378449,
+   "title": "Back Squat - Intencity",
+   "description": "Build in 5–7 sets to a 3-rep set @ 92,5%\nAll sets must be done as sets of 3 reps.\nDo 1 set every 3 minutes.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ",
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "F53fvenz2y",
+   "date": "2026-10-08",
+   "display_order": 1791019378450,
+   "title": "Gymnastics",
+   "description": "Strict HSPU:\n3 sets of 3-8 reps @2-3 RIR \n\nrest 1:30\n\nEccentric Kipping HSPU\n3-4 sets:\n3-6 reps @3 sec on the way down\n\nrest  1:30 - 2:00",
+   "score_type": "Reps",
+   "movement_ids": [
+    "aPz3tX2Uwh"
+   ]
+  },
+  {
+   "id": "DBEPUVTpCf",
+   "date": "2026-10-08",
+   "display_order": 1791019378451,
+   "title": "Bench Press",
+   "description": "3-4 sets of 6 reps @RPE7\nMust feel like 3RIR\nrest 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "aEfvaz9ytG",
+   "date": "2026-10-08",
+   "display_order": 1791019378453,
+   "title": "Accessory",
+   "description": "A) DB Concentration Curls:\n3 sets of 10-12 reps each Arm @light - moderate\n\nB)Single Arm Overhead Triceps Extension\n3 sets of 10-12 reps each Arm @light - moderate\n\nC) Banded Russian Twists\n3 sets of 30 sec Each Side",
+   "score_type": "Load",
+   "movement_ids": [
+    "1csptAOX6e"
+   ]
+  },
+  {
+   "id": "WSNp90moCy",
+   "date": "2026-10-08",
+   "display_order": 1791019378454,
+   "title": "Single Arm Overhead Tricep Extension",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "XTpzQkJK26",
+   "date": "2026-10-08",
+   "display_order": 1791019378455,
+   "title": "Banded Russian Twist",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "BRI08BSMtR",
+   "date": "2026-10-08",
+   "display_order": 1791019378456,
+   "title": "Dumbbell Concentration Curl",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "pEDYKNrB6l",
+   "date": "2026-10-08",
+   "display_order": 1791634780212,
+   "title": "Strict Pull Ups:",
+   "description": "Track C: \nRETEST MAX REPS\nthen\n3 sets of 50% of max\nrest 2:00\n\nTrack B: \nRETEST MAX REPS\nthen\n3 sets of 50% of max\nrest 2:00\n\nTrack A:\n4 sets of 6 reps @40%  ( לעגל למטה לא למעלה אם צריך! )\nsame as last week\n\nrest : 3:00",
+   "score_type": "Reps",
+   "movement_ids": [
+    "iSu93oACwo",
+    "VYN8AHOd8K"
+   ]
+  },
+  {
+   "id": "8fESfwwuEQ",
+   "date": "2026-10-09",
+   "display_order": 1791019378453,
+   "title": "Clean Prep",
+   "description": "A) Butcher Block Stretch \n2 sets of 1:00\n\nB) Banded Front Rack Opener \n1:00 each side\n\nC) Wrist Flexion + Extension with Small Plates\n2 sets of 15 reps each",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "92NXX3QHKy",
+   "date": "2026-10-09",
+   "display_order": 1791019378454,
+   "title": "Banded Front Rack Opener Stretch",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "FoOEoBAMS9",
+   "date": "2026-10-09",
+   "display_order": 1791019378455,
+   "title": "Power Clean and Push Jerk",
+   "description": "Touch and Go Power Clean and Push Jerk\nEvery 3:00 x 5:\n5 Unbroken Touch and Go reps\n\n*Start light and add weight each set to Build up for a **HEAVY BUT BEAUTIFUL** set of 5",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "h9vPo5JYw6",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "UIXa0O9TJ1"
+   ]
+  },
+  {
+   "id": "o8nwSQPQqr",
+   "date": "2026-10-09",
+   "display_order": 1791019378456,
+   "title": "Clean Pull",
+   "description": "4 sets of 2 reps @105% of clean\n\nrest 2:00\nuse straps",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "0URgbtymfN",
+   "date": "2026-10-09",
+   "display_order": 1791019378457,
+   "title": "Strict Ring Dips",
+   "description": "3 sets of 8-12 reps @2-3RIR\n\nrest 2:30",
+   "score_type": "Reps",
+   "movement_ids": [
+    "VkmcRrRQFN"
+   ]
+  },
+  {
+   "id": "Pg0mWrmrCd",
+   "date": "2026-10-09",
+   "display_order": 1791019378458,
+   "title": "Conditioning:",
+   "description": "???",
+   "score_type": "Emoji Selection",
+   "movement_ids": []
+  },
+  {
+   "id": "1T6DS4rvXf",
+   "date": "2026-10-09",
+   "display_order": 1791622798633,
+   "title": "Conditioning:",
+   "description": "* Rounds: 1 / 3 /5\nEMOM 24:\n1: 15/12 Cal Ski Erg\n2: 15/12 Cal Erg Bike\n3: 15/12 Cal Ski Erg\n4: REST\n\n* Rounds : 2/ 4/ 6\nEMOM 24:\n1: 15/12 Cal Erg Bike\n2: 15/12 Cal Ski Erg\n3: 15/12 Cal Erg Bike\n4: REST\n\nיש לכם 24 דקות עבודה שזה 6 סבבים \nכל סיבוב אתם עושים רוטציה\nפעם שתח דקות סרי ודקה אופניים באמצע\nסיבוב בהבא - 2 דקות אופניים וסיבוב סקי באמצע",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "k6qV2U3ffc"
+   ]
+  },
+  {
+   "id": "GyVWOVnfqz",
+   "date": "2026-10-10",
+   "display_order": 1791019378459,
+   "title": "REST DAY",
+   "description": "FULL REST DAY",
+   "score_type": "Load",
+   "movement_ids": []
+  }
+ ]
+}

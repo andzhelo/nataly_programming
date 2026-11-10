@@ -1,0 +1,449 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-01-21",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "A4kEgBOlgK",
+   "date": "2024-01-21",
+   "display_order": 1704562843226,
+   "title": "Warm up",
+   "description": "EMOM 5 minutes\n30 Seconds Echo bike @ hard\n30 seconds Echo bike @ easy\n\nThen,\n\n2 sets\n5 Plank to shoulder extensions\n5 Scap pulls\n5 Ring snap back pulls\n30 sec Deep Goblet Squat hold (bottom)\n\nhttps://www.youtube.com/watch?v=FBqJU7k6-w8",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "tPVnyvVfYZ"
+   ]
+  },
+  {
+   "id": "NktWGpAEx1",
+   "date": "2024-01-21",
+   "display_order": 1704562843227,
+   "title": "Gymnastics strength",
+   "description": "6 sets, unbroken\n2-8 Toes to Rings\n1-4 Ring Muscle-ups\n\nRest as needed, but as little as possible between sets",
+   "score_type": "Reps",
+   "movement_ids": [
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "10oC2AZBUb",
+   "date": "2024-01-21",
+   "display_order": 1704562843228,
+   "title": "Accessory",
+   "description": "3 rounds\n20-30 sec Ring Support Hold\n10 Skull crushers\nRest 60 seconds",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "j6UmdErUlT",
+   "date": "2024-01-21",
+   "display_order": 1704562843229,
+   "title": "Monkey Method Ring Support Hold",
+   "description": "www.PWRMNKY.com",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "TDt3e6PFhF",
+   "date": "2024-01-21",
+   "display_order": 1704562843230,
+   "title": "Skull Crusher",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "z07IGDsT91",
+   "date": "2024-01-21",
+   "display_order": 1704562843231,
+   "title": "Metcon",
+   "description": "3 rounds for time\n50 Kettlebell swings 24/16 Kg\n30 Hand release push-ups",
+   "score_type": "",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "y9c2v2Wvsy",
+   "date": "2024-01-21",
+   "display_order": 1704562843232,
+   "title": "Conditioning",
+   "description": "3 rounds\n3 mins Row\n2 mins Echo bike\n1 min rest between rounds",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "kGKYq8WoBS",
+   "date": "2024-01-21",
+   "display_order": 1704562843233,
+   "title": "Accessory",
+   "description": "Archer rows\n3 x 12/12 reps",
+   "score_type": "Reps",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "wEMMAccC19",
+   "date": "2024-01-21",
+   "display_order": 1704562843234,
+   "title": "Archer Row",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "Ar8LM5CuiZ",
+   "date": "2024-01-22",
+   "display_order": 900015,
+   "title": "Warm up",
+   "description": "3 rounds\n1 minute Row or Bike\n10 Straight leg muscle snatch @ low hang\n5/side Single leg glute bridge\n3 x 2-position Snatch + OH Squat\n5 Tall Squat Snatch",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "fQG7uhGbq8",
+    "dupvA5i5XK",
+    "V8IKIUyIbF",
+    "XavuhsO1R0",
+    "9ikRXPXECL",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "CGNm1JX1rF",
+   "date": "2024-01-22",
+   "display_order": 900016,
+   "title": "Snatch 5x5",
+   "description": "Snatch for load:\n #1: 5 reps\n #2: 5 reps\n #3: 5 reps\n #4: 5 reps\n #5: 5 reps",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "r7y9e4kOBk",
+   "date": "2024-01-22",
+   "display_order": 900017,
+   "title": "Back Squat 6x6",
+   "description": "Back Squat for load:\n #1: 6 reps @ 75%\n #2: 6 reps @ 75%\n #3: 6 reps @ 75%\n #4: 6 reps @ 75%\n #5: 6 reps @ 75%\n #6: 6 reps @ 75%",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "NuwFvArE27",
+   "date": "2024-01-22",
+   "display_order": 900018,
+   "title": "Weightlifting accessory",
+   "description": "4 sets @ 70%\n3 OH Squats\n1 Snatch balance",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "Hcl7kgiTPB",
+    "o72lRIHW0b"
+   ]
+  },
+  {
+   "id": "oK1RQ6uMvD",
+   "date": "2024-01-22",
+   "display_order": 900019,
+   "title": "Metcon",
+   "description": "EMOM 12 minutes\nMin 1- 45 sec Max Wallballs 20/14 lbs\nMin 2- 30 sec Max TTB\nMin 3- 60 sec Max Cal Bike erg",
+   "score_type": "Reps",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "n061UyFX0x",
+   "date": "2024-01-22",
+   "display_order": 900020,
+   "title": "Accessory",
+   "description": "3 sets\n8/8 side lying clam raises\n25/25' Banded monster walk",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "Bbt3sESfG8",
+   "date": "2024-01-22",
+   "display_order": 900021,
+   "title": "Side Lying Clam Raise",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "RO4JzGX0Mj",
+   "date": "2024-01-22",
+   "display_order": 900022,
+   "title": "Lateral Band Walks",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "TUhrHCPr2o",
+   "date": "2024-01-23",
+   "display_order": 900013,
+   "title": "Warm up",
+   "description": "2 Sets\nRow 18/15 Cals\n5 Banded W pull apart\n5/arm Bottom up KB Press\n3 Wall walks",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "9ikRXPXECL",
+    "2WuuNT5OfQ"
+   ]
+  },
+  {
+   "id": "kQO7AKp1hC",
+   "date": "2024-01-23",
+   "display_order": 900014,
+   "title": "Gymnastics press strength",
+   "description": "4 sets\n50' Handstand walk\n12 Incline parallette push-ups",
+   "score_type": "Feet",
+   "movement_ids": [
+    "r5pboqWEba",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "6b0WV3PkxT",
+   "date": "2024-01-23",
+   "display_order": 900015,
+   "title": "Gymnastics pull",
+   "description": "5 sets\n6-9 Weighted strict pull-up @ RPE 7\n12 Hollow body banded lat pull down",
+   "score_type": "Load",
+   "movement_ids": [
+    "iSu93oACwo"
+   ]
+  },
+  {
+   "id": "d6wcfzKLE6",
+   "date": "2024-01-23",
+   "display_order": 900016,
+   "title": "Hollow body banded pull down",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "JU4QGGcdyg",
+   "date": "2024-01-23",
+   "display_order": 900017,
+   "title": "Metcon",
+   "description": "Every 5 minutes for 20 minutes\n30 Bar facing Burpees\n20 Hang Snatch 75/55 lbs",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "9WJCYlpHqG",
+   "date": "2024-01-23",
+   "display_order": 900018,
+   "title": "Movement conditioning",
+   "description": "GHD sit-ups\n100 reps, not for time",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "rk5ieibGyP",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "3l7pkeBd3d",
+   "date": "2024-01-23",
+   "display_order": 900019,
+   "title": "Conditioning",
+   "description": "10 minutes Max Cal Row",
+   "score_type": "Calories",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "dmEYqTCzlR",
+   "date": "2024-01-24",
+   "display_order": 1,
+   "title": "Aerobic base",
+   "description": "Bike erg\n2 rounds, each for time\n6,000m @RPE 7\nRest 1 mins between rounds",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "NLq7csZgnm",
+   "date": "2024-01-24",
+   "display_order": 2,
+   "title": "Accessory",
+   "description": "3 sets\n10/10 Quadruped unilateral hip extensions\n50'/side Suitcase carry @ mod-heavy",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "vgbXk6UFw3",
+   "date": "2024-01-24",
+   "display_order": 3,
+   "title": "Unilateral Quadruped Hip Extensions",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "PD9d4p91u6",
+   "date": "2024-01-24",
+   "display_order": 4,
+   "title": "Accessory",
+   "description": "Ring supported leg raise\n3 x 12 reps",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "AUPPiUgYs1",
+   "date": "2024-01-24",
+   "display_order": 5,
+   "title": "Ring supported leg lifts",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "8gKuBZvjBv",
+   "date": "2024-01-25",
+   "display_order": 900006,
+   "title": "Warm up",
+   "description": "EMOM 15\n- Row 18/15 cals\n- 15 burpees\n- 60 DU\n\nThen,\n\nPNF Pigeon stretch\n5 repetitions\n- 5 seconds contraction, pushing against the floor with your leg\n- 5 seconds stretch, moving your upper body toward the floor\n\nThen,\nWork up to a Heavy Jerk double @ 80-85%",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "c94XVoGakB",
+    "5d8CGlTP9W",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "HBjR4yzEsv",
+   "date": "2024-01-25",
+   "display_order": 900007,
+   "title": "Metcon",
+   "description": "'Chaos'\n\nAMRAP 7 minutes\n10 Thrusters 95/65 lbs\n10 Bar facing Burpees",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "e1XFB3PF7Q"
+   ]
+  },
+  {
+   "id": "EihuMiao4y",
+   "date": "2024-01-25",
+   "display_order": 900008,
+   "title": "Post metcon weightlifting",
+   "description": "6 minutes to establish (from 7:00 to 13:00, on a running clock)\n\n2 RM Jerk",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "9I8NClXsGb",
+   "date": "2024-01-25",
+   "display_order": 900008.5,
+   "title": "Power Clean 5x2",
+   "description": "Power Clean for load:\n #1: 2 reps @ 80%\n #2: 2 reps @ 80%\n #3: 2 reps @ 85%\n #4: 2 reps @ 85%\n #5: 2 reps @ 85%",
+   "score_type": "Load",
+   "movement_ids": [
+    "32fORzP45M"
+   ]
+  },
+  {
+   "id": "JqkjJrpiE9",
+   "date": "2024-01-25",
+   "display_order": 900009,
+   "title": "Open weakness skill work",
+   "description": "EMOM 10 minutes\nAMRAP 30 sec\n\nChoose a weak movement. This movement must be light (below 50% of your max rep if it's a barbell).",
+   "score_type": "Reps",
+   "movement_ids": [
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "wSWuMZLWi3",
+   "date": "2024-01-25",
+   "display_order": 900010,
+   "title": "Accessory",
+   "description": "Rotator Cuff Drop and catch\n3 x 8/8 reps",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "94IXIQedDj",
+   "date": "2024-01-25",
+   "display_order": 900011,
+   "title": "Rotator cuff drop and catch",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "ATH4A6XkkE",
+   "date": "2024-01-25",
+   "display_order": 900012,
+   "title": "Power endurance",
+   "description": "Every 90 seconds for 18 minutes\n1- 4 Jumping good mornings 45/35 lbs + as high as possible\n2- 6 Banded Dual Russian KB swings @ moderate\n3- 8 Band assisted broad jumps",
+   "score_type": "Load",
+   "movement_ids": [
+    "wtGIcPY6Aw",
+    "8OZDlHAExp",
+    "QCUOoOtogo",
+    "LKTuo1zvJ1",
+    "Zsg2tpPwwB",
+    "V5Jo3Ik2Jm"
+   ]
+  },
+  {
+   "id": "cZ7mzm8GGD",
+   "date": "2024-01-26",
+   "display_order": 900011,
+   "title": "Warm up",
+   "description": "3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "H7HYTtZERw",
+   "date": "2024-01-26",
+   "display_order": 900016,
+   "title": "Metcon",
+   "description": "AMRAP 20 minutes\n10 Burpee box jump over 30/24\"\n10 KB Snatch 1x 24/16 Kg\n50 Double under crossover",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "Znbyw5L9At",
+    "a7yfpJnTww",
+    "h9vPo5JYw6",
+    "Ap8CeOEvJj",
+    "QCUOoOtogo",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "XHx6YUTb1S",
+   "date": "2024-01-27",
+   "display_order": 1,
+   "title": "Active rest day",
+   "description": "30-40 mins Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2025-01-05",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "EE2HstmYqb",
+   "date": "2025-01-05",
+   "display_order": 1735789684573,
+   "title": "Warmup",
+   "description": "A. General\n2 rnds\n30 seconds shuttle jog\n10 beat swings / box assisted beat swings\n(https://youtu.be/jS2IPQC4x8Q)\n10 pike push ups / band assisted pike push ups\n(https://youtu.be/qeyrmuNnsfc)\n\nB. Mobility\nDynamic leg swings\nSide to side x 10/10\nFront to back x 10/10\nDynamic arm circles:\nForwards 10\nBackwards 10\n\nC. Specific\n2 sets\n5 Tempo Ring Rows @ 2 sec down\n10 DB lunges",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "QCUOoOtogo",
+    "9iu4RgWSgi",
+    "7D2s52zLPX",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "FvelGsOivV",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "trCXONYDbC",
+   "date": "2025-01-05",
+   "display_order": 1735789690515,
+   "title": "Handstand Walk A+B",
+   "description": "A) 10:00 Practice:\nFreestanding Handstand Shoulder Taps\nNOTES:\n- Set this practice in a 4x4ft box.\n- Practice alternating your weight on the hand and reaching one hand toward your shoulders. If you start to get comfortable here, see how many taps you can perform without coming down.\n- If freestanding is too difficult for you, practice handstand holds against the wall and try shifting your weight from hand to hand.\n----\n\nB) Every 3:30 × 14:00... (4 Sets)\n4 Wall Walks\n15/12 Cal Row\n7,5-15 Handstand Walk\n\nNOTES:\n- Perform each set as a sprint.\n- If you don't have handstand walks, scale to ~1:00 of practice or 25-50ft of a bear crawl with the arms and legs as extended as possible.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "r5pboqWEba",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "Dt930JgbP8"
+   ]
+  },
+  {
+   "id": "3YWFVarFKD",
+   "date": "2025-01-05",
+   "display_order": 1735789693486,
+   "title": "Snatch",
+   "description": "A) Snatch w/ Pause in Receiving Position + Snatch Balance + Overhead Squat w/ :03 Descent\n3x(1+2+3)  @light to moderate weight build up with sets\nRest 1:00 Between Sets.\n\nB) Snatch + Overhead Squat + Snatch\n2x(1+2+1) @70-75%\n2x(1+1+1) @ 75-80 %\nRest 1:30 Between Sets.\n\n**OPTIONAL** - Only do these singles if you are feeling good and have had no misses so far.\nC) Snatch\n2x1 @85-90%\nRest 1:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "XavuhsO1R0",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "OA2f450Hki",
+   "date": "2025-01-05",
+   "display_order": 1735789694971.5,
+   "title": "Snatch Pull",
+   "description": "Snatch Pull\n2x3 @ 100-105%\nRest 1:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "05k7X4vurp",
+   "date": "2025-01-05",
+   "display_order": 1735789695714.25,
+   "title": "Back Squat",
+   "description": "Back Squat\n2x2 @ 90% of Last Week's Single OR RPE 9\nRest At Least 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "kWDcpcVBsd",
+   "date": "2025-01-05",
+   "display_order": 1735789696457,
+   "title": "Metcon",
+   "description": "AMRAP 20 minutes\n8 CTB\n16 Front Rack DB Lunge steps 2x 50/35 lbs\n8 HSPU",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "aPz3tX2Uwh",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "s4pnsqc2fh",
+   "date": "2025-01-05",
+   "display_order": 1735789696458,
+   "title": "Extra/ Accessory:",
+   "description": "3 Sets:\n20 V-Ups\n:30 Front Plank\n30 Flutter Kicks (Total)\nNOTE:\n- Rest as needed between sets, but try to move through each set with as little rest as possible.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "1E2nuxS8m4",
+   "date": "2025-01-06",
+   "display_order": 1735789705370,
+   "title": "Warmup",
+   "description": "A. General\nTabata\n- Air squat\n- Wide stance good morning\n- Air balls\n- Burpees\n2 intervals at each movement\n\nB. Mobility\nPNF Standing Quad Pull stretch\n5 repetition/leg\n- 5 seconds contraction, pushing against the your hand with your foot\n- 5 seconds stretch, pulling your foot up with your hand\n\nC. Activation\n2 sets\n8 Band pull throughs\n30 seconds hollow hold",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "c94XVoGakB",
+    "8OZDlHAExp",
+    "1cZx24hUB0",
+    "Zsg2tpPwwB"
+   ]
+  },
+  {
+   "id": "fswjanapjP",
+   "date": "2025-01-06",
+   "display_order": 1735789707986.75,
+   "title": "Bench Press A+B",
+   "description": "A) Bench Press\n5x10 @ RPE 6-7\nRest at least 1:00 between sets.\n\nNOTES:\n- Accumulating a lot of volume in this piece. If you have the ability to rest longer than one minute and feel that you would benefit from this, then do so!\n\nB) EMOM 6\n20 sec  Max Rep Push-Up *\n* Pause for :01 at the top of each rep.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "L81gCqnvWS",
+   "date": "2025-01-06",
+   "display_order": 1735789710603.5,
+   "title": "Metcon",
+   "description": "Every 2:00 x 20:00... (10 Sets)\n6 Dumbbell Box Step Overs @ 2x50/2x35lb; 24/20\"\n5/5 Single Arm Dumbbell Hang Power Snatch @\n50/35lb\n15 Wall Balls @ 20/14lbs\n\nNOTES:\n- All classic CrossFit movements that have been seen in online competitions for today, with a goal of pushing the pace from the start. Treat every set as if it were for time.\n- The goal is to finish each set well under the 2:00 mark, but be sure to cap each set at 1:40 if needed.\n- All weights should allow each movement to be completed unbroken, so scale back the reps or the weight if necessary.",
+   "score_type": "",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "9Gqx8qdWgq",
+   "date": "2025-01-06",
+   "display_order": 1735789710604,
+   "title": "ACCESSORY / EXTRA",
+   "description": "A) Rear Delt Fly\n4x15 @ RPE 7\nRest 1:00 Between Sets.\n----\nB) 3 Sets:\n10 Barbell Curl @ RPE 7\n15 Banded Tricep Pushdown\nRest 1:00 Between Sets.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "ioey5OvwRp",
+   "date": "2025-01-06",
+   "display_order": 1735789710604.5,
+   "title": "Extra Conditioning",
+   "description": "EMOM 20\n1: 15/12 Cal Row\n2: 50 Double Under\n\nNOTES:\n- Cap all minutes at :50. If needed, adjust the calorie or rep count down for each minute to ensure that you are always able to be done well under this cap.\n- Be sure to take notes on how this piece went: your average time to complete each minute, how many times you broke on the double-unders, and how this felt in general on a 1-10 in terms of the effort you gave and the difficulty are all relevant. This piece will be revisited later in the program.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "rRluJobwDB",
+   "date": "2025-01-07",
+   "display_order": 1,
+   "title": "ERG BIKE INTERVALS.",
+   "description": "ERG BIKE INTERVALS.\nWARM-UP.\n3:00 @ Easy Spin\n+\n2 Sets:\n1:00 @ Moderate pace\n:30 @ Easy Spin\nNo Rest Between Sets.\n+\nRest as needed.\nMAIN SET.\n7 Sets:\n1:00 @ Fast\n1:00 @ Moderate\n2:00 @ Slow\nNo Rest Between Sets.\n\nNOTES:\n- Prioritize holding the fastest and slowest sections on today's workout. If the middle section of each set has to fall of in your pace to do this, then that is okay!\n- If you are using a PM5 monitor, use this link to set your monitor and track on \nErgData: https:// workout.ergdata.com/shared/ooOuurvk",
+   "score_type": "Emoji Selection",
+   "movement_ids": []
+  },
+  {
+   "id": "uZ08sDjHbm",
+   "date": "2025-01-08",
+   "display_order": 1,
+   "title": "Warmup",
+   "description": "A. General\n3 minutes machine / 400m run\n—\n2 rounds\n5 empty bar back squats\n5  muscle snatch\n\nB. Activation & Squat Prep\n1 set\n-5/5 Glute bridge hold + knee ext\n-5/5 Reverse Lunges with 3 hold at the bottom*\n-5/5 Cossack squats\n*knee hovers 1\" above the floor\n\nB. Specific (Before the Metcon)\n- 3-5 Tall snatches\n- 3-5 Tempo low hang snatch\n- 3-5 Power Snatch with pause @ lift off position",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "so4mLHE20k",
+   "date": "2025-01-08",
+   "display_order": 2,
+   "title": "Clean & Jerk",
+   "description": "Clean & Jerk\n6х(2+1) @ 75-85%\nRest 2:00 Between Sets.\n\nNOTES:\n- Aim to make each rep technically perfect.\n- Take your time between reps and reset for each clean.",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "vG46giJzGv",
+   "date": "2025-01-08",
+   "display_order": 2.09375,
+   "title": "Clean Pull",
+   "description": "Clean Pull\n2x3 @100-105 %\nRest 2:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "xRP2HUKgER",
+   "date": "2025-01-08",
+   "display_order": 2.1875,
+   "title": "Metcon",
+   "description": "For Time\n3-6-9-12-15-18\nCal Row\nThrusters 95/65 lbs",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "INzvJuV6EM",
+   "date": "2025-01-08",
+   "display_order": 2.25,
+   "title": "ACCESSORY / EXTRA",
+   "description": "4 Sets:\n:20/:20 Copenhagen Plank\n8/8 Dumbbell Reverse Lunge @ RPE 7\nRest 1:30 Between Sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "AE4DbdUk3v",
+   "date": "2025-01-08",
+   "display_order": 2.625,
+   "title": "Extra Metcon",
+   "description": "AMRAP 8\n4-6-8-10... etc.\nBurpee Box Jump Over @ 30/24\"\nCal Ski\n\nNOTES:\n- On this piece, be sure to pace the burpee box jump overs well from the start, aiming to begin at a pace\nyou can hold for all eight minutes.\n- Use your time on the ski erg to either pull back or go faster, depending on your level of fatigue.",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "FMH05FhZ4r",
+   "date": "2025-01-09",
+   "display_order": 1735789821705,
+   "title": "Warmup",
+   "description": "A. General\n4 minute amrap\n5 Burpees/Down & ups\n25’ Butt kicks\n25’ High knees\n50’ Shuttle jog\n\nB. Mobility/Activation\n2 sets\n6/6 Deficit calf raises\n6/6 Hip Hikes\n\nC. Specific\n3 sets\n6 Beat Swings\n6 burpees\n—\n3-6 Burpee pull up",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "c94XVoGakB",
+    "90ipOnexoL",
+    "QCUOoOtogo",
+    "iSu93oACwo",
+    "yJIlK7TN6q",
+    "FvelGsOivV"
+   ]
+  },
+  {
+   "id": "auiRzE0WNE",
+   "date": "2025-01-09",
+   "display_order": 1735789828099.5,
+   "title": "Handstand Push-Ups",
+   "description": "EMOM 6:\n20 sec Max Rep Kipping Handstand Push-Up *\n\n* OPTIONS:\nAdvanced: Deficit Handstand Push-Up @ 2-4\" Deficit\nNormal: Kipping Handstand Push-Up\nScaled: Kipping Handstand Push-Up w/ AbMat OR\nDumbbell Push Press\n\nNOTES:\n- Perform max reps of a kipping handstand push-up in each :20 interval, picking an option from the above list that will allow you to work for the majority of the EMOM without rest.\n- Moving to an easier option is okay if your rep speed or rep quality decreases in this EMOM.",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "aFBc9gedzu",
+    "FrQGIrNfi8",
+    "9iu4RgWSgi",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "2UrmwqcNqU",
+   "date": "2025-01-09",
+   "display_order": 1735789831296.75,
+   "title": "Handstand Push-Ups",
+   "description": "DROPSETS.\n3 Sets of 1:00 Work...\n- Strict Handstand Push-Up\n- Box Pike Handstand Push-Up\n- Dumbbell Strict Press @ RPE 7\n- Dumbbell Strict Press @ -15%\nRest 2:00 Between Sets.\nNOTES:\n- Each set should be 1:00 of total work. Start at the top of the list, and move to the next movement only if your rep speed or your rep quality decreases, or if you hit failure. It is okay if you do not go through every movement on the list before the minute is up.\n- If you don't have strict handstand push-ups, start with box pike strict handstand push-ups\n- For the dumbbell strict press, pick a weight you can use for 6-10 unbroken reps, and move to a pair of dumbbells that is 15% lighter if you have time remaining.",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "sx6VooHfKe",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "tEBVt1p9tj",
+   "date": "2025-01-09",
+   "display_order": 1735789832895.375,
+   "title": "Incline Bench Press",
+   "description": "Incline Bench Press\n3x8 @ RPE 7\nRest 2:00 Between Sets.\nNOTES:\n- Take 5-10 minutes to build to a weight that would leave you around three reps in the tank on a set of eight, then perform your three sets at this weight.",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "sOvd7nXhLC"
+   ]
+  },
+  {
+   "id": "9yCSfXeEBM",
+   "date": "2025-01-09",
+   "display_order": 1735789833694.6875,
+   "title": "Incline Bench Press",
+   "description": "Band Assisted Strict Pull-Up\n4x20\nRest 1-2:00 Between Each Set.\n\nNOTES:\n- Use a band (or bands) that will allow you to stay unbroken for all 20 reps. These sets will get challenging, so be generous with the amount of band help you allow yourself from the start.\n- Try not to bounce out from the bottom of your reps.\nStay in control of the entire set.",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "PWksBIhkdV",
+    "sOvd7nXhLC",
+    "iSu93oACwo",
+    "sZOLntZRGl"
+   ]
+  },
+  {
+   "id": "dpAFRv6WWo",
+   "date": "2025-01-09",
+   "display_order": 1735789834095.3438,
+   "title": "Metcon",
+   "description": "2 Sets:\n21 Wall Ball @ 30/20lbs; 10/9ft\n21 Toes to Bar\n15 Power Clean @ 70/47,5 kg\n15 Toes to Bar\n9 Squat Clean  @70/47,5 kg\n9 Toes to Bar\n\nRest 2:00 Between Sets.\n\nTime Cap: 15 Minutes\nNOTES:\n- Aim to go unbroken on the wall balls.\n- Pick a weight that you can cycle for touch-and-go reps on all movements if needed.\n- Scale back the reps on the toes-to-bar if you can't complete ten reps unbroken.\n- These sets will be very grip-intensive. Try to plan out your breaks beforehand, and be very conservative. It is better to overpace a piece such as this one than to be too aggressive and be forced to take unplanned rests.",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX",
+    "Gl19kiplpb",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "BvzgtQl7Dj",
+   "date": "2025-01-09",
+   "display_order": 1735789834496,
+   "title": "Core",
+   "description": "EMOM 9\n1::40 Front Plank On Hands\n2: 15 V-Up\n3: 20 Russian Twist (Light)",
+   "score_type": "Emoji Selection",
+   "movement_ids": [
+    "1csptAOX6e",
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "4Qa4qzM7jt",
+   "date": "2025-01-10",
+   "display_order": 1,
+   "title": "GYMNASTICS",
+   "description": "Every 1:00 x 10:\n1-3 Ring Muscle ups/ BMU\n\nor spend 10 mins practicing RMU",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "dcE12WDK3K",
+   "date": "2025-01-11",
+   "display_order": 1735789537581,
+   "title": "Dip Power Snatch",
+   "description": "Dip Power Snatch\n5x3 @40-50% // RPE 6\nRest 1:00 Between Sets.\n\ncatch low",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "dJIGGQ9MAO",
+   "date": "2025-01-11",
+   "display_order": 1735789537581.5,
+   "title": "Dip Power Snatch",
+   "description": "Hang Power Snatch\n3x2 @ 60-70%  // RPE 6-7\nRest 1:00 Between Sets.",
+   "score_type": "Load",
+   "movement_ids": [
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "VkmcRrRQFN",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "WyzCc45ChJ",
+   "date": "2025-01-11",
+   "display_order": 1735789537581.75,
+   "title": "Deadlift",
+   "description": "Deadlift\n1x15 @ 45%\n1x12 @ 50%\n1x8 @ 57%\n3x6 @ 65 %\nRest 1:30-2:00 Between Sets.\n\nNOTES:\n- Every set should feel around RPE 6-7.\n- These sets can be done with touch-and-go reps, but do not bounce the bar off the floor.",
+   "score_type": "Load",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "DH3LnD30XJ",
+   "date": "2025-01-11",
+   "display_order": 1735789537581.875,
+   "title": "Conditioning",
+   "description": "EMOM 40\n1: 8 Shuttle Run\n2: 1-2 Rope Climb\n3: 14/11 Cal Ski Erg\n4: 15 m Dumbbell Front Rack Walking Lunge @ 2x50/2x35lb\n\nNOTES:\n- For the shuttle runs, count every rep as 25ft down + 25ft back. Touch the ground on each side.\n- Be sure the shuttle runs and the ski erg can be completed under :45 each time.\n- The rope climbs should be able to be done under :30.\n- For the dumbbell walking lunge, be sure to use a pair of dumbbells that you are confident you can go unbroken with each time.",
+   "score_type": "Other / Text",
+   "movement_ids": [
+    "50I5upgDJb",
+    "yJIlK7TN6q",
+    "FvelGsOivV",
+    "k6qV2U3ffc",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "1AVudkQjBk",
+   "date": "2025-01-11",
+   "display_order": 1735789537582,
+   "title": "METCON",
+   "description": "6 Sets of 3:00 For Reps:\n- Rest 1:00 Between Sets\n- Alternate Between AMRAPs\n\nAMRAP 1:\n18/15 Calories on Mchine\n10 Back Squats @ 50/35 kg \nMax Burpees Over Bar\n\nAMRAP 2:\n10 Back Squats @ 50/35 kg\n15 Burpees Over Bar\nMax Calories on Machine\n\n*perform squats from the floor\n\nCalories for various Machines (AMRAP 1):\n- Row / Ski / C2 Bike: 18/15\n- Echo Bike: 12/10\n\nuse the same machine for all AMRAPS\n**GOAL: Stamina\nTARGETS: 1:30-2:00 on first 2 Movements, 1:00-1:15 on last movement.**",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "QjW4f4R060",
+   "date": "2025-01-11",
+   "display_order": 1735789537583,
+   "title": "Reverse Hyper on HGD",
+   "description": "Reverse Hyper\n3x15 @ RPE 7\nRest 1:00 Between Each Set.\nNOTES:\n- If you don't have access to a reverse hyper, substitute in 3x(5-10) Rounded GHD Back Extension.",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Lw1zCVKxxb",
+    "rk5ieibGyP"
+   ]
+  }
+ ]
+}

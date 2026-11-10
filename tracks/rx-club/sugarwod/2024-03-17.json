@@ -1,0 +1,471 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2024-03-17",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "YoTqrDk30K",
+   "date": "2024-03-17",
+   "display_order": 1,
+   "title": "Week Overview",
+   "description": "This is the transition week between the Open and the Quarter Finals. \n\nMain goal: Supercompensation\nThis is a full on deload week, where we focus on speed with lower total volume and intensity. The main goal for this week is to allow your body to acclimatize to the best state it’s been all year. You’ve put in the training, you must have confidence in your current ability and allow nature to do it’s thing this week.\n\nIf you’ve qualified for the quarterfinals, then use the next few days to recover and focus on technical movements that may happen in the quarterfinals. If you did not qualify, then use this week to have fun without focusing on anything in particular.\nYou will see some workouts over Friday and Saturday where the goal is: Competition simulation, this is meant to stimulate your energy and muscular systems to perform for the QF weekend, not this weekend. It will require an RPE 9, save the edge for the competition that matters.\n\nSo, here is a recommended approach to the week:\nDo not go in the dark zone, Most sessions should not exceed an RPE 7 \nFocus on moving well and breathing. Putting together sound movement mechanics that flow with your breath.\nCarve out some time before ‘weakness sessions’ to visualize your movement beforehand. \nPracticing technically demanding, small details like the way down the rope climb, your ability to breath on the GHD Sit-ups, Foot placement on burpee over whatever’s, Jerk and OH Squat technique…ect..",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "c94XVoGakB",
+    "rk5ieibGyP",
+    "V8IKIUyIbF",
+    "XavuhsO1R0",
+    "50I5upgDJb",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "97Sfqg394T",
+   "date": "2024-03-17",
+   "display_order": 2,
+   "title": "Warm-up",
+   "description": "A. General\n2 Rounds\n30 seconds Row/Bike/Run/Ski @Easy\n20 Alternating 90/90 hip rotations*\n15 Jumping air squats\n*https://youtu.be/qq_Z7sAmVrA",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "Q45eeXwOvG",
+    "3DHp1XSoMb",
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "Q72O8tLNAg",
+   "date": "2024-03-17",
+   "display_order": 3,
+   "title": "Front Squat 7x3",
+   "description": "2 x 3 @70%\n2 x 3 @75%\n2 x 3 @80%\n3 @70% (Focus on speed)",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "RmLjkVK1d2",
+   "date": "2024-03-17",
+   "display_order": 4,
+   "title": "Metcon",
+   "description": "5 rounds for time\n12 CTB\n50' Mixed* Grip Lunges 2x50/35lbs\n\nRound 1: Farmer’s carry\nRound 2: 1 Farmer + 1 Front rack\nRound 3: Both Front rack\nRound 4: 1 Front Rack + 1 OH\nRound 5: Both Overhead",
+   "score_type": "",
+   "movement_ids": [
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "QyxOh6ibiO",
+   "date": "2024-03-17",
+   "display_order": 5,
+   "title": "Conditioning",
+   "description": "Every 6 minutes for 30 minutes\n400/300m Row @Hard\n800/600m Bike @Hard\n\nSwitch order every round",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "d5eRSsV9HF",
+   "date": "2024-03-17",
+   "display_order": 6,
+   "title": "Accessory",
+   "description": "Accessory\n\n2 x 10 Band T\n2 x 10 Band W\n2 x 10 Band M\n\nHold for 5 seconds every 5 reps for every exercise",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "uTmj2kLfL1",
+   "date": "2024-03-17",
+   "display_order": 7,
+   "title": "Banded T (With Hold)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "H9mzRcfWx3",
+   "date": "2024-03-17",
+   "display_order": 8,
+   "title": "Tall Kneeling Banded W Hold",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "e3aBxVvafG",
+   "date": "2024-03-17",
+   "display_order": 9,
+   "title": "Banded M (With Hold)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "GKzauvd5q4",
+   "date": "2024-03-17",
+   "display_order": 10,
+   "title": "Accessory",
+   "description": "Low back decompression on GHD",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "rk5ieibGyP"
+   ]
+  },
+  {
+   "id": "xCbAklXJjc",
+   "date": "2024-03-17",
+   "display_order": 11,
+   "title": "Lower back decompression on GHD",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "PblSVklQ7q",
+   "date": "2024-03-18",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n3mins Bike/Row/Run/Ski\n-Increase intensity every 1 min\n20/20 World’s greatest stretch\n20 Prone Angels",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "pBLxKh7Mjd",
+   "date": "2024-03-18",
+   "display_order": 2,
+   "title": "Snatch 3x1",
+   "description": "3 x 1 @75% +ascending",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "lLug5F86e3",
+   "date": "2024-03-18",
+   "display_order": 3,
+   "title": "Power Clean & Jerk 3x1",
+   "description": "3 x 1 @75% +ascending\n\nStart at 75% on the first set",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "3HEDzZYx1M",
+   "date": "2024-03-18",
+   "display_order": 4,
+   "title": "Gymnastics Conditioning",
+   "description": "3 sets of\n\n3 rounds\n2-4 Bar Muscle-ups\n10/8 Cal Ski\n\nRest 3mins b/w sets\n\nGo for the best time each set. This should be sprints",
+   "score_type": "",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "iRLaF5d48p",
+   "date": "2024-03-18",
+   "display_order": 5,
+   "title": "Metcon",
+   "description": "4 x \n\nAMRAP 3 minutes\n15 GHD Sit-ups\n10 D-Ball over shoulders 100/80lbs\nMax Burpee box jump over 24/20”\n\nRest 1:30 between each AMRAP",
+   "score_type": "Rounds + Reps",
+   "movement_ids": [
+    "Pfe6N82u2K",
+    "c94XVoGakB",
+    "Znbyw5L9At",
+    "rk5ieibGyP",
+    "Y8GAfTQjlS"
+   ]
+  },
+  {
+   "id": "RXVj5a0sWN",
+   "date": "2024-03-18",
+   "display_order": 6,
+   "title": "Accessory",
+   "description": "Deficit Single Leg Hip Thrust\n3 x 10/leg\nRest 60 sec",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "8xwKO381MN",
+   "date": "2024-03-18",
+   "display_order": 7,
+   "title": "Feet elevated single leg Hip Thrust",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "jGAv6FDyFx",
+   "date": "2024-03-18",
+   "display_order": 8,
+   "title": "Conditioning",
+   "description": "Row\n4 x 400m @RPE 7\n3 mins rest between",
+   "score_type": "",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "DeWNbf1xno",
+   "date": "2024-03-19",
+   "display_order": 1710597056925,
+   "title": "Warm-up",
+   "description": "A. General \n3 sets\n30 sec Bike/Row/Ski/100m Run\n10 Wall Balls\n30 sec double-unders",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "SZjtqwIeYl",
+   "date": "2024-03-19",
+   "display_order": 1710597056926,
+   "title": "Gymnastics",
+   "description": "Deficit Kipping HSPU\n\nEMOM 10 minutes\nMin 1: Max reps in 20 sec*\nMin 2: 6 Dual Russian KB swings @heavy + 20 double-unders\n\n*Must be unbroken, if you come down at 10 sec you can't go back up until the next min\n\nBonus points for wall facing, even if you have to lower the deficit height.\n\nSet 1: 12/10'' Deficit\nSet 2: 10/8'' Deficit\nSet 3: 8/6'' Deficit\nSet 4: 4/2'' Deficit\nSet 5: 2/1'' Deficit",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "coB3OBKeZz",
+   "date": "2024-03-19",
+   "display_order": 1710597056927,
+   "title": "Back Squat 1x3",
+   "description": "Back Squats\nWork up to set of 3 @RPE 8/10\n\nThen\n\n2 x 5 reps @80% of this weight",
+   "score_type": "Load",
+   "movement_ids": [
+    "QVZ7nxVjcQ"
+   ]
+  },
+  {
+   "id": "s8atjETQQg",
+   "date": "2024-03-19",
+   "display_order": 1710597056928,
+   "title": "Weightlifting",
+   "description": "3 x 10 Thrusters @135/95lbs\nRest until HR under 100 bpm or about 90sec",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "TyZ3Y6ICdE",
+   "date": "2024-03-19",
+   "display_order": 1710597056929,
+   "title": "Metcon",
+   "description": "AMRAP 12 minutes\n8 Power Clean and Jerk 135/95lbs\n20 Wall Balls 20/14 lbs\n50 Double-unders",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "eDYasiGmyj",
+   "date": "2024-03-19",
+   "display_order": 1710597056930,
+   "title": "Conditioning",
+   "description": "Bike erg\n\nAMRAP 20 mins\n1k @Hard\n1k @Moderate\n1k @Easy",
+   "score_type": "Meters",
+   "movement_ids": []
+  },
+  {
+   "id": "jibkfUngix",
+   "date": "2024-03-19",
+   "display_order": 1710597056931,
+   "title": "Accessory",
+   "description": "Power\n\n4 sets of\n5 Slam balls + 50' Broad jumps\nRest 60 seconds between sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "LDEWJSa0ve",
+   "date": "2024-03-19",
+   "display_order": 1710597056932,
+   "title": "Slam ball + broad jumps",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "qF5mCojgG7",
+   "date": "2024-03-20",
+   "display_order": 1,
+   "title": "Active Rest Day",
+   "description": "30-40 mins Bike, Run, Swim, Or Hike @ easy intensity + low impact",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "o2EXSq1jaG",
+   "date": "2024-03-21",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n2 rounds @increasing intensity on each round\n2 minutes Row or Bike\n10 Arch to hollow Drill\nhttps://youtu.be/-gPSotu632Q \n5 Inch worm + push up",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "9iu4RgWSgi",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "UAOFNNLC7q",
+   "date": "2024-03-21",
+   "display_order": 2,
+   "title": "Next two days",
+   "description": "Over the next two days the sessions are slightly dialed back in the amount of total workouts in order to allow us to bring in some intensity in some of the workouts. This is to prime your system, but not to destroy you. Remember we will do a ramp up starting next week. The goal is to be ready to throw down your best 100% effort over 2 workouts per day, not multiple sessions per day at 80%.\n-When you see the goal as “Competition stimulation” this is when you need to give a 90% effort, leave a little bit in the tank but don’t be afraid to lie on the floor afterwards.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "BMITPCNk4R",
+   "date": "2024-03-21",
+   "display_order": 3,
+   "title": "Metcon",
+   "description": "3 rounds for time\n100 Double-unders\n10 Ring Muscle-ups\n10 DB Box step-up overs 2x 50/35lbs + 24/20\"",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "V8IKIUyIbF"
+   ]
+  },
+  {
+   "id": "TUM5e5DGIS",
+   "date": "2024-03-21",
+   "display_order": 4,
+   "title": "Bench Press 12x2",
+   "description": "Every 30 seconds for 12 sets\n2 reps @40-50%",
+   "score_type": "Load",
+   "movement_ids": [
+    "PWksBIhkdV"
+   ]
+  },
+  {
+   "id": "1bZedbguxn",
+   "date": "2024-03-21",
+   "display_order": 5,
+   "title": "Conditioning",
+   "description": "Assault bike Sprints\n5 x 15/12 Cal @RPE 9/10\nRest 90 sec b/w sets",
+   "score_type": "",
+   "movement_ids": [
+    "3DHp1XSoMb",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "3nfCAerANx",
+   "date": "2024-03-21",
+   "display_order": 6,
+   "title": "Metcon",
+   "description": "3 rounds of\n\n12-9-6\nPower Snatch*\nBar facing Burpees\n\nRest 1 min between rounds\n\n*\nRound 1: @ 70%\nRound 2: @ 60%\nRound 3 @ 50%",
+   "score_type": "",
+   "movement_ids": [
+    "c94XVoGakB",
+    "ztCZl48M2K",
+    "YAFQbda0hU",
+    "xPOJNy56VQ",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "BxchGxIFic",
+   "date": "2024-03-21",
+   "display_order": 7,
+   "title": "Accessory",
+   "description": "Split stance banded fly\n3 x 12 reps\nRest 60 seconds between sets",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "3tmyh4dEtA",
+   "date": "2024-03-21",
+   "display_order": 8,
+   "title": "Split stance banded fly (Low to high variation)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "vbaeAAi0aP",
+   "date": "2024-03-22",
+   "display_order": 1,
+   "title": "Warm-up",
+   "description": "A. General\n3 rounds @increasing intensity on each round\n2 minutes Row or Bike\n25’ Bear Crawl (There is no movement at all at the spine)\n5/5 Dead bug (Hold every rep for 3 seconds)",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "hVfaFatdaK",
+    "3DHp1XSoMb",
+    "r3CNRMSi8j",
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "ud42PcLkNQ",
+   "date": "2024-03-22",
+   "display_order": 2,
+   "title": "Weightlifting",
+   "description": "Build to a heavy complex, unbroken\n7 Hang power cleans\n5 Front Squats\n3 Shoulder-to-OH",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "umWlFaYtSo",
+    "3P3ydRmt3z",
+    "32fORzP45M",
+    "9iI9OsXVAX"
+   ]
+  },
+  {
+   "id": "c2zb85e954",
+   "date": "2024-03-22",
+   "display_order": 3,
+   "title": "Gymnastics",
+   "description": "10 rounds\n1 Legless rope climb \n25' HS walk",
+   "score_type": "",
+   "movement_ids": [
+    "50I5upgDJb",
+    "Cki3yLrBKO"
+   ]
+  },
+  {
+   "id": "rX8N8YqR3O",
+   "date": "2024-03-22",
+   "display_order": 4,
+   "title": "Conditioning",
+   "description": "EMOM 25mins\n200m/150m Row",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "9ikRXPXECL"
+   ]
+  },
+  {
+   "id": "pFKRgqCXLu",
+   "date": "2024-03-22",
+   "display_order": 5,
+   "title": "Accessory",
+   "description": "3 rounds\n50'/side Side Sled drag\n100' Sled Push\n100' Backward sled drag",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "lce0SIJOG9"
+   ]
+  },
+  {
+   "id": "BIU8RdGQlp",
+   "date": "2024-03-22",
+   "display_order": 6,
+   "title": "Side Sled Drag",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "B1X7swMQNm",
+   "date": "2024-03-22",
+   "display_order": 7,
+   "title": "Sled drag (backward)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

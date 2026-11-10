@@ -1,0 +1,281 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-08-23",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "E1xWnR7Pgw",
+   "date": "2026-08-23",
+   "display_order": -1,
+   "title": "Nataly Notes",
+   "description": "היי! השבוע הזה הוא שבוע הכנה לפני שאנחנו נכנסים לבלוק כוח חדש של 12 שבועות שמתחיל שבוע הבא.\n\nלמה אנחנו בודקים מקסימום השבוע?\nכל התוכנית הבאה בנויה על אחוזים מה-1RM שלכם בסקוואט, דדליפט ופרס. אם המספרים לא מעודכנים, כל האימונים הבאים יהיו או קלים מדי (ותפספסו התקדמות) או כבדים מדי (וזה מסוכן). אז לפני שנבנה תוכנית שלמה על המספרים האלה, אנחנו רוצים לוודא שהם נכונים.\n\nלמה לא בודקים  באק סקוואט ?\nכי כבר יש לנו נתון טרי - הכפולה הכבדה שעשיתם שבוע שעבר. אין צורך לעשות עוד מאמץ מקסימלי כל כך קרוב, זה רק יוסיף עייפות מיותרת.\n\nהכי חשוב - לא להיפצע.\nזה לא שבוע להוכיח משהו או לדחוף מעבר למה שהגוף אומר. כמה כללים:\n\nלחמם טוב ולעלות במשקלים בהדרגה - לא לדלג שלבים\nאם המוט מרגיש איטי או נתקע, זה סימן לעצור ולא להמשיך לדחוף\nמקסימום 3 ניסיונות בכל תרגיל - ניסיון רביעי כמעט אף פעם לא מוסיף שיא חדש, רק סיכון\nאם ניסיון ראשון נכשל - חוזרים על אותו משקל, לא מורידים ולא מתעקשים לעלות\n\nהשבוע הזה הוא השקעה בבלוק הבא, לא מבחן להוכיח משהו. בואו נעשה את זה חכם.\n\nמצד שני אני יודעת שיש פה לא מעט שמבפחדים בשבוע טסטים כי מפחדים מאכזבה או חושבים שהם לא בשיא! לא צירך להיות בשיא וגם אם המשקלים שלכם עכשיו יהיו יותר נמוכים מהבדיקה הקודמת לא קרה כלום! אנחנו סך הכל רוצים לדייק בלוק כוח שלנו לכן עדיף להיות מדוייקים ולא לקחת אחוזים ממספרים לא רלונטיים לכאן או לכאן",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "2HalFSh5Vv",
+   "date": "2026-08-23",
+   "display_order": -0.5,
+   "title": "Back Squat",
+   "description": "Pre Strength Block Week\n\n2 sets of 5 @70%\n2 sets of 3 @75-80%\n\nrest 2:00\n\n Estimated 1RM ≈ last week's heavy double × 1.05\n \n בבקשה כולם היום לחשב את ה RM1 המשואר \n לא לעגל מספרים כלפי מלע! \n להפך עדיף להוריד קצת כדי לא להגיע לקיר באמצע הבלוק",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "L9Y54jDGkS",
+   "date": "2026-08-23",
+   "display_order": 0,
+   "title": "Squat Snatch",
+   "description": "2 sets of 3 @65%\n2 sets of 3 @70%\n2 sets of 2 @75%\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "Y9Ub9iueGB",
+   "date": "2026-08-23",
+   "display_order": 1,
+   "title": "Snatch Pull",
+   "description": "3 sets of 3 reps @85% \nrest 2:00\n\nUse straps!\nNo heavy pulling today! technical focus.",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "yqnBR2JhmL"
+   ]
+  },
+  {
+   "id": "xWZ8bCYbsP",
+   "date": "2026-08-23",
+   "display_order": 1.5,
+   "title": "Snatch Pull",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "cQJxqEmMAZ",
+   "date": "2026-08-23",
+   "display_order": 2,
+   "title": "Metcon:",
+   "description": "For Time:\n20 Power Snatches @42,5/30 kg\n30 Lateral Burpees Over Bar\n15 RMU \n30 Lateral Burpees Over Bar\n20 Power Snatches @42,5/30 kg\n\nTC: 15\n\n\n*if you don't have RMU - perform 15 BMU or 20 C2B Pull ups",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "FJmBsSJeLu",
+   "date": "2026-08-23",
+   "display_order": 3,
+   "title": "Accessory",
+   "description": "3 sets:\n12 alt Goblet Cossack Squats @light - moderate weight\n20 Band Face Pulls\n20 sec Side Plank Each side\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "0abBG3ufby",
+   "date": "2026-08-23",
+   "display_order": 4,
+   "title": "Goblet Cossack Squat",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "S6f9h9I5zd",
+   "date": "2026-08-24",
+   "display_order": 1,
+   "title": "Nataly Notes",
+   "description": "היי! השבוע הזה הוא שבוע הכנה לפני שאנחנו נכנסים לבלוק כוח חדש של 12 שבועות שמתחיל שבוע הבא.\n\nלמה אנחנו בודקים מקסימום השבוע?\nכל התוכנית הבאה בנויה על אחוזים מה-1RM שלכם בסקוואט, דדליפט ופרס. אם המספרים לא מעודכנים, כל האימונים הבאים יהיו או קלים מדי (ותפספסו התקדמות) או כבדים מדי (וזה מסוכן). אז לפני שנבנה תוכנית שלמה על המספרים האלה, אנחנו רוצים לוודא שהם נכונים.\n\nלמה לא בודקים  באק סקוואט ?\nכי כבר יש לנו נתון טרי - הכפולה הכבדה שעשיתם שבוע שעבר. אין צורך לעשות עוד מאמץ מקסימלי כל כך קרוב, זה רק יוסיף עייפות מיותרת.\n\nהכי חשוב - לא להיפצע.\nזה לא שבוע להוכיח משהו או לדחוף מעבר למה שהגוף אומר. כמה כללים:\n\nלחמם טוב ולעלות במשקלים בהדרגה - לא לדלג שלבים\nאם המוט מרגיש איטי או נתקע, זה סימן לעצור ולא להמשיך לדחוף\nמקסימום 3 ניסיונות בכל תרגיל - ניסיון רביעי כמעט אף פעם לא מוסיף שיא חדש, רק סיכון\nאם ניסיון ראשון נכשל - חוזרים על אותו משקל, לא מורידים ולא מתעקשים לעלות\n\nהשבוע הזה הוא השקעה בבלוק הבא, לא מבחן להוכיח משהו. בואו נעשה את זה חכם.\n\nמצד שני אני יודעת שיש פה לא מעט שמבפחדים בשבוע טסטים כי מפחדים מאכזבה או חושבים שהם לא בשיא! לא צירך להיות בשיא וגם אם המשקלים שלכם עכשיו יהיו יותר נמוכים מהבדיקה הקודמת לא קרה כלום! אנחנו סך הכל רוצים לדייק בלוק כוח שלנו לכן עדיף להיות מדוייקים ולא לקחת אחוזים ממספרים לא רלונטיים לכאן או לכאן",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "q1TQlllUpB",
+   "date": "2026-08-24",
+   "display_order": 1.5,
+   "title": "Deadlift Prep:",
+   "description": "2-3 mins Row or Ski or alternate both\n\n2--3 Rounds:\n5 m Each Side Banded Lateral Walk\n5/5 Single Leg DL ( no weight - slow ang controlled )\n5/5 Single LEg Glute Bridges\n10 Cat Cow\n20 sec High Plank",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "r3CNRMSi8j"
+   ]
+  },
+  {
+   "id": "nit0sC6vTS",
+   "date": "2026-08-24",
+   "display_order": 2,
+   "title": "Deadlift",
+   "description": "Build up for a Heavy Single @1RIR\n\nSet\t% of estimated 1RM\tReps\tRest after\n1- \tBar / 40%\tx 8 reps\t rest 1 min\n2 -\t55%\tx 5\treps rest 1–2 min\n3 -\t70% x\t3\treps rest 2 min\n4 -\t80% x\t2\treps rest 2–3 min\n5 -\t87%\tx 1\treps rest 3 min\n6 -\t93%\tx 1\treps rest 3–4 min\nAttempt 1\t~100% x\t1rep  rest \t3–5 min if successful\nAttempt 2\t+2.5–5% x\t1\trep rest 3–5 min if successful\nAttempt 3\t+2.5–5% ...",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "ZM7HpDRda2",
+   "date": "2026-08-24",
+   "display_order": 2.5,
+   "title": "Metcon",
+   "description": "EMOM 32:\n1: 16/12 Cal Erg Bike\n2: 10 T2B + 10 Box Jump Overs @60/50 cm\n3: 18/15 Cal Row\n4: REST\n\nGORILLOT Variation:\n1: 200/150 m Run\n2: 10 T2B + 10 Box Jump Overs @60/50 cm\n3: 16/12 Cal Echo Bike\n4: REST",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "bAkCrHE0ty",
+   "date": "2026-08-24",
+   "display_order": 3.5,
+   "title": "Accessory",
+   "description": "3 Supersets:\n8/8 DB Bulgarian Split Squats @moderate weight\n20 Banded Prone Hamstring Curls\n30 Sec Hollow Hold\n\nrest 1:00--1:30",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "GM2uRoxwFR",
+   "date": "2026-08-24",
+   "display_order": 4.5,
+   "title": "Pigeon Stretch",
+   "description": "2 sets of 1 min each Side",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "5d8CGlTP9W"
+   ]
+  },
+  {
+   "id": "FXNge6cQaV",
+   "date": "2026-08-25",
+   "display_order": 0,
+   "title": "Nataly Notes",
+   "description": "היי! השבוע הזה הוא שבוע הכנה לפני שאנחנו נכנסים לבלוק כוח חדש של 12 שבועות שמתחיל שבוע הבא.\n\nלמה אנחנו בודקים מקסימום השבוע?\nכל התוכנית הבאה בנויה על אחוזים מה-1RM שלכם בסקוואט, דדליפט ופרס. אם המספרים לא מעודכנים, כל האימונים הבאים יהיו או קלים מדי (ותפספסו התקדמות) או כבדים מדי (וזה מסוכן). אז לפני שנבנה תוכנית שלמה על המספרים האלה, אנחנו רוצים לוודא שהם נכונים.\n\nלמה לא בודקים  באק סקוואט ?\nכי כבר יש לנו נתון טרי - הכפולה הכבדה שעשיתם שבוע שעבר. אין צורך לעשות עוד מאמץ מקסימלי כל כך קרוב, זה רק יוסיף עייפות מיותרת.\n\nהכי חשוב - לא להיפצע.\nזה לא שבוע להוכיח משהו או לדחוף מעבר למה שהגוף אומר. כמה כללים:\n\nלחמם טוב ולעלות במשקלים בהדרגה - לא לדלג שלבים\nאם המוט מרגיש איטי או נתקע, זה סימן לעצור ולא להמשיך לדחוף\nמקסימום 3 ניסיונות בכל תרגיל - ניסיון רביעי כמעט אף פעם לא מוסיף שיא חדש, רק סיכון\nאם ניסיון ראשון נכשל - חוזרים על אותו משקל, לא מורידים ולא מתעקשים לעלות\n\nהשבוע הזה הוא השקעה בבלוק הבא, לא מבחן להוכיח משהו. בואו נעשה את זה חכם.\n\nמצד שני אני יודעת שיש פה לא מעט שמבפחדים בשבוע טסטים כי מפחדים מאכזבה או חושבים שהם לא בשיא! לא צירך להיות בשיא וגם אם המשקלים שלכם עכשיו יהיו יותר נמוכים מהבדיקה הקודמת לא קרה כלום! אנחנו סך הכל רוצים לדייק בלוק כוח שלנו לכן עדיף להיות מדוייקים ולא לקחת אחוזים ממספרים לא רלונטיים לכאן או לכאן",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "n7gr5ygjZB",
+   "date": "2026-08-25",
+   "display_order": 1,
+   "title": "Strict Press",
+   "description": "Build up for a Heavy Single @1RIR\n\nSet 1: bar / 40% × 8 reps, rest 1 min\nSet 2: 55% × 5 reps, rest 1–2 min\nSet 3: 70% × 3 reps, rest 2 min\nSet 4: 80% × 2 reps, rest 2 min\nSet 5: 88% × 1 rep, rest 2–3 min\nSet 6: 94% × 1 rep, rest 3 min\nAttempt 1: ~100% × 1 rep, rest 3–4 min if successful\nAttempt 2: +2.5–5% × 1 rep, rest 3–4 min if successful\nAttempt 3: +2.5–5% more × 1 rep",
+   "score_type": "Load",
+   "movement_ids": [
+    "O8xUgMBLOp"
+   ]
+  },
+  {
+   "id": "fuShf3OHEa",
+   "date": "2026-08-25",
+   "display_order": 2,
+   "title": "Skill",
+   "description": "HSPU Stamina:\n\nFor Time:\n\n12-9-6 \nStrict HSPU \nCal Row\n\ninto \n\n21-15-9\nKipping HSPU\nCal Row\n\n* calories for echo bike:\n10-8-5\n18-12-7",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "dnzFCxmW6O",
+   "date": "2026-08-25",
+   "display_order": 3,
+   "title": "Metcon",
+   "description": "5 RFT:\n10 WB Shots @20/14 lbs\n10 PU\n\ninto\n\n5 RFT:\n8 Dual DB Box Step up Overs @2x22,5/15 kg @50 cm for everyone\n10/8 Echo Bike\n\nTC: 15",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "DHj7nMPLhk",
+   "date": "2026-08-25",
+   "display_order": 4,
+   "title": "ACCESSORY",
+   "description": "3 Round:\n12 Dual DB Biceps Curls \n10/10 Side Plank Banded Clamshells\n10 Defficite Push ups ( arms on DBs )\n\nrest 1:30",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "E2JeBYOGm7",
+   "date": "2026-08-25",
+   "display_order": 5,
+   "title": "Side plank banded clamshell",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "zuHcEhLbLC",
+   "date": "2026-08-26",
+   "display_order": 1,
+   "title": "RECOVERY DAY",
+   "description": "NO RUNNING PLEASE\n\nתעשו מתיחות או מוביליתי\nלכו לסאונה\nתשנו שנ\"ץ\nתאכלו אורז\n\nאל תרוצו בבקשה היום כי אתם צריכים את הרגליים מחר\n\nאפשר ללכת שעה לא בחום!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "OFQh0pYm97",
+   "date": "2026-08-26",
+   "display_order": 2,
+   "title": "30 Minute Full Body Flexibility Routine V4! (FOLLOW ALONG)",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "snmbAggxcS",
+   "date": "2026-08-27",
+   "display_order": 0,
+   "title": "Nataly Notes",
+   "description": "היי! השבוע הזה הוא שבוע הכנה לפני שאנחנו נכנסים לבלוק כוח חדש של 12 שבועות שמתחיל שבוע הבא.\n\nלמה אנחנו בודקים מקסימום השבוע?\nכל התוכנית הבאה בנויה על אחוזים מה-1RM שלכם בסקוואט, דדליפט ופרס. אם המספרים לא מעודכנים, כל האימונים הבאים יהיו או קלים מדי (ותפספסו התקדמות) או כבדים מדי (וזה מסוכן). אז לפני שנבנה תוכנית שלמה על המספרים האלה, אנחנו רוצים לוודא שהם נכונים.\n\nלמה לא בודקים  באק סקוואט ?\nכי כבר יש לנו נתון טרי - הכפולה הכבדה שעשיתם שבוע שעבר. אין צורך לעשות עוד מאמץ מקסימלי כל כך קרוב, זה רק יוסיף עייפות מיותרת.\n\nהכי חשוב - לא להיפצע.\nזה לא שבוע להוכיח משהו או לדחוף מעבר למה שהגוף אומר. כמה כללים:\n\nלחמם טוב ולעלות במשקלים בהדרגה - לא לדלג שלבים\nאם המוט מרגיש איטי או נתקע, זה סימן לעצור ולא להמשיך לדחוף\nמקסימום 3 ניסיונות בכל תרגיל - ניסיון רביעי כמעט אף פעם לא מוסיף שיא חדש, רק סיכון\nאם ניסיון ראשון נכשל - חוזרים על אותו משקל, לא מורידים ולא מתעקשים לעלות\n\nהשבוע הזה הוא השקעה בבלוק הבא, לא מבחן להוכיח משהו. בואו נעשה את זה חכם.\n\nמצד שני אני יודעת שיש פה לא מעט שמבפחדים בשבוע טסטים כי מפחדים מאכזבה או חושבים שהם לא בשיא! לא צירך להיות בשיא וגם אם המשקלים שלכם עכשיו יהיו יותר נמוכים מהבדיקה הקודמת לא קרה כלום! אנחנו סך הכל רוצים לדייק בלוק כוח שלנו לכן עדיף להיות מדוייקים ולא לקחת אחוזים ממספרים לא רלונטיים לכאן או לכאן",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "iHPCIZ5q84",
+   "date": "2026-08-27",
+   "display_order": 1,
+   "title": "Power Clean and Jerk",
+   "description": "Every 2:00 x 5:\n2 Power Cleans + 2 Split Jerks @70%",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "fWieP2r9Uk",
+   "date": "2026-08-27",
+   "display_order": 2,
+   "title": "Front Squat",
+   "description": "Build up to a Heavy Single @1RIR\n\nSet 1: bar / 40% × 8 reps, rest 1 min\nSet 2: 55% × 5 reps, rest 1–2 min\nSet 3: 65% × 3 reps, rest 2 min\nSet 4: 75% × 2 reps, rest 2–3 min\nSet 5: 83% × 1 rep, rest 3 min\nSet 6: 90% × 1 rep, rest 3 min\nSet 7: 95% × 1 rep, rest 3–4 min\nAttempt 1: ~100% × 1 rep, rest 3–5 min if successful\nAttempt 2: +2.5–5% × 1 rep, rest 3–5 min if successful\nAttempt 3: +2.5–5% more × 1 rep",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "uiUWKupJVA",
+   "date": "2026-08-27",
+   "display_order": 2.5,
+   "title": "2-2-2-3",
+   "description": "Long time no 2-2-2-3\n\n2-2-2-3 mins Work / 1 min Rest\n\n10/8 Cal Echo Bike\n10 Thrusters @42,5/30 kg\nMax Sandbag Cleans @70/50 kg",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "LJPEkCLZIk",
+   "date": "2026-08-27",
+   "display_order": 3,
+   "title": "Accessory:",
+   "description": "3 sets:\n10 Strict Dips ( not on rings! ) ( weighted or band assisted if needed )\n10 Strict Pull ups ( weighted or band assisted if needed )\n25 sec Weighted Hollow Rocks\n\nrest 2:00",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "HbrFeFK2g5",
+   "date": "2026-08-28",
+   "display_order": 1,
+   "title": "Partner WOD",
+   "description": "AMRAP 26:\n200 m Run (together)\n20 Synch Lateral Burpees Over Bar\n20 Partner DL \n20 m HSW / 8 Wall Walks (I go You go)\n20 Sync T2B\n\nStraight into:\n\n8 mins To Establish Heavy Complex:\n1 Power Snatch\n1 Hang Squat Snatch\n1 OHS\n\nDL: @MM 160/MF 140/FF 120\nDL Scaled: @MM 140/MF 120/FF 100\ncaled - perfor T2B I go You Go",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "7779GoF3o3",
+   "date": "2026-08-29",
+   "display_order": 1787734558122,
+   "title": "REST DAY",
+   "description": "לא זזים היום!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

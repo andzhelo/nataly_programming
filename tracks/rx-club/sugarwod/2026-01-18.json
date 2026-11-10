@@ -1,0 +1,297 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-01-18",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "nGg5ypBU84",
+   "date": "2026-01-18",
+   "display_order": 1768494258244,
+   "title": "Back Squat",
+   "description": "1x1 @90%\n\nPerform 5-7 sets of 3-1 reps to warm up and build up for 1 single at 90%\n\nrest 1:30-2:30 between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "msESgkZQJt",
+   "date": "2026-01-18",
+   "display_order": 1768494258245,
+   "title": "Lunges + DB Bench Press",
+   "description": "3 Supersets:\n6/6 [Back Rack Backward Stepping Lunges](https://youtube.com/shorts/jtVB3dWC63E?si=tPHV1M6SioV2oG8b) @45-50 % of 1RM Back Squat\n10 Dual DB Bench Presses @RPE7-8 moderate weight\n\nrest 2:00\n\nPost weights:\nset 1 - Lunges\nset 2 - DBs",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "py8t2zyNru",
+   "date": "2026-01-18",
+   "display_order": 1768494258246,
+   "title": "Skill Strength",
+   "description": "**A) Strict HSPU**\n\nPerform 4 sets of 60% of Max reps\nrest 1:30\n\n\n**A.A) If your Max set is big ( 15+ reps ) **\nPerform 4 sets of 3-5 reps DEFICITE ( 10-15 kg plates under arms )\nrest 1:30\n\n**B) Eccentric SHSPU:**\nPerform 3 sets of 3 reps @3-5 sec on the way down\n\nrest 1:30 between sets",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "dqzrqUjbSR",
+   "date": "2026-01-18",
+   "display_order": 1768494258247,
+   "title": "Metcon",
+   "description": "Choose One of 3 Options and Perform it:\n\n**Option A:**\nFor Time:\n45 Toes-to-Bar\n45 Deadlifts @80/65 kg\n45 Burpees Over Bar\n\n**Option B:**\n3 Rounds of :\n15 Toes-to-Bar\n15 Deadlifts @80/65 kg\n15 Burpees Over Bar\n\n**Option C:**\n5 Rounds of:\n9 Toes-to-Bar\n9 Deadlifts @80/65 kg\n9 Burpees Over Bar\n\nTC: 10:00 for all 3 options",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "BSOuezC4yY",
+   "date": "2026-01-18",
+   "display_order": 1768496797320,
+   "title": "RUN row",
+   "description": "3 Rounds:\n\n1:00 Row @ pace 1\n200 m recovery Run\n1:00 Row @ pace 2\n200 m recovery Run\n1:00 Row @ pace 3\n\nRest 2:00\n\n\ndecide on 3 paces:\n1 - moderate pace feels comfortable for 1:00 work and suits long workouts \n2 - fast pace sustainable for 1:00 but feels uncomfortable suits shorter workouts or the last set of workout\n3 - the fastest and the most uncomfortable pace that you can sustain for 1:00\n\nnote the number of Cals done each set and note the pace for each set!",
+   "score_type": "Calories",
+   "movement_ids": [
+    "9ikRXPXECL",
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "50orVxt4nK",
+   "date": "2026-01-19",
+   "display_order": 1768494267813,
+   "title": "Snatch Prep / Warm Up  MUST DO",
+   "description": "Perform 2-3 sets of 3 reps of each Exercise in prescribed order\n\n\n5-7 reps Snatch Grip Behind the Neck Press ( only with an empty Bar! )\n\nSnatch Lift Off   - https://youtu.be/8fmCc9nqZLc?si=C0Wgxquf09oMHi87\nSnatch High Pull - https://youtu.be/9WRp0a5hcb0?si=AIMDLaMjAbBttgnt\nMuscle Snatch - https://youtu.be/bJYzOo1cNqY?si=p2p4L761-SU56Vol\nSnatch Balance with 1 sec stop at the bottom - https://youtu.be/GTj9pliPP8E?si=_SJLMq_SQ-c4x6VQ\nHang Squat Snatch - https://youtu.be/IucshEToDyM?si=Da60Khsa_zyWWhSe\n\n\nstart with an empty bar and add alittle weight each set",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "OLnKbzbISI",
+   "date": "2026-01-19",
+   "display_order": 1768494267814,
+   "title": "Low Hang Snatch ( Below The Knees )",
+   "description": "https://youtu.be/Php-RclQ1yU?si=0RQjgL6OiylQIaz4\n\nקודם כל תראו בבקש את הסרטון ותקראו הסבר שכתבתי כדי להבין למה אנחנו עושים את מה שאנחנו עושים\nבסרטון מופיעים כל מיני סוגים של HANG עם ההסברים\nאותנ מעניין מתחת לברכיים! \n\n3x2 @70-72%\n2x2 @75-77%\n3x1 @80%\n\nrest 1:30-2:00 between sets",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "xmqjfeckEk",
+   "date": "2026-01-19",
+   "display_order": 1768494267815,
+   "title": "Deficit Snatch Pull",
+   "description": "3 sets of 3 reps @95%",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "iVJICs6ewj",
+   "date": "2026-01-19",
+   "display_order": 1768494267816,
+   "title": "METCON",
+   "description": "For Time:\n21 PU\n21 Box Jump Overs step Down @24/20\n15 C2B\n15 Box Jump Overs step Down @24/20\n9 BMU \n9 Box Jump Overs step Down @24/20\n\nTC: 8:00\nGoal Time: 6:00",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "kwQZlBQeIT",
+   "date": "2026-01-19",
+   "display_order": 1768494267816.5,
+   "title": "HANDSTAND WALK",
+   "description": "EMOM 5:\n1: 30 DU + 5-10 m HSW",
+   "score_type": "Meters",
+   "movement_ids": [
+    "r5pboqWEba"
+   ]
+  },
+  {
+   "id": "SutUEzwHrO",
+   "date": "2026-01-19",
+   "display_order": 1768494267817,
+   "title": "ACCESSORY / EXTRA",
+   "description": "EMOM 12:\n1: 30 sec [Tall Kneeling Band Snow Angels](https://youtu.be/6xiC34iIP9Y?si=iQCeHBoB6KNjj68z)\n2: 30 sec Hollow Rocks\n3: 30 sec Dual KB Mix Hold  ( 1 OH + 1 Front Rack )@2x20-16/12-14 kg  alternate Right and Left each Round",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "EkcMvP1FzV",
+   "date": "2026-01-20",
+   "display_order": 1768494276456,
+   "title": "Clean Prep / Warm up MUST DO",
+   "description": "Perform 2- 3 sets ascending weights:\n3-5 reps of each exercise:\n\n\n[Hang Clean Pull](https://youtu.be/FZaEqAAzH4Y?si=2QWNg1JvdKuojWnz)  \n[Hang Muscle Clean](https://youtu.be/IwzBi9KL6Y0?si=PlpvVVFHJ6daCX9K)  \n[Tall Squat Clean ]( https://youtu.be/X9ckJS9LSug?si=0CysKKGXsjuh2VRe) \nPress\nPush Jerk\n[Split Jerk BTN ](https://youtu.be/uvfyz6Rg0fg?si=8wB_z6rBZnAewaW0)- \n\nstart with an empty bar and add a little weight each set\nno heavy weights here! \nthis is technical warm up",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "9VQnVpHgWi",
+   "date": "2026-01-20",
+   "display_order": 1768494276457,
+   "title": "Low Hang Power Clean ( Below The Knees )",
+   "description": "https://youtu.be/uUeV3LwisDI?si=1a3Q8T0P6dmO5oQW\n\nכמו בסנאצים - תראו את הסרטון בבקשה\nאנחנו עובדים מתחת לברכיים\n\n3x2 @65%\n3x2 @70%\n2x2 @75%\n\nrest 1:30",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "i2mtqWmMkC",
+   "date": "2026-01-20",
+   "display_order": 1768494276458,
+   "title": "Clean Pull",
+   "description": "3 sets of 3 reps @90 %\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "AV3ZJImwt6"
+   ]
+  },
+  {
+   "id": "WeDNok789X",
+   "date": "2026-01-20",
+   "display_order": 1768494276459,
+   "title": "Pause Split Jerk",
+   "description": "[Pause Split Jerk](https://youtu.be/xxFqQ-d_P4M?si=YjBfLTUMSCOXBVy6)\n\nEvery 2:00 x 4-5:\n2 reps @70%\n\n\npause for 2 sec in the dip",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "cjz4YVZFZX",
+   "date": "2026-01-20",
+   "display_order": 1768494276459.5,
+   "title": "Metcon:",
+   "description": "For Time:\n21-18-15-12-9\nCalories Row\nThrusters @30/25 kg\nTC: 10:00",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "dxU2FMYk4a",
+   "date": "2026-01-20",
+   "display_order": 1768494276460,
+   "title": "Strict Pull ups",
+   "description": "A) 4 sets of:\n80% of Max reps \n\nrest 2:00\n\nB) 2 sets of 15 Banded Pull ups\n\nrest 2:00",
+   "score_type": "Reps",
+   "movement_ids": [
+    "iSu93oACwo",
+    "VYN8AHOd8K"
+   ]
+  },
+  {
+   "id": "M1iFsmo9bd",
+   "date": "2026-01-20",
+   "display_order": 1768494276461,
+   "title": "V-ups",
+   "description": "EMOM 8:\n10 reps",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "h79jyMSEM4"
+   ]
+  },
+  {
+   "id": "gePxFgAomt",
+   "date": "2026-01-21",
+   "display_order": 1768494285346,
+   "title": "ACTIVE RECOVERY OR REST DAY",
+   "description": "אתם מוזמנים לבצע פעילות אירובית ZONE 2\nריצה קלה ~30 - 35 דקות\nהליכה ~45-60 דקות\nאופנים ~ 45-60 דקות\n\nללכת לסאונה \n\nלבצע שיעור יוגה או פילאטיס או פשוט רצף מוביליטי ארוך ומפנק",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "7oQn60aNEl",
+   "date": "2026-01-22",
+   "display_order": 1768494295618,
+   "title": "Front Squat",
+   "description": "3 sets of 3 reps @85%\nrest 2:00-2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo"
+   ]
+  },
+  {
+   "id": "jOk0PQs9KS",
+   "date": "2026-01-22",
+   "display_order": 1768494295619,
+   "title": "Strict Press",
+   "description": "5 sets of 3 reps @75%\n\nrest 2:00",
+   "score_type": "Load",
+   "movement_ids": [
+    "2clnFDTyC4",
+    "PWksBIhkdV",
+    "h9vPo5JYw6",
+    "V8IKIUyIbF",
+    "O8xUgMBLOp",
+    "dmbpU1OMjd"
+   ]
+  },
+  {
+   "id": "KW8cxuNPsP",
+   "date": "2026-01-22",
+   "display_order": 1768494295620,
+   "title": "Skill - Technical",
+   "description": "RMU:\nאם אין לכם RMU אני ממש ממליצה לבצע את התרגול הזה היום\nאם יש לכם RMU - אתם יכולים לבצע את זה בתור חימום . תורידו כמות סטים וחזרות כדי לא להתעייף\n\n\nA) [Beat Swings On Rings](https://youtu.be/nEIg81AeAyQ?si=hrLhiBrZDnFIsTz4)\n3 sets of 5-10 reps\nrest 1:00 between sets\n\nB)[ Low Rings Legs on Box RMU Transition](https://youtube.com/shorts/QSNQumOacp8?si=Vr1y8666XttgWmLA)\nPerform 10-12 good reps\nrest as needed between reps\nstart with the low box or a couple of plates!\n\nC) [Bottom Of Ring Dip Swings](https://youtube.com/shorts/I6NaVaMM8Z8?si=yATs1TaOsV-BwLHF)\n3 sets of 5-7 Swings\nrest 1:30 between sets",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "vwwytwkQkl",
+   "date": "2026-01-22",
+   "display_order": 1768494295621,
+   "title": "Skill Capacity:",
+   "description": "Ring Muscle up:\n\nEMOM 12:\n1: 2-6 RMU\n2: 10 Cal Erg Bike",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "aBHDfw7D5i",
+   "date": "2026-01-22",
+   "display_order": 1768494295622,
+   "title": "Metcon",
+   "description": "For time: \n50 dumbbell walking lunges ( farmer position )\n30 handstand push-ups\n40 front-rack walking lunges\n20 deficit handstand push-ups\n30 overhead walking lunges\n10 strict handstand push-ups\n\n\nFemale @2 x15 kg dumbbells for all lunges,\n5 cm deficit\nMale@2 x 22,5 kg dumbbells for all lunges,\n9 cm deficit\n\n\nTime cap: 15 minutes",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "VSvD67khAv",
+   "date": "2026-01-22",
+   "display_order": 1768494295622.5,
+   "title": "Fan Bike Intervals",
+   "description": "EMOM 5:\n20-18/15-10 Cals\n\nrest 3:00\n\nEMOM 5:\n20-18/15-10 Cals",
+   "score_type": "Calories",
+   "movement_ids": [
+    "TNUMTCEYrY",
+    "3DHp1XSoMb"
+   ]
+  },
+  {
+   "id": "XJitZK9gLa",
+   "date": "2026-01-22",
+   "display_order": 1768494295623,
+   "title": "ACCESSORY / EXTRA",
+   "description": "3 sets:\n10/10 [Side Plank Banded Clamshells](https://youtube.com/shorts/FAG0lgn_tx4?si=1e8zFo0FrLwGB153)\n10/10 m [Banded Lateral Walk](https://youtu.be/RW4ZvH22l48?si=b3fMcu5LliDkJjra)\n10/10 m KB Suitcase Carry @32/24 kg\n\nrest 1:30",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "DNWYCfisFq",
+   "date": "2026-01-23",
+   "display_order": 1768494304602,
+   "title": "Snatch",
+   "description": "Every 1:30 x 6:\n1 Power Snatch\n1 Hang Squat Snatch\n1 OHS\n\n@Build up to a Heavy but SOLID Complex",
+   "score_type": "Load",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "XavuhsO1R0",
+    "Hcl7kgiTPB"
+   ]
+  },
+  {
+   "id": "lcNVHdLuGA",
+   "date": "2026-01-23",
+   "display_order": 1768494304604,
+   "title": "Metcon",
+   "description": "\"The Lord of The Cleans\"\n\nFor Time and For Load\n100 DU\n30 T2B\n30 Power Cleans \n100 DU\n30 T2B\n24 Power Cleans \n100 DU\n30 T2B\n20 Power Cleans \n100 DU\n30 T2B\n16 Power Cleans \n100 DU\n30 T2B\n12 Power Cleans \n100 DU\n30 T2B\n6 Power Cleans \n100 DU\n30 T2B\n2 Power Cleans \n\n\n\nTc: 37\n\nPower Clean %\n30 - 40%\n24 - 50%\n20 - 65%\n16 - 80%\n12 - 85%\n6 - 90%\n2 - 95%+",
+   "score_type": "Other / Text",
+   "movement_ids": []
+  },
+  {
+   "id": "UIBXFbKUy8",
+   "date": "2026-01-24",
+   "display_order": 1768494315750,
+   "title": "REST DAY",
+   "description": "לא זזים היום",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

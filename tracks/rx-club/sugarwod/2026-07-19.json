@@ -1,0 +1,452 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-07-19",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "wIrumim8jG",
+   "date": "2026-07-19",
+   "display_order": 1784179762778,
+   "title": "Nataly Notes",
+   "description": "היי חברים\nאנחנו בשבוע DELOAD\n\nיש תרגילים שהורדתי קצת משקלים\nיש כאלו שהורדתי נפח\n\nבבקשה תהיו קשובים לגוף השבוע ותשקיעו בהתאוששות\nלכו לסאונה או למסאז'\nתעשו משהו לנשמה\n\nחשוב מאוד לציין ש DELOAD זה לא אומר שהשבוע הזה יהיה קל \nאבל הגישה שלנו תהיה קצת שונה\nננסה לזרום יותר ולעבוד לפי התחושה\nלא להגזים במטקונים ופשוט לבוא לזוז בכיף\n\nאני יודעת כבר מה תגידו על אין של יום שני \nאבל כן אפשר גם אימוןהזה לבו אלזוז בכיף\n\nתהנו",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "5TYZ7nFRJ2",
+   "date": "2026-07-19",
+   "display_order": 1784179762779,
+   "title": "Snatch Prep",
+   "description": "2 sets:\n5/5 KB Windmills @light moderate\n5/5 KB Bottoms Up Press\n20 Band Pull Aparts\n45 Sec Wrist Warm up  \n45 Sec  Deep Squat Sky Reach",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "YMwxwfqwdv",
+   "date": "2026-07-19",
+   "display_order": 1784179762779.5,
+   "title": "Wall Facing Strict HSPU",
+   "description": "**Level 1**\n3 sets of 2-5 reps Elevated ( Use ABMAT  )\n\nrest 1:20\n\n**Level 2:**\n3 sets of 2-7 reps \n\nrest 1:20\n\n**Level 3:**\nDefficite \n5-10 kg plates\n3 sets of 3-7 reps\n\nrest 1:30",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "ENxWBBE7F1",
+   "date": "2026-07-19",
+   "display_order": 1784179762780,
+   "title": "Muscle Snatch",
+   "description": "Muscle Snatch:\n3 sets of 3 reps @50% \n\nrest 1:30",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "uiakc1W7oM",
+   "date": "2026-07-19",
+   "display_order": 1784179762781,
+   "title": "3 - Position Squat Snatch",
+   "description": "Every 1:30 x 6:\n1 High Hang Squat Snatch\n1 Hang Squat Snatch\n1 Squat Snatch\n\n@65-70%\n\nEnjoy and Have Fun",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "a7C8XBxGSh",
+   "date": "2026-07-19",
+   "display_order": 1784179762784.5,
+   "title": "Metcon",
+   "description": "Option A:\nEMOM 15:\n1: 40-60 DU\n2: 10 Alt DB Snatches @25/17,5 kg + Max BMU / C2B / PU *\n3: 5 Shuttle Runs + 7,5 m HSW \n\n*1 Shuttle Run = 7,5 + 7,5 m\n*חייב לבחור סקיל שממנו אתם יכולים לבצע לפחות 5-7 חזרות ברצף\n\n\nOption B:\nEMOM 15:\n1: 40-60 DU\n2: 10 Alt DB Snatches @22,5/15 kg + Max BMU / C2B / PU*\n3: 8-10 Shuttle Runs*  \n\n*1 Shuttle Run = 7,5 + 7,5 m\n*חייב לבחור סקיל שממנו אתם יכולים לבצע לפחות 5-7 חזרות ברצף\n\nRX+ : 3: 5 Shuttle Runs + 7,5 m HSW\n\nתוצעות:\n1 - כממתDU\n2 - כמות BMU/C2B/PU\n3 - כמות שאטל ראן\n\nתכתבו בהסבר איזה גרסה עשיתם",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "BJVfKqVMVq",
+   "date": "2026-07-19",
+   "display_order": 1784179762785,
+   "title": "Accessory",
+   "description": "3 Sets:\n45 sec Tall Kneeling Banded Snow Angels\n45 sec Dual KB Front Rack Hold @heavy\n15/15 Banded External Rotations\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "GqrAyzZRvk",
+   "date": "2026-07-19",
+   "display_order": 1784179762786,
+   "title": "Tall Kneeling Banded Angel",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "QKACaNzkzt",
+   "date": "2026-07-19",
+   "display_order": 1784179762787,
+   "title": "Banded Shoulder External Rotation",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "aUFKhJOh3u",
+   "date": "2026-07-20",
+   "display_order": 1784181130895,
+   "title": "CNS Warm up",
+   "description": "3  Rounds:\n5 Broad Jumps \n6 Slam Balls\n6 180 Jumps\n\nrest 1:30\n\n3 Sets:\n5 Empty Bar Jumping Back Squats\n\nRest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "tHPYVbnZbM",
+   "date": "2026-07-20",
+   "display_order": 1784181130896,
+   "title": "180 Degrees Squat Jumps Power",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "Cu14Z2Ax6g",
+   "date": "2026-07-20",
+   "display_order": 1784181130897,
+   "title": "The Slam Ball",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "ylnkmts7yg",
+   "date": "2026-07-20",
+   "display_order": 1784181130898,
+   "title": "Broad Jump",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "aOme5fE4dD",
+   "date": "2026-07-20",
+   "display_order": 1784181130899,
+   "title": "Jumping Back Squat",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "gWJtri6Q7J",
+   "date": "2026-07-20",
+   "display_order": 1784181130900,
+   "title": "Banded Back Squat",
+   "description": "4-5 sets of 3 reps @55-60% of 1RM + Light bands ( red or black )\n\nspeed focus\n\nrest 2:00\n\nתבחרו כמות הסטים לפי ההרגשה. צריכים לסיים את זה FRESH ולא גמורים\n\nREAD PREPARE",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "ZMYg5AJYFP",
+   "date": "2026-07-20",
+   "display_order": 1784181130901,
+   "title": "Metcon",
+   "description": "For Time:\n21-18-15-12-9\nCal Row\nThrusters @37.5/25 kg\n\nTC: 15",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "tGE7JnpMKH",
+   "date": "2026-07-20",
+   "display_order": 1784181130902,
+   "title": "The Lord Of The Rings",
+   "description": "4 sets:\n3-5 False Grip ring Pull ups  \n3-5 Pause Strict Ring Dips @1211\n\n1 sec down\n2 sec Pause at the bottom\n1 sec Up\n1 sec Pause at the top\n\n* אם 5 חזרות לא מזיזיות לכם - תוסיפו משקל\n\n\nScoring:\nset 1 - pull ups reps\nset 2 - Dips reps",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "DKIBFYS4X9",
+   "date": "2026-07-20",
+   "display_order": 1784181130903,
+   "title": "The Lord of The Rings",
+   "description": "EMOM 6:\n1: 20 sec Top Ring Suport\n2: 10-20 sec Bottom Ring support",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "iCFLnEyfyv",
+   "date": "2026-07-20",
+   "display_order": 1784181130904,
+   "title": "Accessories",
+   "description": "3 Sets:\n10/10 Goblet Elevated Reverse Lunges @RPE7\n30 sec Plank DB Pull Throughs\n10-20 sec L-Sit on parallettes\n\nrest 1:30",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "vA225PMgIL",
+   "date": "2026-07-20",
+   "display_order": 1784181130905,
+   "title": "Front Foot Elevated Goblet Reverse Lunge",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "4FVBHDF1SE",
+   "date": "2026-07-20",
+   "display_order": 1784181130906,
+   "title": "Plank DB Pull Through",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "uJkNYGHiCr",
+   "date": "2026-07-20",
+   "display_order": 1784181130907,
+   "title": "L Sit on Parallettes",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "5Hmy4gCmok",
+   "date": "2026-07-20",
+   "display_order": 1784181130908,
+   "title": "Single Leg L Sit on Parallettes",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "oRLn94rXNH",
+   "date": "2026-07-21",
+   "display_order": 1,
+   "title": "CNS Warm up",
+   "description": "3 Rounds:\n8 Tall Kneeling Medball Chest Tosses\n10 Med Ball Skater Jumps\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "EjKr6sNFU1",
+   "date": "2026-07-21",
+   "display_order": 2,
+   "title": "Tall Kneeling Med Ball Chest Pass",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "LCqfN8vJCN",
+   "date": "2026-07-21",
+   "display_order": 3,
+   "title": "Lateral Skater w/ Medicine Ball",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "3HqoJKUlWZ",
+   "date": "2026-07-21",
+   "display_order": 4,
+   "title": "Muscle Clean",
+   "description": "3 sets of 3 reps @57-60%\n\nrest 1:30",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "EuYQWQQYgJ",
+   "date": "2026-07-21",
+   "display_order": 5,
+   "title": "Hang Power Clean",
+   "description": "3 sets of 3 reps 65%\nNot touch and Go\n\nrest 2:00 \n\nSpeed Under the Bar Focus!",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "MGKpScDbs6",
+   "date": "2026-07-21",
+   "display_order": 6,
+   "title": "Push Press",
+   "description": "3 sets of 2 reps @60% from Clean and Jerk\n\nrest 1:30\n\nSPEED Focus\nבבקשה תשמרו על הפנים שלכם\nמהירות זה טוב אבל אף וסנטר חשובים גם",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "5e3iBrxQGn",
+   "date": "2026-07-21",
+   "display_order": 7,
+   "title": "Metcon",
+   "description": "AMRAP  12:\n12 Power Cleans* @60/42,5 kg \n12 T2B\n12 Lateral Burpees Over Bar\n\n*Power Cleans חייב לבצע טאץ אנד גו\nלא חייב את כל ה 12 אפשרי 6+6 או 4+4+4 \nאבל לא סינגלים\n\nבהצלחה",
+   "score_type": "Rounds + Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "klK5cKpIk2",
+   "date": "2026-07-21",
+   "display_order": 8,
+   "title": "Accessory",
+   "description": "3 rounds:\n10 Seated DB Good Mornings @light weight\n12-15 DB Hammer Curls @moderate Weight\n12-15 V-ups\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "gJZyMOAwGA",
+   "date": "2026-07-21",
+   "display_order": 9,
+   "title": "Seated Good Morning Breakdown",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "9BgCbEKHfw",
+   "date": "2026-07-22",
+   "display_order": 1783855406712,
+   "title": "Run",
+   "description": "5 km Run for the soul\n\nתכתבו זמנים אבל אנחנו עושים את ריצה הזאת בתור התאוששות אקטיבית",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "UKyBehMgL3",
+   "date": "2026-07-23",
+   "display_order": 1784198650315,
+   "title": "CNS Warm up:",
+   "description": "3 Rounds:\n5 Overspeed Banded Vertical Jumps\n8 alt Med Ball Slam Reverse Lunges\n\n\nrest 1:30",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "LpZo2itrPV",
+   "date": "2026-07-23",
+   "display_order": 1784198650316,
+   "title": "Medicine Ball Slam with Reverse Lunge",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "rhG3OkgziT",
+   "date": "2026-07-23",
+   "display_order": 1784198650317,
+   "title": "Overspeed Banded Vertical Jumps",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "pw5fDzztPv",
+   "date": "2026-07-23",
+   "display_order": 1784198650318,
+   "title": "Depth Jumps",
+   "description": "5 sets of 3 reps\n\nrest 2:00",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "9D3yDQeUG1",
+   "date": "2026-07-23",
+   "display_order": 1784198650319,
+   "title": "Depth Jumps",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "GSUosY5nSa",
+   "date": "2026-07-23",
+   "display_order": 1784198650320,
+   "title": "Bottom up Front Squat",
+   "description": "4 sets of 3 reps @67-72%\n\nrest 1:30\n\nreset each rep at the bottom \nstop for a sec and release the bar",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "SXuIC7OBoW",
+   "date": "2026-07-23",
+   "display_order": 1784198650321,
+   "title": "Bottom Up Front Squat",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "58Z18yC7wZ",
+   "date": "2026-07-23",
+   "display_order": 1784198650321.5,
+   "title": "Strict Pull ups",
+   "description": "4 sets of 8 reps\nrest 1:30\n\nWeighted if needed",
+   "score_type": "Reps",
+   "movement_ids": [
+    "iSu93oACwo",
+    "VYN8AHOd8K"
+   ]
+  },
+  {
+   "id": "0B0TVywy1x",
+   "date": "2026-07-23",
+   "display_order": 1784198650322,
+   "title": "Machine Intervals",
+   "description": "8 Sets:\n2:00 Work\n2:00 Rest\n\n12/10 Cal Echo Bike (45 sec)\n15/12 Cal Row (45 sec)\nMax Burpees Over Rower (20-30 sec)\n\nחשוב מאוד שישאר לכם זמן לברפיז\nאבל לאחרונה אני פחות אוהבת את הקטע שאתם מורידים מספרים על סמך החלטה לפני שבכלל ניגשתם לאימון\nזה יהיה לא נעים\nוזה אמור להיות לא נעים\nאני לא רוצה שתעשו 40 שניות ברפיז!\nאני כן רוצה שתלחמו בשיניים כדי שישאר לכם 15-25 שניות\nיש הבדל בלהוריד מספרים כדי שישאר זמן \nלבין להתאמץ כדי שישאר לכם זמן",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "pYwHveCdJy",
+   "date": "2026-07-23",
+   "display_order": 1784198650324,
+   "title": "Accessory:",
+   "description": "3 sets:\n8/8 Banded Side Plank Clamshells\n20 Banded Glut Bridges\n15/15 Single Leg Calf Raises @weighted if needed\n\nrest 1:30",
+   "score_type": "Emoji Selection",
+   "movement_ids": []
+  },
+  {
+   "id": "CVw7xDyLy2",
+   "date": "2026-07-23",
+   "display_order": 1784198650325,
+   "title": "Theraband Clamshell Side Plank Thrust",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "Ix4EdLlRHr",
+   "date": "2026-07-23",
+   "display_order": 1784198650326,
+   "title": "Banded Glute Bridge",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "IhNMdFm7Uz",
+   "date": "2026-07-23",
+   "display_order": 1784198650327,
+   "title": "Dumbbell single leg calf raise",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "T1V6YtzcBO",
+   "date": "2026-07-24",
+   "display_order": 1784807019900,
+   "title": "Metcon",
+   "description": "זה לא אימון זוגות!\n\n\"SAVE YOUR TEARS FOR ANOTHER DAY\"\n\nFor Time:\n\n800 m Run \n50 Cal Erg Bike\n30 Power Snatches @40/30 kg\n30 C2B\n30 WB Shots\n50 WB Box Step up Overs @20/14 llbs\n30 WB Shots\n30 C2B\n30 Power Snatches @40/30 kg\n50 Cal Erg Bike\n800 m Run \n\nTC: 35\n\nיש גרסה זוגית ב PREPARE",
+   "score_type": "",
+   "movement_ids": [
+    "h9vPo5JYw6",
+    "gDzBvkfmnw",
+    "iSu93oACwo",
+    "VkmcRrRQFN",
+    "9ikRXPXECL",
+    "yJIlK7TN6q",
+    "Gl19kiplpb",
+    "EZkHnWi9wf"
+   ]
+  },
+  {
+   "id": "mUelypDlbS",
+   "date": "2026-07-25",
+   "display_order": 1784957932528,
+   "title": "REST DAY",
+   "description": "לא זזים היום!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}

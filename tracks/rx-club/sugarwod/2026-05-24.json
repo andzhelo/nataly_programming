@@ -1,0 +1,539 @@
+{
+ "track": "RX-Club",
+ "track_id": "dI1FOEzwRP",
+ "week_start": "2026-05-24",
+ "pulled": "2026-11-10",
+ "workouts": [
+  {
+   "id": "O8v9HpwtrQ",
+   "date": "2026-05-24",
+   "display_order": -1,
+   "title": "Nataly Notes:",
+   "description": "היי חברים\nבגלל שיש לנו היום מטקון ארוך ויש עו הליכת ידיים במטקון בהמשך השבוע אני החלתי שהיום אנחנו נעשה עבודת SKILL ממוקדת \n\nמי שיש לו הליכת ידיים - מוזמנים לתרגל פירואטים\n\nמי שאין לו - בבקשה להגדיש זמן לתרגול של הליכת ידיים לפי התרגילים שפרסמתי\n\nבבקשה לא לעשות גם וגם!!!!",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "9g8yE0CP1b",
+   "date": "2026-05-24",
+   "display_order": 0,
+   "title": "Back Squat Prep",
+   "description": "Perform 2-3 sets of each exercise as a superset.  \nRest 1:00 between supersets\n\nA) Supported Hip Airplanes:\n5-8 reps each Side\n\nB) Banded Dorsi Flexion\n10 reps each Side\n\nC) Lateral Banded Walk\n10 steps each Side",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "my2LVkzlFQ",
+   "date": "2026-05-24",
+   "display_order": 0.5,
+   "title": "Supported Hip Airplanes",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "QUGdGvswMF",
+   "date": "2026-05-24",
+   "display_order": 0.75,
+   "title": "Banded Dorsi Flexion",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "N84y873wJs",
+   "date": "2026-05-24",
+   "display_order": 0.875,
+   "title": "Back Squat",
+   "description": "Back Squat\n4 sets of 8 reps @60-65%\n\nrest 2:30",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "IlhmolGaQx",
+   "date": "2026-05-24",
+   "display_order": 0.9375,
+   "title": "Pirouette progression",
+   "description": "**1) Piked position 6 step 360 turn practice**\nPractice for 3-5 mins to understand and remember the steps order\n\n**2) Kick up + 1 step**\nPerform 10 reps\nrest 10-20 sec between the reps\n\n**3) 2 step turn (90 degrees)**\nPerform 10 reps \nrest 20 sec between reps",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "hSCFXs8aia",
+   "date": "2026-05-24",
+   "display_order": 0.953125,
+   "title": "Piked position 6 step 360 turn practice",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "OubFciFvLj",
+   "date": "2026-05-24",
+   "display_order": 0.9609375,
+   "title": "Kick up + 1 step",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "7fvHAmtavl",
+   "date": "2026-05-24",
+   "display_order": 0.96875,
+   "title": "3 step turn ( 180 degrees )",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "0WXg62cKHO",
+   "date": "2026-05-24",
+   "display_order": 0.984375,
+   "title": "Handstand Walk Drills",
+   "description": "1) [Chest To Wall Weight Shifts](https://www.youtube.com/watch?v=6c9ZKZxUdkY)\n3 sets of 20 sec Work 1:20 Rest\n\n2) [Rowing Machine HSW](https://www.youtube.com/shorts/Hai2e2Rv-sg)\n3 sets of 30 sec Work 1:30 Rest\n\n3) [Kick up To Handstand + 2 steps towards the Wall](https://www.youtube.com/shorts/ziGK_klzalE)\n4-5 sets\nrest 1:00",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "r5pboqWEba"
+   ]
+  },
+  {
+   "id": "TlnBlk86LM",
+   "date": "2026-05-24",
+   "display_order": 1,
+   "title": "Metcon",
+   "description": "2 rounds for time of:\n\n1,000-meter row\n50 thrusters\n30 chest-to-bar pull-ups\n\n♀ 45 lb (20 kg)\n♂ 65 lb (29 kg)\n\nTime cap: 25 minutes",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "WABUeIgjQI",
+   "date": "2026-05-24",
+   "display_order": 1779209790113,
+   "title": "Accessory",
+   "description": "3 sets:\n\n10 Cossak Squats with 2 sec hold each Leg @10/8 kg\n5 DB Windmills each arm @10/8 kg\n20 GHD Sit Ups",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "1CJSKQFjaY",
+   "date": "2026-05-25",
+   "display_order": 1,
+   "title": "Clean Prep / Warm up MUST DO",
+   "description": "1) Behind the Neck Trap Smash \n2 sets of 30 sec Work\nrest 1:00\n\n2) Clean Lift Off  \n2 sets of 5 reps @30% of our max clean\nrest 1:00\n\n3) No Feet Clean Pulls:\n2 sets of 5 reps @30% of our max clean\nrest 1:00\n\n4) Muscle Clean:\n2 sets of 5 reps @30% of our max clean\nrest  1:00\n\n5) Tall Squat Clean( pause at the receive, no feet)\n2 sets of 3 reps @30% of our max clean\nrest 1:00\n\n6) Push Press\n2 sets of 3 reps @30% of our max clean\nrest 1:00\n\n7) Tall Jerk\n2 sets of 3 reps @30% of our max clean\nrest 1:00",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "FJKlvxkBYz",
+   "date": "2026-05-25",
+   "display_order": 2,
+   "title": "Behind The Neck Elbow Punch Throughs",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "7SaCWAG8hk",
+   "date": "2026-05-25",
+   "display_order": 3,
+   "title": "Clean Lift Off",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "RBw70tROUA",
+   "date": "2026-05-25",
+   "display_order": 4,
+   "title": "Muscle Clean",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "dHhDwyDpCn",
+   "date": "2026-05-25",
+   "display_order": 5,
+   "title": "Tall Split Jerk",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "7eh7tLMJVG",
+   "date": "2026-05-25",
+   "display_order": 6,
+   "title": "Tall Clean",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "cDAzDcIELw",
+   "date": "2026-05-25",
+   "display_order": 7,
+   "title": "Flat-Footed Snatch & Clean Pulls",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "YvUlDASPDH",
+   "date": "2026-05-25",
+   "display_order": 8,
+   "title": "Clean and Jerk:",
+   "description": "Every 2:30 x 4:\n1 Squat Clean + 2 Split Jerks + 1 Squat Clean + 1 Split Jerk\n@75 - 77%",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "xB6BHoi2Zm",
+   "date": "2026-05-25",
+   "display_order": 9,
+   "title": "Deadlift",
+   "description": "3 sets of 8 reps @60-65%\nrest 2:30",
+   "score_type": "Load",
+   "movement_ids": []
+  },
+  {
+   "id": "NWdUIZMYy1",
+   "date": "2026-05-25",
+   "display_order": 10,
+   "title": "Strict HSPU",
+   "description": "**Option 1:**\nEMOM 6:\n2-8 reps\n\nתנסו לבצע חזרה אחת יותר משבוע שעבר \nלא חייב בכל הדקות - אפשרי דקה כן דקה לא\n\n**Option 2:**\nEMOM 6:\n3-5 Tempo SHSPU\n@3 sec on the way down + fast up\n\n**Option 3:**\nBox Pike Push ups\nEMOM 6:\n3-5 Box Pike Push ups",
+   "score_type": "Reps",
+   "movement_ids": [
+    "aPz3tX2Uwh",
+    "9iu4RgWSgi"
+   ]
+  },
+  {
+   "id": "dyzY4CaPKr",
+   "date": "2026-05-25",
+   "display_order": 11,
+   "title": "METCON",
+   "description": "For Time:\n200 m Run\n10 Burpees Over Wall @120 cm\n200 m Run\n10 Sand Bag Cleans @70/50 kg\n200 m Run\n100 m Sand Bag Bear Hug Carry @70/50 kg\n200 m Run\n10 Sand Bag Cleans @70/50 kg\n200 m Run\n10 Burpees Over Wall @120 cm\n200 m Run\n\nno TC\nyou must finish this shit",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "X1hllr9Hcf",
+   "date": "2026-05-25",
+   "display_order": 12,
+   "title": "Accessory",
+   "description": "3 sets:\n\n12 Skull Crushers\n12 DB Lateral Raises",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "u1v0BeeYpK",
+   "date": "2026-05-25",
+   "display_order": 13,
+   "title": "DB Lateral Raise",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "jXf5TiYFpE",
+   "date": "2026-05-25",
+   "display_order": 14,
+   "title": "DB Skull Crushers",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "84lGUqFiBl",
+   "date": "2026-05-26",
+   "display_order": 1,
+   "title": "Nataly Notes",
+   "description": "שימו לב\nהיום יש לכם 2 אופציות\nאו לתרגל RMU\nאו לעבוד על BMU\n\nכל מי שהיה עושה עבודתBMU - אני שיניתי את התרגילים ואני ממש ממליצה להמשיך אם עדיין אין לכם BMU\n\nבהצלחה",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "crrclsl2LH",
+   "date": "2026-05-26",
+   "display_order": 2,
+   "title": "Snatch Prep / Warm Up  MUST DO",
+   "description": "**1) Strict Muscle Snatch from Hips:**\n2 sets of 5 reps \nRest for 1 min.\n\n**2) Behind The Neck Snatch Grip Sots Press:**\n3 sets of 5 reps @empty bar\nrest 1 min.\n\n**3) Flat Footed Snatch Pull:**\n2 sets pf 3 reps @30% of !RM Snatch\nrest 1 min\n\n**4) Muscle Snatch:**\n2 sets pf 3 reps @30% of !RM Snatch\nrest 1 min\n\n**5) Snatch Balance:**\n3 sets of 3 reps\n\n**6) Pause* Squat Snatch**\n2 sets of 3 reps @30% of !RM Snatch\nrest 1 min\n\n*pause at receive position",
+   "score_type": "Checkbox",
+   "movement_ids": [
+    "V8IKIUyIbF",
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "hordIaFcp4",
+   "date": "2026-05-26",
+   "display_order": 3,
+   "title": "Strict Muscle Snatch f. Hips, Version 1 by Gabrysia Migala",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "GW6eYiHWoG",
+   "date": "2026-05-26",
+   "display_order": 4,
+   "title": "Behind the Neck Snatch Grip Sots Press",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "VEH0FWFsko",
+   "date": "2026-05-26",
+   "display_order": 5,
+   "title": "Flat Footed Snatch Pull",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "etWKX1hsmi",
+   "date": "2026-05-26",
+   "display_order": 6,
+   "title": "Muscle Snatch",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "N0dmp9jfut",
+   "date": "2026-05-26",
+   "display_order": 7,
+   "title": "Paused Squat Snatch",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "krB09SCf3q",
+   "date": "2026-05-26",
+   "display_order": 8,
+   "title": "The Snatch Balance",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "cGiL40orpb",
+   "date": "2026-05-26",
+   "display_order": 9,
+   "title": "Snatch Balance",
+   "description": "Every 2:00 x 4:\n3 reps @55-55-60-65% of Squat Snatch",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "o72lRIHW0b"
+   ]
+  },
+  {
+   "id": "2XmXAOHu8T",
+   "date": "2026-05-26",
+   "display_order": 10,
+   "title": "Squat Snatch with Pauses",
+   "description": "Every 2:00 x 5:\n2 reps\n\nSet 1: 65 %\nSet 2: 65 %\nSet 3: 70%\nSet 4: 70-75%\nSet 5: 75%\n\n\n2 Pauses:\n1 - 2 sec Above the knees\n2 - 2 sec Mid Thigh\n\nתקראו PREPARE בבקשה",
+   "score_type": "Load",
+   "movement_ids": [
+    "Hcl7kgiTPB",
+    "vpJqkEzaNO"
+   ]
+  },
+  {
+   "id": "rrMGQQ1Y6k",
+   "date": "2026-05-26",
+   "display_order": 11,
+   "title": "Ring Muscle UP",
+   "description": "**Option 1:**\n3 sets each set for time:\n\n4/3 RMU\n10 Cal Erg Bike\n3/2 RMU\n8 Cal Erg Bike\n2/1 RMU\n\nrest 2:00 between sets\n\n**Option 2:**\nEMOM 6:\n1-2 RMU\nor \n1 RMU + 2 Toes to Rings ( if you can not link 2 reps yet )",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "u7OsIHRVP3",
+   "date": "2026-05-26",
+   "display_order": 12,
+   "title": "SKILL PRACTICE:",
+   "description": "BMU:\n\nהיי חברים! ברוכים הבאים לפרוגריישן של BMU\nיש לכם 4 שבועות להתנסות בתרגילים ולהשקיע זמן בלהשיג את הסקיל הכל כך נחשק  הזה! \nקחו בבקשה בחשבון שכל חזרות חייבות להיות איכותיות וז התרגול שיקח לכם מינימום חצי שה מהזמן!\nאני ממש ממליצה לצלם את עצמכם כדי לוודא בין הסטים שאתם מבצעים הכל כמו שצריךאתם ממש מוזמנים לשלוח לי סרטונים\n**בבקשה אל תנסו לעשות BMU!!! רק את התרגילים שכתבתי!**\n\n\n1) [Jump into Arch + Hollow:](https://youtu.be/dHs0GwbVIGw?si=2VHBxEd713DqTMzA)\nEvery 20 sec x 7 : \n1 rep\n\n2) [Box Lats to Fly:](https://youtu.be/xkqFC6mU9Ek?si=fnShqzt-2CSFvuwp):\n4 set of 3-4 reps\nrest 1:00\n\nהמטרה היא סוג של להתקע לשניה באוויר תוך כדי קפיצה ולחיצה על הבר\n\n3) [Jump into Hips To Bar:](https://youtu.be/G3MK-AAbkPw?si=IFEYQwQQ2CkI-D58)\nEvery 30 sec x 12:\n1 rep\n\n בהתחלה זהןיהיה  קשה ומוזר אבל אם תמשיכו לתרגל כל שבוע אתם תראו שיפור \nהמטרה היא להגיע הכי גבוה שאפשר עם ידיים כמה שיותר ישרות ושהכתפיים והראש יהיהו מעל הבר\nתנסו לבצע קודם את הכיסא אוויר ואז להקפיץ אץ האגן כמו שהוא עושה בסרטו\n\n4) [lBox Assisted Turnover:](https://youtube.com/shorts/FQeUMLOYVmI?si=i4Aqrihl-MnisJ4P)\n4 sets of 3-4 reps\nest 1:00\n\nאני צריכה שכאן תנסו ממש לחבר את הטראנזישן על הידיים כמעט ישרות! \nזה המשך של תרגיל השני! תלחצו חזק על הבר כדי לעלות למעלה!\nאם מצליח - תורידו גובה של הבוקס",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "n95E79Y6y1",
+   "date": "2026-05-26",
+   "display_order": 13,
+   "title": "Metcon",
+   "description": "5 rounds of:\n\n7 squat snatches @61/43 kg\n3 rope climbs \n\n\nTime cap: 15 minutes",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "QwYwm2d4Y4",
+   "date": "2026-05-26",
+   "display_order": 14,
+   "title": "Accessory",
+   "description": "EMOM 9:\n1: 20 sec Copenghagen Plank R + 20 sec Copenghagen Plank L\n2: 20 sec Hollow Rocks \n3: 30 - 40 sec Chest Supported I Y T",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "SBABgh5BWv",
+   "date": "2026-05-26",
+   "display_order": 15,
+   "title": "Copenhagen Plank",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "UH7r49oUWv",
+   "date": "2026-05-26",
+   "display_order": 16,
+   "title": "Chest Supported IYT",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "3xlUXTBNWh",
+   "date": "2026-05-27",
+   "display_order": 1,
+   "title": "Run",
+   "description": "5 km Run\nTC: 30\n\nאני לא צריכה אתכם מתים היום בבקשה\nתרוצו בקצב נוח ותגבירו בבקשה בקילומטר האחרון\nהמטרה היא להרגיש קצת נפח ולהוריד חלודה",
+   "score_type": "Not Scored",
+   "movement_ids": [
+    "yJIlK7TN6q"
+   ]
+  },
+  {
+   "id": "8ECZ0oMRb2",
+   "date": "2026-05-28",
+   "display_order": 1779210506288,
+   "title": "Front Squat Prep",
+   "description": "Perform 2-3 sets of each exercise as a superset.  \nRest 1:00 between supersets\n\nA) Supported Hip Airplanes:\n5-8 reps each Side\n\nB) Banded Dorsi Flexion\n10 reps each Side\n\nC) Butcher Block Stretch\n45 sec",
+   "score_type": "Checkbox",
+   "movement_ids": []
+  },
+  {
+   "id": "V13w3sGFww",
+   "date": "2026-05-28",
+   "display_order": 1779210506289,
+   "title": "Banded Dorsi Flexion",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "RCtgMC0PkL",
+   "date": "2026-05-28",
+   "display_order": 1779210506290,
+   "title": "Tempo Front Squat",
+   "description": "5 sets of 4 reps  @33X3 ( 3 sec down / 3 sec pause / fast up / 3 sec reset )\n@67-70%\n\nrest 2:30",
+   "score_type": "Load",
+   "movement_ids": [
+    "umWlFaYtSo",
+    "rVoEhtFLNW"
+   ]
+  },
+  {
+   "id": "kZhGJTStPK",
+   "date": "2026-05-28",
+   "display_order": 1779210506291,
+   "title": "Rope Pull ups",
+   "description": "5 sets of 2-3 reps each arm\nHold Last reps for 2 sec at the top of the pull\n\nrest 2:00\n\n( perform 2-3 reps with right arm up and then 2-3 reps with left arm up )",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "EXRiEzvyZv",
+   "date": "2026-05-28",
+   "display_order": 1779210506291.5,
+   "title": "Metcon",
+   "description": "For time:\n\n3 rounds of:\n20 lateral burpee box jump-overs\n10x 7,5 m shuttle runs\nThen, 3 rounds of:\n100 double-unders\n15 m handstand walk\n\n♀ 20-inch box\n♂ 24-inch box\n1 Shiuttle Run = 7,5 + 7,5 m\n\nTime cap: 15 minutes",
+   "score_type": "",
+   "movement_ids": []
+  },
+  {
+   "id": "kC2NeeCmwc",
+   "date": "2026-05-28",
+   "display_order": 1779210506292,
+   "title": "Rope Pull ups",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "vYEQDaGCuM",
+   "date": "2026-05-28",
+   "display_order": 1779210506293,
+   "title": "Pistol Squat",
+   "description": "For Time\n60 reps \n\nTC 6",
+   "score_type": "",
+   "movement_ids": [
+    "hJS94DdaBx"
+   ]
+  },
+  {
+   "id": "lb8GKXVjQR",
+   "date": "2026-05-28",
+   "display_order": 1779210506294,
+   "title": "Accessory",
+   "description": "3 sets:\n12 Dual DB Biceps Curls\n15 DB or Cable Reverse Flyes\n20 Band Hamstring Curls\n\nrest 1:30",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "2iFjAl92b8",
+   "date": "2026-05-28",
+   "display_order": 1779210506295,
+   "title": "Banded Hamstring Curls",
+   "description": "",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  },
+  {
+   "id": "wF7bd2ED4q",
+   "date": "2026-05-29",
+   "display_order": 1779210521052,
+   "title": "Clean and Jerk Waves",
+   "description": "For Time:\n3 Clean and Jerks @70%\n2 Clean and Jerks @75%\n1 Clean and Jerk @80%\n\nrest 2:00\n\nFor Time:\n3 Clean and Jerks @75%\n2 Clean and Jerks @80%\n1 Clean and Jerk @85%\n\nrest 2:00\n\nFor Time:\n3 Clean and Jerks @77%\n2 Clean and Jerks @82%\n1 Clean and Jerk @90%\n\npost loads in comments\n\nאתם יכולים להשתמש בחגורה",
+   "score_type": "",
+   "movement_ids": [
+    "AV3ZJImwt6",
+    "ggQ8RGQz8X"
+   ]
+  },
+  {
+   "id": "p1j8tDTQly",
+   "date": "2026-05-29",
+   "display_order": 1779210521054,
+   "title": "2-2-2-3",
+   "description": "בטח חשבתם ששכחתי \n\n2-2-2-3 mins Work\n1 min Rest\n\n7 Devil Presses @2x22,5/15 kg\n7 BMU\nMax Dual DB Thrusters in remaining Time @2x22,5/15 kg",
+   "score_type": "Reps",
+   "movement_ids": []
+  },
+  {
+   "id": "BUFYkKCxCR",
+   "date": "2026-05-29",
+   "display_order": 1779210521055,
+   "title": "DB Farmer Carry",
+   "description": "400 m Dual DB Farmer Carry For Time\n@2x22,5/15 kg",
+   "score_type": "",
+   "movement_ids": [
+    "bnL0lZR9hT"
+   ]
+  },
+  {
+   "id": "n0BabAWBRR",
+   "date": "2026-05-30",
+   "display_order": 1779541683374,
+   "title": "REST DAY",
+   "description": "לא זזים היום!",
+   "score_type": "Not Scored",
+   "movement_ids": []
+  }
+ ]
+}
