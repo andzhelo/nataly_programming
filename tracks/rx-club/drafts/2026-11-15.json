@@ -1,0 +1,589 @@
+[
+ {
+  "date": "2026-11-15",
+  "title": "Snatch",
+  "source_text": "A. Snatch Prep MUST DO\nA) Snatch Grip OH Elbow Rotations\n20 reps\nB) Snatch Grip Sots Press\n3 sets of 5 reps @empty Bar\nC) Snatch Lift Off:\n2 Sets of 5 reps @30%\nD) No Feet Snatch Pull\n2 Sets of 5 reps @30%\nE) Muscle Snatch\n2 sets of 3 reps @30%\n\nB. Snatch\nWeek 12:\nTake 15 mins and build up to a heavy Squat Snatch single for the day @RPE 8-9\nrest 2:00 between heavy attempts\nתתחילו נמוך ותעלו בהדרגה אם הטכניקה יושבת טוב\nלא רודפים משקלים - רק סינגלים נקיים\n\nC. Snatch Balance\n3 sets of 2 reps @light - moderate\nrest 1:30\nFocus on speed under the bar\n\nD. Metcon\nAMRAP 12:\n6 Power Snatches @42,5/30 kg\n9 Box Jump Overs\n12/10 Cal Echo Bike\n\nE. Accessory\n3-4 Sets:\n10-12 Diamond Push ups\n20 Band Face Pulls\n5-8 Strict Top Half Toes To Bar or Tuck ups\nrest 1:20-2:00",
+  "sections": [
+   {
+    "title": "Snatch Prep MUST DO",
+    "kind": "warmup",
+    "format": "none",
+    "score_type": "checkmark",
+    "athlete_text": "A) Snatch Grip OH Elbow Rotations\n20 reps\nB) Snatch Grip Sots Press\n3 sets of 5 reps @empty Bar\nC) Snatch Lift Off:\n2 Sets of 5 reps @30%\nD) No Feet Snatch Pull\n2 Sets of 5 reps @30%\nE) Muscle Snatch\n2 sets of 3 reps @30%",
+    "items": []
+   },
+   {
+    "title": "Snatch",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Take 15 mins, heavy single for the day @RPE 8-9\nRest 2:00 between heavy attempts\nתתחילו נמוך ותעלו בהדרגה אם הטכניקה יושבת טוב\nלא רודפים משקלים - רק סינגלים נקיים",
+    "items": [
+     {
+      "slug": "snatch",
+      "raw_name": "Squat Snatch",
+      "reps": 1,
+      "reps_text": "1RM of the day"
+     }
+    ]
+   },
+   {
+    "title": "Snatch Balance",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Focus on speed under the bar\nRest 1:30",
+    "items": [
+     {
+      "slug": "snatch-balance",
+      "raw_name": "Snatch Balance",
+      "reps": 2,
+      "reps_text": "3x2",
+      "note": "@light - moderate"
+     }
+    ],
+    "rounds": 3
+   },
+   {
+    "title": "Metcon",
+    "kind": "metcon",
+    "format": "amrap",
+    "score_type": "rounds_reps",
+    "items": [
+     {
+      "slug": "power-snatch",
+      "raw_name": "Power Snatches",
+      "reps": 6,
+      "load_m": 42.5,
+      "load_f": 30,
+      "load_unit": "kg"
+     },
+     {
+      "slug": "box-jump-over",
+      "raw_name": "Box Jump Overs",
+      "reps": 9
+     },
+     {
+      "slug": "bike-erg",
+      "raw_name": "Cal Echo Bike",
+      "cal_m": 12,
+      "cal_f": 10
+     }
+    ],
+    "time_cap_sec": 720
+   },
+   {
+    "title": "Accessory",
+    "kind": "accessory",
+    "format": "rounds",
+    "score_type": "checkmark",
+    "athlete_text": "Rest 1:20-2:00\nStrict Top Half Toes To Bar or Tuck ups",
+    "items": [
+     {
+      "slug": "push-up",
+      "raw_name": "Diamond Push ups",
+      "reps_text": "10-12"
+     },
+     {
+      "slug": "face-pull",
+      "raw_name": "Band Face Pulls",
+      "reps": 20
+     },
+     {
+      "slug": "toes-to-bar",
+      "raw_name": "Strict Top Half Toes To Bar",
+      "reps_text": "5-8"
+     }
+    ],
+    "rounds": 3
+   }
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "title": "Deadlift + Strict Press",
+  "source_text": "A. Deadlift Prep\n2 Rounds:\n10 Cat - Cow\n5 Straight Leg Inchworm Push ups\n10 Good Mornings @empty Bar\n\nB. Deadlift\nWeek 12:\nFind Your True 1RM\nrest 3:00 between heavy attempts\nבהצלחה!\nאפשר חגורה כמובן\n\nC. Strict Press\nWeek 12:\nFind Your True 1RM\nRest: 3:00 !!!\nבהצלחה!\n\nD. Metcon\nFor Time:\n3 Rounds:\n400 m Run\n15 T2B\n12 Alternating DB Snatches @22,5/15 kg\nTC: 14\n*500/400 m Row instead of the run\n\nE. Pendlay Row\n4 Sets of 8-10 reps @moderate - heavy\nrest 2:00 - 2:30\n\nF. DB Lateral Raises\n4 sets of 10-12 reps @moderate weight @RPE 6\nrest 2:00 - 2:30\nאפשרי לבצע בסופרסט עם משיכות",
+  "sections": [
+   {
+    "title": "Deadlift Prep",
+    "kind": "warmup",
+    "format": "rounds",
+    "score_type": "checkmark",
+    "items": [
+     {
+      "slug": "cat-cow",
+      "raw_name": "Cat - Cow",
+      "reps": 10
+     },
+     {
+      "slug": "inchworm",
+      "raw_name": "Straight Leg Inchworm Push ups",
+      "reps": 5
+     },
+     {
+      "slug": "good-morning",
+      "raw_name": "Good Mornings",
+      "reps": 10,
+      "note": "@empty Bar"
+     }
+    ],
+    "rounds": 2
+   },
+   {
+    "title": "Deadlift",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Week 12\nRest 3:00 between heavy attempts\nבהצלחה!\nאפשר חגורה כמובן",
+    "items": [
+     {
+      "slug": "deadlift",
+      "raw_name": "Deadlift",
+      "reps": 1,
+      "reps_text": "1RM"
+     }
+    ]
+   },
+   {
+    "title": "Strict Press",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Week 12\nRest: 3:00 !!!\nבהצלחה!",
+    "items": [
+     {
+      "slug": "strict-press",
+      "raw_name": "Strict Press",
+      "reps": 1,
+      "reps_text": "1RM"
+     }
+    ]
+   },
+   {
+    "title": "Metcon",
+    "kind": "metcon",
+    "format": "for_time",
+    "score_type": "time",
+    "athlete_text": "*500/400 m Row instead of the run",
+    "items": [
+     {
+      "slug": "run",
+      "raw_name": "Run",
+      "distance_m": 400,
+      "distance_f": 400,
+      "distance_unit": "m"
+     },
+     {
+      "slug": "toes-to-bar",
+      "raw_name": "T2B",
+      "reps": 15
+     },
+     {
+      "slug": "dumbbell-snatch",
+      "raw_name": "Alternating DB Snatches",
+      "reps": 12,
+      "load_m": 22.5,
+      "load_f": 15,
+      "load_unit": "kg"
+     }
+    ],
+    "rounds": 3,
+    "time_cap_sec": 840
+   },
+   {
+    "title": "Pendlay Row",
+    "kind": "accessory",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Rest 2:00 - 2:30",
+    "items": [
+     {
+      "slug": "pendlay-row",
+      "raw_name": "Pendlay Row",
+      "reps_text": "8-10",
+      "note": "@moderate - heavy"
+     }
+    ],
+    "rounds": 4
+   },
+   {
+    "title": "DB Lateral Raises",
+    "kind": "accessory",
+    "format": "rounds",
+    "score_type": "load",
+    "athlete_text": "Rest 2:00 - 2:30\nאפשרי לבצע בסופרסט עם משיכות",
+    "items": [
+     {
+      "slug": "lateral-raise",
+      "raw_name": "DB Lateral Raises",
+      "reps_text": "10-12",
+      "note": "@moderate weight @RPE 6"
+     }
+    ],
+    "rounds": 4
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "title": "Clean & Jerk",
+  "source_text": "A. Clean Prep\nA) Butcher Block Stretch\n2 sets of 1:00\nB) Banded Front Rack Opener\n1:00 each side\nC) Wrist Flexion + Extension with Small Plates\n2 sets of 15 reps each\n\nB. Squat Clean + Split Jerk\nWeek 12:\nTake 15 mins and build up to a heavy single of 1 Squat Clean + 1 Split Jerk @RPE 8-9\nrest 2:00 between heavy attempts\nתתחילו נמוך ותעלו בהדרגה אם הטכניקה יושבת טוב\n\nC. Front Squat\n3 sets of 3 reps @75% of the new 1RM\nrest 2:30\nאחרי שבוע של מקסים - נפח קל, מהירות ועומק\n\nD. Strict Ring Dips\n3 sets of 8-12 reps @2-3RIR\nrest 2:30\n\nE. Shoulder PRE-HAB\nA) Incline Chest Supported DB Front Raises\n3-4 sets of 8-12 reps @light weight\nB) Banded Shoulder Extension Pull Downs\n3-4 sets of 12-15 reps\nC) Half Kneeling Banded External Rotation Press:\n3-4 sets of 5-8 reps each side\n\nF. Metcon Optional\nAMRAP 10:\n5 Bar Muscle Ups\n10 Wall Balls @9/6 kg\n30 DU",
+  "sections": [
+   {
+    "title": "Clean Prep",
+    "kind": "warmup",
+    "format": "none",
+    "score_type": "checkmark",
+    "athlete_text": "A) Butcher Block Stretch\n2 sets of 1:00\nB) Banded Front Rack Opener\n1:00 each side\nC) Wrist Flexion + Extension with Small Plates\n2 sets of 15 reps each",
+    "items": []
+   },
+   {
+    "title": "Squat Clean + Split Jerk",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Take 15 mins, heavy single for the day @RPE 8-9\nRest 2:00 between heavy attempts\nתתחילו נמוך ותעלו בהדרגה אם הטכניקה יושבת טוב",
+    "items": [
+     {
+      "slug": "clean-and-jerk",
+      "raw_name": "Squat Clean + Split Jerk",
+      "reps": 1,
+      "reps_text": "1+1"
+     }
+    ]
+   },
+   {
+    "title": "Front Squat",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Of the new 1RM from last week\nRest 2:30\nאחרי שבוע של מקסים - נפח קל, מהירות ועומק",
+    "items": [
+     {
+      "slug": "front-squat",
+      "raw_name": "Front Squat",
+      "reps": 3,
+      "reps_text": "3x3",
+      "load_m": 75,
+      "load_f": 75,
+      "load_unit": "%"
+     }
+    ],
+    "rounds": 3
+   },
+   {
+    "title": "Strict Ring Dips",
+    "kind": "accessory",
+    "format": "rounds",
+    "score_type": "reps",
+    "athlete_text": "@2-3RIR\nRest 2:30",
+    "items": [
+     {
+      "slug": "ring-dip",
+      "raw_name": "Strict Ring Dips",
+      "reps_text": "8-12"
+     }
+    ],
+    "rounds": 3
+   },
+   {
+    "title": "Shoulder PRE-HAB",
+    "kind": "accessory",
+    "format": "none",
+    "score_type": "checkmark",
+    "athlete_text": "A) Incline Chest Supported DB Front Raises\n3-4 sets of 8-12 reps @light weight\nB) Banded Shoulder Extension Pull Downs\n3-4 sets of 12-15 reps\nC) Half Kneeling Banded External Rotation Press:\n3-4 sets of 5-8 reps each side",
+    "items": []
+   },
+   {
+    "title": "Metcon Optional",
+    "kind": "metcon",
+    "format": "amrap",
+    "score_type": "rounds_reps",
+    "items": [
+     {
+      "slug": "bar-muscle-up",
+      "raw_name": "Bar Muscle Ups",
+      "reps": 5
+     },
+     {
+      "slug": "wall-ball",
+      "raw_name": "Wall Balls",
+      "reps": 10,
+      "load_m": 9,
+      "load_f": 6,
+      "load_unit": "kg"
+     },
+     {
+      "slug": "double-under",
+      "raw_name": "DU",
+      "reps": 30
+     }
+    ],
+    "time_cap_sec": 600
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "title": "RECOVERY DAY",
+  "source_text": "A. RECOVERY DAY\nMANDATORY MOBILITY AND SAUNA\nIF YOU WANNA BE STRONG\nTREAT YOURSELF",
+  "sections": [
+   {
+    "title": "RECOVERY DAY",
+    "kind": "cooldown",
+    "format": "none",
+    "score_type": "checkmark",
+    "athlete_text": "MANDATORY MOBILITY AND SAUNA\nIF YOU WANNA BE STRONG\nTREAT YOURSELF",
+    "items": []
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "title": "Bench + Pull-up retest",
+  "source_text": "A. Upper Body Prep\n2 Rounds:\n20 Band Pull Aparts\n10 Scap Push ups\n10 Banded Shoulder Dislocates\n\nB. Bench Press\n**Week 12:**\nFind Your True 1RM\nrest 2:30 - 3:00\nבהצלחה!\n\nC. Strict Pull Ups\nRETEST:\nTrack C:\n1 set of Max Reps Strict Pull ups\nTrack B:\n1 set of Max Reps Strict Pull ups\nTrack A:\nFind your 1RM Weighted Strict Pull up\nrest 3:00 between attempts\nScore: Track C / B - reps. Track A - write the weight in the notes\n\nD. Gymnastics\nEMOM 12:\n1: 8-12 C2B\n2: 45 sec easy Erg Bike\n3: 5-10 m Handstand Walk ( 2 x 5 m )\nחזרות יפות וטכניות בלי מלחמה\n\nE. Accessory\nA) DB Concentration Curls:\n3 sets of 10-12 reps each Arm @light - moderate\nB)Single Arm Overhead Triceps Extension\n3 sets of 10-12 reps each Arm @light - moderate\nC) Banded Russian Twists\n3 sets of 30 sec Each Side",
+  "sections": [
+   {
+    "title": "Upper Body Prep",
+    "kind": "warmup",
+    "format": "rounds",
+    "score_type": "checkmark",
+    "items": [
+     {
+      "slug": "band-pull-apart",
+      "raw_name": "Band Pull Aparts",
+      "reps": 20
+     },
+     {
+      "slug": "push-up",
+      "raw_name": "Scap Push ups",
+      "reps": 10
+     },
+     {
+      "raw_name": "Banded Shoulder Dislocates",
+      "reps": 10
+     }
+    ],
+    "rounds": 2
+   },
+   {
+    "title": "Bench Press",
+    "kind": "strength",
+    "format": "strength",
+    "score_type": "load",
+    "athlete_text": "Week 12\nRest 2:30 - 3:00\nבהצלחה!",
+    "items": [
+     {
+      "slug": "bench-press",
+      "raw_name": "Bench Press",
+      "reps": 1,
+      "reps_text": "1RM"
+     }
+    ]
+   },
+   {
+    "title": "Strict Pull Ups",
+    "kind": "strength",
+    "format": "none",
+    "score_type": "reps",
+    "athlete_text": "Track C / B: 1 set of max reps\nTrack A: 1RM weighted strict pull up, write the weight in the notes\nRest 3:00 between attempts",
+    "items": [
+     {
+      "slug": "strict-pull-up",
+      "raw_name": "Strict Pull ups",
+      "reps_text": "Max reps"
+     }
+    ]
+   },
+   {
+    "title": "Gymnastics",
+    "kind": "skill",
+    "format": "emom",
+    "score_type": "none",
+    "athlete_text": "חזרות יפות וטכניות בלי מלחמה",
+    "items": [
+     {
+      "slug": "chest-to-bar-pull-up",
+      "raw_name": "C2B",
+      "reps_text": "8-12"
+     },
+     {
+      "slug": "bike-erg",
+      "raw_name": "Erg Bike",
+      "reps_text": "45 sec easy"
+     },
+     {
+      "slug": "handstand-walk",
+      "raw_name": "Handstand Walk",
+      "reps_text": "5-10 m"
+     }
+    ],
+    "time_cap_sec": 720,
+    "interval_sec": 60
+   },
+   {
+    "title": "Accessory",
+    "kind": "accessory",
+    "format": "rounds",
+    "score_type": "checkmark",
+    "items": [
+     {
+      "slug": "dumbbell-concentration-curl",
+      "raw_name": "DB Concentration Curls",
+      "reps_text": "10-12",
+      "per_side": true,
+      "note": "@light - moderate"
+     },
+     {
+      "slug": "single-arm-overhead-triceps-extension",
+      "raw_name": "Single Arm Overhead Triceps Extension",
+      "reps_text": "10-12",
+      "per_side": true,
+      "note": "@light - moderate"
+     },
+     {
+      "slug": "banded-russian-twist",
+      "raw_name": "Banded Russian Twists",
+      "reps_text": "0:30",
+      "per_side": true
+     }
+    ],
+    "rounds": 3
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "title": "Partner WOD",
+  "source_text": "A. Warm Up\n3 Rounds:\n200 m Run\n10 Air Squats\n10 Push ups\n5 Inchworms\n\nB. Partner WOD\nIn Pairs:\nFor Time:\n60/50 Cal Row\n50 Wall Balls @9/6 kg\n40 T2B\n30 Power Cleans @60/42,5 kg\n40 T2B\n50 Wall Balls @9/6 kg\n60/50 Cal Row\nTC: 25\nOne works at a time, split the reps as you like\nסוף מחזור - תהנו!\n\nC. Body Armor MUST DO\n3 Sets:\nA) Chest Supported Rear Delt Fly\n12-15 reps @light\nB) Dumbbell Bicep Curl\n10-12 reps\nC) Single Arm Dumbbell Tricep Kickback\n12 reps each arm",
+  "sections": [
+   {
+    "title": "Warm Up",
+    "kind": "warmup",
+    "format": "rounds",
+    "score_type": "checkmark",
+    "items": [
+     {
+      "slug": "run",
+      "raw_name": "Run",
+      "distance_m": 200,
+      "distance_f": 200,
+      "distance_unit": "m"
+     },
+     {
+      "slug": "air-squat",
+      "raw_name": "Air Squats",
+      "reps": 10
+     },
+     {
+      "slug": "push-up",
+      "raw_name": "Push ups",
+      "reps": 10
+     },
+     {
+      "slug": "inchworm",
+      "raw_name": "Inchworms",
+      "reps": 5
+     }
+    ],
+    "rounds": 3
+   },
+   {
+    "title": "Partner WOD",
+    "kind": "metcon",
+    "format": "for_time",
+    "score_type": "time",
+    "athlete_text": "In pairs, one works at a time, split the reps as you like\nסוף מחזור - תהנו!",
+    "items": [
+     {
+      "slug": "row",
+      "raw_name": "Cal Row",
+      "cal_m": 60,
+      "cal_f": 50
+     },
+     {
+      "slug": "wall-ball",
+      "raw_name": "Wall Balls",
+      "reps": 50,
+      "load_m": 9,
+      "load_f": 6,
+      "load_unit": "kg"
+     },
+     {
+      "slug": "toes-to-bar",
+      "raw_name": "T2B",
+      "reps": 40
+     },
+     {
+      "slug": "power-clean",
+      "raw_name": "Power Cleans",
+      "reps": 30,
+      "load_m": 60,
+      "load_f": 42.5,
+      "load_unit": "kg"
+     },
+     {
+      "slug": "toes-to-bar",
+      "raw_name": "T2B",
+      "reps": 40
+     },
+     {
+      "slug": "wall-ball",
+      "raw_name": "Wall Balls",
+      "reps": 50,
+      "load_m": 9,
+      "load_f": 6,
+      "load_unit": "kg"
+     },
+     {
+      "slug": "row",
+      "raw_name": "Cal Row",
+      "cal_m": 60,
+      "cal_f": 50
+     }
+    ],
+    "time_cap_sec": 1500
+   },
+   {
+    "title": "Body Armor MUST DO",
+    "kind": "accessory",
+    "format": "rounds",
+    "score_type": "checkmark",
+    "items": [
+     {
+      "raw_name": "Chest Supported Rear Delt Fly",
+      "reps_text": "12-15",
+      "note": "@light"
+     },
+     {
+      "slug": "dumbbell-curl",
+      "raw_name": "Dumbbell Bicep Curl",
+      "reps_text": "10-12"
+     },
+     {
+      "slug": "triceps-extension",
+      "raw_name": "Single Arm Dumbbell Tricep Kickback",
+      "reps": 12,
+      "per_side": true
+     }
+    ],
+    "rounds": 3
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "title": "REST DAY",
+  "source_text": "A. REST DAY\nFULL REST DAY",
+  "sections": [
+   {
+    "title": "REST DAY",
+    "kind": "cooldown",
+    "format": "none",
+    "score_type": "none",
+    "athlete_text": "FULL REST DAY",
+    "items": []
+   }
+  ]
+ }
+]

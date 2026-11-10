@@ -18,6 +18,21 @@ Scope right now: Eddie (TrainHeroic) and the Rx Club group track (Sinergy).
 - Loads for a group are written `@ 42.5/30 kg` (men/women) inside the text; Sinergy's reader
   understands that. Exercise blocks (`- Name: S x R @ load`) become structured rows.
 
+## Weekly workflow (Rx Club → Sinergy)
+
+1. Read `gym.md` and the last 4–6 files in `tracks/rx-club/weeks/`, and find where the cycle is
+   ("Week N:" on the lifts). Keep Nataly's week shape: Sun snatch, Mon/Tue deadlift-press-squat,
+   Wed recovery, Thu back squat + gymnastics + bench + pull-ups, Fri clean + intervals/partner, Sat rest;
+   her prep blocks and accessories repeat, metcons are new each week.
+2. Draft the week as `tracks/rx-club/drafts/<sunday>.py` (copy the last one): each part has its
+   text as Nataly writes it, the athlete's notes, kind/format/score and rows with Sinergy movement
+   slugs. Running it writes `weeks/<sunday>.md` (status `draft`) and `drafts/<sunday>.json`.
+3. Show Nataly the week file; apply her corrections in the `.py` and run it again.
+4. In the sinergy repo: `scripts/days-to-sql --json ../nataly_programming/tracks/rx-club/drafts/<sunday>.json
+   --draft --from <sun> --to <sat> --out supabase/oneoff/rx-club-<sunday>.sql`, run it on the local
+   stack first, then the owner runs it on prod with psql. Days land UNPUBLISHED; Nataly publishes
+   in the console. No Sinergy AI read is used (the structure is written in step 2).
+
 ## Layout
 
 - `gym.md` — equipment and loading constraints that apply to every athlete.
